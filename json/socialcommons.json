@@ -52286,6 +52286,64 @@
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             }
+          },
+          {
+            "edit-time": 1619641893909,
+            "children": [
+              {
+                "string": "there is a #dilemma in regards the ability to track change atomically at a single page level vs at the graph level (this page and daily notes)",
+                "create-time": 1619639920025,
+                ":block/refs": [
+                  {
+                    ":block/uid": "5kgo8QArt"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "5kgo8QArt"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "x7U7kvlBz",
+                "edit-time": 1619639969695,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ZuxcbnfVv"
+              },
+              {
+                "uid": "VUT7igC8h"
+              },
+              {
+                "uid": "j9D4jyyud"
+              }
+            ],
+            "uid": "RAIDCc8Mh",
+            ":block/refs": [
+              {
+                ":block/uid": "ZuxcbnfVv"
+              },
+              {
+                ":block/uid": "VUT7igC8h"
+              },
+              {
+                ":block/uid": "j9D4jyyud"
+              }
+            ],
+            "string": "{{[[TODO]]}} confirm [[partnership schema]] (above, maintained, group/partner memory) vs [[temporal blocks]] (below, based on point in time - arguably could be moved to Daily Notes) ",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1619639446583,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
           }
         ],
         "uid": "hesd9D0sj",
@@ -52307,1279 +52365,139 @@
         }
       },
       {
-        "edit-time": 1619640605641,
-        "children": [
-          {
-            "string": "there is a #dilemma in regards the ability to track change atomically at a single page level vs at the graph level (this page and daily notes)",
-            "create-time": 1619639920025,
-            ":block/refs": [
-              {
-                ":block/uid": "5kgo8QArt"
-              }
-            ],
-            "refs": [
-              {
-                "uid": "5kgo8QArt"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            },
-            "uid": "x7U7kvlBz",
-            "edit-time": 1619639969695,
-            ":edit/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            }
-          }
-        ],
-        "refs": [
-          {
-            "uid": "ZuxcbnfVv"
-          },
-          {
-            "uid": "la6t_G3Sz"
-          },
-          {
-            "uid": "VUT7igC8h"
-          }
-        ],
-        "uid": "RAIDCc8Mh",
-        ":block/refs": [
-          {
-            ":block/uid": "ZuxcbnfVv"
-          },
-          {
-            ":block/uid": "la6t_G3Sz"
-          },
-          {
-            ":block/uid": "VUT7igC8h"
-          }
-        ],
-        "string": "{{[[TODO]]}} clarify what are [[foundational blocks]] (above, maintained, group/partner memory) vs [[temporal blocks]] (below, based on point in time - arguably could be moved to Daily Notes) ",
-        ":create/user": {
-          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-        },
-        "create-time": 1619639446583,
-        ":edit/user": {
-          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-        }
-      },
-      {
         "string": "journal",
         "create-time": 1619640341991,
-        "uid": "T5YHQldbh",
-        "edit-time": 1619641817058,
         ":create/user": {
           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
         },
-        ":edit/user": {
-          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-        }
-      },
-      {
-        "edit-time": 1619640162394,
         "children": [
           {
-            "string": "((aZQKDqgn9))",
-            "create-time": 1619640843058,
-            ":block/refs": [
+            "edit-time": 1619640162394,
+            "children": [
               {
-                ":block/uid": "aZQKDqgn9"
+                "string": "((aZQKDqgn9))",
+                "create-time": 1619640843058,
+                ":block/refs": [
+                  {
+                    ":block/uid": "aZQKDqgn9"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "aZQKDqgn9"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "IynAEcZeK",
+                "edit-time": 1619640844197,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "((_6FhPkjkR))",
+                "create-time": 1619640817887,
+                ":block/refs": [
+                  {
+                    ":block/uid": "_6FhPkjkR"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "_6FhPkjkR"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "VgDoxtIi4",
+                "edit-time": 1619640821059,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
               }
             ],
             "refs": [
               {
-                "uid": "aZQKDqgn9"
+                "uid": "04-28-2021"
               }
             ],
+            "uid": "RvwdVjVD1",
+            ":block/refs": [
+              {
+                ":block/uid": "04-28-2021"
+              }
+            ],
+            "string": "[[April 28th, 2021]]",
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
-            "uid": "IynAEcZeK",
-            "edit-time": 1619640844197,
+            "create-time": 1619639972383,
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             }
           },
           {
-            "string": "((_6FhPkjkR))",
-            "create-time": 1619640817887,
-            ":block/refs": [
-              {
-                ":block/uid": "_6FhPkjkR"
-              }
-            ],
-            "refs": [
-              {
-                "uid": "_6FhPkjkR"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            },
-            "uid": "VgDoxtIi4",
-            "edit-time": 1619640821059,
-            ":edit/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            }
-          }
-        ],
-        "refs": [
-          {
-            "uid": "04-28-2021"
-          }
-        ],
-        "uid": "RvwdVjVD1",
-        ":block/refs": [
-          {
-            ":block/uid": "04-28-2021"
-          }
-        ],
-        "string": "[[April 28th, 2021]]",
-        ":create/user": {
-          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-        },
-        "create-time": 1619639972383,
-        ":edit/user": {
-          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-        }
-      },
-      {
-        "edit-time": 1619555960665,
-        "children": [
-          {
-            "string": "key changes",
-            "create-time": 1619552888664,
-            ":create/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            },
+            "edit-time": 1619555960665,
             "children": [
               {
-                "edit-time": 1619553327532,
-                "children": [
-                  {
-                    "string": "in particular, what it is going to take to enable a [[resource-based economy]]?",
-                    "create-time": 1619553328729,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "o7vRRLnpi"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "o7vRRLnpi"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    "uid": "EMxmbnxYV",
-                    "edit-time": 1619568615826,
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "#inquiry is [[universal basic income]] just another system inside our capitalistic market-driven economy?",
-                    "create-time": 1619553355365,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "5-hjHKbDW"
-                      },
-                      {
-                        ":block/uid": "1lwupOq6g"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "5-hjHKbDW"
-                      },
-                      {
-                        "uid": "1lwupOq6g"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    "uid": "7TffPST2y",
-                    "edit-time": 1619553384772,
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "SyI6Tm5cV"
-                  }
-                ],
-                "uid": "iLFuWeYhw",
-                ":block/refs": [
-                  {
-                    ":block/uid": "SyI6Tm5cV"
-                  }
-                ],
-                "string": "focus on enabling systemic change for [[global transformation]]",
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                "create-time": 1619553309741,
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              },
-              {
-                "string": "deprioritization of email, text, mobile",
-                "create-time": 1619552891372,
+                "string": "key changes",
+                "create-time": 1619552888664,
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
                 "children": [
                   {
-                    "string": "((Ut3XTrX2x))",
-                    "create-time": 1619565744670,
-                    "uid": "Wojv8qbcv",
-                    "edit-time": 1619565748332,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "((A4oXMz9N4))",
-                    "create-time": 1619566632114,
-                    "uid": "T-n6LgInu",
-                    "edit-time": 1619566633224,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  }
-                ],
-                "uid": "XQtSPABo-",
-                "edit-time": 1619552926456,
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              },
-              {
-                "string": "prioritization of landline",
-                "create-time": 1619552926607,
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                "children": [
-                  {
-                    "string": "{{[[TODO]]}} exchange landline numbers",
-                    "create-time": 1619552934700,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "ZuxcbnfVv"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "ZuxcbnfVv"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    "uid": "Nr3TOUF4M",
-                    "edit-time": 1619552978168,
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  }
-                ],
-                "uid": "uijC1e3IS",
-                "edit-time": 1619552933197,
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              },
-              {
-                "string": "focus on public group context/shares on and offline",
-                "create-time": 1619552978723,
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                "children": [
-                  {
-                    "string": "public blogs, public graphs, Slack, online discussion forums, large format seminars (80+), office hours",
-                    "create-time": 1619553041436,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
+                    "edit-time": 1619553327532,
                     "children": [
                       {
-                        "string": "attempt to be in Roam Slack once/week - Zoom and office hours take priority",
-                        "create-time": 1619554269493,
-                        "uid": "D2jxllHdM",
-                        "edit-time": 1619554284851,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      }
-                    ],
-                    "uid": "hWmRx4OQV",
-                    "edit-time": 1619553106795,
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "eventually dance events",
-                    "create-time": 1619553106782,
-                    "uid": "5F1Q03-AZ",
-                    "edit-time": 1619553110423,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "possibly grow into YouTube, Stereo, Clubhouse (Icebreaker experience is possible impediment)",
-                    "create-time": 1619553110420,
-                    "uid": "y2EsyCGMJ",
-                    "edit-time": 1619553141479,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "Twitter is out there (at the risk of noise)",
-                    "create-time": 1619553219174,
-                    "uid": "woO_fI32E",
-                    "edit-time": 1619553227393,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "Facebook fan page(s) are a possibility",
-                    "create-time": 1619553232262,
-                    "uid": "VMa8jWNx6",
-                    "edit-time": 1619553256512,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "LinkedIn is also a possibility",
-                    "create-time": 1619553262018,
-                    "uid": "AfvJ4HgKa",
-                    "edit-time": 1619553270531,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  }
-                ],
-                "uid": "viejYE8G9",
-                "edit-time": 1619553039432,
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              },
-              {
-                "edit-time": 1619562535483,
-                "children": [
-                  {
-                    "edit-time": 1619640084104,
-                    "children": [
-                      {
-                        "string": "what kinds of things is he good at explaining?",
-                        "create-time": 1619553197176,
-                        "uid": "i6IjTLcZz",
-                        "edit-time": 1619553211806,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "2ompgu8xt"
-                      },
-                      {
-                        "uid": "ZuxcbnfVv"
-                      },
-                      {
-                        "uid": "puB_wMYIa"
-                      }
-                    ],
-                    "uid": "YRWXPBpCl",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "2ompgu8xt"
-                      },
-                      {
-                        ":block/uid": "ZuxcbnfVv"
-                      },
-                      {
-                        ":block/uid": "puB_wMYIa"
-                      }
-                    ],
-                    "string": "{{[[TODO]]}} how can [[Chinarut 🦥]] complement [[Joel Chan]] in leading the group?",
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    "create-time": 1619553183272,
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "5tOCpaLFR"
-                  }
-                ],
-                "uid": "TiBoJQI-i",
-                ":block/refs": [
-                  {
-                    ":block/uid": "5tOCpaLFR"
-                  }
-                ],
-                "string": "co-facilitation with partner as primary lead and focusing on [[removing gaps]] in end-user experience",
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                "create-time": 1619553145419,
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              },
-              {
-                "string": "((1W2A4K4d3))",
-                "create-time": 1619555691834,
-                "uid": "o5uZ3xKiI",
-                "edit-time": 1619555694029,
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              }
-            ],
-            "uid": "U6by9VXAi",
-            "edit-time": 1619552891388,
-            ":edit/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            }
-          },
-          {
-            "edit-time": 1619555830053,
-            "children": [
-              {
-                "edit-time": 1619557029500,
-                "children": [
-                  {
-                    "string": "Please excuse the long absence - my 10d meditation retreat I was scheduled to attend 12/23-1/3 was canceled due to covid and used the time the best I could to reflect and rearrange my foundation.  I am in the process of packing up my apt in SF and transitioning back to SoCal. I have to make my last trip next week and I'll be more settled here mid to late Feb.",
-                    "create-time": 1619557030333,
-                    "uid": "eG8-L-K5A",
-                    "edit-time": 1619557030333,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "**(0) coordinating**",
-                    "create-time": 1619557030333,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    "children": [
-                      {
-                        "string": "if you don't mind using the old fashioned phone, I can be reached at 310-751-0412. You are welcome to text/call anytime - afternoons (PST) tend to work well for me in general.  of course, if we end up playing too much phone tag, we can schedule forward.",
-                        "create-time": 1619557030333,
-                        "uid": "4cpuoRftD",
-                        "edit-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      },
-                      {
-                        "string": "One caveat re: # above is it is a Google Voice # and the voice quality has gotten quite poor in the last few months - we may need to switch to my direct line or another medium (eg. FaceTime audio/video)",
-                        "create-time": 1619557030333,
-                        "uid": "NwEXXyA-p",
-                        "edit-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      },
-                      {
-                        "string": "Might you have block of hours (akin to office hours you set aside for your students) I could possibly earmark every week?   The idea is I could try to reach you during this block and if you’re available you’re available, if you’re not you’re not.",
-                        "create-time": 1619557030333,
-                        "uid": "iTlP4VGYh",
-                        "edit-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      },
-                      {
-                        "string": "It’s been on my agenda to create a new Calend.ly with my “office hours” and willing to start with blocks that work for you.  The upside is we can both be available for blocks for group discussions with others.",
-                        "create-time": 1619557030333,
-                        "uid": "8eJWKXoL4",
-                        "edit-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      },
-                      {
-                        "string": "I do have a request we err on “less meetings,” focus on online collaboration as much as possible (I will admit email breaks down for me and more on this later) until thresholds (aka miscommunication) gets hit.  This is an art, so I’m open to ideas - it’s been 3 or 4 months since our first zoom and I would love to hear what prompted you to feel it was time be get back on a zoom last month if it wasn’t more than just spidey-sense :)",
-                        "create-time": 1619557030333,
-                        "uid": "SDw58NBf2",
-                        "edit-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      }
-                    ],
-                    "uid": "Ut3XTrX2x",
-                    "edit-time": 1619557030333,
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "**(1) roam-medical**",
-                    "create-time": 1619557030333,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    "children": [
-                      {
-                        "string": "I just took a look at the way you’ve set up the space for this project and find the [Working Synthesis](https://roamresearch.com/#/app/joel-covid19/page/rdwtLbFSb) page quite fascinating! While some of it goes over my head, I passed it onto my little brother who is in psychiatry.  I like that you’ve managed to dive into the clinical side of things and dovetailing it with roam and zettling!  More on bioinformatics later.",
-                        "create-time": 1619557030333,
-                        "uid": "85TZZuYOx",
-                        "edit-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      },
-                      {
-                        "string": "It's in my queue to catch up with your zoom recording and take a look at one of the papers mentioned.  Have you, Matt, and Bradon had an opportunity to discuss how conversations might work in our graph?",
-                        "create-time": 1619557030333,
-                        "uid": "96Fv2McZs",
-                        "edit-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      },
-                      {
-                        "string": "I look forward to hearing Matt and Brandon’s input.  I wholeheartedly am a fan of experiencing the growing pains of conversation in Roam (yes, it was painful as it was at times in book club - you probably aren’t even aware I responded to some of your input!) with an intent to “figure it out” (or at the very least, create enough groundswell to make feature requests) - my biggest concern is the longtail game and how conversations connect across graphs.",
-                        "create-time": 1619557030333,
-                        "uid": "2Ws8xDlos",
-                        "edit-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      },
-                      {
-                        "string": "I think if we focus on our process for Zettling, and we center our conversations around collective zettling, we will make good progress and get away from the details and the original sources.",
-                        "create-time": 1619557030333,
-                        "uid": "JpSY-DyKj",
-                        "edit-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      },
-                      {
-                        "string": "I’m happy to lead any part of the above in the graph you created (do point out if anything I’ve shared has particular value to the group) and at the same time, I do feel I need space to focus on zettling one of the research papers and helping model how our group might develop conversations around zettels we create from our respective papers we read.",
-                        "create-time": 1619557030333,
-                        "uid": "3ASsP-rLR",
-                        "edit-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      }
-                    ],
-                    "uid": "ac4ASgUyg",
-                    "edit-time": 1619557030333,
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "**(2) Icebreaker / getting related**",
-                    "create-time": 1619557030333,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    "children": [
-                      {
-                        "string": "Just FYI - I co-host Icebreakers (icebreaker.video) the 2nd sat of every month in an attempt to keep one of my communities in the SF bay area afloat during a time we cannot gather and dance.  It dawned on me in Dec I needed to start aligning research in wellbeing with my commitment to community - I proposed to lead conversations for wellbeing the next 5-6 months with one of the co-founders and peers.",
-                        "create-time": 1619557030333,
-                        "uid": "WEi7snMbq",
-                        "edit-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      },
-                      {
-                        "string": "I had meant to extend the invite to join on the 9th so you could get a sense of what the platform is capable of.  I'll be going through each of the 5 elements of wellbeing as themes for the next 5 months (Feb-June) and a wrap up in July.  The kickoff on the 9th went well and I bring all this up because (1) you’re always welcome to attend (even for 10 minutes) and (2) perhaps our group could design some questions/prompts consistent with roam-medical and break some ice amongst participants (as I personally don’t recognize everyone's names!)",
-                        "create-time": 1619557030333,
-                        "uid": "YZyxgYtT6",
-                        "edit-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      },
-                      {
-                        "string": "Just putting the idea out there and the role I need to play is more a supportive role in guiding someone through the process.",
-                        "create-time": 1619557030333,
-                        "uid": "KTVqIaIOt",
-                        "edit-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      }
-                    ],
-                    "uid": "9vaL3qVJJ",
-                    "edit-time": 1619557030333,
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "**(3) home automation**",
-                    "create-time": 1619557030333,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    "children": [
-                      {
-                        "string": "returning to my parent's home tends to be a marathon attending to home improvement projects for 2-3 weeks.  this trip was no exception and didn't expect it to be an opportunity to get acquainted with the home automation world both corporate and open source - have you dabbled any yourself?",
-                        "create-time": 1619557030333,
-                        "uid": "EFtJGhwCb",
-                        "edit-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      },
-                      {
-                        "string": "I now understand why I saw an effort at CMU to transform the experience of administering IoT devices - the ecosystem is a mess (aka. beyond fragmented) and glad to see the open source efforts are more mature than I anticipated (jury is still out as it requires open source firmware (Tasmota) which I have not invested in yet!)",
-                        "create-time": 1619557030333,
-                        "uid": "EzRCnsRyx",
-                        "edit-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      },
-                      {
-                        "string": "I won't get into too much on this front and it's where a lionshare of my time went this month leading into helping my parents replace their entire HVAC system (which was an exercise in contractor evaluation in itself!)",
-                        "create-time": 1619557030333,
-                        "uid": "xTyZDJaew",
-                        "edit-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      },
-                      {
-                        "string": "HVAC aside, I do find the home automation world a fascinating exercise in synthesis (hardware, software, networks, low-power systems, sheer scale, mass market, automation, AI, etc) and be curious to hear how home automation has shown up in your work (if at all)!",
-                        "create-time": 1619557030333,
-                        "uid": "FGrkDGOGT",
-                        "edit-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      },
-                      {
-                        "string": "I have to admit, this was quite the 2 week rabbit hole - not for the faint-hearted :)",
-                        "create-time": 1619557030333,
-                        "uid": "l2WAsfIfi",
-                        "edit-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      }
-                    ],
-                    "uid": "NAuTbUAs_",
-                    "edit-time": 1619557030333,
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "**(4) PT income**",
-                    "create-time": 1619557030333,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    "children": [
-                      {
-                        "string": "I am still sorting this out - part of the reason I'm returning to SoCal is to reduce my burnrate significantly. Another part of the reason is enlisting my folks on what it means to be a researcher :)  infrastructure down here is much more stable (and kinder to my wellbeing) which will help support continued remote work at least for the first few months of 2021.",
-                        "create-time": 1619557030333,
-                        "uid": "lt9n8_90-",
-                        "edit-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      }
-                    ],
-                    "uid": "9460PMHDq",
-                    "edit-time": 1619557030333,
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "**(5) open source meets nostalgia**",
-                    "create-time": 1619557030333,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    "children": [
-                      {
-                        "string": "while I won't get into details now - my first breakthrough with Roam is discovering how to synthesize and develop my [[open source]] page (I erred on daily pages for more than 2 months).  it's a neat process balancing literal page references to [[open source]] and unlinked references which led to surprising connections and thoughts!  but I'm speaking to the preacher :)",
-                        "create-time": 1619557030333,
+                        "string": "in particular, what it is going to take to enable a [[resource-based economy]]?",
+                        "create-time": 1619553328729,
                         ":block/refs": [
                           {
-                            ":block/uid": "Uswfljxgn"
+                            ":block/uid": "o7vRRLnpi"
                           }
                         ],
                         "refs": [
                           {
-                            "uid": "Uswfljxgn"
+                            "uid": "o7vRRLnpi"
                           }
                         ],
                         ":create/user": {
                           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                         },
-                        "uid": "9IxJJuvPn",
-                        "edit-time": 1619557030333,
+                        "uid": "EMxmbnxYV",
+                        "edit-time": 1619568615826,
                         ":edit/user": {
                           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                         }
                       },
                       {
-                        "string": "point being, my perspectives on open source, the literature around what is garnered around how open source is developed I feel has parallels to peer-to-peer production of content/knowledge.",
-                        "create-time": 1619557030333,
-                        "uid": "s1eBOgo6_",
-                        "edit-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      },
-                      {
-                        "string": "that said, I'm also finding open source projects I wish to refine the user experience and HCI is becoming that much clearer in my world thanks to emulators and frameworks like RetroArch (dunno if you are into video games at all? I’m pretty retro :)  Even seeing the Color Computer 3 I was gifted when I was 8 boot up and load a program I wrote and got published for load off a virtual 5.25” disk was pretty trippy to be honest!",
-                        "create-time": 1619557030333,
-                        "uid": "vgSmG3_T6",
-                        "edit-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      }
-                    ],
-                    "uid": "Wt8g4mQey",
-                    "edit-time": 1619557030333,
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "**(6) U of Washington & bioinformatics**",
-                    "create-time": 1619557030333,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    "children": [
-                      {
-                        "string": "I still have to complete the study design paper you advised me to read!",
-                        "create-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        "children": [
+                        "string": "#inquiry is [[universal basic income]] just another system inside our capitalistic market-driven economy?",
+                        "create-time": 1619553355365,
+                        ":block/refs": [
                           {
-                            "string": "((lQHwfqQTr))",
-                            "create-time": 1619566322253,
-                            "uid": "cF9tJU7zU",
-                            "edit-time": 1619566334350,
-                            ":create/user": {
-                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                            }
-                          }
-                        ],
-                        "uid": "j_V0sCdcC",
-                        "edit-time": 1619557030333,
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      },
-                      {
-                        "string": "I had no idea UW had leadership in bioinformatics - are you acquainted with[ Wanda Pratt](https://ischool.uw.edu/people/faculty/profile/wpratt)'s work?  I feel she is someone we should both be collaborating with.",
-                        "create-time": 1619557030333,
-                        "uid": "U8dT_Zcqz",
-                        "edit-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      },
-                      {
-                        "string": "I have not yet found the cycles to explore what research in[ bioinformatics at UMD](https://www.cs.umd.edu/research-area/bioinformatics-and-computational-biology) and perhaps you might be able to enlighten me given I can see myself zettling at least 30 of Wanda's papers - these are the themes that sound fascinating to me:  nuances behind a \"health commons\", the quantified-self, mentor matching, expert identification (both peer and clinician contexts) and she has been willing to dive into more progressive areas like the use of video games, study of non-verbal communication and interpretation of emojis in the context of wellbeing!",
-                        "create-time": 1619557030333,
-                        "uid": "3H-dhhvXv",
-                        "edit-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      },
-                      {
-                        "string": "I'm wondering if by chance there is a bridge that can be drawn/created from your dept to bioinformatics that perhaps has not been erected yet?  This would be a wonderful space to work in with you.",
-                        "create-time": 1619557030333,
-                        "uid": "0l1g2CB_5",
-                        "edit-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      }
-                    ],
-                    "uid": "5rSgxzG9K",
-                    "edit-time": 1619557030333,
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "**(7) Soren**",
-                    "create-time": 1619557030333,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    "children": [
-                      {
-                        "string": "I'm wondering if you've progressed with your chats with Soren?  He agreed to take a look at the very early \"manuscript\" that came out of transforming his book into zettels after the holidays.  I feel what I drafted is How to Take Smart Notes in the context of a wellbeing commons.  So I am particularly trying to best understand how to best cite his work when I feel I am projecting and shifting his book into a specific domain or focus",
-                        "create-time": 1619557030333,
-                        "uid": "heNa6iwbf",
-                        "edit-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      }
-                    ],
-                    "uid": "DuMDPCkry",
-                    "edit-time": 1619557030333,
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "**(8) email vs Slack vs video**",
-                    "create-time": 1619557030333,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    "children": [
-                      {
-                        "string": "**email** - just so you are aware, I continue to question the use of email. Email and social media (Facebook) fall out of existence when I get into the flow state",
-                        "create-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        "children": [
+                            ":block/uid": "5-hjHKbDW"
+                          },
                           {
-                            "string": "When I am in a flow state, email is dominated by tech support cases to support whatever it is I am attempting to accomplish.",
-                            "create-time": 1619557030333,
-                            "uid": "_nCsbQ9Gc",
-                            "edit-time": 1619557030333,
-                            ":create/user": {
-                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                            }
+                            ":block/uid": "1lwupOq6g"
                           }
                         ],
-                        "uid": "3Z4Bc1wf3",
-                        "edit-time": 1619557030333,
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      },
-                      {
-                        "string": "**Slack** - while I, too, hate the 10k message limit, I think Slack might be a better mechanism, I am still experimenting with @mentions - so please do make use if it if you’d like to rope me in!",
-                        "create-time": 1619557030333,
-                        "uid": "bU5O-_8GA",
-                        "edit-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      },
-                      {
-                        "string": "**phone/Zoom/FaceTime** -  I have no qualms organizing my thoughts in this manner (this doc) despite it taking some concerted effort and focus.",
-                        "create-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        "children": [
+                        "refs": [
                           {
-                            "string": "I’d say lets knock off as many items here in the document as possible and leave the juicier items for a real-time conversation and/or zoom",
-                            "create-time": 1619557030333,
-                            "uid": "XliaWNIzB",
-                            "edit-time": 1619557030333,
-                            ":create/user": {
-                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                            }
-                          }
-                        ],
-                        "uid": "FnLQTWnNd",
-                        "edit-time": 1619557030333,
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      }
-                    ],
-                    "uid": "A4oXMz9N4",
-                    "edit-time": 1619557030333,
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "**(9) disruption**",
-                    "create-time": 1619557030333,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    "children": [
-                      {
-                        "string": "While I don’t have a lot to elaborate at the moment, I do notice my tendency to find excuses to disrupt myself as it creates new ideas, innovation, brings unintended things together",
-                        "create-time": 1619557030333,
-                        "uid": "5ncjGsJym",
-                        "edit-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      },
-                      {
-                        "string": "So please don’t hesitate to let me know if any of my mad scientist ways ever gets in the way of our interactions - i hope to think I’m doing all this for the greater good :)",
-                        "create-time": 1619557030333,
-                        "uid": "67Ny-5mB4",
-                        "edit-time": 1619557030333,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      }
-                    ],
-                    "uid": "8ruoqTKR4",
-                    "edit-time": 1619557030333,
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "XED7uiC5c"
-                  }
-                ],
-                "uid": "7qJ28TKyU",
-                ":block/refs": [
-                  {
-                    ":block/uid": "XED7uiC5c"
-                  }
-                ],
-                "string": "Not sure how this works (don't' seem to have a link to [the actual Doc](https://docs.google.com/document/d/1vxpTI3VmfzMiPxvQ_igdnuEI9BarkA3usvJblVznIvw/edit)) but I wanted to reply after a long absence. [[Joel x Chinarut]]",
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                "create-time": 1619556950933,
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              },
-              {
-                "string": "I mainly want to give an **update on PhD admissions**. Unfortunately we weren't able to put you on the list of admits.",
-                "create-time": 1619566921491,
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                "children": [
-                  {
-                    "string": "The main reason is that we got an extraordinarily competitive and large pool of applicants this year (~3X our usual haul, and 2X as strong; probably partly a function of the pandemic and a new influx of faculty?).",
-                    "create-time": 1619566924808,
-                    "uid": "Gv1BAhbPo",
-                    "edit-time": 1619566924808,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "I still find your chosen problem compelling, but ^^there are still questions about whether this is best done in the context of a PhD^^ (vs. say, working on it in a nonprofit or other model).",
-                    "create-time": 1619566943066,
-                    "uid": "JjaA67kMZ",
-                    "edit-time": 1619566943066,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "I suspect you also have questions about this, and would be glad to talk through them, asynchronously or otherwise: not all problems need to be approached from the standpoint of research!",
-                    "create-time": 1619566943074,
-                    "uid": "IC8zF-zuU",
-                    "edit-time": 1619566943074,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  }
-                ],
-                "uid": "6GQ8ITmJT",
-                "edit-time": 1619566921491,
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              },
-              {
-                "string": "I know this is a disappointing outcome (it is to me as well! really enjoyed our discussions and think you have a lot of potential), but I hope this provides some context for the decision.",
-                "create-time": 1619556937133,
-                "uid": "XdHzGJULI",
-                "edit-time": 1619556937133,
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              },
-              {
-                "string": "I am of course still open to continuing discussions, although I think the current pace of responding will be about right, unless there is some critical time-sensitive opportunity that aligns with my research critical paths.",
-                "create-time": 1619567011853,
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                "children": [
-                  {
-                    "string": "For instance, if you wanted to get a group of people together to prototype a wellbeing commons that deeply integrated with research literature, that would be of great interest to me.",
-                    "create-time": 1619567011860,
-                    "uid": "bACYSiyHs",
-                    "edit-time": 1619567011860,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  }
-                ],
-                "uid": "VnnaiNw-I",
-                "edit-time": 1619567011853,
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              },
-              {
-                "string": "I appreciate your energy and enthusiasm, as always, and hope we can continue corresponding!",
-                "create-time": 1619556937133,
-                "uid": "gVb0AzzKs",
-                "edit-time": 1619556937133,
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              }
-            ],
-            "refs": [
-              {
-                "uid": "7tw-nnxEs"
-              }
-            ],
-            "uid": "-1JXL9ZjN",
-            ":block/refs": [
-              {
-                ":block/uid": "7tw-nnxEs"
-              }
-            ],
-            "string": "((wQHvl1eZI)) {{[[POMO]]: 25}}",
-            ":block/props": {
-              ":POMO": 1619567136109
-            },
-            ":create/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            },
-            "create-time": 1619545875425,
-            ":edit/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            },
-            "props": {
-              "POMO": 1619567136109
-            }
-          },
-          {
-            "string": "past action items",
-            "create-time": 1619555056324,
-            ":create/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            },
-            "children": [
-              {
-                "edit-time": 1619552431831,
-                "children": [
-                  {
-                    "edit-time": 1619547369510,
-                    "children": [
-                      {
-                        "string": "((L0mCeR9G2))",
-                        "create-time": 1619552410089,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        "children": [
+                            "uid": "5-hjHKbDW"
+                          },
                           {
-                            "string": "filled out form and never got a response in regards to next steps (as of [[April 18th, 2021]])",
-                            "create-time": 1619547369563,
-                            ":block/refs": [
-                              {
-                                ":block/uid": "04-18-2021"
-                              }
-                            ],
-                            "refs": [
-                              {
-                                "uid": "04-18-2021"
-                              }
-                            ],
-                            ":create/user": {
-                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                            },
-                            "uid": "VLwx1ODxq",
-                            "edit-time": 1619547401664,
-                            ":edit/user": {
-                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                            }
+                            "uid": "1lwupOq6g"
                           }
                         ],
-                        "uid": "WmnuB0T8f",
-                        "edit-time": 1619552411505,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "uid": "7TffPST2y",
+                        "edit-time": 1619553384772,
                         ":edit/user": {
                           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                         }
@@ -53587,75 +52505,997 @@
                     ],
                     "refs": [
                       {
-                        "uid": "5kjp3kq7U"
+                        "uid": "SyI6Tm5cV"
                       }
                     ],
-                    "uid": "0kl4wS6LT",
+                    "uid": "iLFuWeYhw",
                     ":block/refs": [
                       {
-                        ":block/uid": "5kjp3kq7U"
+                        ":block/uid": "SyI6Tm5cV"
                       }
                     ],
-                    "string": "((5kjp3kq7U))",
+                    "string": "focus on enabling systemic change for [[global transformation]]",
                     ":create/user": {
                       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                     },
-                    "create-time": 1619547227414,
+                    "create-time": 1619553309741,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "deprioritization of email, text, mobile",
+                    "create-time": 1619552891372,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "children": [
+                      {
+                        "string": "((Ut3XTrX2x))",
+                        "create-time": 1619565744670,
+                        "uid": "Wojv8qbcv",
+                        "edit-time": 1619565748332,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "((A4oXMz9N4))",
+                        "create-time": 1619566632114,
+                        "uid": "T-n6LgInu",
+                        "edit-time": 1619566633224,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      }
+                    ],
+                    "uid": "XQtSPABo-",
+                    "edit-time": 1619552926456,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "prioritization of landline",
+                    "create-time": 1619552926607,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "children": [
+                      {
+                        "string": "{{[[TODO]]}} exchange landline numbers",
+                        "create-time": 1619552934700,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "ZuxcbnfVv"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "ZuxcbnfVv"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "uid": "Nr3TOUF4M",
+                        "edit-time": 1619552978168,
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      }
+                    ],
+                    "uid": "uijC1e3IS",
+                    "edit-time": 1619552933197,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "focus on public group context/shares on and offline",
+                    "create-time": 1619552978723,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "children": [
+                      {
+                        "string": "public blogs, public graphs, Slack, online discussion forums, large format seminars (80+), office hours",
+                        "create-time": 1619553041436,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "children": [
+                          {
+                            "string": "attempt to be in Roam Slack once/week - Zoom and office hours take priority",
+                            "create-time": 1619554269493,
+                            "uid": "D2jxllHdM",
+                            "edit-time": 1619554284851,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          }
+                        ],
+                        "uid": "hWmRx4OQV",
+                        "edit-time": 1619553106795,
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "eventually dance events",
+                        "create-time": 1619553106782,
+                        "uid": "5F1Q03-AZ",
+                        "edit-time": 1619553110423,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "possibly grow into YouTube, Stereo, Clubhouse (Icebreaker experience is possible impediment)",
+                        "create-time": 1619553110420,
+                        "uid": "y2EsyCGMJ",
+                        "edit-time": 1619553141479,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "Twitter is out there (at the risk of noise)",
+                        "create-time": 1619553219174,
+                        "uid": "woO_fI32E",
+                        "edit-time": 1619553227393,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "Facebook fan page(s) are a possibility",
+                        "create-time": 1619553232262,
+                        "uid": "VMa8jWNx6",
+                        "edit-time": 1619553256512,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "LinkedIn is also a possibility",
+                        "create-time": 1619553262018,
+                        "uid": "AfvJ4HgKa",
+                        "edit-time": 1619553270531,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      }
+                    ],
+                    "uid": "viejYE8G9",
+                    "edit-time": 1619553039432,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "edit-time": 1619562535483,
+                    "children": [
+                      {
+                        "edit-time": 1619640084104,
+                        "children": [
+                          {
+                            "string": "what kinds of things is he good at explaining?",
+                            "create-time": 1619553197176,
+                            "uid": "i6IjTLcZz",
+                            "edit-time": 1619553211806,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "2ompgu8xt"
+                          },
+                          {
+                            "uid": "ZuxcbnfVv"
+                          },
+                          {
+                            "uid": "puB_wMYIa"
+                          }
+                        ],
+                        "uid": "YRWXPBpCl",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "2ompgu8xt"
+                          },
+                          {
+                            ":block/uid": "ZuxcbnfVv"
+                          },
+                          {
+                            ":block/uid": "puB_wMYIa"
+                          }
+                        ],
+                        "string": "{{[[TODO]]}} how can [[Chinarut 🦥]] complement [[Joel Chan]] in leading the group?",
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "create-time": 1619553183272,
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "5tOCpaLFR"
+                      }
+                    ],
+                    "uid": "TiBoJQI-i",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "5tOCpaLFR"
+                      }
+                    ],
+                    "string": "co-facilitation with partner as primary lead and focusing on [[removing gaps]] in end-user experience",
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "create-time": 1619553145419,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "((1W2A4K4d3))",
+                    "create-time": 1619555691834,
+                    "uid": "o5uZ3xKiI",
+                    "edit-time": 1619555694029,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
                     ":edit/user": {
                       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                     }
                   }
                 ],
-                "refs": [
-                  {
-                    "uid": "TBzCoGxjt"
-                  }
-                ],
-                "uid": "xDaQojy9h",
-                ":block/refs": [
-                  {
-                    ":block/uid": "TBzCoGxjt"
-                  }
-                ],
-                "string": "[[Wellbeing Commons]]",
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                "create-time": 1619552428194,
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              }
-            ],
-            "uid": "EvW8cgTKc",
-            "edit-time": 1619639538167,
-            ":edit/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            }
-          },
-          {
-            "edit-time": 1619555039353,
-            "children": [
-              {
-                "string": "((hVCj0ICJM))",
-                "create-time": 1619568388010,
-                "uid": "w3Lp-5enK",
-                "edit-time": 1619568397211,
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
+                "uid": "U6by9VXAi",
+                "edit-time": 1619552891388,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }
               },
               {
-                "edit-time": 1619641756916,
+                "edit-time": 1619555830053,
                 "children": [
                   {
-                    "string": "((Juc767jYJ))",
-                    "create-time": 1619553678631,
-                    "uid": "Yg9Ka2Igv",
-                    "edit-time": 1619553692933,
+                    "edit-time": 1619557029500,
+                    "children": [
+                      {
+                        "string": "Please excuse the long absence - my 10d meditation retreat I was scheduled to attend 12/23-1/3 was canceled due to covid and used the time the best I could to reflect and rearrange my foundation.  I am in the process of packing up my apt in SF and transitioning back to SoCal. I have to make my last trip next week and I'll be more settled here mid to late Feb.",
+                        "create-time": 1619557030333,
+                        "uid": "eG8-L-K5A",
+                        "edit-time": 1619557030333,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "**(0) coordinating**",
+                        "create-time": 1619557030333,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "children": [
+                          {
+                            "string": "if you don't mind using the old fashioned phone, I can be reached at 310-751-0412. You are welcome to text/call anytime - afternoons (PST) tend to work well for me in general.  of course, if we end up playing too much phone tag, we can schedule forward.",
+                            "create-time": 1619557030333,
+                            "uid": "4cpuoRftD",
+                            "edit-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          },
+                          {
+                            "string": "One caveat re: # above is it is a Google Voice # and the voice quality has gotten quite poor in the last few months - we may need to switch to my direct line or another medium (eg. FaceTime audio/video)",
+                            "create-time": 1619557030333,
+                            "uid": "NwEXXyA-p",
+                            "edit-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          },
+                          {
+                            "string": "Might you have block of hours (akin to office hours you set aside for your students) I could possibly earmark every week?   The idea is I could try to reach you during this block and if you’re available you’re available, if you’re not you’re not.",
+                            "create-time": 1619557030333,
+                            "uid": "iTlP4VGYh",
+                            "edit-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          },
+                          {
+                            "string": "It’s been on my agenda to create a new Calend.ly with my “office hours” and willing to start with blocks that work for you.  The upside is we can both be available for blocks for group discussions with others.",
+                            "create-time": 1619557030333,
+                            "uid": "8eJWKXoL4",
+                            "edit-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          },
+                          {
+                            "string": "I do have a request we err on “less meetings,” focus on online collaboration as much as possible (I will admit email breaks down for me and more on this later) until thresholds (aka miscommunication) gets hit.  This is an art, so I’m open to ideas - it’s been 3 or 4 months since our first zoom and I would love to hear what prompted you to feel it was time be get back on a zoom last month if it wasn’t more than just spidey-sense :)",
+                            "create-time": 1619557030333,
+                            "uid": "SDw58NBf2",
+                            "edit-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          }
+                        ],
+                        "uid": "Ut3XTrX2x",
+                        "edit-time": 1619557030333,
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "**(1) roam-medical**",
+                        "create-time": 1619557030333,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "children": [
+                          {
+                            "string": "I just took a look at the way you’ve set up the space for this project and find the [Working Synthesis](https://roamresearch.com/#/app/joel-covid19/page/rdwtLbFSb) page quite fascinating! While some of it goes over my head, I passed it onto my little brother who is in psychiatry.  I like that you’ve managed to dive into the clinical side of things and dovetailing it with roam and zettling!  More on bioinformatics later.",
+                            "create-time": 1619557030333,
+                            "uid": "85TZZuYOx",
+                            "edit-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          },
+                          {
+                            "string": "It's in my queue to catch up with your zoom recording and take a look at one of the papers mentioned.  Have you, Matt, and Bradon had an opportunity to discuss how conversations might work in our graph?",
+                            "create-time": 1619557030333,
+                            "uid": "96Fv2McZs",
+                            "edit-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          },
+                          {
+                            "string": "I look forward to hearing Matt and Brandon’s input.  I wholeheartedly am a fan of experiencing the growing pains of conversation in Roam (yes, it was painful as it was at times in book club - you probably aren’t even aware I responded to some of your input!) with an intent to “figure it out” (or at the very least, create enough groundswell to make feature requests) - my biggest concern is the longtail game and how conversations connect across graphs.",
+                            "create-time": 1619557030333,
+                            "uid": "2Ws8xDlos",
+                            "edit-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          },
+                          {
+                            "string": "I think if we focus on our process for Zettling, and we center our conversations around collective zettling, we will make good progress and get away from the details and the original sources.",
+                            "create-time": 1619557030333,
+                            "uid": "JpSY-DyKj",
+                            "edit-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          },
+                          {
+                            "string": "I’m happy to lead any part of the above in the graph you created (do point out if anything I’ve shared has particular value to the group) and at the same time, I do feel I need space to focus on zettling one of the research papers and helping model how our group might develop conversations around zettels we create from our respective papers we read.",
+                            "create-time": 1619557030333,
+                            "uid": "3ASsP-rLR",
+                            "edit-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          }
+                        ],
+                        "uid": "ac4ASgUyg",
+                        "edit-time": 1619557030333,
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "**(2) Icebreaker / getting related**",
+                        "create-time": 1619557030333,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "children": [
+                          {
+                            "string": "Just FYI - I co-host Icebreakers (icebreaker.video) the 2nd sat of every month in an attempt to keep one of my communities in the SF bay area afloat during a time we cannot gather and dance.  It dawned on me in Dec I needed to start aligning research in wellbeing with my commitment to community - I proposed to lead conversations for wellbeing the next 5-6 months with one of the co-founders and peers.",
+                            "create-time": 1619557030333,
+                            "uid": "WEi7snMbq",
+                            "edit-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          },
+                          {
+                            "string": "I had meant to extend the invite to join on the 9th so you could get a sense of what the platform is capable of.  I'll be going through each of the 5 elements of wellbeing as themes for the next 5 months (Feb-June) and a wrap up in July.  The kickoff on the 9th went well and I bring all this up because (1) you’re always welcome to attend (even for 10 minutes) and (2) perhaps our group could design some questions/prompts consistent with roam-medical and break some ice amongst participants (as I personally don’t recognize everyone's names!)",
+                            "create-time": 1619557030333,
+                            "uid": "YZyxgYtT6",
+                            "edit-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          },
+                          {
+                            "string": "Just putting the idea out there and the role I need to play is more a supportive role in guiding someone through the process.",
+                            "create-time": 1619557030333,
+                            "uid": "KTVqIaIOt",
+                            "edit-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          }
+                        ],
+                        "uid": "9vaL3qVJJ",
+                        "edit-time": 1619557030333,
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "**(3) home automation**",
+                        "create-time": 1619557030333,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "children": [
+                          {
+                            "string": "returning to my parent's home tends to be a marathon attending to home improvement projects for 2-3 weeks.  this trip was no exception and didn't expect it to be an opportunity to get acquainted with the home automation world both corporate and open source - have you dabbled any yourself?",
+                            "create-time": 1619557030333,
+                            "uid": "EFtJGhwCb",
+                            "edit-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          },
+                          {
+                            "string": "I now understand why I saw an effort at CMU to transform the experience of administering IoT devices - the ecosystem is a mess (aka. beyond fragmented) and glad to see the open source efforts are more mature than I anticipated (jury is still out as it requires open source firmware (Tasmota) which I have not invested in yet!)",
+                            "create-time": 1619557030333,
+                            "uid": "EzRCnsRyx",
+                            "edit-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          },
+                          {
+                            "string": "I won't get into too much on this front and it's where a lionshare of my time went this month leading into helping my parents replace their entire HVAC system (which was an exercise in contractor evaluation in itself!)",
+                            "create-time": 1619557030333,
+                            "uid": "xTyZDJaew",
+                            "edit-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          },
+                          {
+                            "string": "HVAC aside, I do find the home automation world a fascinating exercise in synthesis (hardware, software, networks, low-power systems, sheer scale, mass market, automation, AI, etc) and be curious to hear how home automation has shown up in your work (if at all)!",
+                            "create-time": 1619557030333,
+                            "uid": "FGrkDGOGT",
+                            "edit-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          },
+                          {
+                            "string": "I have to admit, this was quite the 2 week rabbit hole - not for the faint-hearted :)",
+                            "create-time": 1619557030333,
+                            "uid": "l2WAsfIfi",
+                            "edit-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          }
+                        ],
+                        "uid": "NAuTbUAs_",
+                        "edit-time": 1619557030333,
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "**(4) PT income**",
+                        "create-time": 1619557030333,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "children": [
+                          {
+                            "string": "I am still sorting this out - part of the reason I'm returning to SoCal is to reduce my burnrate significantly. Another part of the reason is enlisting my folks on what it means to be a researcher :)  infrastructure down here is much more stable (and kinder to my wellbeing) which will help support continued remote work at least for the first few months of 2021.",
+                            "create-time": 1619557030333,
+                            "uid": "lt9n8_90-",
+                            "edit-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          }
+                        ],
+                        "uid": "9460PMHDq",
+                        "edit-time": 1619557030333,
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "**(5) open source meets nostalgia**",
+                        "create-time": 1619557030333,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "children": [
+                          {
+                            "string": "while I won't get into details now - my first breakthrough with Roam is discovering how to synthesize and develop my [[open source]] page (I erred on daily pages for more than 2 months).  it's a neat process balancing literal page references to [[open source]] and unlinked references which led to surprising connections and thoughts!  but I'm speaking to the preacher :)",
+                            "create-time": 1619557030333,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "Uswfljxgn"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "Uswfljxgn"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            "uid": "9IxJJuvPn",
+                            "edit-time": 1619557030333,
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          },
+                          {
+                            "string": "point being, my perspectives on open source, the literature around what is garnered around how open source is developed I feel has parallels to peer-to-peer production of content/knowledge.",
+                            "create-time": 1619557030333,
+                            "uid": "s1eBOgo6_",
+                            "edit-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          },
+                          {
+                            "string": "that said, I'm also finding open source projects I wish to refine the user experience and HCI is becoming that much clearer in my world thanks to emulators and frameworks like RetroArch (dunno if you are into video games at all? I’m pretty retro :)  Even seeing the Color Computer 3 I was gifted when I was 8 boot up and load a program I wrote and got published for load off a virtual 5.25” disk was pretty trippy to be honest!",
+                            "create-time": 1619557030333,
+                            "uid": "vgSmG3_T6",
+                            "edit-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          }
+                        ],
+                        "uid": "Wt8g4mQey",
+                        "edit-time": 1619557030333,
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "**(6) U of Washington & bioinformatics**",
+                        "create-time": 1619557030333,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "children": [
+                          {
+                            "string": "I still have to complete the study design paper you advised me to read!",
+                            "create-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            "children": [
+                              {
+                                "string": "((lQHwfqQTr))",
+                                "create-time": 1619566322253,
+                                "uid": "cF9tJU7zU",
+                                "edit-time": 1619566334350,
+                                ":create/user": {
+                                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                                }
+                              }
+                            ],
+                            "uid": "j_V0sCdcC",
+                            "edit-time": 1619557030333,
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          },
+                          {
+                            "string": "I had no idea UW had leadership in bioinformatics - are you acquainted with[ Wanda Pratt](https://ischool.uw.edu/people/faculty/profile/wpratt)'s work?  I feel she is someone we should both be collaborating with.",
+                            "create-time": 1619557030333,
+                            "uid": "U8dT_Zcqz",
+                            "edit-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          },
+                          {
+                            "string": "I have not yet found the cycles to explore what research in[ bioinformatics at UMD](https://www.cs.umd.edu/research-area/bioinformatics-and-computational-biology) and perhaps you might be able to enlighten me given I can see myself zettling at least 30 of Wanda's papers - these are the themes that sound fascinating to me:  nuances behind a \"health commons\", the quantified-self, mentor matching, expert identification (both peer and clinician contexts) and she has been willing to dive into more progressive areas like the use of video games, study of non-verbal communication and interpretation of emojis in the context of wellbeing!",
+                            "create-time": 1619557030333,
+                            "uid": "3H-dhhvXv",
+                            "edit-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          },
+                          {
+                            "string": "I'm wondering if by chance there is a bridge that can be drawn/created from your dept to bioinformatics that perhaps has not been erected yet?  This would be a wonderful space to work in with you.",
+                            "create-time": 1619557030333,
+                            "uid": "0l1g2CB_5",
+                            "edit-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          }
+                        ],
+                        "uid": "5rSgxzG9K",
+                        "edit-time": 1619557030333,
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "**(7) Soren**",
+                        "create-time": 1619557030333,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "children": [
+                          {
+                            "string": "I'm wondering if you've progressed with your chats with Soren?  He agreed to take a look at the very early \"manuscript\" that came out of transforming his book into zettels after the holidays.  I feel what I drafted is How to Take Smart Notes in the context of a wellbeing commons.  So I am particularly trying to best understand how to best cite his work when I feel I am projecting and shifting his book into a specific domain or focus",
+                            "create-time": 1619557030333,
+                            "uid": "heNa6iwbf",
+                            "edit-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          }
+                        ],
+                        "uid": "DuMDPCkry",
+                        "edit-time": 1619557030333,
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "**(8) email vs Slack vs video**",
+                        "create-time": 1619557030333,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "children": [
+                          {
+                            "string": "**email** - just so you are aware, I continue to question the use of email. Email and social media (Facebook) fall out of existence when I get into the flow state",
+                            "create-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            "children": [
+                              {
+                                "string": "When I am in a flow state, email is dominated by tech support cases to support whatever it is I am attempting to accomplish.",
+                                "create-time": 1619557030333,
+                                "uid": "_nCsbQ9Gc",
+                                "edit-time": 1619557030333,
+                                ":create/user": {
+                                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                                }
+                              }
+                            ],
+                            "uid": "3Z4Bc1wf3",
+                            "edit-time": 1619557030333,
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          },
+                          {
+                            "string": "**Slack** - while I, too, hate the 10k message limit, I think Slack might be a better mechanism, I am still experimenting with @mentions - so please do make use if it if you’d like to rope me in!",
+                            "create-time": 1619557030333,
+                            "uid": "bU5O-_8GA",
+                            "edit-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          },
+                          {
+                            "string": "**phone/Zoom/FaceTime** -  I have no qualms organizing my thoughts in this manner (this doc) despite it taking some concerted effort and focus.",
+                            "create-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            "children": [
+                              {
+                                "string": "I’d say lets knock off as many items here in the document as possible and leave the juicier items for a real-time conversation and/or zoom",
+                                "create-time": 1619557030333,
+                                "uid": "XliaWNIzB",
+                                "edit-time": 1619557030333,
+                                ":create/user": {
+                                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                                }
+                              }
+                            ],
+                            "uid": "FnLQTWnNd",
+                            "edit-time": 1619557030333,
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          }
+                        ],
+                        "uid": "A4oXMz9N4",
+                        "edit-time": 1619557030333,
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "**(9) disruption**",
+                        "create-time": 1619557030333,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "children": [
+                          {
+                            "string": "While I don’t have a lot to elaborate at the moment, I do notice my tendency to find excuses to disrupt myself as it creates new ideas, innovation, brings unintended things together",
+                            "create-time": 1619557030333,
+                            "uid": "5ncjGsJym",
+                            "edit-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          },
+                          {
+                            "string": "So please don’t hesitate to let me know if any of my mad scientist ways ever gets in the way of our interactions - i hope to think I’m doing all this for the greater good :)",
+                            "create-time": 1619557030333,
+                            "uid": "67Ny-5mB4",
+                            "edit-time": 1619557030333,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          }
+                        ],
+                        "uid": "8ruoqTKR4",
+                        "edit-time": 1619557030333,
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "XED7uiC5c"
+                      }
+                    ],
+                    "uid": "7qJ28TKyU",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "XED7uiC5c"
+                      }
+                    ],
+                    "string": "Not sure how this works (don't' seem to have a link to [the actual Doc](https://docs.google.com/document/d/1vxpTI3VmfzMiPxvQ_igdnuEI9BarkA3usvJblVznIvw/edit)) but I wanted to reply after a long absence. [[Joel x Chinarut]]",
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "create-time": 1619556950933,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "I mainly want to give an **update on PhD admissions**. Unfortunately we weren't able to put you on the list of admits.",
+                    "create-time": 1619566921491,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "children": [
+                      {
+                        "string": "The main reason is that we got an extraordinarily competitive and large pool of applicants this year (~3X our usual haul, and 2X as strong; probably partly a function of the pandemic and a new influx of faculty?).",
+                        "create-time": 1619566924808,
+                        "uid": "Gv1BAhbPo",
+                        "edit-time": 1619566924808,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "I still find your chosen problem compelling, but ^^there are still questions about whether this is best done in the context of a PhD^^ (vs. say, working on it in a nonprofit or other model).",
+                        "create-time": 1619566943066,
+                        "uid": "JjaA67kMZ",
+                        "edit-time": 1619566943066,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "I suspect you also have questions about this, and would be glad to talk through them, asynchronously or otherwise: not all problems need to be approached from the standpoint of research!",
+                        "create-time": 1619566943074,
+                        "uid": "IC8zF-zuU",
+                        "edit-time": 1619566943074,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      }
+                    ],
+                    "uid": "6GQ8ITmJT",
+                    "edit-time": 1619566921491,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "I know this is a disappointing outcome (it is to me as well! really enjoyed our discussions and think you have a lot of potential), but I hope this provides some context for the decision.",
+                    "create-time": 1619556937133,
+                    "uid": "XdHzGJULI",
+                    "edit-time": 1619556937133,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "I am of course still open to continuing discussions, although I think the current pace of responding will be about right, unless there is some critical time-sensitive opportunity that aligns with my research critical paths.",
+                    "create-time": 1619567011853,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "children": [
+                      {
+                        "string": "For instance, if you wanted to get a group of people together to prototype a wellbeing commons that deeply integrated with research literature, that would be of great interest to me.",
+                        "create-time": 1619567011860,
+                        "uid": "bACYSiyHs",
+                        "edit-time": 1619567011860,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      }
+                    ],
+                    "uid": "VnnaiNw-I",
+                    "edit-time": 1619567011853,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "I appreciate your energy and enthusiasm, as always, and hope we can continue corresponding!",
+                    "create-time": 1619556937133,
+                    "uid": "gVb0AzzKs",
+                    "edit-time": 1619556937133,
                     ":create/user": {
                       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                     },
@@ -53666,76 +53506,238 @@
                 ],
                 "refs": [
                   {
-                    "uid": "ILx4-NrtG"
+                    "uid": "7tw-nnxEs"
                   }
                 ],
-                "uid": "LFjUJwCVM",
+                "uid": "-1JXL9ZjN",
                 ":block/refs": [
                   {
-                    ":block/uid": "ILx4-NrtG"
+                    ":block/uid": "7tw-nnxEs"
                   }
                 ],
-                "string": "((ILx4-NrtG))",
+                "string": "((wQHvl1eZI)) {{[[POMO]]: 25}}",
+                ":block/props": {
+                  ":POMO": 1619567136109
+                },
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
-                "create-time": 1619641752491,
+                "create-time": 1619545875425,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "props": {
+                  "POMO": 1619567136109
+                }
+              },
+              {
+                "string": "past action items",
+                "create-time": 1619555056324,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "edit-time": 1619552431831,
+                    "children": [
+                      {
+                        "edit-time": 1619547369510,
+                        "children": [
+                          {
+                            "string": "((L0mCeR9G2))",
+                            "create-time": 1619552410089,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            "children": [
+                              {
+                                "string": "filled out form and never got a response in regards to next steps (as of [[April 18th, 2021]])",
+                                "create-time": 1619547369563,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "04-18-2021"
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "04-18-2021"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                                },
+                                "uid": "VLwx1ODxq",
+                                "edit-time": 1619547401664,
+                                ":edit/user": {
+                                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                                }
+                              }
+                            ],
+                            "uid": "WmnuB0T8f",
+                            "edit-time": 1619552411505,
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "5kjp3kq7U"
+                          }
+                        ],
+                        "uid": "0kl4wS6LT",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "5kjp3kq7U"
+                          }
+                        ],
+                        "string": "((5kjp3kq7U))",
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "create-time": 1619547227414,
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "TBzCoGxjt"
+                      }
+                    ],
+                    "uid": "xDaQojy9h",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "TBzCoGxjt"
+                      }
+                    ],
+                    "string": "[[Wellbeing Commons]]",
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "create-time": 1619552428194,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "EvW8cgTKc",
+                "edit-time": 1619639538167,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "edit-time": 1619555039353,
+                "children": [
+                  {
+                    "string": "((hVCj0ICJM))",
+                    "create-time": 1619568388010,
+                    "uid": "w3Lp-5enK",
+                    "edit-time": 1619568397211,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "edit-time": 1619641756916,
+                    "children": [
+                      {
+                        "string": "((Juc767jYJ))",
+                        "create-time": 1619553678631,
+                        "uid": "Yg9Ka2Igv",
+                        "edit-time": 1619553692933,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "ILx4-NrtG"
+                      }
+                    ],
+                    "uid": "LFjUJwCVM",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ILx4-NrtG"
+                      }
+                    ],
+                    "string": "((ILx4-NrtG))",
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "create-time": 1619641752491,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "7tw-nnxEs"
+                  }
+                ],
+                "uid": "bhsrRekca",
+                ":block/refs": [
+                  {
+                    ":block/uid": "7tw-nnxEs"
+                  }
+                ],
+                "string": "moving forward {{[[POMO]]: 25}}",
+                ":block/props": {
+                  ":POMO": 1619554220438
+                },
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "create-time": 1619551288186,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "props": {
+                  "POMO": 1619554220438
                 }
               }
             ],
             "refs": [
               {
-                "uid": "7tw-nnxEs"
+                "uid": "04-27-2021"
               }
             ],
-            "uid": "bhsrRekca",
+            "uid": "PEVcQpxst",
             ":block/refs": [
               {
-                ":block/uid": "7tw-nnxEs"
+                ":block/uid": "04-27-2021"
               }
             ],
-            "string": "moving forward {{[[POMO]]: 25}}",
+            "string": "[[April 27th, 2021]]",
             ":block/props": {
-              ":POMO": 1619554220438
+              ":POMO": 1619552387796
             },
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
-            "create-time": 1619551288186,
+            "create-time": 1619545201219,
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
             "props": {
-              "POMO": 1619554220438
+              "POMO": 1619552387796
             }
           }
         ],
-        "refs": [
-          {
-            "uid": "04-27-2021"
-          }
-        ],
-        "uid": "PEVcQpxst",
-        ":block/refs": [
-          {
-            ":block/uid": "04-27-2021"
-          }
-        ],
-        "string": "[[April 27th, 2021]]",
-        ":block/props": {
-          ":POMO": 1619552387796
-        },
-        ":create/user": {
-          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-        },
-        "create-time": 1619545201219,
+        "uid": "T5YHQldbh",
+        "edit-time": 1619641817058,
         ":edit/user": {
           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-        },
-        "props": {
-          "POMO": 1619552387796
         }
       }
     ],
@@ -54548,18 +54550,6 @@
     }
   },
   {
-    "create-time": 1619639469954,
-    "title": "foundational blocks",
-    "uid": "la6t_G3Sz",
-    "edit-time": 1619639469958,
-    ":create/user": {
-      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-    },
-    ":edit/user": {
-      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-    }
-  },
-  {
     "create-time": 1619639479913,
     "title": "temporal blocks",
     "uid": "VUT7igC8h",
@@ -54588,6 +54578,18 @@
     "title": "Catherine Rickwood",
     "uid": "RNH-ZDEC5",
     "edit-time": 1619641317367,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1619641893913,
+    "title": "partnership schema",
+    "uid": "j9D4jyyud",
+    "edit-time": 1619641893915,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },

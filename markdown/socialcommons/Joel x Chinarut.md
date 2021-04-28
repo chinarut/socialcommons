@@ -234,9 +234,9 @@
 - opens
     - {{[[TODO]]}} #checkin Please verify you are okay with **all** the text on this page being public
         - I believe Roam public pages are **not** SEO optimized like Notion (yet)
+    - {{[[TODO]]}} confirm [[partnership schema]] (above, maintained, group/partner memory) and decide what belongs in 
+        - there is a #dilemma in regards the ability to track change atomically at a single page level vs at the graph level (this page and daily notes)
 - 
-- {{[[TODO]]}} clarify what are [[foundational blocks]] (above, maintained, group/partner memory) vs [[temporal blocks]] (below, based on point in time - arguably could be moved to Daily Notes) 
-    - there is a #dilemma in regards the ability to track change atomically at a single page level vs at the graph level (this page and daily notes)
 - journal
     - [[April 28th, 2021]]
         - what I wake up excited about is the opportunity to see “diffs” (literally the way code monkeys do) and visualize changes in partnership exploration pages
