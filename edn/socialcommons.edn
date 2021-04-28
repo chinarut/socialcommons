@@ -39586,8 +39586,8 @@
   [3339 :version/id "0.8.4" 536873674]
   [3339
    :version/nonce
-   "uuid2e60e7a4-c7df-4141-b2ff-bd33f48d7917"
-   536874777]
+   "uuid576da8f1-05bc-4854-905a-11944b14be1a"
+   536874791]
   [3340 :block/open true 536873675]
   [3340 :block/order 0 536873675]
   [3340 :block/page 3338 536873676]
@@ -46420,6 +46420,7 @@
   [3966 :edit/time 1619641314658 536874743]
   [3966 :edit/user 1 536874743]
   [3967 :block/children 3971 536874764]
+  [3967 :block/children 3998 536874778]
   [3967 :block/open true 536874744]
   [3967 :block/order 0 536874748]
   [3967 :block/page 3511 536874745]
@@ -46447,7 +46448,7 @@
   [3971 :block/children 3974 536874764]
   [3971 :block/children 3980 536874764]
   [3971 :block/open true 536874764]
-  [3971 :block/order 0 536874764]
+  [3971 :block/order 1 536874778]
   [3971 :block/page 3511 536874765]
   [3971 :block/parents 3511 536874765]
   [3971 :block/parents 3858 536874765]
@@ -46715,4 +46716,21 @@
   [3997 :block/string "" 536874777]
   [3997 :block/uid "nbGbbkUxJ" 536874777]
   [3997 :edit/time 1619641487286 536874777]
-  [3997 :edit/user 1 536874777]]}
+  [3997 :edit/user 1 536874777]
+  [3998 :block/open true 536874778]
+  [3998 :block/order 0 536874778]
+  [3998 :block/page 3511 536874779]
+  [3998 :block/parents 3511 536874779]
+  [3998 :block/parents 3858 536874779]
+  [3998 :block/parents 3963 536874779]
+  [3998 :block/parents 3967 536874779]
+  [3998 :block/refs 577 536874781]
+  [3998
+   :block/string
+   "{{[[TODO]]}} reword Catherine’s reflection in my own words"
+   536874791]
+  [3998 :block/uid "dVv38iEKq" 536874778]
+  [3998 :create/time 1619641512542 536874778]
+  [3998 :create/user 1 536874778]
+  [3998 :edit/time 1619641562947 536874791]
+  [3998 :edit/user 1 536874778]]}

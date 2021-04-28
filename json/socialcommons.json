@@ -49612,6 +49612,28 @@
                 "edit-time": 1619641348751,
                 "children": [
                   {
+                    "string": "{{[[TODO]]}} reword Catherine’s reflection in my own words",
+                    "create-time": 1619641512542,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ZuxcbnfVv"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "ZuxcbnfVv"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "uid": "dVv38iEKq",
+                    "edit-time": 1619641562947,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
                     "edit-time": 1619641415004,
                     "children": [
                       {
@@ -49926,18 +49948,6 @@
                           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                         },
                         "create-time": 1619641415004,
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      },
-                      {
-                        "string": "",
-                        "create-time": 1619641415004,
-                        "uid": "nbGbbkUxJ",
-                        "edit-time": 1619641484642,
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
                         ":edit/user": {
                           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                         }
