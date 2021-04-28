@@ -96,7 +96,10 @@
     - [[Matt B]]
         - [[roam book club]] [[The Culture Code]] [[Braiding Sweetgrass]] [[Chinarut 🦥]]
     - [[Henry F]]
-    - 
+        - [[Chinarut 🦥]] [[social movement science]]
+    - [[Catherine Rickwood]]
+        - [[Chinarut 🦥]] synthetic form of [[roam book club]]
+            - 
 - relevant artifacts developed to date {{[[POMO]]: 25}}
     - ((iTf6dbCe5)) -> [key research influences](https://www.notion.so/communitygarden/Key-Research-Influences-c9e61171936c43919a40a3bfd5db70d3) #Notion
     - ((jBbB4uVhV))

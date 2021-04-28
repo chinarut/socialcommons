@@ -49312,7 +49312,7 @@
                     }
                   },
                   {
-                    "edit-time": 1619641243641,
+                    "edit-time": 1619641278979,
                     "children": [
                       {
                         "edit-time": 1619641234150,
@@ -49362,7 +49362,7 @@
                         ":block/uid": "puB_wMYIa"
                       }
                     ],
-                    "string": "[[Joel Chan]] I assume around the nature of synthesis",
+                    "string": "[[Joel Chan]] I assume around the nature of how synthesis unfolds",
                     ":create/user": {
                       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                     },
@@ -49549,6 +49549,104 @@
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
             "create-time": 1619548423043,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "edit-time": 1619641283665,
+            "children": [
+              {
+                "string": "[[Chinarut 🦥]] [[social movement science]]",
+                "create-time": 1619641286145,
+                ":block/refs": [
+                  {
+                    ":block/uid": "2ompgu8xt"
+                  },
+                  {
+                    ":block/uid": "m7L3M5wCq"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "2ompgu8xt"
+                  },
+                  {
+                    "uid": "m7L3M5wCq"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "2R_4kGoBq",
+                "edit-time": 1619641293823,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "v1vlFugsm"
+              }
+            ],
+            "uid": "XdVvDUCV0",
+            ":block/refs": [
+              {
+                ":block/uid": "v1vlFugsm"
+              }
+            ],
+            "string": "[[Henry F]]",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1619641280684,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "edit-time": 1619641317363,
+            "children": [
+              {
+                "string": "[[Chinarut 🦥]] synthetic ",
+                "create-time": 1619641317351,
+                ":block/refs": [
+                  {
+                    ":block/uid": "2ompgu8xt"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "2ompgu8xt"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "-RSmw9Q-S",
+                "edit-time": 1619641340592,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "RNH-ZDEC5"
+              }
+            ],
+            "uid": "rEuUcsJyo",
+            ":block/refs": [
+              {
+                ":block/uid": "RNH-ZDEC5"
+              }
+            ],
+            "string": "[[Catherine Rickwood]]",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1619641293808,
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             }
@@ -54066,6 +54164,18 @@
     "title": "dilemma",
     "uid": "5kgo8QArt",
     "edit-time": 1619639969697,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1619641317366,
+    "title": "Catherine Rickwood",
+    "uid": "RNH-ZDEC5",
+    "edit-time": 1619641317367,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
