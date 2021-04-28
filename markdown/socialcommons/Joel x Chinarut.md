@@ -122,11 +122,8 @@
                     - element book clubs surround each of the 5 elements with an intent to synthesize works together
                     - all resultant conversations funnel back into parent book club to design next sprint for collective
 - relevant artifacts developed to date {{[[POMO]]: 25}}
-    - ((iTf6dbCe5)) -> [key research influences](https://www.notion.so/communitygarden/Key-Research-Influences-c9e61171936c43919a40a3bfd5db70d3) #Notion
-    - ((jBbB4uVhV))
-        - [Scaling up analogical innovation with crowds and AI](https://www.notion.so/communitygarden/Scaling-up-analogical-innovation-with-crowds-and-AI-d9e6b15216e5491d9e7750061cdc4e6c) #Notion
-            - {{[[TODO]]}} how do I keep up with developments in your research was published since Aug 2020?
     - [[Chinarut 🦥]]
+        - ((iTf6dbCe5)) -> [key research influences](https://www.notion.so/communitygarden/Key-Research-Influences-c9e61171936c43919a40a3bfd5db70d3) #Notion
         - ((bV66p1aOx))
             - [[Statement of Purpose]]
             - [[Personal Statement]]
@@ -154,9 +151,9 @@
             - [[HCI Portfolio]]
                 - [[resume/research]] (modeled after [[HCI]])
         - [[Weave Your Legacy]]
-    - ((mybyIY-4g))
-        - [[in-graph support experience]]
-        - ((e_azySqio))
+    - ((jBbB4uVhV))
+        - [Scaling up analogical innovation with crowds and AI](https://www.notion.so/communitygarden/Scaling-up-analogical-innovation-with-crowds-and-AI-d9e6b15216e5491d9e7750061cdc4e6c) #Notion
+            - {{[[TODO]]}} how do I keep up with developments in your research was published since Aug 2020?
     - #roam-synthesis
         - ((IkNBra_pK))
         - ((xB_Jje76C))
@@ -169,6 +166,9 @@
         - ((HunpA4bxq))
             - ((rHtbk4h2m))
                 - ((aqOfy2Z5Z))
+    - ((mybyIY-4g))
+        - [[in-graph support experience]]
+        - ((e_azySqio))
 - possible futures
     - [[Joel Chan]]’s suggestion to consider alternative structures
         - {{[[TODO]]}} #proposal one page proposal summarizing a context for alignment and common call for action 

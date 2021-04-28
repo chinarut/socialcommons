@@ -50158,58 +50158,14 @@
         "edit-time": 1619639388011,
         "children": [
           {
-            "string": "((iTf6dbCe5)) -> [key research influences](https://www.notion.so/communitygarden/Key-Research-Influences-c9e61171936c43919a40a3bfd5db70d3) #Notion",
-            "create-time": 1619548796100,
-            ":block/refs": [
-              {
-                ":block/uid": "3ch29s61h"
-              }
-            ],
-            "refs": [
-              {
-                "uid": "3ch29s61h"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            },
-            "uid": "P_LKfvsnc",
-            "edit-time": 1619551485065,
-            ":edit/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            }
-          },
-          {
-            "string": "((jBbB4uVhV))",
-            "create-time": 1619548796100,
-            ":create/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            },
+            "edit-time": 1619642262496,
             "children": [
               {
-                "edit-time": 1619549737073,
-                "children": [
+                "string": "((iTf6dbCe5)) -> [key research influences](https://www.notion.so/communitygarden/Key-Research-Influences-c9e61171936c43919a40a3bfd5db70d3) #Notion",
+                "create-time": 1619548796100,
+                ":block/refs": [
                   {
-                    "string": "{{[[TODO]]}} how do I keep up with developments in your research was published since Aug 2020?",
-                    "create-time": 1619549739186,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "ZuxcbnfVv"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "ZuxcbnfVv"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    "uid": "D_7bgumNw",
-                    "edit-time": 1619549778746,
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
+                    ":block/uid": "3ch29s61h"
                   }
                 ],
                 "refs": [
@@ -50217,31 +50173,15 @@
                     "uid": "3ch29s61h"
                   }
                 ],
-                "uid": "sWG7Vqr6L",
-                ":block/refs": [
-                  {
-                    ":block/uid": "3ch29s61h"
-                  }
-                ],
-                "string": "[Scaling up analogical innovation with crowds and AI](https://www.notion.so/communitygarden/Scaling-up-analogical-innovation-with-crowds-and-AI-d9e6b15216e5491d9e7750061cdc4e6c) #Notion",
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
-                "create-time": 1619549620494,
+                "uid": "P_LKfvsnc",
+                "edit-time": 1619551485065,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }
-              }
-            ],
-            "uid": "rYq97qLVj",
-            "edit-time": 1619548796100,
-            ":edit/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            }
-          },
-          {
-            "edit-time": 1619642262496,
-            "children": [
+              },
               {
                 "string": "((bV66p1aOx))",
                 "create-time": 1619548796100,
@@ -50720,48 +50660,60 @@
             }
           },
           {
-            "string": "((mybyIY-4g))",
+            "string": "((jBbB4uVhV))",
             "create-time": 1619548796100,
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
             "children": [
               {
-                "string": "[[in-graph support experience]]",
-                "create-time": 1619548796100,
-                ":block/refs": [
+                "edit-time": 1619549737073,
+                "children": [
                   {
-                    ":block/uid": "mvK7fekZa"
+                    "string": "{{[[TODO]]}} how do I keep up with developments in your research was published since Aug 2020?",
+                    "create-time": 1619549739186,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ZuxcbnfVv"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "ZuxcbnfVv"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "uid": "D_7bgumNw",
+                    "edit-time": 1619549778746,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
                   }
                 ],
                 "refs": [
                   {
-                    "uid": "mvK7fekZa"
+                    "uid": "3ch29s61h"
                   }
                 ],
+                "uid": "sWG7Vqr6L",
+                ":block/refs": [
+                  {
+                    ":block/uid": "3ch29s61h"
+                  }
+                ],
+                "string": "[Scaling up analogical innovation with crowds and AI](https://www.notion.so/communitygarden/Scaling-up-analogical-innovation-with-crowds-and-AI-d9e6b15216e5491d9e7750061cdc4e6c) #Notion",
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
-                "uid": "pXz4etaOJ",
-                "edit-time": 1619551505995,
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              },
-              {
-                "string": "((e_azySqio))",
-                "create-time": 1619551527531,
-                "uid": "n-KKDFfcm",
-                "edit-time": 1619551542428,
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
+                "create-time": 1619549620494,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }
               }
             ],
-            "uid": "L6n7RtFVU",
+            "uid": "rYq97qLVj",
             "edit-time": 1619548796100,
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
@@ -50958,6 +50910,54 @@
               }
             ],
             "uid": "JJssoqvX9",
+            "edit-time": 1619548796100,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "((mybyIY-4g))",
+            "create-time": 1619548796100,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "[[in-graph support experience]]",
+                "create-time": 1619548796100,
+                ":block/refs": [
+                  {
+                    ":block/uid": "mvK7fekZa"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "mvK7fekZa"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "pXz4etaOJ",
+                "edit-time": 1619551505995,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "((e_azySqio))",
+                "create-time": 1619551527531,
+                "uid": "n-KKDFfcm",
+                "edit-time": 1619551542428,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "L6n7RtFVU",
             "edit-time": 1619548796100,
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
