@@ -1,3 +1,17 @@
+- [[April 28th, 2021]]
+    - this graph is a [[living prototype]] :)
+        - graph backed up hourly to https://github.com/chinarut/socialcommons
+        - what I wake up excited about is the opportunity to see “diffs” (literally the way code monkeys do) and visualize changes in partnership exploration pages
+            - current page: https://github.com/chinarut/socialcommons/blob/main/markdown/socialcommons/Joel%20x%20Chinarut.md
+            - {{[[TODO]]}} diff: <insert URL when next backup is generated at top of the hour>
+                - this effectively shows the “difference” in conversation/discussion
+            - it should theoretically be possible to see the difference between your last visit and today
+                - #expectations github has a different sense of “time” than “traditional” version control systems
+        - because this is open, an infinite # of tools can be extended to refine the #UX
+    - {{[[TODO]]}} #checkin Please verify you are okay with **all** the text in the [[April 27th, 2021]] block being public
+        - I don’t think Roam public pages are SEO optimized like Notion (yet)
+    - I’m playing with the mindmap extension and started a discussion on Twitter in regards to where to take this visualization (such as using page filters to reduce scope - map exports are unreadable at this scale)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsocialcommons%2FQ5TRQVcqPb.png?alt=media&token=75704b14-9623-4c64-9667-c3bba782f9a6)
 - [[April 27th, 2021]]
     - key contexts
         - [[context of global transformation]] & [[social impact]] [[Landmark Worldwide]]

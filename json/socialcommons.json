@@ -47651,6 +47651,260 @@
     },
     "children": [
       {
+        "edit-time": 1619634230401,
+        "children": [
+          {
+            "edit-time": 1619634836369,
+            "children": [
+              {
+                "string": "graph backed up hourly to https://github.com/chinarut/socialcommons",
+                "create-time": 1619634230384,
+                "uid": "PKuj-d929",
+                "edit-time": 1619634245809,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "what I wake up excited about is the opportunity to see “diffs” (literally the way code monkeys do) and visualize changes in partnership exploration pages",
+                "create-time": 1619634253221,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "current page: https://github.com/chinarut/socialcommons/blob/main/markdown/socialcommons/Joel%20x%20Chinarut.md",
+                    "create-time": 1619634498245,
+                    "uid": "50ocP9g__",
+                    "edit-time": 1619634500630,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "edit-time": 1619634636386,
+                    "children": [
+                      {
+                        "string": "this effectively shows the “difference” in conversation/discussion",
+                        "create-time": 1619634649851,
+                        "uid": "egeugJTYu",
+                        "edit-time": 1619634663145,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "ZuxcbnfVv"
+                      }
+                    ],
+                    "uid": "zJYy4IuY9",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ZuxcbnfVv"
+                      }
+                    ],
+                    "string": "{{[[TODO]]}} diff: <insert URL when next backup is generated at top of the hour>",
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "create-time": 1619634500694,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "it should theoretically be possible to see the difference between your last visit and today",
+                    "create-time": 1619634663126,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "children": [
+                      {
+                        "string": "#expectations github has a different sense of “time” than “traditional” version control systems",
+                        "create-time": 1619634708676,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "MSECoW2W8"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "MSECoW2W8"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "uid": "K4JU1VmOM",
+                        "edit-time": 1619634736854,
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      }
+                    ],
+                    "uid": "FbZOAKY34",
+                    "edit-time": 1619634701184,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "aZQKDqgn9",
+                "edit-time": 1619634415986,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "because this is open, an infinite # of tools can be extended to refine the #UX",
+                "create-time": 1619634418713,
+                ":block/refs": [
+                  {
+                    ":block/uid": "ot-8IILNA"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "ot-8IILNA"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "klopoHiQv",
+                "edit-time": 1619634449436,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "js129dDHd"
+              }
+            ],
+            "uid": "-WxpJTrx6",
+            ":block/refs": [
+              {
+                ":block/uid": "js129dDHd"
+              }
+            ],
+            "string": "this graph is a [[living prototype]] :)",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1619634335808,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "edit-time": 1619634897648,
+            "children": [
+              {
+                "string": "I don’t think Roam public pages are SEO optimized like Notion (yet)",
+                "create-time": 1619634922723,
+                "uid": "GByzV0X1q",
+                "edit-time": 1619634950010,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ZuxcbnfVv"
+              },
+              {
+                "uid": "04-27-2021"
+              },
+              {
+                "uid": "zBpdZwF6B"
+              }
+            ],
+            "uid": "am_vwrtGi",
+            ":block/refs": [
+              {
+                ":block/uid": "ZuxcbnfVv"
+              },
+              {
+                ":block/uid": "04-27-2021"
+              },
+              {
+                ":block/uid": "zBpdZwF6B"
+              }
+            ],
+            "string": "{{[[TODO]]}} #checkin Please verify you are okay with **all** the text in the [[April 27th, 2021]] block being public",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1619634823974,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "I’m playing with the mindmap extension and started a discussion on Twitter in regards to where to take this visualization (such as using page filters to reduce scope - map exports are unreadable at this scale)",
+            "create-time": 1619635256511,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsocialcommons%2FQ5TRQVcqPb.png?alt=media&token=75704b14-9623-4c64-9667-c3bba782f9a6)",
+                "create-time": 1619635300419,
+                "uid": "T0GZMS1jC",
+                "edit-time": 1619635511597,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "_6FhPkjkR",
+            "edit-time": 1619635557157,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "04-28-2021"
+          }
+        ],
+        "uid": "sLPcPceoP",
+        ":block/refs": [
+          {
+            ":block/uid": "04-28-2021"
+          }
+        ],
+        "string": "[[April 28th, 2021]]",
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "create-time": 1619634226548,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
         "edit-time": 1619555960665,
         "children": [
           {
@@ -53272,6 +53526,54 @@
     "title": "April 28th, 2021",
     "uid": "04-28-2021",
     "edit-time": 1619571710220,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1619634449440,
+    "title": "UX",
+    "uid": "ot-8IILNA",
+    "edit-time": 1619634449441,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1619634724842,
+    "title": "expectations",
+    "uid": "MSECoW2W8",
+    "edit-time": 1619634724846,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1619634836371,
+    "title": "living prototype",
+    "uid": "js129dDHd",
+    "edit-time": 1619634836376,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1619634850607,
+    "title": "checkin",
+    "uid": "zBpdZwF6B",
+    "edit-time": 1619634850610,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
