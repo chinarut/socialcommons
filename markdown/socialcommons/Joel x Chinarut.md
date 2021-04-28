@@ -45,8 +45,12 @@
         - what role does “the crowd” play in such a system?
     - in particular, what it is going to take to enable a [[resource-based economy]]?
 - constraints
-    - 
-    - 
+    - [[Chinarut 🦥]]
+        - deprioritization of email, text, mobile
+        - prioritization of landline
+        - focus on public group context/shares on and offline
+        - co-facilitation with partner as primary lead and focusing on [[removing gaps]] in end-user experience
+        - 
 - anchors
     - {{[[TODO]]}} #proposal one page proposal summarizing a context for alignment and common call for action 
         - For instance, if you wanted to get a group of people together to prototype a wellbeing commons that deeply integrated with research literature, that would be of great interest to me.
@@ -239,6 +243,8 @@
         - I believe Roam public pages are **not** SEO optimized like Notion (yet)
     - {{[[TODO]]}} confirm [[partnership schema]] (above, maintained, group/partner memory) and decide what belongs in our journal (and how this is distinct from Daily NOtes)
         - #consideration ability to track change atomically at a single page level vs at the graph level (this page and daily notes)
+    - {{[[TODO]]}} how can [[Chinarut 🦥]] complement [[Joel Chan]] in leading the group?
+        - what kinds of things is he good at explaining?
 - journal
     - [[April 28th, 2021]]
         - [[Chinarut 🦥]]
