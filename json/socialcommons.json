@@ -49312,11 +49312,43 @@
                     }
                   },
                   {
-                    "string": "[[Joel Chan]] I assume around ",
-                    "create-time": 1619641107606,
-                    ":block/refs": [
+                    "edit-time": 1619641243641,
+                    "children": [
                       {
-                        ":block/uid": "puB_wMYIa"
+                        "edit-time": 1619641234150,
+                        "children": [
+                          {
+                            "string": "((xB_Jje76C))",
+                            "create-time": 1619641260338,
+                            "uid": "0uRUNdOv0",
+                            "edit-time": 1619641261702,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "puB_wMYIa"
+                          }
+                        ],
+                        "uid": "Bu9aWu_m1",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "puB_wMYIa"
+                          }
+                        ],
+                        "string": "[Knowledge synthesis: A conceptual model and practical guide](https://oasislab.pubpub.org/pub/54t0y9mk/release/2) [[Joel Chan]]",
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "create-time": 1619641233559,
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
                       }
                     ],
                     "refs": [
@@ -49324,11 +49356,17 @@
                         "uid": "puB_wMYIa"
                       }
                     ],
+                    "uid": "FFVLWLRPj",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "puB_wMYIa"
+                      }
+                    ],
+                    "string": "[[Joel Chan]] I assume around the nature of synthesis",
                     ":create/user": {
                       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                     },
-                    "uid": "FFVLWLRPj",
-                    "edit-time": 1619641145011,
+                    "create-time": 1619641107606,
                     ":edit/user": {
                       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                     }

@@ -87,12 +87,16 @@
     - [[Beau Haan 📌 ]]
         - [[How to Take Smart Notes]]
             - [[Chinarut 🦥]] via [[roam book club]]
-            - [[Joel Chan]] I assume around 
+            - [[Joel Chan]] I assume around the nature of how synthesis unfolds
+                - [Knowledge synthesis: A conceptual model and practical guide](https://oasislab.pubpub.org/pub/54t0y9mk/release/2) [[Joel Chan]]
+                    - ((xB_Jje76C))
     - [[Sonke]]
         - [[How a Wellbeing Commons Works]] [[Chinarut 🦥]]
             - **(7) Soren**
     - [[Matt B]]
         - [[roam book club]] [[The Culture Code]] [[Braiding Sweetgrass]] [[Chinarut 🦥]]
+    - [[Henry F]]
+    - 
 - relevant artifacts developed to date {{[[POMO]]: 25}}
     - ((iTf6dbCe5)) -> [key research influences](https://www.notion.so/communitygarden/Key-Research-Influences-c9e61171936c43919a40a3bfd5db70d3) #Notion
     - ((jBbB4uVhV))
