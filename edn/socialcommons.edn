@@ -39586,8 +39586,8 @@
   [3339 :version/id "0.8.4" 536873674]
   [3339
    :version/nonce
-   "uuidf26fd4c9-18e9-4278-bff7-35ff981abd8d"
-   536875002]
+   "uuid0b240f7b-dcd4-4417-b8a7-4561187fe84c"
+   536875007]
   [3340 :block/open true 536873675]
   [3340 :block/order 0 536873675]
   [3340 :block/page 3338 536873676]
@@ -47234,11 +47234,14 @@
   [4000 :block/order 10 536874900]
   [4000 :block/page 3511 536874809]
   [4000 :block/parents 3511 536874809]
-  [4000 :block/string "action items" 536874810]
+  [4000
+   :block/string
+   "committed action items (ideally with dates :)"
+   536875007]
   [4000 :block/uid "ISROyNqC4" 536874808]
   [4000 :create/time 1619641691795 536874808]
   [4000 :create/user 1 536874808]
-  [4000 :edit/time 1619641694379 536874810]
+  [4000 :edit/time 1619646689456 536875007]
   [4000 :edit/user 1 536874808]
   [4001 :block/children 3853 536874826]
   [4001 :block/open false 536874885]

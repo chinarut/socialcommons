@@ -237,7 +237,7 @@
         - [[open source]]
             - **(3) home automation**
             - **(5) open source meets nostalgia**
-- action items
+- committed action items (ideally with dates :)
 - opens
     - {{[[TODO]]}} #checkin Please verify you are okay with **all** the text on this page being public
         - I believe Roam public pages are **not** SEO optimized like Notion (yet)

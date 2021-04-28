@@ -52377,10 +52377,10 @@
         }
       },
       {
-        "string": "action items",
+        "string": "committed action items (ideally with dates :)",
         "create-time": 1619641691795,
         "uid": "ISROyNqC4",
-        "edit-time": 1619641694379,
+        "edit-time": 1619646689456,
         ":create/user": {
           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
         },
