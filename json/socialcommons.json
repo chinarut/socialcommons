@@ -51233,12 +51233,12 @@
                 "create-time": 1619566547551,
                 ":block/refs": [
                   {
-                    ":block/uid": "I4As4zolR"
+                    ":block/uid": "5rSgxzG9K"
                   }
                 ],
                 "refs": [
                   {
-                    "uid": "I4As4zolR"
+                    "uid": "5rSgxzG9K"
                   }
                 ],
                 ":create/user": {
@@ -51246,6 +51246,40 @@
                 },
                 "uid": "ga-GJNUyJ",
                 "edit-time": 1619566548700,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "{{[[TODO]]}} provided it makes sense, will you support me in a game plan to refine my [[graduate school]] application by [[November 15th, 2021]]? ",
+                "create-time": 1619547414781,
+                ":block/refs": [
+                  {
+                    ":block/uid": "ZuxcbnfVv"
+                  },
+                  {
+                    ":block/uid": "ae6KVEg3-"
+                  },
+                  {
+                    ":block/uid": "11-15-2021"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "ZuxcbnfVv"
+                  },
+                  {
+                    "uid": "ae6KVEg3-"
+                  },
+                  {
+                    "uid": "11-15-2021"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "ILx4-NrtG",
+                "edit-time": 1619555095094,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }
@@ -52331,10 +52365,10 @@
         }
       },
       {
-        "string": "",
+        "string": "journal",
         "create-time": 1619640341991,
         "uid": "T5YHQldbh",
-        "edit-time": 1619640341991,
+        "edit-time": 1619641817058,
         ":create/user": {
           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
         },
@@ -53615,7 +53649,7 @@
                 }
               },
               {
-                "edit-time": 1619555095094,
+                "edit-time": 1619641756916,
                 "children": [
                   {
                     "string": "((Juc767jYJ))",
@@ -53632,32 +53666,20 @@
                 ],
                 "refs": [
                   {
-                    "uid": "ZuxcbnfVv"
-                  },
-                  {
-                    "uid": "ae6KVEg3-"
-                  },
-                  {
-                    "uid": "11-15-2021"
+                    "uid": "ILx4-NrtG"
                   }
                 ],
-                "uid": "ILx4-NrtG",
+                "uid": "LFjUJwCVM",
                 ":block/refs": [
                   {
-                    ":block/uid": "ZuxcbnfVv"
-                  },
-                  {
-                    ":block/uid": "ae6KVEg3-"
-                  },
-                  {
-                    ":block/uid": "11-15-2021"
+                    ":block/uid": "ILx4-NrtG"
                   }
                 ],
-                "string": "{{[[TODO]]}} provided it makes sense, will you support me in a game plan to refine my [[graduate school]] application by [[November 15th, 2021]]? ",
+                "string": "((ILx4-NrtG))",
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
-                "create-time": 1619547414781,
+                "create-time": 1619641752491,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }
