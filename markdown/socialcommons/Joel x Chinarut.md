@@ -87,7 +87,7 @@
     - [[Beau Haan 📌 ]]
         - [[How to Take Smart Notes]]
             - [[Chinarut 🦥]] via [[roam book club]]
-            - 
+            - [[Joel Chan]] I assume around 
     - [[Sonke]]
         - [[How a Wellbeing Commons Works]] [[Chinarut 🦥]]
             - **(7) Soren**

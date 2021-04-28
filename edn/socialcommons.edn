@@ -39586,8 +39586,8 @@
   [3339 :version/id "0.8.4" 536873674]
   [3339
    :version/nonce
-   "uuidee9f41ea-9feb-401b-9cfd-7b564d893bf0"
-   536874702]
+   "uuid0d5c6f25-987f-49ea-aac6-384d946a99a1"
+   536874707]
   [3340 :block/open true 536873675]
   [3340 :block/order 0 536873675]
   [3340 :block/page 3338 536873676]
@@ -43625,7 +43625,7 @@
   [3701 :block/children 3741 536874311]
   [3701 :block/children 3744 536874311]
   [3701 :block/children 3750 536874311]
-  [3701 :block/open false 536874315]
+  [3701 :block/open true 536874705]
   [3701 :block/order 6 536874609]
   [3701 :block/page 3511 536874285]
   [3701 :block/parents 3511 536874285]
@@ -46245,6 +46245,7 @@
   [3949 :edit/time 1619640970635 536874645]
   [3949 :edit/user 1 536874645]
   [3950 :block/children 3953 536874670]
+  [3950 :block/children 3958 536874703]
   [3950 :block/open true 536874653]
   [3950 :block/order 0 536874655]
   [3950 :block/page 3511 536874654]
@@ -46316,4 +46317,18 @@
   [3957 :block/string "" 536874702]
   [3957 :block/uid "IKMS12aRL" 536874702]
   [3957 :edit/time 1619641101224 536874702]
-  [3957 :edit/user 1 536874702]]}
+  [3957 :edit/user 1 536874702]
+  [3958 :block/open true 536874703]
+  [3958 :block/order 1 536874703]
+  [3958 :block/page 3511 536874704]
+  [3958 :block/parents 3511 536874704]
+  [3958 :block/parents 3858 536874704]
+  [3958 :block/parents 3948 536874704]
+  [3958 :block/parents 3950 536874704]
+  [3958 :block/refs 2204 536874707]
+  [3958 :block/string "[[Joel Chan]] I assume around " 536874706]
+  [3958 :block/uid "FFVLWLRPj" 536874703]
+  [3958 :create/time 1619641107606 536874703]
+  [3958 :create/user 1 536874703]
+  [3958 :edit/time 1619641145011 536874706]
+  [3958 :edit/user 1 536874703]]}

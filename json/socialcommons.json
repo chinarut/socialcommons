@@ -49310,6 +49310,28 @@
                     ":edit/user": {
                       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                     }
+                  },
+                  {
+                    "string": "[[Joel Chan]] I assume around ",
+                    "create-time": 1619641107606,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "puB_wMYIa"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "puB_wMYIa"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "uid": "FFVLWLRPj",
+                    "edit-time": 1619641145011,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
                   }
                 ],
                 "refs": [
