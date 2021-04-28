@@ -1,55 +1,220 @@
-- [[April 28th, 2021]]
-    - this graph is a [[living prototype]] :)
-        - graph backed up hourly to https://github.com/chinarut/socialcommons
-        - what I wake up excited about is the opportunity to see “diffs” (literally the way code monkeys do) and visualize changes in partnership exploration pages
-            - current page: https://github.com/chinarut/socialcommons/blob/main/markdown/socialcommons/Joel%20x%20Chinarut.md
-            - {{[[TODO]]}} diff: <insert URL when next backup is generated at top of the hour>
-                - this effectively shows the “difference” in conversation/discussion
-            - it should theoretically be possible to see the difference between your last visit and today
-                - #expectations github has a different sense of “time” than “traditional” version control systems
-        - because this is open, an infinite # of tools can be extended to refine the #UX
-    - {{[[TODO]]}} #checkin Please verify you are okay with **all** the text in the [[April 27th, 2021]] block being public
-        - I don’t think Roam public pages are SEO optimized like Notion (yet)
-    - I’m playing with the mindmap extension and started a discussion on Twitter in regards to where to take this visualization (such as using page filters to reduce scope - map exports are unreadable at this scale)
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsocialcommons%2FQ5TRQVcqPb.png?alt=media&token=75704b14-9623-4c64-9667-c3bba782f9a6)
-- [[April 27th, 2021]]
-    - key contexts
-        - [[context of global transformation]] & [[social impact]] [[Landmark Worldwide]]
-            - [Nature of Transformation](https://www.notion.so/Nature-of-Transformation-64af1eb87cd84ee7a55b189065cc1399#d74143b6b1dd4da1aa057e17f065a45b) #Notion [[Thailand]]
-        - long-term futures
-            - relationship to nature [[Braiding Sweetgrass]]
-            - creating room for the future of undistracted work and living [[[[rest]]/[[book]]]]
-            - spaces free of screens [[24/6]]
-                - ((GaqH149-3))
-                - haven’t checked incoming email, mobile vmail, mobile texts, Facebook for 9 days
-            - creating room for higher order systemic social change [[The Zeitgeist Movement]]
-                - {{[[TODO]]}} zettel [[The Zeitgeist Movement Defined]]
-            - creating room for higher order conversations around [[somatic psychotherapy]] [[Diverse Bodies, Diverse Practices]] [[social movement science]]
-                - experience with [[Dance Labs]], #BAmF and Bay Area dance culture in general (at the level of personal transformation)
-        - shorter-term futures
-            - [[universal basic income]] [[Andrew Yang]]
-                - ((ZeSvCIsLu))
-                    - ((h6I3XHeio))
-    - goals
-        - to develop a context for alignment and a common call to action
-            - For instance, if you wanted to get a group of people together to prototype a wellbeing commons that deeply integrated with research literature, that would be of great interest to me.
-            - process for wellbeing discovery through individual journaling, synthetic book club, and elaborating in a digital garden
-                - ((GtEf_Zohf))
-                    - [@socialcommons/Wellbeing Commons](https://roamresearch.com/#/app/socialcommons/page/TBzCoGxjt)
+- key contexts
+    - [[context of global transformation]] & [[social impact]] [[Landmark Worldwide]]
+        - focus on enabling systemic change for [[global transformation]]
+        - creating room for higher order systemic social change [[The Zeitgeist Movement]]
+        - [Nature of Transformation](https://www.notion.so/Nature-of-Transformation-64af1eb87cd84ee7a55b189065cc1399#d74143b6b1dd4da1aa057e17f065a45b) #Notion [[Thailand]]
+    - evidence-based
+        - Problem of **synthesizing** diverse lines of evidence --- e.g., primary and secondary research literature, wisdom and religious literature, personal experiences, ideas from others, personal experiments --- ^^to empower individuals to take action towards wellbeing^^
+        - For instance, if you wanted to get a group of people together to prototype a wellbeing commons that deeply integrated with research literature, that would be of great interest to me.
+    - long-term futures
+        - relationship to nature [[Braiding Sweetgrass]]
+        - creating room for the future of undistracted work and living [[[[rest]]/[[book]]]]
+        - spaces free of screens [[24/6]]
+            - ((GaqH149-3))
+            - haven’t checked incoming email, mobile vmail, mobile texts, Facebook for 9 days
+        - creating room for higher order systemic social change [[The Zeitgeist Movement]]
+            - {{[[TODO]]}} zettel [[The Zeitgeist Movement Defined]]
+        - creating room for higher order conversations around [[somatic psychotherapy]] [[Diverse Bodies, Diverse Practices]] [[social movement science]]
+            - experience with [[Dance Labs]], #BAmF and Bay Area dance culture in general (at the level of personal transformation)
+    - shorter-term futures
+        - [[universal basic income]] [[Andrew Yang]]
+            - ((ZeSvCIsLu))
+                - ((h6I3XHeio))
+- goals
+    - to develop a context for alignment and a common call to action
+        - For instance, if you wanted to get a group of people together to prototype a wellbeing commons that deeply integrated with research literature, that would be of great interest to me.
+        - process for wellbeing discovery through individual journaling, synthetic book club, and elaborating in a digital garden
+            - ((GtEf_Zohf))
+                - [@socialcommons/Wellbeing Commons](https://roamresearch.com/#/app/socialcommons/page/TBzCoGxjt)
+        - {{[[TODO]]}} #proposal one page proposal summarizing a context for alignment and common call for action 
+    - [[Joel Chan]]’s goals
+        - <insert here :)>
+        - #roam-synthesis
+    - [[Chinarut 🦥]]’s goals
+        - reduce overhead
+            - communicate priorities (particularly putting projects/outcomes down)
+                - GTD sweep to identify all the outcomes/projects I have my mind on and putting down 80% of the work -> [[GTD Projects]]
+        - reduce burnrate
+        - generate revenue/income
+        - stay focused
+            - reduce distractions
+            - nurture creative mind -> [[[[rest]]/[[book]]]] and pomodoro
+        - transform my relationship to my #physical body
+- research questions/inquiries
+    - how do we enable machine agents to organize agendas (known and unknown) that exist between people,  partners, teams, organizations, communities, and nations?
+        - what role does “the crowd” play in such a system?
+    - in particular, what it is going to take to enable a [[resource-based economy]]?
+- anchors
+    - {{[[TODO]]}} #proposal one page proposal summarizing a context for alignment and common call for action 
+        - For instance, if you wanted to get a group of people together to prototype a wellbeing commons that deeply integrated with research literature, that would be of great interest to me.
+            - ((kfSZfSpMR))
+            - ((n39e6oiun))
+        - process for wellbeing discovery through individual journaling, synthetic book club, and elaborating in a digital garden
+            - ((GtEf_Zohf))
+                - ((1W2A4K4d3))
+    - ((ZeSvCIsLu))
+    - ((YhJwBNGVF))
+        - I still find your chosen problem compelling, but ^^there are still questions about whether this is best done in the context of a PhD^^ (vs. say, working on it in a nonprofit or other model).
+    - #roam-synthesis
+- past influences/declarations
+    - [[Joel Chan]] self-declared (Sept/Oct 2020) he doesn’t make a great career coach
+        - ((Uhk6p2xwM))
+        - ((e3126ZklC))
+    - [[Chinarut 🦥]] it took what feels like “extreme” measures to arrive at this page (Apr 2021) with an intent to synthesize our discussions in {{[[POMO]]: 25}}
+        - GTD sweep to identify all the outcomes/projects I have my mind on and putting down 80% of the work -> [[GTD Projects]]
+            - ((e_azySqio))
+            - #future [[collaborative GTD]]
+        - putting down my volunteer engagements w #roam-synthesis and #BAmF
+            - not picking up the ball for #BAmF until January 2022 (trigger is team commitment to gather community for first dance event in SF bay area)
+        - focusing my energies on [[day of volunteering]] with [[roam book club]]
+            - [[The Culture Code]]
+            - expanding my [[slipbox]]: [[Chinarut/Zettels]] publicly, as a digital garden
+                - [[Braiding Sweetgrass]]
+            - connecting with other Roam believers
+            - being an [[engineer on the ship]]
+                - automating hourly backup of book graph (roam2github)
+            - practicing being in communication with the group once/week (a ^^“day of” event volunteer^^)
+        - haven’t checked incoming email, mobile vmail, mobile texts, Facebook for 9 days
+            - ((gC5xKaQ4I))
+        - creating room for higher order systemic social change [[The Zeitgeist Movement]]
+        - creating room for the future of undistracted work and living
+            - [[24/6]]
+            - [[[[rest]]/[[book]]]] [[science of rest]] (which has a relationship to [[science of sleep]]) [[Henry F]]
+        - creating room for higher order conversations around [[somatic psychotherapy]] [[Diverse Bodies, Diverse Practices]] [[social movement science]]
+            - connecting these conversations with the constellation of items around [[Dance Labs]]
+                - ((XSkkFs4Lg))
+- conversations developed with mutual connections
+    - [[Beau Haan 📌 ]]
+        - [[How to Take Smart Notes]]
+            - 
+    - [[Sonke]]
+        - **(7) Soren**
+    - [[Matt B]]
+        - [[roam book club]] [[Chinarut 🦥]]
+- relevant artifacts developed to date {{[[POMO]]: 25}}
+    - ((iTf6dbCe5)) -> [key research influences](https://www.notion.so/communitygarden/Key-Research-Influences-c9e61171936c43919a40a3bfd5db70d3) #Notion
+    - ((jBbB4uVhV))
+        - [Scaling up analogical innovation with crowds and AI](https://www.notion.so/communitygarden/Scaling-up-analogical-innovation-with-crowds-and-AI-d9e6b15216e5491d9e7750061cdc4e6c) #Notion
+            - {{[[TODO]]}} how do I keep up with developments in your research was published since Aug 2020?
+    - ((bV66p1aOx))
+        - [[Statement of Purpose]]
+        - [[Personal Statement]]
+        - [[Statement of Research]]
+            -  [[How a Wellbeing Commons Works]]
+                - ((1W2A4K4d3))
+                - ((_vWD0tPdJ))
+                    - ((-20j5S6sY))
+                    - ((NtJqLuOl8))
+                        - ((3p7rgA2pD))
+                            - ((0eiAiUwX5))
+                                - ((L4sE8ZvEw))
+                            - ((BvNfwuntP))
+                    - ((284vG1rC7))
+                        - ((PCrc9p2vA))
+                        - ((ZxSksCbCg))
             - {{[[TODO]]}} #proposal one page proposal summarizing a context for alignment and common call for action 
-        - [[Joel Chan]]’s goals
-            - <insert here :)>
-            - #roam-synthesis
-        - [[Chinarut]]’s goals
-            - reduce overhead
-                - communicate priorities (particularly putting projects/outcomes down)
-                    - GTD sweep to identify all the outcomes/projects I have my mind on and putting down 80% of the work -> [[GTD Projects]]
-            - reduce burnrate
-            - generate revenue/income
-            - stay focused
-                - reduce distractions
-                - nurture creative mind -> [[[[rest]]/[[book]]]] and pomodoro
-            - transform my relationship to my #physical body
+        - [[Impact of Industry Experience Statement]]
+        - [[Zettelkasten slipbox]]
+            - ((_vWD0tPdJ))
+                - ((Q2rCSIhpN))
+                    - ((RiS9NiKo4))
+                        - ((AI58SNdjs))
+                - ((4GX0jydyR))
+        - [[HCI Portfolio]]
+            - [[resume/research]] (modeled after [[HCI]])
+    - [[Weave Your Legacy]]
+    - ((mybyIY-4g))
+        - [[in-graph support experience]]
+        - ((e_azySqio))
+    - #roam-synthesis
+        - ((IkNBra_pK))
+        - ((xB_Jje76C))
+        - [[science of sleep]] [[Henry F]] <- [[science of rest]]
+            - nurture creative mind -> [[[[rest]]/[[book]]]] and pomodoro
+        - **(1) roam-medical**
+    - ((l1bj4BsGF))
+        - ((esy-R0Qu6))
+        - [[Braiding Sweetgrass]]
+        - ((HunpA4bxq))
+            - ((rHtbk4h2m))
+                - ((aqOfy2Z5Z))
+- possible futures
+    - [[Joel Chan]]’s suggestion to consider alternative structures
+        - {{[[TODO]]}} #proposal one page proposal summarizing a context for alignment and common call for action 
+        - I still find your chosen problem compelling, but ^^there are still questions about whether this is best done in the context of a PhD^^ (vs. say, working on it in a nonprofit or other model).
+        - non-profit quickly gets into territory of building a sustainable effort with [[Dance Labs]]
+    - ((ZeSvCIsLu))
+        - #cashflow #financial
+        - **(4) PT income**
+        - research position
+        - corporate position
+            - ((3ISO0iE5x))
+                - have reservations (particularly due to lack of engagement with proposals like [[in-graph support experience]] and efforts to synthesize in [[relevant experience]])
+                    - will be meeting [[Jessy]] [[May 4th, 2021]]
+            - position at [[Gallup]] advised by [[Jim Harter]] focusing on the arts, academia, and tech startups (like Roam) being groomed to be a management consultant with a niche in [[Wellbeing Finder]] and aligned with [[strengths-based leadership]]
+                - ((_zJ_Cf8Mj))
+    - [[Independent Researcher Fund Development Campaign]] choice: [[crowdfunding]]
+        - [[Weave Your Legacy]]
+    - [[graduate school]] Fall 2022
+        - I am considering applying to [[Heinz College]] (particularly to include [[arts management]]))
+        - **(6) U of Washington & bioinformatics**
+    - pivot [[Dance Labs]] as a management consultancy guiding dance communities the strategic importance of holistic wellbeing  (#application)
+        - [[5 Essential Elements of Wellbeing]]
+        - [[Wellbeing Commons]]
+        - [[Business Model You]]
+        - possible case for [[business school]]
+            - or technically [[Heinz College]] in partnership with Tepper (as i do believe in the assertion [[Daniel Pink]] makes, [[A Whole New Mind]] that a MFA is the new MBA)
+- challenges
+    - [[operating outside the system]] - I feel like I’m operating in a [[gift economy]] and [[resource-based economy]] when the reality is we are a market-driven capitalistic economy
+        - [[The Zeitgeist Movement]]
+    - [[what medium is best to coordinate networks of conversation across collaborators]]
+        - it seems like... #seeming
+            - ((V94WousqF))
+        - I am entertaining higher order conversations with [[Oshyan]] (who I met in Reddit)
+            - {{[[TODO]]}} https://www.oshyan.com/i-started-a-digital-garden/  #@Review
+    - cross-graph referencing
+        - [The Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora/page/wujSyfjAu) #multiplayer (suggested exploration by [[Joel Chan]])
+            - filled out form and never got a response in regards to next steps (as of [[April 18th, 2021]])
+        - ((zvpgvJiUn))
+            - I want our teams to support the early development
+                - {{[[TODO]]}} approach “Stein” (Maggie Delano says he was hired to work on this?)
+        - I am willing to spend time declaring what boundaries exist between (is this related to [[information architecture]]?)
+            - Chinarut’s personal graph
+                - what is the distinction between [[Joel Chan]] and [[Joel x Chinarut]] in a graph?
+                    - is [[Joel Chan]] a workaround because block-level permissions do not exist in Roam akin to UNIX file permissions?
+                        - part of the issue is entire graphs are loaded in-browser so someone “clever” could gain access to blocks they otherwise do not have permissions to gain access to
+                        - {{[[TODO]]}} implement UNIX-like block-level permissions in Roam #support
+                - [[Joel Chan]]
+                - [[Joel x Chinarut]]
+            - Joel’s personal graph
+            - your lab graph
+            - #roam-synthesis graph
+            - related spaces
+                - Notion
+                - Slack
+                - book club graph (current book “pointer”)
+                - organizer book club graph
+    - choosing a direction (**and** being present and open to change)
+        - [[[[How to Decide]]/[[book]]]]
+        - ((LSbRmQouv)) -> 10 weeks of coaching
+    - keeping distractions at bay
+        - **(9) disruption**
+        - platforms designed to index the world’s media (as it relates to fillms) Trakt.TV
+            - commitment to model one’s “orb” as everyday knowledge objects like books and films [[Project Orbital]]
+        - self-care (!)
+        - [[open source]]
+            - **(3) home automation**
+            - **(5) open source meets nostalgia**
+- 
+- {{[[TODO]]}} clarify what are [[foundational blocks]] (above, maintained, group/partner memory) vs [[temporal blocks]] (below, based on point in time - arguably could be moved to Daily Notes) 
+    - there is a #dilemma in regards the ability to track change atomically at a single page level vs at the graph level (this page and daily notes)
+- 
+- [[April 28th, 2021]]
+    - {{[[TODO]]}} #checkin Please verify you are okay with **all** the text in the [[April 27th, 2021]] block being public
+        - I believe Roam public pages are **not** SEO optimized like Notion (yet)
+    - what I wake up excited about is the opportunity to see “diffs” (literally the way code monkeys do) and visualize changes in partnership exploration pages
+    - I’m playing with the mindmap extension and started a discussion on Twitter in regards to where to take this visualization (such as using page filters to reduce scope - map exports are unreadable at this scale)
+- [[April 27th, 2021]]
     - key changes
         - focus on enabling systemic change for [[global transformation]]
             - in particular, what it is going to take to enable a [[resource-based economy]]?
@@ -68,7 +233,7 @@
             - Facebook fan page(s) are a possibility
             - LinkedIn is also a possibility
         - co-facilitation with partner as primary lead and focusing on [[removing gaps]] in end-user experience
-            - {{[[TODO]]}} how can [[Chinarut]] complement [[Joel Chan]] in leading the group?
+            - {{[[TODO]]}} how can [[Chinarut 🦥]] complement [[Joel Chan]] in leading the group?
                 - what kinds of things is he good at explaining?
         - ((1W2A4K4d3))
     - ((wQHvl1eZI)) {{[[POMO]]: 25}}
@@ -127,173 +292,12 @@
         - I am of course still open to continuing discussions, although I think the current pace of responding will be about right, unless there is some critical time-sensitive opportunity that aligns with my research critical paths.
             - For instance, if you wanted to get a group of people together to prototype a wellbeing commons that deeply integrated with research literature, that would be of great interest to me.
         - I appreciate your energy and enthusiasm, as always, and hope we can continue corresponding!
-    - anchors
-        - {{[[TODO]]}} #proposal one page proposal summarizing a context for alignment and common call for action 
-            - For instance, if you wanted to get a group of people together to prototype a wellbeing commons that deeply integrated with research literature, that would be of great interest to me.
-                - ((kfSZfSpMR))
-                - ((n39e6oiun))
-            - process for wellbeing discovery through individual journaling, synthetic book club, and elaborating in a digital garden
-                - ((GtEf_Zohf))
-                    - ((1W2A4K4d3))
-        - ((ZeSvCIsLu))
-        - ((YhJwBNGVF))
-            - I still find your chosen problem compelling, but ^^there are still questions about whether this is best done in the context of a PhD^^ (vs. say, working on it in a nonprofit or other model).
-        - #roam-synthesis
-    - past influences/declarations
-        - [[Joel Chan]] self-declared (Sept/Oct 2020) he doesn’t make a great career coach
-            - ((Uhk6p2xwM))
-            - ((e3126ZklC))
-        - it took what feels like “extreme” measures to arrive at this page with an intent to synthesize our discussions in {{[[POMO]]: 25}}
-            - GTD sweep to identify all the outcomes/projects I have my mind on and putting down 80% of the work -> [[GTD Projects]]
-                - ((e_azySqio))
-                - #future [[collaborative GTD]]
-            - putting down my volunteer engagements w #roam-synthesis and #BAmF
-                - not picking up the ball for #BAmF until January 2022 (trigger is team commitment to gather community for first dance event in SF bay area)
-            - focusing my energies on [[day of volunteering]] with [[roam book club]]
-                - [[The Culture Code]]
-                - expanding my [[slipbox]]: [[Chinarut/Zettels]] publicly, as a digital garden
-                    - [[Braiding Sweetgrass]]
-                - connecting with other Roam believers
-                - being an [[engineer on the ship]]
-                    - automating hourly backup of book graph (roam2github)
-                - practicing being in communication with the group once/week (a ^^“day of” event volunteer^^)
-            - haven’t checked incoming email, mobile vmail, mobile texts, Facebook for 9 days
-                - ((gC5xKaQ4I))
-            - creating room for higher order systemic social change [[The Zeitgeist Movement]]
-            - creating room for the future of undistracted work and living
-                - [[24/6]]
-                - [[[[rest]]/[[book]]]] [[science of rest]] (which has a relationship to [[science of sleep]]) [[Henry F]]
-            - creating room for higher order conversations around [[somatic psychotherapy]] [[Diverse Bodies, Diverse Practices]] [[social movement science]]
-                - connecting these conversations with the constellation of items around [[Dance Labs]]
-                    - ((XSkkFs4Lg))
-        - past actions
-            - [[Wellbeing Commons]]
-                - [The Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora/page/wujSyfjAu) #multiplayer (suggested exploration by [[Joel Chan]])
-                    - ((L0mCeR9G2))
-                        - filled out form and never got a response in regards to next steps (as of [[April 18th, 2021]])
-    - artifacts developed to date {{[[POMO]]: 25}}
-        - ((iTf6dbCe5)) -> [key research influences](https://www.notion.so/communitygarden/Key-Research-Influences-c9e61171936c43919a40a3bfd5db70d3) #Notion
-        - ((jBbB4uVhV))
-            - [Scaling up analogical innovation with crowds and AI](https://www.notion.so/communitygarden/Scaling-up-analogical-innovation-with-crowds-and-AI-d9e6b15216e5491d9e7750061cdc4e6c) #Notion
-                - {{[[TODO]]}} how do I keep up with developments in your research was published since Aug 2020?
-        - ((bV66p1aOx))
-            - [[Statement of Purpose]]
-            - [[Personal Statement]]
-            - [[Statement of Research]]
-                -  [[How a Wellbeing Commons Works]]
-                    - ((1W2A4K4d3))
-                    - ((_vWD0tPdJ))
-                        - ((-20j5S6sY))
-                        - ((NtJqLuOl8))
-                            - ((3p7rgA2pD))
-                                - ((0eiAiUwX5))
-                                    - ((L4sE8ZvEw))
-                                - ((BvNfwuntP))
-                        - ((284vG1rC7))
-                            - ((PCrc9p2vA))
-                            - ((ZxSksCbCg))
-                - {{[[TODO]]}} #proposal one page proposal summarizing a context for alignment and common call for action 
-            - [[Impact of Industry Experience Statement]]
-            - [[Zettelkasten slipbox]]
-                - ((_vWD0tPdJ))
-                    - ((Q2rCSIhpN))
-                        - ((RiS9NiKo4))
-                            - ((AI58SNdjs))
-                    - ((4GX0jydyR))
-            - [[HCI Portfolio]]
-                - [[resume/research]] (modeled after [[HCI]])
-        - [[Weave Your Legacy]]
-        - ((mybyIY-4g))
-            - [[in-graph support experience]]
-            - ((e_azySqio))
-        - #roam-synthesis
-            - ((IkNBra_pK))
-            - ((xB_Jje76C))
-            - [[science of sleep]] [[Henry F]] <- [[science of rest]]
-                - nurture creative mind -> [[[[rest]]/[[book]]]] and pomodoro
-            - **(1) roam-medical**
-        - ((l1bj4BsGF))
-            - ((esy-R0Qu6))
-            - [[Braiding Sweetgrass]]
-            - ((HunpA4bxq))
-                - ((rHtbk4h2m))
-                    - ((aqOfy2Z5Z))
-    - possible futures
-        - [[Joel Chan]]’s suggestion to consider alternative structures
-            - {{[[TODO]]}} #proposal one page proposal summarizing a context for alignment and common call for action 
-            - I still find your chosen problem compelling, but ^^there are still questions about whether this is best done in the context of a PhD^^ (vs. say, working on it in a nonprofit or other model).
-            - non-profit quickly gets into territory of building a sustainable effort with [[Dance Labs]]
-        - ((ZeSvCIsLu))
-            - #cashflow #financial
-            - **(4) PT income**
-            - research position
-            - corporate position
-                - ((3ISO0iE5x))
-                    - have reservations (particularly due to lack of engagement with proposals like [[in-graph support experience]] and efforts to synthesize in [[relevant experience]])
-                        - will be meeting [[Jessy]] [[May 4th, 2021]]
-                - position at [[Gallup]] advised by [[Jim Harter]] focusing on the arts, academia, and tech startups (like Roam) being groomed to be a management consultant with a niche in [[Wellbeing Finder]] and aligned with [[strengths-based leadership]]
-                    - ((_zJ_Cf8Mj))
-        - [[Independent Researcher Fund Development Campaign]] choice: [[crowdfunding]]
-            - [[Weave Your Legacy]]
-        - [[graduate school]] Fall 2022
-            - I am considering applying to [[Heinz College]] (particularly to include [[arts management]]))
-            - **(6) U of Washington & bioinformatics**
-        - pivot [[Dance Labs]] as a management consultancy guiding dance communities the strategic importance of holistic wellbeing  (#application)
-            - [[5 Essential Elements of Wellbeing]]
-            - [[Wellbeing Commons]]
-            - [[Business Model You]]
-            - possible case for [[business school]]
-                - or technically [[Heinz College]] in partnership with Tepper (as i do believe in the assertion [[Daniel Pink]] makes, [[A Whole New Mind]] that a MFA is the new MBA)
-    - challenges
-        - [[operating outside the system]] - I feel like I’m operating in a [[gift economy]] and [[resource-based economy]] when the reality is we are a market-driven capitalistic economy
-            - [[The Zeitgeist Movement]]
-        - [[what medium is best to coordinate networks of conversation across collaborators]]
-            - it seems like... #seeming
-                - ((V94WousqF))
-            - I am entertaining higher order conversations with [[Oshyan]] (who I met in Reddit)
-                - {{[[TODO]]}} https://www.oshyan.com/i-started-a-digital-garden/  #@Review
-        - cross-graph referencing
+    - past action items
+        - [[Wellbeing Commons]]
             - [The Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora/page/wujSyfjAu) #multiplayer (suggested exploration by [[Joel Chan]])
-                - filled out form and never got a response in regards to next steps (as of [[April 18th, 2021]])
-            - ((zvpgvJiUn))
-                - I want our teams to support the early development
-                    - {{[[TODO]]}} approach “Stein” (Maggie Delano says he was hired to work on this?)
-            - I am willing to spend time declaring what boundaries exist between (is this related to [[information architecture]]?)
-                - Chinarut’s personal graph
-                    - what is the distinction between [[Joel Chan]] and [[Joel x Chinarut]] in a graph?
-                        - is [[Joel Chan]] a workaround because block-level permissions do not exist in Roam akin to UNIX file permissions?
-                            - part of the issue is entire graphs are loaded in-browser so someone “clever” could gain access to blocks they otherwise do not have permissions to gain access to
-                            - {{[[TODO]]}} implement UNIX-like block-level permissions in Roam #support
-                    - [[Joel Chan]]
-                    - [[Joel x Chinarut]]
-                - Joel’s personal graph
-                - your lab graph
-                - #roam-synthesis graph
-                - related spaces
-                    - Notion
-                    - Slack
-                    - book club graph (current book “pointer”)
-                    - organizer book club graph
-        - choosing a direction (**and** being present and open to change)
-            - [[[[How to Decide]]/[[book]]]]
-            - ((LSbRmQouv)) -> 10 weeks of coaching
-        - keeping distractions at bay
-            - **(9) disruption**
-            - platforms designed to index the world’s media (as it relates to fillms) Trakt.TV
-                - commitment to model one’s “orb” as everyday knowledge objects like books and films [[Project Orbital]]
-            - self-care (!)
-            - [[open source]]
-                - **(3) home automation**
-                - **(5) open source meets nostalgia**
+                - ((L0mCeR9G2))
+                    - filled out form and never got a response in regards to next steps (as of [[April 18th, 2021]])
     - moving forward {{[[POMO]]: 25}}
         - {{[[TODO]]}} #proposal one page proposal summarizing a context for alignment and common call for action 
         - {{[[TODO]]}} provided it makes sense, will you support me in a game plan to refine my [[graduate school]] application by [[November 15th, 2021]]? 
             - ((Juc767jYJ))
-    - loose ends
-        - new [[research question]]s
-            - how do we enable machine agents to organize agendas (known and unknown) that exist between people,  partners, teams, organizations, communities, and nations?
-                - what role does “the crowd” play in such a system?
-            - in particular, what it is going to take to enable a [[resource-based economy]]?
-        - conversations developed to date
-            - conversations you’ve developed with [[Beau Haan 📌 ]], [[Sonke]] and [[Matt B]]
-                - **(7) Soren**

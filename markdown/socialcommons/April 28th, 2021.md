@@ -1,0 +1,11 @@
+- this graph is a [[living prototype]] :)
+    - graph is backed up hourly to https://github.com/chinarut/socialcommons
+    - what I wake up excited about is the opportunity to see “diffs” (literally the way code monkeys do) and visualize changes in partnership exploration pages
+        - current page: https://github.com/chinarut/socialcommons/blob/main/markdown/socialcommons/Joel%20x%20Chinarut.md
+        - “difference” in conversation/discussion ([diff](https://github.com/chinarut/socialcommons/commit/c8860d420b6d0cfae8d5ee264955ac15105119e6#diff-b3a7066dcfde15513c4e3ffed7f55d399e8ae4ae726f0c5b4de97af83576bb16)):
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsocialcommons%2FuCfij6gt6J.png?alt=media&token=6f94ae33-6c60-4e67-91b7-c357d60163ce)
+        - it is theoretically possible to see the difference between your last visit and today
+            - #expectations github has a different sense of “time” (eg. now) than “traditional” version control systems
+    - because this is open, an infinite # of tools can be extended to refine the #UX
+- I’m playing with the mindmap extension and started a discussion on Twitter in regards to where to take this visualization (such as using page filters to reduce scope - map exports are unreadable at this scale)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsocialcommons%2FQ5TRQVcqPb.png?alt=media&token=75704b14-9623-4c64-9667-c3bba782f9a6)
