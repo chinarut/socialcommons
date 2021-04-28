@@ -39586,8 +39586,8 @@
   [3339 :version/id "0.8.4" 536873674]
   [3339
    :version/nonce
-   "uuidbb5892d2-aac0-40bc-968c-7fde2291735e"
-   536874673]
+   "uuidee9f41ea-9feb-401b-9cfd-7b564d893bf0"
+   536874702]
   [3340 :block/open true 536873675]
   [3340 :block/order 0 536873675]
   [3340 :block/page 3338 536873676]
@@ -45648,11 +45648,12 @@
   [3862 :create/user 1 536873806]
   [3862 :node/title "Matt B" 536873806]
   [3863 :block/open true 536873806]
-  [3863 :block/order 0 536873806]
+  [3863 :block/order 0 536874694]
   [3863 :block/page 3511 536874610]
   [3863 :block/parents 3511 536874610]
   [3863 :block/parents 3858 536874610]
   [3863 :block/parents 3949 536874652]
+  [3863 :block/parents 3955 536874695]
   [3863 :block/refs 3624 536874659]
   [3863 :block/string "((DuMDPCkry))" 536873806]
   [3863 :block/uid "QbBRXwM1n" 536873806]
@@ -46230,7 +46231,7 @@
   [3948 :create/user 1 536874640]
   [3948 :edit/time 1619640966887 536874640]
   [3948 :edit/user 1 536874640]
-  [3949 :block/children 3863 536874651]
+  [3949 :block/children 3955 536874687]
   [3949 :block/open true 536874645]
   [3949 :block/order 1 536874655]
   [3949 :block/page 3511 536874647]
@@ -46264,12 +46265,17 @@
   [3951 :block/parents 3858 536874661]
   [3951 :block/parents 3859 536874663]
   [3951 :block/refs 501 536874667]
+  [3951 :block/refs 3521 536874686]
   [3951 :block/refs 3669 536874665]
-  [3951 :block/string "[[roam book club]] [[Chinarut 🦥]]" 536874666]
+  [3951 :block/refs 3671 536874682]
+  [3951
+   :block/string
+   "[[roam book club]] [[The Culture Code]] [[Braiding Sweetgrass]] [[Chinarut 🦥]]"
+   536874685]
   [3951 :block/uid "S9PQVkTn4" 536874660]
   [3951 :create/time 1619640993000 536874660]
   [3951 :create/user 1 536874660]
-  [3951 :edit/time 1619641009555 536874666]
+  [3951 :edit/time 1619641080001 536874685]
   [3951 :edit/user 1 536874660]
   [3953 :block/open true 536874668]
   [3953 :block/order 0 536874670]
@@ -46278,9 +46284,36 @@
   [3953 :block/parents 3858 536874669]
   [3953 :block/parents 3948 536874669]
   [3953 :block/parents 3950 536874671]
-  [3953 :block/string "synthesis" 536874673]
+  [3953 :block/refs 501 536874680]
+  [3953 :block/refs 3669 536874680]
+  [3953
+   :block/string
+   "[[Chinarut 🦥]] via [[roam book club]]"
+   536874679]
   [3953 :block/uid "4rCZQ-Jsi" 536874668]
   [3953 :create/time 1619641015617 536874668]
   [3953 :create/user 1 536874668]
-  [3953 :edit/time 1619641026531 536874673]
-  [3953 :edit/user 1 536874668]]}
+  [3953 :edit/time 1619641062525 536874679]
+  [3953 :edit/user 1 536874668]
+  [3955 :block/children 3863 536874694]
+  [3955 :block/open true 536874687]
+  [3955 :block/order 0 536874687]
+  [3955 :block/page 3511 536874688]
+  [3955 :block/parents 3511 536874688]
+  [3955 :block/parents 3858 536874688]
+  [3955 :block/parents 3949 536874688]
+  [3955 :block/refs 501 536874693]
+  [3955 :block/refs 3713 536874690]
+  [3955
+   :block/string
+   "[[How a Wellbeing Commons Works]] [[Chinarut 🦥]]"
+   536874692]
+  [3955 :block/uid "77IDGiG2y" 536874687]
+  [3955 :create/time 1619641088834 536874687]
+  [3955 :create/user 1 536874687]
+  [3955 :edit/time 1619641096541 536874692]
+  [3955 :edit/user 1 536874687]
+  [3957 :block/string "" 536874702]
+  [3957 :block/uid "IKMS12aRL" 536874702]
+  [3957 :edit/time 1619641101224 536874702]
+  [3957 :edit/user 1 536874702]]}

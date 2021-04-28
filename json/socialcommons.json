@@ -49284,13 +49284,29 @@
                 "edit-time": 1619640992102,
                 "children": [
                   {
-                    "string": "",
+                    "string": "[[Chinarut 🦥]] via [[roam book club]]",
                     "create-time": 1619641015617,
-                    "uid": "4rCZQ-Jsi",
-                    "edit-time": 1619641015617,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "2ompgu8xt"
+                      },
+                      {
+                        ":block/uid": "GqkV7qE6U"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "2ompgu8xt"
+                      },
+                      {
+                        "uid": "GqkV7qE6U"
+                      }
+                    ],
                     ":create/user": {
                       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                     },
+                    "uid": "4rCZQ-Jsi",
+                    "edit-time": 1619641062525,
                     ":edit/user": {
                       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                     }
@@ -49341,23 +49357,53 @@
             "edit-time": 1619640970635,
             "children": [
               {
-                "string": "((DuMDPCkry))",
-                "create-time": 1619566602211,
-                ":block/refs": [
+                "edit-time": 1619641096541,
+                "children": [
                   {
-                    ":block/uid": "DuMDPCkry"
+                    "string": "((DuMDPCkry))",
+                    "create-time": 1619566602211,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "DuMDPCkry"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "DuMDPCkry"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "uid": "QbBRXwM1n",
+                    "edit-time": 1619566603643,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
                   }
                 ],
                 "refs": [
                   {
-                    "uid": "DuMDPCkry"
+                    "uid": "2ompgu8xt"
+                  },
+                  {
+                    "uid": "m-N7WBBd3"
                   }
                 ],
+                "uid": "77IDGiG2y",
+                ":block/refs": [
+                  {
+                    ":block/uid": "2ompgu8xt"
+                  },
+                  {
+                    ":block/uid": "m-N7WBBd3"
+                  }
+                ],
+                "string": "[[How a Wellbeing Commons Works]] [[Chinarut 🦥]]",
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
-                "uid": "QbBRXwM1n",
-                "edit-time": 1619566603643,
+                "create-time": 1619641088834,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }
@@ -49387,14 +49433,20 @@
             "edit-time": 1619640970647,
             "children": [
               {
-                "string": "[[roam book club]] [[Chinarut 🦥]]",
+                "string": "[[roam book club]] [[The Culture Code]] [[Braiding Sweetgrass]] [[Chinarut 🦥]]",
                 "create-time": 1619640993000,
                 ":block/refs": [
                   {
                     ":block/uid": "2ompgu8xt"
                   },
                   {
+                    ":block/uid": "mITJLw5pP"
+                  },
+                  {
                     ":block/uid": "GqkV7qE6U"
+                  },
+                  {
+                    ":block/uid": "57wO-ru2F"
                   }
                 ],
                 "refs": [
@@ -49402,14 +49454,20 @@
                     "uid": "2ompgu8xt"
                   },
                   {
+                    "uid": "mITJLw5pP"
+                  },
+                  {
                     "uid": "GqkV7qE6U"
+                  },
+                  {
+                    "uid": "57wO-ru2F"
                   }
                 ],
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
                 "uid": "S9PQVkTn4",
-                "edit-time": 1619641009555,
+                "edit-time": 1619641080001,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }
