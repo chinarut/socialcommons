@@ -126,33 +126,34 @@
     - ((jBbB4uVhV))
         - [Scaling up analogical innovation with crowds and AI](https://www.notion.so/communitygarden/Scaling-up-analogical-innovation-with-crowds-and-AI-d9e6b15216e5491d9e7750061cdc4e6c) #Notion
             - {{[[TODO]]}} how do I keep up with developments in your research was published since Aug 2020?
-    - ((bV66p1aOx))
-        - [[Statement of Purpose]]
-        - [[Personal Statement]]
-        - [[Statement of Research]]
-            -  [[How a Wellbeing Commons Works]]
-                - ((1W2A4K4d3))
+    - [[Chinarut 🦥]]
+        - ((bV66p1aOx))
+            - [[Statement of Purpose]]
+            - [[Personal Statement]]
+            - [[Statement of Research]]
+                -  [[How a Wellbeing Commons Works]]
+                    - ((1W2A4K4d3))
+                    - ((_vWD0tPdJ))
+                        - ((-20j5S6sY))
+                        - ((NtJqLuOl8))
+                            - ((3p7rgA2pD))
+                                - ((0eiAiUwX5))
+                                    - ((L4sE8ZvEw))
+                                - ((BvNfwuntP))
+                        - ((284vG1rC7))
+                            - ((PCrc9p2vA))
+                            - ((ZxSksCbCg))
+                - {{[[TODO]]}} #proposal one page proposal summarizing a context for alignment and common call for action 
+            - [[Impact of Industry Experience Statement]]
+            - [[Zettelkasten slipbox]]
                 - ((_vWD0tPdJ))
-                    - ((-20j5S6sY))
-                    - ((NtJqLuOl8))
-                        - ((3p7rgA2pD))
-                            - ((0eiAiUwX5))
-                                - ((L4sE8ZvEw))
-                            - ((BvNfwuntP))
-                    - ((284vG1rC7))
-                        - ((PCrc9p2vA))
-                        - ((ZxSksCbCg))
-            - {{[[TODO]]}} #proposal one page proposal summarizing a context for alignment and common call for action 
-        - [[Impact of Industry Experience Statement]]
-        - [[Zettelkasten slipbox]]
-            - ((_vWD0tPdJ))
-                - ((Q2rCSIhpN))
-                    - ((RiS9NiKo4))
-                        - ((AI58SNdjs))
-                - ((4GX0jydyR))
-        - [[HCI Portfolio]]
-            - [[resume/research]] (modeled after [[HCI]])
-    - [[Weave Your Legacy]]
+                    - ((Q2rCSIhpN))
+                        - ((RiS9NiKo4))
+                            - ((AI58SNdjs))
+                    - ((4GX0jydyR))
+            - [[HCI Portfolio]]
+                - [[resume/research]] (modeled after [[HCI]])
+        - [[Weave Your Legacy]]
     - ((mybyIY-4g))
         - [[in-graph support experience]]
         - ((e_azySqio))
