@@ -48615,18 +48615,6 @@
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }
-              },
-              {
-                "string": "",
-                "create-time": 1619642116587,
-                "uid": "wPubvRYK9",
-                "edit-time": 1619642116587,
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
               }
             ],
             "refs": [

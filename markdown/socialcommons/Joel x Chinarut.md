@@ -50,7 +50,6 @@
         - prioritization of landline
         - focus on public group context/shares on and offline
         - co-facilitation with partner as primary lead and focusing on [[removing gaps]] in end-user experience
-        - 
 - anchors
     - {{[[TODO]]}} #proposal one page proposal summarizing a context for alignment and common call for action 
         - For instance, if you wanted to get a group of people together to prototype a wellbeing commons that deeply integrated with research literature, that would be of great interest to me.
