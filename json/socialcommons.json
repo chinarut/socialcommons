@@ -52288,26 +52288,26 @@
             }
           },
           {
-            "edit-time": 1619641893909,
+            "edit-time": 1619641926854,
             "children": [
               {
-                "string": "there is a #dilemma in regards the ability to track change atomically at a single page level vs at the graph level (this page and daily notes)",
+                "string": "#consideration ability to track change atomically at a single page level vs at the graph level (this page and daily notes)",
                 "create-time": 1619639920025,
                 ":block/refs": [
                   {
-                    ":block/uid": "5kgo8QArt"
+                    ":block/uid": "pGHZ2h4Ik"
                   }
                 ],
                 "refs": [
                   {
-                    "uid": "5kgo8QArt"
+                    "uid": "pGHZ2h4Ik"
                   }
                 ],
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
                 "uid": "x7U7kvlBz",
-                "edit-time": 1619639969695,
+                "edit-time": 1619641940829,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }
@@ -52316,9 +52316,6 @@
             "refs": [
               {
                 "uid": "ZuxcbnfVv"
-              },
-              {
-                "uid": "VUT7igC8h"
               },
               {
                 "uid": "j9D4jyyud"
@@ -52330,13 +52327,10 @@
                 ":block/uid": "ZuxcbnfVv"
               },
               {
-                ":block/uid": "VUT7igC8h"
-              },
-              {
                 ":block/uid": "j9D4jyyud"
               }
             ],
-            "string": "{{[[TODO]]}} confirm [[partnership schema]] (above, maintained, group/partner memory) vs [[temporal blocks]] (below, based on point in time - arguably could be moved to Daily Notes) ",
+            "string": "{{[[TODO]]}} confirm [[partnership schema]] (above, maintained, group/partner memory) and decide what belongs in our journal (and how this is distinct from Daily NOtes)",
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
@@ -52348,18 +52342,6 @@
         ],
         "uid": "hesd9D0sj",
         "edit-time": 1619641687728,
-        ":edit/user": {
-          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-        }
-      },
-      {
-        "string": "",
-        "create-time": 1619639928562,
-        "uid": "uemkMU0gI",
-        "edit-time": 1619639928562,
-        ":create/user": {
-          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-        },
         ":edit/user": {
           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
         }
@@ -54550,30 +54532,6 @@
     }
   },
   {
-    "create-time": 1619639479913,
-    "title": "temporal blocks",
-    "uid": "VUT7igC8h",
-    "edit-time": 1619639479914,
-    ":create/user": {
-      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-    },
-    ":edit/user": {
-      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-    }
-  },
-  {
-    "create-time": 1619639969696,
-    "title": "dilemma",
-    "uid": "5kgo8QArt",
-    "edit-time": 1619639969697,
-    ":create/user": {
-      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-    },
-    ":edit/user": {
-      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-    }
-  },
-  {
     "create-time": 1619641317366,
     "title": "Catherine Rickwood",
     "uid": "RNH-ZDEC5",
@@ -54590,6 +54548,18 @@
     "title": "partnership schema",
     "uid": "j9D4jyyud",
     "edit-time": 1619641893915,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1619641937931,
+    "title": "consideration",
+    "uid": "pGHZ2h4Ik",
+    "edit-time": 1619641937931,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
