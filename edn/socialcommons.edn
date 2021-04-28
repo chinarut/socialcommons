@@ -39586,8 +39586,8 @@
   [3339 :version/id "0.8.4" 536873674]
   [3339
    :version/nonce
-   "uuidd5e00549-1914-45fc-a5bd-1e17a8ead1df"
-   536874757]
+   "uuid6afcaa13-a647-4ee2-aa61-32b68d3b453b"
+   536874763]
   [3340 :block/open true 536873675]
   [3340 :block/order 0 536873675]
   [3340 :block/page 3338 536873676]
@@ -46419,6 +46419,7 @@
   [3966 :block/uid "qR9WsICGZ" 536874743]
   [3966 :edit/time 1619641314658 536874743]
   [3966 :edit/user 1 536874743]
+  [3967 :block/children 3970 536874762]
   [3967 :block/open true 536874744]
   [3967 :block/order 0 536874748]
   [3967 :block/page 3511 536874745]
@@ -46426,15 +46427,32 @@
   [3967 :block/parents 3858 536874745]
   [3967 :block/parents 3963 536874749]
   [3967 :block/refs 501 536874751]
-  [3967 :block/string "[[Chinarut 🦥]] synthetic form of " 536874757]
+  [3967 :block/refs 3669 536874761]
+  [3967
+   :block/string
+   "[[Chinarut 🦥]] synthetic form of [[roam book club]]"
+   536874760]
   [3967 :block/uid "-RSmw9Q-S" 536874744]
   [3967 :create/time 1619641317351 536874744]
   [3967 :create/user 1 536874744]
-  [3967 :edit/time 1619641342944 536874757]
+  [3967 :edit/time 1619641348751 536874760]
   [3967 :edit/user 1 536874744]
   [3968 :block/uid "RNH-ZDEC5" 536874747]
   [3968 :create/time 1619641317366 536874747]
   [3968 :create/user 1 536874747]
   [3968 :edit/time 1619641317367 536874747]
   [3968 :edit/user 1 536874747]
-  [3968 :node/title "Catherine Rickwood" 536874747]]}
+  [3968 :node/title "Catherine Rickwood" 536874747]
+  [3970 :block/open true 536874758]
+  [3970 :block/order 0 536874762]
+  [3970 :block/page 3511 536874759]
+  [3970 :block/parents 3511 536874759]
+  [3970 :block/parents 3858 536874759]
+  [3970 :block/parents 3963 536874759]
+  [3970 :block/parents 3967 536874763]
+  [3970 :block/string "" 536874758]
+  [3970 :block/uid "bu5SVPxCU" 536874758]
+  [3970 :create/time 1619641348739 536874758]
+  [3970 :create/user 1 536874758]
+  [3970 :edit/time 1619641348739 536874758]
+  [3970 :edit/user 1 536874758]]}

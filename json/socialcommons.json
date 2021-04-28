@@ -49609,23 +49609,43 @@
             "edit-time": 1619641317363,
             "children": [
               {
-                "string": "[[Chinarut 🦥]] synthetic ",
-                "create-time": 1619641317351,
-                ":block/refs": [
+                "edit-time": 1619641348751,
+                "children": [
                   {
-                    ":block/uid": "2ompgu8xt"
+                    "string": "",
+                    "create-time": 1619641348739,
+                    "uid": "bu5SVPxCU",
+                    "edit-time": 1619641348739,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
                   }
                 ],
                 "refs": [
                   {
                     "uid": "2ompgu8xt"
+                  },
+                  {
+                    "uid": "GqkV7qE6U"
                   }
                 ],
+                "uid": "-RSmw9Q-S",
+                ":block/refs": [
+                  {
+                    ":block/uid": "2ompgu8xt"
+                  },
+                  {
+                    ":block/uid": "GqkV7qE6U"
+                  }
+                ],
+                "string": "[[Chinarut 🦥]] synthetic form of [[roam book club]]",
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
-                "uid": "-RSmw9Q-S",
-                "edit-time": 1619641340592,
+                "create-time": 1619641317351,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }
