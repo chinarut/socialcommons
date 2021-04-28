@@ -52534,6 +52534,28 @@
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             }
+          },
+          {
+            "string": "((D_7bgumNw))",
+            "create-time": 1619642398967,
+            ":block/refs": [
+              {
+                ":block/uid": "D_7bgumNw"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "D_7bgumNw"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "uid": "GeI5drBpj",
+            "edit-time": 1619642400637,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
           }
         ],
         "uid": "hesd9D0sj",

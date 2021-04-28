@@ -245,6 +245,7 @@
         - #consideration ability to track change atomically at a single page level vs at the graph level (this page and daily notes)
     - {{[[TODO]]}} how can [[Chinarut 🦥]] complement [[Joel Chan]] in leading the group?
         - what kinds of things is he good at explaining?
+    - {{[[TODO]]}} how do I keep up with developments in your research was published since Aug 2020?
 - journal
     - [[April 28th, 2021]]
         - [[Chinarut 🦥]]
