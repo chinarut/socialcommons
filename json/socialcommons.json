@@ -50847,13 +50847,29 @@
             "edit-time": 1619568336846,
             "children": [
               {
-                "string": "((hVCj0ICJM))",
-                "create-time": 1619568388010,
-                "uid": "w3Lp-5enK",
-                "edit-time": 1619568397211,
+                "string": "{{[[TODO]]}} #proposal one page proposal summarizing a context for alignment and common call for action ",
+                "create-time": 1619552330051,
+                ":block/refs": [
+                  {
+                    ":block/uid": "ZuxcbnfVv"
+                  },
+                  {
+                    ":block/uid": "wqs6nol2A"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "ZuxcbnfVv"
+                  },
+                  {
+                    "uid": "wqs6nol2A"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
+                "uid": "hVCj0ICJM",
+                "edit-time": 1619568054329,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }
@@ -52178,12 +52194,68 @@
       },
       {
         "string": "action items",
-        "create-time": 1619641651627,
-        "uid": "hesd9D0sj",
-        "edit-time": 1619641653869,
+        "create-time": 1619641691795,
+        "uid": "ISROyNqC4",
+        "edit-time": 1619641694379,
         ":create/user": {
           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
         },
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "opens",
+        "create-time": 1619641651627,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "edit-time": 1619641670720,
+            "children": [
+              {
+                "string": "I believe Roam public pages are **not** SEO optimized like Notion (yet)",
+                "create-time": 1619634922723,
+                "uid": "GByzV0X1q",
+                "edit-time": 1619640628153,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ZuxcbnfVv"
+              },
+              {
+                "uid": "zBpdZwF6B"
+              }
+            ],
+            "uid": "am_vwrtGi",
+            ":block/refs": [
+              {
+                ":block/uid": "ZuxcbnfVv"
+              },
+              {
+                ":block/uid": "zBpdZwF6B"
+              }
+            ],
+            "string": "{{[[TODO]]}} #checkin Please verify you are okay with **all** the text on this page being public",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1619634823974,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "hesd9D0sj",
+        "edit-time": 1619641687728,
         ":edit/user": {
           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
         }
@@ -52273,54 +52345,6 @@
       {
         "edit-time": 1619640162394,
         "children": [
-          {
-            "edit-time": 1619634897648,
-            "children": [
-              {
-                "string": "I believe Roam public pages are **not** SEO optimized like Notion (yet)",
-                "create-time": 1619634922723,
-                "uid": "GByzV0X1q",
-                "edit-time": 1619640628153,
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              }
-            ],
-            "refs": [
-              {
-                "uid": "ZuxcbnfVv"
-              },
-              {
-                "uid": "04-27-2021"
-              },
-              {
-                "uid": "zBpdZwF6B"
-              }
-            ],
-            "uid": "am_vwrtGi",
-            ":block/refs": [
-              {
-                ":block/uid": "ZuxcbnfVv"
-              },
-              {
-                ":block/uid": "04-27-2021"
-              },
-              {
-                ":block/uid": "zBpdZwF6B"
-              }
-            ],
-            "string": "{{[[TODO]]}} #checkin Please verify you are okay with **all** the text in the [[April 27th, 2021]] block being public",
-            ":create/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            },
-            "create-time": 1619634823974,
-            ":edit/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            }
-          },
           {
             "string": "((aZQKDqgn9))",
             "create-time": 1619640843058,
@@ -53579,29 +53603,13 @@
             "edit-time": 1619555039353,
             "children": [
               {
-                "string": "{{[[TODO]]}} #proposal one page proposal summarizing a context for alignment and common call for action ",
-                "create-time": 1619552330051,
-                ":block/refs": [
-                  {
-                    ":block/uid": "ZuxcbnfVv"
-                  },
-                  {
-                    ":block/uid": "wqs6nol2A"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "ZuxcbnfVv"
-                  },
-                  {
-                    "uid": "wqs6nol2A"
-                  }
-                ],
+                "string": "((hVCj0ICJM))",
+                "create-time": 1619568388010,
+                "uid": "w3Lp-5enK",
+                "edit-time": 1619568397211,
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
-                "uid": "hVCj0ICJM",
-                "edit-time": 1619568054329,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }

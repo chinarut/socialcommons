@@ -182,6 +182,7 @@
     - [[graduate school]] Fall 2022
         - I am considering applying to [[Heinz College]] (particularly to include [[arts management]]))
         - **(6) U of Washington & bioinformatics**
+        - {{[[TODO]]}} provided it makes sense, will you support me in a game plan to refine my [[graduate school]] application by [[November 15th, 2021]]? 
     - pivot [[Dance Labs]] as a management consultancy guiding dance communities the strategic importance of holistic wellbeing  (#application)
         - [[5 Essential Elements of Wellbeing]]
         - [[Wellbeing Commons]]
@@ -230,6 +231,7 @@
             - **(3) home automation**
             - **(5) open source meets nostalgia**
 - action items
+- opens
     - {{[[TODO]]}} #checkin Please verify you are okay with **all** the text on this page being public
         - I believe Roam public pages are **not** SEO optimized like Notion (yet)
 - 
