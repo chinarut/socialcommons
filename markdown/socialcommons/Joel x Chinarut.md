@@ -229,13 +229,14 @@
         - [[open source]]
             - **(3) home automation**
             - **(5) open source meets nostalgia**
+- action items
+    - {{[[TODO]]}} #checkin Please verify you are okay with **all** the text on this page being public
+        - I believe Roam public pages are **not** SEO optimized like Notion (yet)
 - 
 - {{[[TODO]]}} clarify what are [[foundational blocks]] (above, maintained, group/partner memory) vs [[temporal blocks]] (below, based on point in time - arguably could be moved to Daily Notes) 
     - there is a #dilemma in regards the ability to track change atomically at a single page level vs at the graph level (this page and daily notes)
 - 
 - [[April 28th, 2021]]
-    - {{[[TODO]]}} #checkin Please verify you are okay with **all** the text in the [[April 27th, 2021]] block being public
-        - I believe Roam public pages are **not** SEO optimized like Notion (yet)
     - what I wake up excited about is the opportunity to see “diffs” (literally the way code monkeys do) and visualize changes in partnership exploration pages
     - I’m playing with the mindmap extension and started a discussion on Twitter in regards to where to take this visualization (such as using page filters to reduce scope - map exports are unreadable at this scale)
 - [[April 27th, 2021]]
