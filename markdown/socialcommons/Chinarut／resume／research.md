@@ -1,0 +1,48 @@
+- **CHINARUT RUANGCHOTVIT**
+- San Francisco, CA, USA • [+1 (310) 751-0412](http://chinarut.wix.com/portfolio#!contact/con8) • [chinarut+research@alumni.cmu.edu](mailto:chinarut+resume@alumni.cmu.edu) • [http://www.chinarut.com](http://www.chinarut.com/)
+- **SUMMARY**
+    - **Inter-disciplinarian** with 20 years of training & development leveraging arts and technology for healthy behavior change
+    - **Engineer** aware of systemic issues that arise from current implementations of technology and our relationship to societal structures
+    - **Researcher** working on large-scale, goal-directed collaborative solutions to address the complexity and impact of social issues represented by physician burnout, global warming, human rights, diversity and capitalism
+    - **Liaison** supporting people and organizations on the fringes willing to cut through red tape and reimagine technologies that create the kinds of behaviors and policies we envision in a world that works
+- **KEY HIGHLIGHTS**
+    - **Design** - 20 years of experience navigating transformational futures in the arts, business, technology, and wellbeing. The pervasive medium of dance (and the arts) is a universal thread inspiring innovative applications and metaphors for technology without attachment (dance, in itself, does not require tech!)
+    - **Technology** - Programmer since 8 trained to see language as technology. Seasoned prototyper able to take off-the-shelf components to demonstrate how communities can leverage their own platforms for purposes of personal transformation. Champion for tools encouraging large-scale [[collective action]]
+    - **Behavior** - Advocate for healthy behavior change with 5 years of experience reframing lives inside the framework of the 5 Elements of Wellbeing, an evidenced-based framework by Gallup. Changes in habits range from personal wellness to reprogramming society such that we always have something new to say
+- **DESIGN**
+    - **community** - Held a vision for online community participation in the face of a pandemic. Designed 6 monthly Icebreaker events for the Bay Area micro Fusion community unable to physically gather to social dance. Events maintain feelings of community and serve as a reliable resource for dancers open to 1-to-1 video matching thus reducing group video fatigue
+    - **wellbeing** - Championed wellness by design by integrating the __5 Elements of Wellbeing__ into the blueprint for [Weave Your Legacy](http://www.weaveyourlegacy.com), a personal brand. Proposed individuals assemble wellbeing advisories and build tools supporting [[collective wellbeing]]
+    - **business** - Facilitated 52 personal business models of those ranging from the age of 8 to 80 to help identify sources of stress and joy in their life. The Business Model You is a derivation of the Business Model Canvas, a business model ontology. Built [a cheatsheet](http://is.gd/bmycheatsheet) to accelerate the design process
+    - **life** - Assisted Landmark Worldwide opening up a new office in Bangkok in 2003. One of the top 3 largest centers in the world produced 7000 graduates in the first 5 years. Landmark Worldwide creates programs around the ontology of being and supports participants in designing a life they love
+    - **dance** - Co-designed a 1 hour experience called [Dance Like Nobody’s Watching](http://quickstart.dancelabs.com) featured two years in a row at the annual Conference for Global Transformation. Architected and built the ICT infrastructure to handle a dance enterprise. Received a Rotary Club [Peace for Service award](https://dancelabs.livejournal.com/) for our community’s work around [Dance Chalat in Thailand](https://www.notion.so/communitygarden/Dance-Chalat-3f504ee174da4b8c9814214f17dfe791)
+- **TECHNOLOGY**
+    - **recursion** - Proposed an [in-graph support experience](https://roamresearch.com/#/app/roam-book-club-2/page/dXLMHJZYw) for the Roam Research community. The structure simplifies how members implementing Zettelkasten support each other without a need to depart their flow. The model encourages companies to “eat their own dog food” as the fastest way to refine their user experience
+    - **commons** - Prototyped [a legacy commons in Rizzoma](https://rizzoma.com/topic/f27a90f530902c317bc2a333906b2606/0_b_5ope_4c02r/) to support participants in weaving their legacies together in 2013. This vision would later evolve into a [digital garden and social commons in Notion](http://notion.chinarut.com) in 2020 supporting partnership exploration
+    - **digital life** - Digitized my life in 2013 and created a GTD Genius Triad prototype in Evernote Business. The idea was to leverage productivity principles in a collaborative way and embrace the body of Tribal Leadership and the power of triads
+    - **personal data** - Published [my autobiography online using TheBrain](http://autobiography.chinarut.com). This structure is updated ongoingly as a top-level index to record notable events in life and realize the connectedness of the network of conversations that arise. It was created inside a future we own our respective data as individuals
+    - **traceability** - Pitched a mission management prototype to the CEO of Rational Software in 2001. The prototype was built in RequisitePro, the core requirements management component of the Rational Unified Process. The prototype had the capability to trace an organizational mission through its objectives to the key results of individuals in an organization
+    - **coding** - Automated the integration, quality assurance, and distribution of releases by coding a 100,000 line software development environment modeled after Rational ClearCase in PERL at TenFold
+- **BEHAVIOR**
+    - **unsaid** - Evaluated 17 team collaboration platforms for the ability to support the discovery of conversation independent of the thought process of each respective individual. Concluding, in 2020, Tiddlyspace and Roam Research are the closest platforms to give a glimpse into the nature of discourse and this remains a gap in support of teaching critical thinking
+    - **support** - Published [a report outlining Notion Labs impressions, perceived product development strategy and a prioritized list of bugs & enhancement requests](https://www.notion.so/communitygarden/Notion-0416cdf436804a10bd9cd23152406eca) (security & privacy being most urgent) This was a result of interacting with over 150 support teams (primarily startups) and evaluating how they relate to their user base through observation of the nature of dialogue and actions inspired. 90% of teams address point issues and move on quickly rather than listen for the big picture of intended use cases
+    - **possibility** - Leveraged the ridesharing economy to inspire 10,000 strangers, over 2 years, to engage in a conversation for what’s possible in at least 1 of the __5 Essential Elements of Wellbeing__
+    - **prevention** - Supported participants to be successful in a digital health program designed to address the risk of prediabetes and heart disease at Omada Health
+    - **quantified self** - Analyzed raw data from Wellbeing Finder to reverse engineer contributing factors to wellbeing of the previous day for 90 consecutive days. This resulted in a [1-page proposal Our World Wake Up Happy Together](https://drive.google.com/file/d/0B2ZDJup0jNBVVDB6Q0ZCS19qRDQ/view)
+    - **habit** - Produced 30 playshops inviting 112 people to experience dance as a healthy joyful habit. Embracing dance as a first step is wisdom behavioral scientist, BJ Fogg, shared during Design for Dance, [a pre-cursor for Dance Labs to launch a 30 day #danceis social media campaign](https://dancelabs.wixsite.com/home/single-post/2014/05/16/Dance-is)
+- **EDUCATION AND TRAINING**
+    - Partnership Explorations, [Landmark Worldwide](http://www.landmarkworldwide.com/), Apr. 2013
+    - Managing Workflow and Priorities (GTD), [David Allen Co.](http://www.davidco.com/), Feb. 2003
+    - Curriculum for Living, [Landmark Worldwide](http://www.landmarkworldwide.com/), Dec. 2001
+    - B.S. Electrical/Computer Engineering, [Carnegie Mellon University](http://www.cmu.edu/), May 1995
+- **PROFESSIONAL EXPERIENCE**
+    - Core Organizer, [Bay Area Micro Fusion](http://bamf.dance/), Emeryville, CA, Jan. 2020 - present
+    - Explorations Coach, [Weave Your Legacy](http://www.weaveyourlegacy.com/), San Francisco, CA, Aug. 2013 - present
+    - Community Builder, [Team Minutemen](http://www.twitter.com/teamminutemen), Los Angeles, CA, Dec. 2009 - present
+    - Support Specialist, [Omada Health](http://www.omadahealth.com/), San Francisco, CA, Mar. 2016 - Sep. 2016
+    - Mac Specialist, [Apple Computer](http://www.apple.com/), Cupertino, CA, Sep. 2008 - Nov. 2009
+    - Volunteer Coordinator, Technical Team, [Burning Man Project](http://www.burningman.com/), 2006 and 2009
+    - Co-founder, [Dance Labs](http://www.dancelabs.com/), San Francisco, CA, Dec. 2001 - Aug. 2014
+    - Assistant, Coach, Community Leader & Communicator, [Landmark Worldwide](http://www.landmarkworldwide.com/), Jan. 2002 - Jun. 2013
+    - Software Engineering Specialist, [Rational Software (acquired by IBM)](https://www.ibm.com/software/rational), Cupertino, CA, Nov. 1998 - May 2001
+    - Software Engineer, [TenFold Corporation](http://www.fundinguniverse.com/company-histories/tenfold-corporation-history/), San Francisco, CA, Nov. 1996 - Sep. 1998
+    - CAD Engineer, [Intel Corporation](http://www.intel.com/), Santa Clara, CA, Jun. 1995 - Nov. 1996

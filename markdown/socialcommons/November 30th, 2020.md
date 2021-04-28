@@ -1,0 +1,2 @@
+- publicly edited
+    - what if account is closed?

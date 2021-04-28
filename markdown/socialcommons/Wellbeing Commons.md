@@ -1,0 +1,41 @@
+- [[Collective Zettelkasten]] (inspired by [[How to Take Smart Notes]] #roam-book-club)
+    - [[Chinarut/Zettels]] - currently a recontextualization of [[How to Take Smart Notes]] to the domain of wellbeing and [[collective intelligence]]
+        - first “manuscript” draft: [How a Wellbeing Commons Works](https://www.notion.so/communitygarden/How-a-Wellbeing-Commons-Works-40db6c79b06849a9839481f983c85ec5) #Notion
+- #inquiry how do we balance the focus a single framework can provide and adapt to other frameworks/perspectives that arise during synthesis as a collective?
+- A World that Wakes Up Happy Together #vision #2015
+    - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsocialcommons%2FrH5E-xa3ky.pdf?alt=media&token=bf619c8d-3bea-4dd9-a991-ef0a7110a8b4}}
+- outcomes
+    - [[Wellbeing 5 Advisory]]
+        - [Anchoring Your Wellbeing 5 Advisory](https://www.notion.so/communitygarden/Anchoring-Your-Wellbeing-5-Advisory-b4cba9a9dc234fb2b2aabd0454cf19df) #Notion
+- #roam-book-club
+    - #inquiry how do we track book references and synthesize bodies of knowledge together?
+    - wellbeing is universal - there isn’t one human being that is not impacted by their wellbeing practice
+    - use the book [[5 Essential Elements of Wellbeing]] as a starting point
+        - grounded in science
+        - data-driven platform
+            - grounded in the Gallup Poll (how people experience happiness in their everyday lives)
+            - Wellbeing Finder ongoingly keeps people accountable and generates data
+        - drives organizational corporate wellness implementations [[management consultancy]]
+    - each element attracts a constellation of books (and resulting frameworks)
+        - key concept: #aggregation
+        - book clubs sprout as a result of book(s) pursued for each element
+            - book map exercise developed in 2015 inviting members to choose 5 books to explore and synthesize
+            - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsocialcommons%2FTTXSn49vBG.pdf?alt=media&token=b3627ea4-f84c-4c11-9658-30a19c63437a}}
+        - element book clubs surround each of the 5 elements with an intent to synthesize works together
+        - all resultant conversations funnel back into parent book club to design next sprint for collective
+            - at some point, the collective will choose to break out of the framework of the 5 elements (this is a [[key milestone]])
+        - other mechanics
+            - leverage thematic structure in RBC4
+            - leverage [[in-graph support experience]] for purposes for technical support, community help and an in-place aggregate, distributed contribution model for the knowledge inquired into itself #recursion
+    - [[opportunities for coaching]] naturally emerge
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsocialcommons%2FX02OmXDM64.png?alt=media&token=32c6d69b-aad2-4ee3-8791-487433c391f8)
+- meta structures / possible partners
+    - [[Weave Your Legacy]] - key ideas: [[weaving elements of life together]] [[weaving elements together]]
+        - [[commons-driven community development]] influenced by [[Business Model You]], a derivative of [[Business Model Canvas]]
+    - [[Roam Research]] - one of many platforms/components with a very active #multiplayer conversation that can still be shaped by the specific use cases of a Wellbeing Commons
+        - [The Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora/page/wujSyfjAu) #multiplayer (suggested exploration by [[Joel Chan]])
+    - [[Landmark Worldwide]] - professional training/development company providing coaching based on [[transformative learning]]. A [[social commons]] is a key #inquiry in the [[Wisdom Area]] of the organization/community
+    - [[Gallup]] - management consultancy best known for its StrengthsFinder platform (now CliftonStrengths) - operates under a similar premise there is value focusing on 5 primary lines of thought for a set period of time
+- unknowns
+    - the role of dance/movement communities [[BAmF]]
+    - the role of communities that bring the benefits of dance out to the masses [[Dance Labs]]

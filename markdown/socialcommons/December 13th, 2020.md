@@ -1,0 +1,5 @@
+- [[Writing Prompts]]
+    - 1. You start a conversation with a stranger in the street. They ask you what is a Zettelkasten. What do you say?
+    - 2. Reflect on your reading and writing habit through Book Club. Did the emphasis and exploration of Sonke's book change your reading and writing habits?
+    - 3. The book promotes a bottom up approach to note taking, which we have used in Book Club. Reflect on this. How did this feel?
+    - 4. What's your favourite blocks (or quotes) from the book?

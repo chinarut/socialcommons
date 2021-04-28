@@ -1,0 +1,285 @@
+- [[April 27th, 2021]]
+    - key contexts
+        - [[context of global transformation]] & [[social impact]] [[Landmark Worldwide]]
+            - [Nature of Transformation](https://www.notion.so/Nature-of-Transformation-64af1eb87cd84ee7a55b189065cc1399#d74143b6b1dd4da1aa057e17f065a45b) #Notion [[Thailand]]
+        - long-term futures
+            - relationship to nature [[Braiding Sweetgrass]]
+            - creating room for the future of undistracted work and living [[[[rest]]/[[book]]]]
+            - spaces free of screens [[24/6]]
+                - ((GaqH149-3))
+                - haven’t checked incoming email, mobile vmail, mobile texts, Facebook for 9 days
+            - creating room for higher order systemic social change [[The Zeitgeist Movement]]
+                - {{[[TODO]]}} zettel [[The Zeitgeist Movement Defined]]
+            - creating room for higher order conversations around [[somatic psychotherapy]] [[Diverse Bodies, Diverse Practices]] [[social movement science]]
+                - experience with [[Dance Labs]], #BAmF and Bay Area dance culture in general (at the level of personal transformation)
+        - shorter-term futures
+            - [[universal basic income]] [[Andrew Yang]]
+                - ((ZeSvCIsLu))
+                    - ((h6I3XHeio))
+    - goals
+        - to develop a context for alignment and a common call to action
+            - For instance, if you wanted to get a group of people together to prototype a wellbeing commons that deeply integrated with research literature, that would be of great interest to me.
+            - process for wellbeing discovery through individual journaling, synthetic book club, and elaborating in a digital garden
+                - ((GtEf_Zohf))
+                    - [@socialcommons/Wellbeing Commons](https://roamresearch.com/#/app/socialcommons/page/TBzCoGxjt)
+            - {{[[TODO]]}} #proposal one page proposal summarizing a context for alignment and common call for action 
+        - [[Joel Chan]]’s goals
+            - <insert here :)>
+            - #roam-synthesis
+        - [[Chinarut]]’s goals
+            - reduce overhead
+                - communicate priorities (particularly putting projects/outcomes down)
+                    - GTD sweep to identify all the outcomes/projects I have my mind on and putting down 80% of the work -> [[GTD Projects]]
+            - reduce burnrate
+            - generate revenue/income
+            - stay focused
+                - reduce distractions
+                - nurture creative mind -> [[[[rest]]/[[book]]]] and pomodoro
+            - transform my relationship to my #physical body
+    - key changes
+        - focus on enabling systemic change for [[global transformation]]
+            - in particular, what it is going to take to enable a [[resource-based economy]]?
+            - #inquiry is [[universal basic income]] just another system inside our capitalistic market-driven economy?
+        - deprioritization of email, text, mobile
+            - **(0) coordinating**
+            - **(8) email vs Slack vs video**
+        - prioritization of landline
+            - {{[[TODO]]}} exchange landline numbers
+        - focus on public group context/shares on and offline
+            - public blogs, public graphs, Slack, online discussion forums, large format seminars (80+), office hours
+                - attempt to be in Roam Slack once/week - Zoom and office hours take priority
+            - eventually dance events
+            - possibly grow into YouTube, Stereo, Clubhouse (Icebreaker experience is possible impediment)
+            - Twitter is out there (at the risk of noise)
+            - Facebook fan page(s) are a possibility
+            - LinkedIn is also a possibility
+        - co-facilitation with partner as primary lead and focusing on [[removing gaps]] in end-user experience
+            - {{[[TODO]]}} how can [[Chinarut]] complement [[Joel Chan]] in leading the group?
+                - what kinds of things is he good at explaining?
+        - ((1W2A4K4d3))
+    - ((wQHvl1eZI)) {{[[POMO]]: 25}}
+        - Not sure how this works (don't' seem to have a link to [the actual Doc](https://docs.google.com/document/d/1vxpTI3VmfzMiPxvQ_igdnuEI9BarkA3usvJblVznIvw/edit)) but I wanted to reply after a long absence. [[Joel x Chinarut]]
+            - Please excuse the long absence - my 10d meditation retreat I was scheduled to attend 12/23-1/3 was canceled due to covid and used the time the best I could to reflect and rearrange my foundation.  I am in the process of packing up my apt in SF and transitioning back to SoCal. I have to make my last trip next week and I'll be more settled here mid to late Feb.
+            - **(0) coordinating**
+                - if you don't mind using the old fashioned phone, I can be reached at 310-751-0412. You are welcome to text/call anytime - afternoons (PST) tend to work well for me in general.  of course, if we end up playing too much phone tag, we can schedule forward.
+                - One caveat re: # above is it is a Google Voice # and the voice quality has gotten quite poor in the last few months - we may need to switch to my direct line or another medium (eg. FaceTime audio/video)
+                - Might you have block of hours (akin to office hours you set aside for your students) I could possibly earmark every week?   The idea is I could try to reach you during this block and if you’re available you’re available, if you’re not you’re not.
+                - It’s been on my agenda to create a new Calend.ly with my “office hours” and willing to start with blocks that work for you.  The upside is we can both be available for blocks for group discussions with others.
+                - I do have a request we err on “less meetings,” focus on online collaboration as much as possible (I will admit email breaks down for me and more on this later) until thresholds (aka miscommunication) gets hit.  This is an art, so I’m open to ideas - it’s been 3 or 4 months since our first zoom and I would love to hear what prompted you to feel it was time be get back on a zoom last month if it wasn’t more than just spidey-sense :)
+            - **(1) roam-medical**
+                - I just took a look at the way you’ve set up the space for this project and find the [Working Synthesis](https://roamresearch.com/#/app/joel-covid19/page/rdwtLbFSb) page quite fascinating! While some of it goes over my head, I passed it onto my little brother who is in psychiatry.  I like that you’ve managed to dive into the clinical side of things and dovetailing it with roam and zettling!  More on bioinformatics later.
+                - It's in my queue to catch up with your zoom recording and take a look at one of the papers mentioned.  Have you, Matt, and Bradon had an opportunity to discuss how conversations might work in our graph?
+                - I look forward to hearing Matt and Brandon’s input.  I wholeheartedly am a fan of experiencing the growing pains of conversation in Roam (yes, it was painful as it was at times in book club - you probably aren’t even aware I responded to some of your input!) with an intent to “figure it out” (or at the very least, create enough groundswell to make feature requests) - my biggest concern is the longtail game and how conversations connect across graphs.
+                - I think if we focus on our process for Zettling, and we center our conversations around collective zettling, we will make good progress and get away from the details and the original sources.
+                - I’m happy to lead any part of the above in the graph you created (do point out if anything I’ve shared has particular value to the group) and at the same time, I do feel I need space to focus on zettling one of the research papers and helping model how our group might develop conversations around zettels we create from our respective papers we read.
+            - **(2) Icebreaker / getting related**
+                - Just FYI - I co-host Icebreakers (icebreaker.video) the 2nd sat of every month in an attempt to keep one of my communities in the SF bay area afloat during a time we cannot gather and dance.  It dawned on me in Dec I needed to start aligning research in wellbeing with my commitment to community - I proposed to lead conversations for wellbeing the next 5-6 months with one of the co-founders and peers.
+                - I had meant to extend the invite to join on the 9th so you could get a sense of what the platform is capable of.  I'll be going through each of the 5 elements of wellbeing as themes for the next 5 months (Feb-June) and a wrap up in July.  The kickoff on the 9th went well and I bring all this up because (1) you’re always welcome to attend (even for 10 minutes) and (2) perhaps our group could design some questions/prompts consistent with roam-medical and break some ice amongst participants (as I personally don’t recognize everyone's names!)
+                - Just putting the idea out there and the role I need to play is more a supportive role in guiding someone through the process.
+            - **(3) home automation**
+                - returning to my parent's home tends to be a marathon attending to home improvement projects for 2-3 weeks.  this trip was no exception and didn't expect it to be an opportunity to get acquainted with the home automation world both corporate and open source - have you dabbled any yourself?
+                - I now understand why I saw an effort at CMU to transform the experience of administering IoT devices - the ecosystem is a mess (aka. beyond fragmented) and glad to see the open source efforts are more mature than I anticipated (jury is still out as it requires open source firmware (Tasmota) which I have not invested in yet!)
+                - I won't get into too much on this front and it's where a lionshare of my time went this month leading into helping my parents replace their entire HVAC system (which was an exercise in contractor evaluation in itself!)
+                - HVAC aside, I do find the home automation world a fascinating exercise in synthesis (hardware, software, networks, low-power systems, sheer scale, mass market, automation, AI, etc) and be curious to hear how home automation has shown up in your work (if at all)!
+                - I have to admit, this was quite the 2 week rabbit hole - not for the faint-hearted :)
+            - **(4) PT income**
+                - I am still sorting this out - part of the reason I'm returning to SoCal is to reduce my burnrate significantly. Another part of the reason is enlisting my folks on what it means to be a researcher :)  infrastructure down here is much more stable (and kinder to my wellbeing) which will help support continued remote work at least for the first few months of 2021.
+            - **(5) open source meets nostalgia**
+                - while I won't get into details now - my first breakthrough with Roam is discovering how to synthesize and develop my [[open source]] page (I erred on daily pages for more than 2 months).  it's a neat process balancing literal page references to [[open source]] and unlinked references which led to surprising connections and thoughts!  but I'm speaking to the preacher :)
+                - point being, my perspectives on open source, the literature around what is garnered around how open source is developed I feel has parallels to peer-to-peer production of content/knowledge.
+                - that said, I'm also finding open source projects I wish to refine the user experience and HCI is becoming that much clearer in my world thanks to emulators and frameworks like RetroArch (dunno if you are into video games at all? I’m pretty retro :)  Even seeing the Color Computer 3 I was gifted when I was 8 boot up and load a program I wrote and got published for load off a virtual 5.25” disk was pretty trippy to be honest!
+            - **(6) U of Washington & bioinformatics**
+                - I still have to complete the study design paper you advised me to read!
+                    - ((lQHwfqQTr))
+                - I had no idea UW had leadership in bioinformatics - are you acquainted with[ Wanda Pratt](https://ischool.uw.edu/people/faculty/profile/wpratt)'s work?  I feel she is someone we should both be collaborating with.
+                - I have not yet found the cycles to explore what research in[ bioinformatics at UMD](https://www.cs.umd.edu/research-area/bioinformatics-and-computational-biology) and perhaps you might be able to enlighten me given I can see myself zettling at least 30 of Wanda's papers - these are the themes that sound fascinating to me:  nuances behind a "health commons", the quantified-self, mentor matching, expert identification (both peer and clinician contexts) and she has been willing to dive into more progressive areas like the use of video games, study of non-verbal communication and interpretation of emojis in the context of wellbeing!
+                - I'm wondering if by chance there is a bridge that can be drawn/created from your dept to bioinformatics that perhaps has not been erected yet?  This would be a wonderful space to work in with you.
+            - **(7) Soren**
+                - I'm wondering if you've progressed with your chats with Soren?  He agreed to take a look at the very early "manuscript" that came out of transforming his book into zettels after the holidays.  I feel what I drafted is How to Take Smart Notes in the context of a wellbeing commons.  So I am particularly trying to best understand how to best cite his work when I feel I am projecting and shifting his book into a specific domain or focus
+            - **(8) email vs Slack vs video**
+                - **email** - just so you are aware, I continue to question the use of email. Email and social media (Facebook) fall out of existence when I get into the flow state
+                    - When I am in a flow state, email is dominated by tech support cases to support whatever it is I am attempting to accomplish.
+                - **Slack** - while I, too, hate the 10k message limit, I think Slack might be a better mechanism, I am still experimenting with @mentions - so please do make use if it if you’d like to rope me in!
+                - **phone/Zoom/FaceTime** -  I have no qualms organizing my thoughts in this manner (this doc) despite it taking some concerted effort and focus.
+                    - I’d say lets knock off as many items here in the document as possible and leave the juicier items for a real-time conversation and/or zoom
+            - **(9) disruption**
+                - While I don’t have a lot to elaborate at the moment, I do notice my tendency to find excuses to disrupt myself as it creates new ideas, innovation, brings unintended things together
+                - So please don’t hesitate to let me know if any of my mad scientist ways ever gets in the way of our interactions - i hope to think I’m doing all this for the greater good :)
+        - I mainly want to give an **update on PhD admissions**. Unfortunately we weren't able to put you on the list of admits.
+            - The main reason is that we got an extraordinarily competitive and large pool of applicants this year (~3X our usual haul, and 2X as strong; probably partly a function of the pandemic and a new influx of faculty?).
+            - I still find your chosen problem compelling, but ^^there are still questions about whether this is best done in the context of a PhD^^ (vs. say, working on it in a nonprofit or other model).
+            - I suspect you also have questions about this, and would be glad to talk through them, asynchronously or otherwise: not all problems need to be approached from the standpoint of research!
+        - I know this is a disappointing outcome (it is to me as well! really enjoyed our discussions and think you have a lot of potential), but I hope this provides some context for the decision.
+        - I am of course still open to continuing discussions, although I think the current pace of responding will be about right, unless there is some critical time-sensitive opportunity that aligns with my research critical paths.
+            - For instance, if you wanted to get a group of people together to prototype a wellbeing commons that deeply integrated with research literature, that would be of great interest to me.
+        - I appreciate your energy and enthusiasm, as always, and hope we can continue corresponding!
+    - anchors
+        - {{[[TODO]]}} #proposal one page proposal summarizing a context for alignment and common call for action 
+            - For instance, if you wanted to get a group of people together to prototype a wellbeing commons that deeply integrated with research literature, that would be of great interest to me.
+                - ((kfSZfSpMR))
+                - ((n39e6oiun))
+            - process for wellbeing discovery through individual journaling, synthetic book club, and elaborating in a digital garden
+                - ((GtEf_Zohf))
+                    - ((1W2A4K4d3))
+        - ((ZeSvCIsLu))
+        - ((YhJwBNGVF))
+            - I still find your chosen problem compelling, but ^^there are still questions about whether this is best done in the context of a PhD^^ (vs. say, working on it in a nonprofit or other model).
+        - #roam-synthesis
+    - past influences/declarations
+        - [[Joel Chan]] self-declared (Sept/Oct 2020) he doesn’t make a great career coach
+            - ((Uhk6p2xwM))
+            - ((e3126ZklC))
+        - it took what feels like “extreme” measures to arrive at this page with an intent to synthesize our discussions in {{[[POMO]]: 25}}
+            - GTD sweep to identify all the outcomes/projects I have my mind on and putting down 80% of the work -> [[GTD Projects]]
+                - ((e_azySqio))
+                - #future [[collaborative GTD]]
+            - putting down my volunteer engagements w #roam-synthesis and #BAmF
+                - not picking up the ball for #BAmF until January 2022 (trigger is team commitment to gather community for first dance event in SF bay area)
+            - focusing my energies on [[day of volunteering]] with [[roam book club]]
+                - [[The Culture Code]]
+                - expanding my [[slipbox]]: [[Chinarut/Zettels]] publicly, as a digital garden
+                    - [[Braiding Sweetgrass]]
+                - connecting with other Roam believers
+                - being an [[engineer on the ship]]
+                    - automating hourly backup of book graph (roam2github)
+                - practicing being in communication with the group once/week (a ^^“day of” event volunteer^^)
+            - haven’t checked incoming email, mobile vmail, mobile texts, Facebook for 9 days
+                - ((gC5xKaQ4I))
+            - creating room for higher order systemic social change [[The Zeitgeist Movement]]
+            - creating room for the future of undistracted work and living
+                - [[24/6]]
+                - [[[[rest]]/[[book]]]] [[science of rest]] (which has a relationship to [[science of sleep]]) [[Henry F]]
+            - creating room for higher order conversations around [[somatic psychotherapy]] [[Diverse Bodies, Diverse Practices]] [[social movement science]]
+                - connecting these conversations with the constellation of items around [[Dance Labs]]
+                    - ((XSkkFs4Lg))
+        - past actions
+            - [[Wellbeing Commons]]
+                - [The Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora/page/wujSyfjAu) #multiplayer (suggested exploration by [[Joel Chan]])
+                    - ((L0mCeR9G2))
+                        - filled out form and never got a response in regards to next steps (as of [[April 18th, 2021]])
+    - artifacts developed to date {{[[POMO]]: 25}}
+        - ((iTf6dbCe5)) -> [key research influences](https://www.notion.so/communitygarden/Key-Research-Influences-c9e61171936c43919a40a3bfd5db70d3) #Notion
+        - ((jBbB4uVhV))
+            - [Scaling up analogical innovation with crowds and AI](https://www.notion.so/communitygarden/Scaling-up-analogical-innovation-with-crowds-and-AI-d9e6b15216e5491d9e7750061cdc4e6c) #Notion
+                - {{[[TODO]]}} how do I keep up with developments in your research was published since Aug 2020?
+        - ((bV66p1aOx))
+            - [[Statement of Purpose]]
+            - [[Personal Statement]]
+            - [[Statement of Research]]
+                -  [[How a Wellbeing Commons Works]]
+                    - ((1W2A4K4d3))
+                    - ((_vWD0tPdJ))
+                        - ((-20j5S6sY))
+                        - ((NtJqLuOl8))
+                            - ((3p7rgA2pD))
+                                - ((0eiAiUwX5))
+                                    - ((L4sE8ZvEw))
+                                - ((BvNfwuntP))
+                        - ((284vG1rC7))
+                            - ((PCrc9p2vA))
+                            - ((ZxSksCbCg))
+                - {{[[TODO]]}} #proposal one page proposal summarizing a context for alignment and common call for action 
+            - [[Impact of Industry Experience Statement]]
+            - [[Zettelkasten slipbox]]
+                - ((_vWD0tPdJ))
+                    - ((Q2rCSIhpN))
+                        - ((RiS9NiKo4))
+                            - ((AI58SNdjs))
+                    - ((4GX0jydyR))
+            - [[HCI Portfolio]]
+                - [[resume/research]] (modeled after [[HCI]])
+        - [[Weave Your Legacy]]
+        - ((mybyIY-4g))
+            - [[in-graph support experience]]
+            - ((e_azySqio))
+        - #roam-synthesis
+            - ((IkNBra_pK))
+            - ((xB_Jje76C))
+            - [[science of sleep]] [[Henry F]] <- [[science of rest]]
+                - nurture creative mind -> [[[[rest]]/[[book]]]] and pomodoro
+            - **(1) roam-medical**
+        - ((l1bj4BsGF))
+            - ((esy-R0Qu6))
+            - [[Braiding Sweetgrass]]
+            - ((HunpA4bxq))
+                - ((rHtbk4h2m))
+                    - ((aqOfy2Z5Z))
+    - possible futures
+        - [[Joel Chan]]’s suggestion to consider alternative structures
+            - {{[[TODO]]}} #proposal one page proposal summarizing a context for alignment and common call for action 
+            - I still find your chosen problem compelling, but ^^there are still questions about whether this is best done in the context of a PhD^^ (vs. say, working on it in a nonprofit or other model).
+            - non-profit quickly gets into territory of building a sustainable effort with [[Dance Labs]]
+        - ((ZeSvCIsLu))
+            - #cashflow #financial
+            - **(4) PT income**
+            - research position
+            - corporate position
+                - ((3ISO0iE5x))
+                    - have reservations (particularly due to lack of engagement with proposals like [[in-graph support experience]] and efforts to synthesize in [[relevant experience]])
+                        - will be meeting [[Jessy]] [[May 4th, 2021]]
+                - position at [[Gallup]] advised by [[Jim Harter]] focusing on the arts, academia, and tech startups (like Roam) being groomed to be a management consultant with a niche in [[Wellbeing Finder]] and aligned with [[strengths-based leadership]]
+                    - ((_zJ_Cf8Mj))
+        - [[Independent Researcher Fund Development Campaign]] choice: [[crowdfunding]]
+            - [[Weave Your Legacy]]
+        - [[graduate school]] Fall 2022
+            - I am considering applying to [[Heinz College]] (particularly to include [[arts management]]))
+            - **(6) U of Washington & bioinformatics**
+        - pivot [[Dance Labs]] as a management consultancy guiding dance communities the strategic importance of holistic wellbeing  (#application)
+            - [[5 Essential Elements of Wellbeing]]
+            - [[Wellbeing Commons]]
+            - [[Business Model You]]
+            - possible case for [[business school]]
+                - or technically [[Heinz College]] in partnership with Tepper (as i do believe in the assertion [[Daniel Pink]] makes, [[A Whole New Mind]] that a MFA is the new MBA)
+    - challenges
+        - [[operating outside the system]] - I feel like I’m operating in a [[gift economy]] and [[resource-based economy]] when the reality is we are a market-driven capitalistic economy
+            - [[The Zeitgeist Movement]]
+        - [[what medium is best to coordinate networks of conversation across collaborators]]
+            - it seems like... #seeming
+                - ((V94WousqF))
+            - I am entertaining higher order conversations with [[Oshyan]] (who I met in Reddit)
+                - {{[[TODO]]}} https://www.oshyan.com/i-started-a-digital-garden/  #@Review
+        - cross-graph referencing
+            - [The Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora/page/wujSyfjAu) #multiplayer (suggested exploration by [[Joel Chan]])
+                - filled out form and never got a response in regards to next steps (as of [[April 18th, 2021]])
+            - ((zvpgvJiUn))
+                - I want our teams to support the early development
+                    - {{[[TODO]]}} approach “Stein” (Maggie Delano says he was hired to work on this?)
+            - I am willing to spend time declaring what boundaries exist between (is this related to [[information architecture]]?)
+                - Chinarut’s personal graph
+                    - what is the distinction between [[Joel Chan]] and [[Joel x Chinarut]] in a graph?
+                        - is [[Joel Chan]] a workaround because block-level permissions do not exist in Roam akin to UNIX file permissions?
+                            - part of the issue is entire graphs are loaded in-browser so someone “clever” could gain access to blocks they otherwise do not have permissions to gain access to
+                            - {{[[TODO]]}} implement UNIX-like block-level permissions in Roam #support
+                    - [[Joel Chan]]
+                    - [[Joel x Chinarut]]
+                - Joel’s personal graph
+                - your lab graph
+                - #roam-synthesis graph
+                - related spaces
+                    - Notion
+                    - Slack
+                    - book club graph (current book “pointer”)
+                    - organizer book club graph
+        - choosing a direction (**and** being present and open to change)
+            - [[[[How to Decide]]/[[book]]]]
+            - ((LSbRmQouv)) -> 10 weeks of coaching
+        - keeping distractions at bay
+            - **(9) disruption**
+            - platforms designed to index the world’s media (as it relates to fillms) Trakt.TV
+                - commitment to model one’s “orb” as everyday knowledge objects like books and films [[Project Orbital]]
+            - self-care (!)
+            - [[open source]]
+                - **(3) home automation**
+                - **(5) open source meets nostalgia**
+    - moving forward {{[[POMO]]: 25}}
+        - {{[[TODO]]}} #proposal one page proposal summarizing a context for alignment and common call for action 
+        - {{[[TODO]]}} provided it makes sense, will you support me in a game plan to refine my [[graduate school]] application by [[November 15th, 2021]]? 
+            - ((Juc767jYJ))
+    - loose ends
+        - new [[research question]]s
+            - how do we enable machine agents to organize agendas (known and unknown) that exist between people,  partners, teams, organizations, communities, and nations?
+                - what role does “the crowd” play in such a system?
+            - in particular, what it is going to take to enable a [[resource-based economy]]?
+        - conversations developed to date
+            - conversations you’ve developed with [[Beau Haan 📌 ]], [[Sonke]] and [[Matt B]]
+                - **(7) Soren**
