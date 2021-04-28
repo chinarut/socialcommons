@@ -39586,8 +39586,8 @@
   [3339 :version/id "0.8.4" 536873674]
   [3339
    :version/nonce
-   "uuide2c74079-f035-4f2c-8971-f65d1b5d4218"
-   536874863]
+   "uuid22481a2b-a2d2-44a9-a207-18547b2b94a0"
+   536874895]
   [3340 :block/open true 536873675]
   [3340 :block/order 0 536873675]
   [3340 :block/page 3338 536873676]
@@ -41283,6 +41283,7 @@
   [3511 :block/children 3937 536874532]
   [3511 :block/children 3999 536874800]
   [3511 :block/children 4000 536874808]
+  [3511 :block/children 4007 536874894]
   [3511 :block/open true 536873806]
   [3511 :block/uid "XED7uiC5c" 536873807]
   [3511 :create/time 1619568490401 536873807]
@@ -41290,10 +41291,7 @@
   [3511 :edit/time 1617584860671 536873806]
   [3511 :edit/user 1 536873806]
   [3511 :node/title "Joel x Chinarut" 536873806]
-  [3512 :block/children 3563 536874387]
-  [3512 :block/children 3586 536873806]
-  [3512 :block/children 3696 536874361]
-  [3512 :block/children 3848 536873806]
+  [3512 :block/children 4006 536874873]
   [3512 :block/open true 536873808]
   [3512 :block/order 1 536874837]
   [3512 :block/page 3511 536874839]
@@ -41906,12 +41904,13 @@
   [3563 :block/children 3573 536873806]
   [3563 :block/children 3581 536873806]
   [3563 :block/children 3585 536873806]
-  [3563 :block/open false 536874833]
-  [3563 :block/order 0 536874387]
+  [3563 :block/open true 536874893]
+  [3563 :block/order 0 536874877]
   [3563 :block/page 3511 536874380]
   [3563 :block/parents 3511 536874380]
   [3563 :block/parents 3512 536874388]
   [3563 :block/parents 3937 536874839]
+  [3563 :block/parents 4006 536874878]
   [3563 :block/string "key changes" 536873806]
   [3563 :block/uid "U6by9VXAi" 536873806]
   [3563 :create/time 1619552888664 536873806]
@@ -41927,6 +41926,7 @@
   [3564 :block/parents 3512 536874388]
   [3564 :block/parents 3563 536874380]
   [3564 :block/parents 3937 536874839]
+  [3564 :block/parents 4006 536874878]
   [3564 :block/refs 3565 536873806]
   [3564
    :block/string
@@ -41949,6 +41949,7 @@
   [3566 :block/parents 3563 536874380]
   [3566 :block/parents 3564 536874380]
   [3566 :block/parents 3937 536874839]
+  [3566 :block/parents 4006 536874878]
   [3566 :block/refs 1994 536873806]
   [3566
    :block/string
@@ -41967,6 +41968,7 @@
   [3567 :block/parents 3563 536874380]
   [3567 :block/parents 3564 536874380]
   [3567 :block/parents 3937 536874839]
+  [3567 :block/parents 4006 536874878]
   [3567 :block/refs 612 536873806]
   [3567 :block/refs 3536 536873806]
   [3567
@@ -41987,6 +41989,7 @@
   [3568 :block/parents 3512 536874388]
   [3568 :block/parents 3563 536874380]
   [3568 :block/parents 3937 536874839]
+  [3568 :block/parents 4006 536874878]
   [3568
    :block/string
    "deprioritization of email, text, mobile"
@@ -42004,6 +42007,7 @@
   [3569 :block/parents 3563 536874380]
   [3569 :block/parents 3568 536874380]
   [3569 :block/parents 3937 536874839]
+  [3569 :block/parents 4006 536874878]
   [3569 :block/string "((Ut3XTrX2x))" 536873806]
   [3569 :block/uid "Wojv8qbcv" 536873806]
   [3569 :create/time 1619565744670 536873806]
@@ -42018,6 +42022,7 @@
   [3570 :block/parents 3563 536874380]
   [3570 :block/parents 3568 536874380]
   [3570 :block/parents 3937 536874839]
+  [3570 :block/parents 4006 536874878]
   [3570 :block/string "((A4oXMz9N4))" 536873806]
   [3570 :block/uid "T-n6LgInu" 536873806]
   [3570 :create/time 1619566632114 536873806]
@@ -42032,6 +42037,7 @@
   [3571 :block/parents 3512 536874388]
   [3571 :block/parents 3563 536874380]
   [3571 :block/parents 3937 536874839]
+  [3571 :block/parents 4006 536874878]
   [3571 :block/string "prioritization of landline" 536873806]
   [3571 :block/uid "uijC1e3IS" 536873806]
   [3571 :create/time 1619552926607 536873806]
@@ -42046,6 +42052,7 @@
   [3572 :block/parents 3563 536874380]
   [3572 :block/parents 3571 536874380]
   [3572 :block/parents 3937 536874839]
+  [3572 :block/parents 4006 536874878]
   [3572 :block/refs 577 536873806]
   [3572
    :block/string
@@ -42069,6 +42076,7 @@
   [3573 :block/parents 3512 536874388]
   [3573 :block/parents 3563 536874380]
   [3573 :block/parents 3937 536874839]
+  [3573 :block/parents 4006 536874878]
   [3573
    :block/string
    "focus on public group context/shares on and offline"
@@ -42087,6 +42095,7 @@
   [3574 :block/parents 3563 536874380]
   [3574 :block/parents 3573 536874380]
   [3574 :block/parents 3937 536874839]
+  [3574 :block/parents 4006 536874878]
   [3574
    :block/string
    "public blogs, public graphs, Slack, online discussion forums, large format seminars (80+), office hours"
@@ -42105,6 +42114,7 @@
   [3575 :block/parents 3573 536874380]
   [3575 :block/parents 3574 536874380]
   [3575 :block/parents 3937 536874839]
+  [3575 :block/parents 4006 536874878]
   [3575
    :block/string
    "attempt to be in Roam Slack once/week - Zoom and office hours take priority"
@@ -42122,6 +42132,7 @@
   [3576 :block/parents 3563 536874380]
   [3576 :block/parents 3573 536874380]
   [3576 :block/parents 3937 536874839]
+  [3576 :block/parents 4006 536874878]
   [3576 :block/string "eventually dance events" 536873806]
   [3576 :block/uid "5F1Q03-AZ" 536873806]
   [3576 :create/time 1619553106782 536873806]
@@ -42136,6 +42147,7 @@
   [3577 :block/parents 3563 536874380]
   [3577 :block/parents 3573 536874380]
   [3577 :block/parents 3937 536874839]
+  [3577 :block/parents 4006 536874878]
   [3577
    :block/string
    "possibly grow into YouTube, Stereo, Clubhouse (Icebreaker experience is possible impediment)"
@@ -42153,6 +42165,7 @@
   [3578 :block/parents 3563 536874380]
   [3578 :block/parents 3573 536874380]
   [3578 :block/parents 3937 536874839]
+  [3578 :block/parents 4006 536874878]
   [3578
    :block/string
    "Twitter is out there (at the risk of noise)"
@@ -42170,6 +42183,7 @@
   [3579 :block/parents 3563 536874380]
   [3579 :block/parents 3573 536874380]
   [3579 :block/parents 3937 536874839]
+  [3579 :block/parents 4006 536874878]
   [3579
    :block/string
    "Facebook fan page(s) are a possibility"
@@ -42187,6 +42201,7 @@
   [3580 :block/parents 3563 536874380]
   [3580 :block/parents 3573 536874380]
   [3580 :block/parents 3937 536874839]
+  [3580 :block/parents 4006 536874878]
   [3580 :block/string "LinkedIn is also a possibility" 536873806]
   [3580 :block/uid "AfvJ4HgKa" 536873806]
   [3580 :create/time 1619553262018 536873806]
@@ -42201,6 +42216,7 @@
   [3581 :block/parents 3512 536874388]
   [3581 :block/parents 3563 536874380]
   [3581 :block/parents 3937 536874839]
+  [3581 :block/parents 4006 536874878]
   [3581 :block/refs 3582 536873806]
   [3581
    :block/string
@@ -42224,6 +42240,7 @@
   [3583 :block/parents 3563 536874380]
   [3583 :block/parents 3581 536874380]
   [3583 :block/parents 3937 536874839]
+  [3583 :block/parents 4006 536874878]
   [3583 :block/refs 501 536874492]
   [3583 :block/refs 577 536873806]
   [3583 :block/refs 2204 536873806]
@@ -42245,6 +42262,7 @@
   [3584 :block/parents 3581 536874380]
   [3584 :block/parents 3583 536874380]
   [3584 :block/parents 3937 536874839]
+  [3584 :block/parents 4006 536874878]
   [3584
    :block/string
    "what kinds of things is he good at explaining?"
@@ -42261,6 +42279,7 @@
   [3585 :block/parents 3512 536874388]
   [3585 :block/parents 3563 536874380]
   [3585 :block/parents 3937 536874839]
+  [3585 :block/parents 4006 536874878]
   [3585 :block/string "((1W2A4K4d3))" 536873806]
   [3585 :block/uid "o5uZ3xKiI" 536873806]
   [3585 :create/time 1619555691834 536873806]
@@ -42272,12 +42291,13 @@
   [3586 :block/children 3639 536873806]
   [3586 :block/children 3640 536873806]
   [3586 :block/children 3642 536873806]
-  [3586 :block/open false 536874831]
-  [3586 :block/order 1 536874387]
+  [3586 :block/open false 536874892]
+  [3586 :block/order 1 536874877]
   [3586 :block/page 3511 536874839]
   [3586 :block/parents 3511 536874839]
   [3586 :block/parents 3512 536874839]
   [3586 :block/parents 3937 536874839]
+  [3586 :block/parents 4006 536874879]
   [3586 :block/props {:POMO 1619567136109} 536873806]
   [3586 :block/refs 625 536873806]
   [3586 :block/string "((wQHvl1eZI)) {{[[POMO]]: 25}}" 536873806]
@@ -42304,6 +42324,7 @@
   [3587 :block/parents 3512 536874839]
   [3587 :block/parents 3586 536874839]
   [3587 :block/parents 3937 536874839]
+  [3587 :block/parents 4006 536874879]
   [3587 :block/refs 3511 536873806]
   [3587
    :block/string
@@ -42322,6 +42343,7 @@
   [3588 :block/parents 3586 536874839]
   [3588 :block/parents 3587 536874839]
   [3588 :block/parents 3937 536874839]
+  [3588 :block/parents 4006 536874879]
   [3588
    :block/string
    "Please excuse the long absence - my 10d meditation retreat I was scheduled to attend 12/23-1/3 was canceled due to covid and used the time the best I could to reflect and rearrange my foundation.  I am in the process of packing up my apt in SF and transitioning back to SoCal. I have to make my last trip next week and I'll be more settled here mid to late Feb."
@@ -42344,6 +42366,7 @@
   [3589 :block/parents 3586 536874839]
   [3589 :block/parents 3587 536874839]
   [3589 :block/parents 3937 536874839]
+  [3589 :block/parents 4006 536874879]
   [3589 :block/string "**(0) coordinating**" 536873806]
   [3589 :block/uid "Ut3XTrX2x" 536873806]
   [3589 :create/time 1619557030333 536873806]
@@ -42359,6 +42382,7 @@
   [3590 :block/parents 3587 536874839]
   [3590 :block/parents 3589 536874839]
   [3590 :block/parents 3937 536874839]
+  [3590 :block/parents 4006 536874879]
   [3590
    :block/string
    "if you don't mind using the old fashioned phone, I can be reached at 310-751-0412. You are welcome to text/call anytime - afternoons (PST) tend to work well for me in general.  of course, if we end up playing too much phone tag, we can schedule forward."
@@ -42377,6 +42401,7 @@
   [3591 :block/parents 3587 536874839]
   [3591 :block/parents 3589 536874839]
   [3591 :block/parents 3937 536874839]
+  [3591 :block/parents 4006 536874879]
   [3591
    :block/string
    "One caveat re: # above is it is a Google Voice # and the voice quality has gotten quite poor in the last few months - we may need to switch to my direct line or another medium (eg. FaceTime audio/video)"
@@ -42395,6 +42420,7 @@
   [3592 :block/parents 3587 536874839]
   [3592 :block/parents 3589 536874839]
   [3592 :block/parents 3937 536874839]
+  [3592 :block/parents 4006 536874879]
   [3592
    :block/string
    "Might you have block of hours (akin to office hours you set aside for your students) I could possibly earmark every week?   The idea is I could try to reach you during this block and if you’re available you’re available, if you’re not you’re not."
@@ -42413,6 +42439,7 @@
   [3593 :block/parents 3587 536874839]
   [3593 :block/parents 3589 536874839]
   [3593 :block/parents 3937 536874839]
+  [3593 :block/parents 4006 536874879]
   [3593
    :block/string
    "It’s been on my agenda to create a new Calend.ly with my “office hours” and willing to start with blocks that work for you.  The upside is we can both be available for blocks for group discussions with others."
@@ -42431,6 +42458,7 @@
   [3594 :block/parents 3587 536874839]
   [3594 :block/parents 3589 536874839]
   [3594 :block/parents 3937 536874839]
+  [3594 :block/parents 4006 536874879]
   [3594
    :block/string
    "I do have a request we err on “less meetings,” focus on online collaboration as much as possible (I will admit email breaks down for me and more on this later) until thresholds (aka miscommunication) gets hit.  This is an art, so I’m open to ideas - it’s been 3 or 4 months since our first zoom and I would love to hear what prompted you to feel it was time be get back on a zoom last month if it wasn’t more than just spidey-sense :)"
@@ -42453,6 +42481,7 @@
   [3595 :block/parents 3586 536874839]
   [3595 :block/parents 3587 536874839]
   [3595 :block/parents 3937 536874839]
+  [3595 :block/parents 4006 536874879]
   [3595 :block/string "**(1) roam-medical**" 536873806]
   [3595 :block/uid "ac4ASgUyg" 536873806]
   [3595 :create/time 1619557030333 536873806]
@@ -42468,6 +42497,7 @@
   [3596 :block/parents 3587 536874839]
   [3596 :block/parents 3595 536874839]
   [3596 :block/parents 3937 536874839]
+  [3596 :block/parents 4006 536874879]
   [3596
    :block/string
    "I just took a look at the way you’ve set up the space for this project and find the [Working Synthesis](https://roamresearch.com/#/app/joel-covid19/page/rdwtLbFSb) page quite fascinating! While some of it goes over my head, I passed it onto my little brother who is in psychiatry.  I like that you’ve managed to dive into the clinical side of things and dovetailing it with roam and zettling!  More on bioinformatics later."
@@ -42486,6 +42516,7 @@
   [3597 :block/parents 3587 536874839]
   [3597 :block/parents 3595 536874839]
   [3597 :block/parents 3937 536874839]
+  [3597 :block/parents 4006 536874879]
   [3597
    :block/string
    "It's in my queue to catch up with your zoom recording and take a look at one of the papers mentioned.  Have you, Matt, and Bradon had an opportunity to discuss how conversations might work in our graph?"
@@ -42504,6 +42535,7 @@
   [3598 :block/parents 3587 536874839]
   [3598 :block/parents 3595 536874839]
   [3598 :block/parents 3937 536874839]
+  [3598 :block/parents 4006 536874879]
   [3598
    :block/string
    "I look forward to hearing Matt and Brandon’s input.  I wholeheartedly am a fan of experiencing the growing pains of conversation in Roam (yes, it was painful as it was at times in book club - you probably aren’t even aware I responded to some of your input!) with an intent to “figure it out” (or at the very least, create enough groundswell to make feature requests) - my biggest concern is the longtail game and how conversations connect across graphs."
@@ -42522,6 +42554,7 @@
   [3599 :block/parents 3587 536874839]
   [3599 :block/parents 3595 536874839]
   [3599 :block/parents 3937 536874839]
+  [3599 :block/parents 4006 536874879]
   [3599
    :block/string
    "I think if we focus on our process for Zettling, and we center our conversations around collective zettling, we will make good progress and get away from the details and the original sources."
@@ -42540,6 +42573,7 @@
   [3600 :block/parents 3587 536874839]
   [3600 :block/parents 3595 536874839]
   [3600 :block/parents 3937 536874839]
+  [3600 :block/parents 4006 536874879]
   [3600
    :block/string
    "I’m happy to lead any part of the above in the graph you created (do point out if anything I’ve shared has particular value to the group) and at the same time, I do feel I need space to focus on zettling one of the research papers and helping model how our group might develop conversations around zettels we create from our respective papers we read."
@@ -42560,6 +42594,7 @@
   [3601 :block/parents 3586 536874839]
   [3601 :block/parents 3587 536874839]
   [3601 :block/parents 3937 536874839]
+  [3601 :block/parents 4006 536874879]
   [3601 :block/string "**(2) Icebreaker / getting related**" 536873806]
   [3601 :block/uid "9vaL3qVJJ" 536873806]
   [3601 :create/time 1619557030333 536873806]
@@ -42575,6 +42610,7 @@
   [3602 :block/parents 3587 536874839]
   [3602 :block/parents 3601 536874839]
   [3602 :block/parents 3937 536874839]
+  [3602 :block/parents 4006 536874879]
   [3602
    :block/string
    "Just FYI - I co-host Icebreakers (icebreaker.video) the 2nd sat of every month in an attempt to keep one of my communities in the SF bay area afloat during a time we cannot gather and dance.  It dawned on me in Dec I needed to start aligning research in wellbeing with my commitment to community - I proposed to lead conversations for wellbeing the next 5-6 months with one of the co-founders and peers."
@@ -42593,6 +42629,7 @@
   [3603 :block/parents 3587 536874839]
   [3603 :block/parents 3601 536874839]
   [3603 :block/parents 3937 536874839]
+  [3603 :block/parents 4006 536874879]
   [3603
    :block/string
    "I had meant to extend the invite to join on the 9th so you could get a sense of what the platform is capable of.  I'll be going through each of the 5 elements of wellbeing as themes for the next 5 months (Feb-June) and a wrap up in July.  The kickoff on the 9th went well and I bring all this up because (1) you’re always welcome to attend (even for 10 minutes) and (2) perhaps our group could design some questions/prompts consistent with roam-medical and break some ice amongst participants (as I personally don’t recognize everyone's names!)"
@@ -42611,6 +42648,7 @@
   [3604 :block/parents 3587 536874839]
   [3604 :block/parents 3601 536874839]
   [3604 :block/parents 3937 536874839]
+  [3604 :block/parents 4006 536874879]
   [3604
    :block/string
    "Just putting the idea out there and the role I need to play is more a supportive role in guiding someone through the process."
@@ -42633,6 +42671,7 @@
   [3605 :block/parents 3586 536874839]
   [3605 :block/parents 3587 536874839]
   [3605 :block/parents 3937 536874839]
+  [3605 :block/parents 4006 536874879]
   [3605 :block/string "**(3) home automation**" 536873806]
   [3605 :block/uid "NAuTbUAs_" 536873806]
   [3605 :create/time 1619557030333 536873806]
@@ -42648,6 +42687,7 @@
   [3606 :block/parents 3587 536874839]
   [3606 :block/parents 3605 536874839]
   [3606 :block/parents 3937 536874839]
+  [3606 :block/parents 4006 536874879]
   [3606
    :block/string
    "returning to my parent's home tends to be a marathon attending to home improvement projects for 2-3 weeks.  this trip was no exception and didn't expect it to be an opportunity to get acquainted with the home automation world both corporate and open source - have you dabbled any yourself?"
@@ -42666,6 +42706,7 @@
   [3607 :block/parents 3587 536874839]
   [3607 :block/parents 3605 536874839]
   [3607 :block/parents 3937 536874839]
+  [3607 :block/parents 4006 536874879]
   [3607
    :block/string
    "I now understand why I saw an effort at CMU to transform the experience of administering IoT devices - the ecosystem is a mess (aka. beyond fragmented) and glad to see the open source efforts are more mature than I anticipated (jury is still out as it requires open source firmware (Tasmota) which I have not invested in yet!)"
@@ -42684,6 +42725,7 @@
   [3608 :block/parents 3587 536874839]
   [3608 :block/parents 3605 536874839]
   [3608 :block/parents 3937 536874839]
+  [3608 :block/parents 4006 536874879]
   [3608
    :block/string
    "I won't get into too much on this front and it's where a lionshare of my time went this month leading into helping my parents replace their entire HVAC system (which was an exercise in contractor evaluation in itself!)"
@@ -42702,6 +42744,7 @@
   [3609 :block/parents 3587 536874839]
   [3609 :block/parents 3605 536874839]
   [3609 :block/parents 3937 536874839]
+  [3609 :block/parents 4006 536874879]
   [3609
    :block/string
    "HVAC aside, I do find the home automation world a fascinating exercise in synthesis (hardware, software, networks, low-power systems, sheer scale, mass market, automation, AI, etc) and be curious to hear how home automation has shown up in your work (if at all)!"
@@ -42720,6 +42763,7 @@
   [3610 :block/parents 3587 536874839]
   [3610 :block/parents 3605 536874839]
   [3610 :block/parents 3937 536874839]
+  [3610 :block/parents 4006 536874879]
   [3610
    :block/string
    "I have to admit, this was quite the 2 week rabbit hole - not for the faint-hearted :)"
@@ -42738,6 +42782,7 @@
   [3611 :block/parents 3586 536874839]
   [3611 :block/parents 3587 536874839]
   [3611 :block/parents 3937 536874839]
+  [3611 :block/parents 4006 536874879]
   [3611 :block/string "**(4) PT income**" 536873806]
   [3611 :block/uid "9460PMHDq" 536873806]
   [3611 :create/time 1619557030333 536873806]
@@ -42753,6 +42798,7 @@
   [3612 :block/parents 3587 536874839]
   [3612 :block/parents 3611 536874839]
   [3612 :block/parents 3937 536874839]
+  [3612 :block/parents 4006 536874879]
   [3612
    :block/string
    "I am still sorting this out - part of the reason I'm returning to SoCal is to reduce my burnrate significantly. Another part of the reason is enlisting my folks on what it means to be a researcher :)  infrastructure down here is much more stable (and kinder to my wellbeing) which will help support continued remote work at least for the first few months of 2021."
@@ -42773,6 +42819,7 @@
   [3613 :block/parents 3586 536874839]
   [3613 :block/parents 3587 536874839]
   [3613 :block/parents 3937 536874839]
+  [3613 :block/parents 4006 536874879]
   [3613 :block/string "**(5) open source meets nostalgia**" 536873806]
   [3613 :block/uid "Wt8g4mQey" 536873806]
   [3613 :create/time 1619557030333 536873806]
@@ -42788,6 +42835,7 @@
   [3614 :block/parents 3587 536874839]
   [3614 :block/parents 3613 536874839]
   [3614 :block/parents 3937 536874839]
+  [3614 :block/parents 4006 536874879]
   [3614 :block/refs 3615 536873806]
   [3614
    :block/string
@@ -42811,6 +42859,7 @@
   [3616 :block/parents 3587 536874839]
   [3616 :block/parents 3613 536874839]
   [3616 :block/parents 3937 536874839]
+  [3616 :block/parents 4006 536874879]
   [3616
    :block/string
    "point being, my perspectives on open source, the literature around what is garnered around how open source is developed I feel has parallels to peer-to-peer production of content/knowledge."
@@ -42829,6 +42878,7 @@
   [3617 :block/parents 3587 536874839]
   [3617 :block/parents 3613 536874839]
   [3617 :block/parents 3937 536874839]
+  [3617 :block/parents 4006 536874879]
   [3617
    :block/string
    "that said, I'm also finding open source projects I wish to refine the user experience and HCI is becoming that much clearer in my world thanks to emulators and frameworks like RetroArch (dunno if you are into video games at all? I’m pretty retro :)  Even seeing the Color Computer 3 I was gifted when I was 8 boot up and load a program I wrote and got published for load off a virtual 5.25” disk was pretty trippy to be honest!"
@@ -42850,6 +42900,7 @@
   [3618 :block/parents 3586 536874839]
   [3618 :block/parents 3587 536874839]
   [3618 :block/parents 3937 536874839]
+  [3618 :block/parents 4006 536874879]
   [3618
    :block/string
    "**(6) U of Washington & bioinformatics**"
@@ -42869,6 +42920,7 @@
   [3619 :block/parents 3587 536874839]
   [3619 :block/parents 3618 536874839]
   [3619 :block/parents 3937 536874839]
+  [3619 :block/parents 4006 536874879]
   [3619
    :block/string
    "I still have to complete the study design paper you advised me to read!"
@@ -42888,6 +42940,7 @@
   [3620 :block/parents 3618 536874839]
   [3620 :block/parents 3619 536874839]
   [3620 :block/parents 3937 536874839]
+  [3620 :block/parents 4006 536874879]
   [3620 :block/string "((lQHwfqQTr))" 536873806]
   [3620 :block/uid "cF9tJU7zU" 536873806]
   [3620 :create/time 1619566322253 536873806]
@@ -42903,6 +42956,7 @@
   [3621 :block/parents 3587 536874839]
   [3621 :block/parents 3618 536874839]
   [3621 :block/parents 3937 536874839]
+  [3621 :block/parents 4006 536874879]
   [3621
    :block/string
    "I had no idea UW had leadership in bioinformatics - are you acquainted with[ Wanda Pratt](https://ischool.uw.edu/people/faculty/profile/wpratt)'s work?  I feel she is someone we should both be collaborating with."
@@ -42921,6 +42975,7 @@
   [3622 :block/parents 3587 536874839]
   [3622 :block/parents 3618 536874839]
   [3622 :block/parents 3937 536874839]
+  [3622 :block/parents 4006 536874879]
   [3622
    :block/string
    "I have not yet found the cycles to explore what research in[ bioinformatics at UMD](https://www.cs.umd.edu/research-area/bioinformatics-and-computational-biology) and perhaps you might be able to enlighten me given I can see myself zettling at least 30 of Wanda's papers - these are the themes that sound fascinating to me:  nuances behind a \"health commons\", the quantified-self, mentor matching, expert identification (both peer and clinician contexts) and she has been willing to dive into more progressive areas like the use of video games, study of non-verbal communication and interpretation of emojis in the context of wellbeing!"
@@ -42939,6 +42994,7 @@
   [3623 :block/parents 3587 536874839]
   [3623 :block/parents 3618 536874839]
   [3623 :block/parents 3937 536874839]
+  [3623 :block/parents 4006 536874879]
   [3623
    :block/string
    "I'm wondering if by chance there is a bridge that can be drawn/created from your dept to bioinformatics that perhaps has not been erected yet?  This would be a wonderful space to work in with you."
@@ -42957,6 +43013,7 @@
   [3624 :block/parents 3586 536874839]
   [3624 :block/parents 3587 536874839]
   [3624 :block/parents 3937 536874839]
+  [3624 :block/parents 4006 536874879]
   [3624 :block/string "**(7) Soren**" 536873806]
   [3624 :block/uid "DuMDPCkry" 536873806]
   [3624 :create/time 1619557030333 536873806]
@@ -42972,6 +43029,7 @@
   [3625 :block/parents 3587 536874839]
   [3625 :block/parents 3624 536874839]
   [3625 :block/parents 3937 536874839]
+  [3625 :block/parents 4006 536874879]
   [3625
    :block/string
    "I'm wondering if you've progressed with your chats with Soren?  He agreed to take a look at the very early \"manuscript\" that came out of transforming his book into zettels after the holidays.  I feel what I drafted is How to Take Smart Notes in the context of a wellbeing commons.  So I am particularly trying to best understand how to best cite his work when I feel I am projecting and shifting his book into a specific domain or focus"
@@ -42992,6 +43050,7 @@
   [3626 :block/parents 3586 536874839]
   [3626 :block/parents 3587 536874839]
   [3626 :block/parents 3937 536874839]
+  [3626 :block/parents 4006 536874879]
   [3626 :block/string "**(8) email vs Slack vs video**" 536873806]
   [3626 :block/uid "A4oXMz9N4" 536873806]
   [3626 :create/time 1619557030333 536873806]
@@ -43008,6 +43067,7 @@
   [3627 :block/parents 3587 536874839]
   [3627 :block/parents 3626 536874839]
   [3627 :block/parents 3937 536874839]
+  [3627 :block/parents 4006 536874879]
   [3627
    :block/string
    "**email** - just so you are aware, I continue to question the use of email. Email and social media (Facebook) fall out of existence when I get into the flow state"
@@ -43027,6 +43087,7 @@
   [3628 :block/parents 3626 536874839]
   [3628 :block/parents 3627 536874839]
   [3628 :block/parents 3937 536874839]
+  [3628 :block/parents 4006 536874879]
   [3628
    :block/string
    "When I am in a flow state, email is dominated by tech support cases to support whatever it is I am attempting to accomplish."
@@ -43045,6 +43106,7 @@
   [3629 :block/parents 3587 536874839]
   [3629 :block/parents 3626 536874839]
   [3629 :block/parents 3937 536874839]
+  [3629 :block/parents 4006 536874879]
   [3629
    :block/string
    "**Slack** - while I, too, hate the 10k message limit, I think Slack might be a better mechanism, I am still experimenting with @mentions - so please do make use if it if you’d like to rope me in!"
@@ -43064,6 +43126,7 @@
   [3630 :block/parents 3587 536874839]
   [3630 :block/parents 3626 536874839]
   [3630 :block/parents 3937 536874839]
+  [3630 :block/parents 4006 536874879]
   [3630
    :block/string
    "**phone/Zoom/FaceTime** -  I have no qualms organizing my thoughts in this manner (this doc) despite it taking some concerted effort and focus."
@@ -43083,6 +43146,7 @@
   [3631 :block/parents 3626 536874839]
   [3631 :block/parents 3630 536874839]
   [3631 :block/parents 3937 536874839]
+  [3631 :block/parents 4006 536874879]
   [3631
    :block/string
    "I’d say lets knock off as many items here in the document as possible and leave the juicier items for a real-time conversation and/or zoom"
@@ -43102,6 +43166,7 @@
   [3632 :block/parents 3586 536874839]
   [3632 :block/parents 3587 536874839]
   [3632 :block/parents 3937 536874839]
+  [3632 :block/parents 4006 536874879]
   [3632 :block/string "**(9) disruption**" 536873806]
   [3632 :block/uid "8ruoqTKR4" 536873806]
   [3632 :create/time 1619557030333 536873806]
@@ -43117,6 +43182,7 @@
   [3633 :block/parents 3587 536874839]
   [3633 :block/parents 3632 536874839]
   [3633 :block/parents 3937 536874839]
+  [3633 :block/parents 4006 536874879]
   [3633
    :block/string
    "While I don’t have a lot to elaborate at the moment, I do notice my tendency to find excuses to disrupt myself as it creates new ideas, innovation, brings unintended things together"
@@ -43135,6 +43201,7 @@
   [3634 :block/parents 3587 536874839]
   [3634 :block/parents 3632 536874839]
   [3634 :block/parents 3937 536874839]
+  [3634 :block/parents 4006 536874879]
   [3634
    :block/string
    "So please don’t hesitate to let me know if any of my mad scientist ways ever gets in the way of our interactions - i hope to think I’m doing all this for the greater good :)"
@@ -43154,6 +43221,7 @@
   [3635 :block/parents 3512 536874839]
   [3635 :block/parents 3586 536874839]
   [3635 :block/parents 3937 536874839]
+  [3635 :block/parents 4006 536874879]
   [3635
    :block/string
    "I mainly want to give an **update on PhD admissions**. Unfortunately we weren't able to put you on the list of admits."
@@ -43171,6 +43239,7 @@
   [3636 :block/parents 3586 536874839]
   [3636 :block/parents 3635 536874839]
   [3636 :block/parents 3937 536874839]
+  [3636 :block/parents 4006 536874879]
   [3636
    :block/string
    "The main reason is that we got an extraordinarily competitive and large pool of applicants this year (~3X our usual haul, and 2X as strong; probably partly a function of the pandemic and a new influx of faculty?)."
@@ -43188,6 +43257,7 @@
   [3637 :block/parents 3586 536874839]
   [3637 :block/parents 3635 536874839]
   [3637 :block/parents 3937 536874839]
+  [3637 :block/parents 4006 536874879]
   [3637
    :block/string
    "I still find your chosen problem compelling, but ^^there are still questions about whether this is best done in the context of a PhD^^ (vs. say, working on it in a nonprofit or other model)."
@@ -43205,6 +43275,7 @@
   [3638 :block/parents 3586 536874839]
   [3638 :block/parents 3635 536874839]
   [3638 :block/parents 3937 536874839]
+  [3638 :block/parents 4006 536874879]
   [3638
    :block/string
    "I suspect you also have questions about this, and would be glad to talk through them, asynchronously or otherwise: not all problems need to be approached from the standpoint of research!"
@@ -43221,6 +43292,7 @@
   [3639 :block/parents 3512 536874839]
   [3639 :block/parents 3586 536874839]
   [3639 :block/parents 3937 536874839]
+  [3639 :block/parents 4006 536874879]
   [3639
    :block/string
    "I know this is a disappointing outcome (it is to me as well! really enjoyed our discussions and think you have a lot of potential), but I hope this provides some context for the decision."
@@ -43238,6 +43310,7 @@
   [3640 :block/parents 3512 536874839]
   [3640 :block/parents 3586 536874839]
   [3640 :block/parents 3937 536874839]
+  [3640 :block/parents 4006 536874879]
   [3640
    :block/string
    "I am of course still open to continuing discussions, although I think the current pace of responding will be about right, unless there is some critical time-sensitive opportunity that aligns with my research critical paths."
@@ -43255,6 +43328,7 @@
   [3641 :block/parents 3586 536874839]
   [3641 :block/parents 3640 536874839]
   [3641 :block/parents 3937 536874839]
+  [3641 :block/parents 4006 536874879]
   [3641
    :block/string
    "For instance, if you wanted to get a group of people together to prototype a wellbeing commons that deeply integrated with research literature, that would be of great interest to me."
@@ -43271,6 +43345,7 @@
   [3642 :block/parents 3512 536874839]
   [3642 :block/parents 3586 536874839]
   [3642 :block/parents 3937 536874839]
+  [3642 :block/parents 4006 536874879]
   [3642
    :block/string
    "I appreciate your energy and enthusiasm, as always, and hope we can continue corresponding!"
@@ -43285,7 +43360,7 @@
   [3643 :block/children 3652 536873806]
   [3643 :block/children 3654 536873806]
   [3643 :block/open false 536874486]
-  [3643 :block/order 3 536874601]
+  [3643 :block/order 4 536874894]
   [3643 :block/page 3511 536874281]
   [3643 :block/parents 3511 536874281]
   [3643 :block/string "anchors" 536873806]
@@ -43441,7 +43516,7 @@
   [3655 :block/children 3656 536873806]
   [3655 :block/children 3659 536873806]
   [3655 :block/open false 536874497]
-  [3655 :block/order 4 536874601]
+  [3655 :block/order 5 536874894]
   [3655 :block/page 3511 536874364]
   [3655 :block/parents 3511 536874364]
   [3655 :block/string "past influences/declarations" 536873806]
@@ -43933,12 +44008,13 @@
   [3695 :edit/time 1619546107735 536873806]
   [3695 :edit/user 1 536873806]
   [3696 :block/children 3697 536873806]
-  [3696 :block/open false 536874812]
-  [3696 :block/order 2 536874387]
+  [3696 :block/open false 536874888]
+  [3696 :block/order 2 536874877]
   [3696 :block/page 3511 536874362]
   [3696 :block/parents 3511 536874362]
   [3696 :block/parents 3512 536874362]
   [3696 :block/parents 3937 536874839]
+  [3696 :block/parents 4006 536874880]
   [3696 :block/string "past action items" 536874357]
   [3696 :block/uid "EvW8cgTKc" 536873806]
   [3696 :create/time 1619555056324 536873806]
@@ -43953,6 +44029,7 @@
   [3697 :block/parents 3512 536874362]
   [3697 :block/parents 3696 536874362]
   [3697 :block/parents 3937 536874839]
+  [3697 :block/parents 4006 536874880]
   [3697 :block/refs 10 536873806]
   [3697 :block/string "[[Wellbeing Commons]]" 536873806]
   [3697 :block/uid "xDaQojy9h" 536873806]
@@ -43969,6 +44046,7 @@
   [3698 :block/parents 3696 536874362]
   [3698 :block/parents 3697 536874362]
   [3698 :block/parents 3937 536874839]
+  [3698 :block/parents 4006 536874880]
   [3698 :block/refs 3298 536873806]
   [3698 :block/string "((5kjp3kq7U))" 536873806]
   [3698 :block/uid "0kl4wS6LT" 536873806]
@@ -43986,6 +44064,7 @@
   [3699 :block/parents 3697 536874362]
   [3699 :block/parents 3698 536874362]
   [3699 :block/parents 3937 536874839]
+  [3699 :block/parents 4006 536874880]
   [3699 :block/string "((L0mCeR9G2))" 536873806]
   [3699 :block/uid "WmnuB0T8f" 536873806]
   [3699 :create/time 1619552410089 536873806]
@@ -44002,6 +44081,7 @@
   [3700 :block/parents 3698 536874362]
   [3700 :block/parents 3699 536874362]
   [3700 :block/parents 3937 536874839]
+  [3700 :block/parents 4006 536874880]
   [3700 :block/refs 3505 536873806]
   [3700
    :block/string
@@ -44020,7 +44100,7 @@
   [3701 :block/children 3744 536874311]
   [3701 :block/children 3750 536874311]
   [3701 :block/open false 536874797]
-  [3701 :block/order 6 536874609]
+  [3701 :block/order 7 536874894]
   [3701 :block/page 3511 536874285]
   [3701 :block/parents 3511 536874285]
   [3701 :block/props {:POMO 1619552373074} 536873806]
@@ -44758,7 +44838,7 @@
   [3756 :block/children 3783 536873806]
   [3756 :block/children 3788 536873806]
   [3756 :block/open false 536874834]
-  [3756 :block/order 7 536874609]
+  [3756 :block/order 8 536874894]
   [3756 :block/page 3511 536874595]
   [3756 :block/parents 3511 536874595]
   [3756 :block/props {:POMO 1619557381818} 536873806]
@@ -44793,6 +44873,7 @@
   [3758 :block/parents 3512 536874818]
   [3758 :block/parents 3848 536874818]
   [3758 :block/parents 3937 536874839]
+  [3758 :block/parents 4006 536874881]
   [3758 :block/string "((hVCj0ICJM))" 536873806]
   [3758 :block/uid "w3Lp-5enK" 536873806]
   [3758 :create/time 1619568388010 536873806]
@@ -45231,7 +45312,7 @@
   [3798 :block/children 3834 536873806]
   [3798 :block/children 3839 536873806]
   [3798 :block/open false 536874289]
-  [3798 :block/order 8 536874609]
+  [3798 :block/order 9 536874894]
   [3798 :block/page 3511 536874291]
   [3798 :block/parents 3511 536874291]
   [3798 :block/string "challenges" 536873806]
@@ -45905,12 +45986,13 @@
   [3847 :edit/user 1 536873806]
   [3848 :block/children 3758 536874816]
   [3848 :block/children 4001 536874826]
-  [3848 :block/open false 536874829]
-  [3848 :block/order 3 536874596]
+  [3848 :block/open false 536874886]
+  [3848 :block/order 3 536874877]
   [3848 :block/page 3511 536874839]
   [3848 :block/parents 3511 536874839]
   [3848 :block/parents 3512 536874839]
   [3848 :block/parents 3937 536874839]
+  [3848 :block/parents 4006 536874881]
   [3848 :block/props {:POMO 1619554220438} 536873806]
   [3848 :block/refs 625 536873806]
   [3848 :block/string "moving forward {{[[POMO]]: 25}}" 536873806]
@@ -45971,6 +46053,7 @@
   [3853 :block/parents 3848 536874828]
   [3853 :block/parents 3937 536874839]
   [3853 :block/parents 4001 536874828]
+  [3853 :block/parents 4006 536874881]
   [3853 :block/string "((Juc767jYJ))" 536873806]
   [3853 :block/uid "Yg9Ka2Igv" 536873806]
   [3853 :create/time 1619553678631 536873806]
@@ -46025,7 +46108,7 @@
   [3858 :block/children 3961 536874724]
   [3858 :block/children 3963 536874736]
   [3858 :block/open false 536874798]
-  [3858 :block/order 5 536874609]
+  [3858 :block/order 6 536874894]
   [3858 :block/page 3511 536874610]
   [3858 :block/parents 3511 536874610]
   [3858
@@ -46468,8 +46551,7 @@
   [3927 :block/uid "YKHKVkk3Y" 536874455]
   [3927 :edit/time 1619639934276 536874455]
   [3927 :edit/user 1 536874455]
-  [3929 :block/children 3946 536874620]
-  [3929 :block/children 3947 536874628]
+  [3929 :block/children 4005 536874866]
   [3929 :block/open true 536874465]
   [3929 :block/order 0 536874837]
   [3929 :block/page 3511 536874466]
@@ -46510,14 +46592,14 @@
   [3937 :block/children 3512 536874837]
   [3937 :block/children 3929 536874837]
   [3937 :block/open true 536874532]
-  [3937 :block/order 11 536874860]
+  [3937 :block/order 12 536874894]
   [3937 :block/page 3511 536874533]
   [3937 :block/parents 3511 536874533]
-  [3937 :block/string "journal" 536874836]
+  [3937 :block/string "journal" 536874865]
   [3937 :block/uid "T5YHQldbh" 536874532]
   [3937 :create/time 1619640341991 536874532]
   [3937 :create/user 1 536874532]
-  [3937 :edit/time 1619641817058 536874836]
+  [3937 :edit/time 1619641990530 536874865]
   [3937 :edit/user 1 536874532]
   [3938 :block/string "" 536874537]
   [3938 :block/uid "9zzSd51w9" 536874537]
@@ -46584,11 +46666,12 @@
   [3945 :edit/time 1619640790576 536874613]
   [3945 :edit/user 1 536874613]
   [3946 :block/open true 536874614]
-  [3946 :block/order 1 536874803]
+  [3946 :block/order 1 536874870]
   [3946 :block/page 3511 536874615]
   [3946 :block/parents 3511 536874615]
   [3946 :block/parents 3929 536874621]
   [3946 :block/parents 3937 536874838]
+  [3946 :block/parents 4005 536874872]
   [3946 :block/refs 3889 536874623]
   [3946 :block/string "((_6FhPkjkR))" 536874622]
   [3946 :block/uid "VgDoxtIi4" 536874614]
@@ -46597,11 +46680,12 @@
   [3946 :edit/time 1619640821059 536874622]
   [3946 :edit/user 1 536874614]
   [3947 :block/open true 536874624]
-  [3947 :block/order 0 536874803]
+  [3947 :block/order 0 536874870]
   [3947 :block/page 3511 536874625]
   [3947 :block/parents 3511 536874625]
   [3947 :block/parents 3929 536874625]
   [3947 :block/parents 3937 536874838]
+  [3947 :block/parents 4005 536874871]
   [3947 :block/refs 3872 536874627]
   [3947 :block/string "((aZQKDqgn9))" 536874626]
   [3947 :block/uid "IynAEcZeK" 536874624]
@@ -47126,7 +47210,7 @@
   [3999 :block/children 3885 536874803]
   [3999 :block/children 3910 536874843]
   [3999 :block/open true 536874800]
-  [3999 :block/order 10 536874808]
+  [3999 :block/order 11 536874894]
   [3999 :block/page 3511 536874801]
   [3999 :block/parents 3511 536874801]
   [3999 :block/string "opens" 536874807]
@@ -47136,7 +47220,7 @@
   [3999 :edit/time 1619641687728 536874807]
   [3999 :edit/user 1 536874800]
   [4000 :block/open true 536874808]
-  [4000 :block/order 9 536874808]
+  [4000 :block/order 10 536874894]
   [4000 :block/page 3511 536874809]
   [4000 :block/parents 3511 536874809]
   [4000 :block/string "action items" 536874810]
@@ -47146,13 +47230,14 @@
   [4000 :edit/time 1619641694379 536874810]
   [4000 :edit/user 1 536874808]
   [4001 :block/children 3853 536874826]
-  [4001 :block/open true 536874821]
+  [4001 :block/open false 536874885]
   [4001 :block/order 1 536874826]
   [4001 :block/page 3511 536874822]
   [4001 :block/parents 3511 536874822]
   [4001 :block/parents 3512 536874828]
   [4001 :block/parents 3848 536874828]
   [4001 :block/parents 3937 536874839]
+  [4001 :block/parents 4006 536874881]
   [4001 :block/refs 3851 536874825]
   [4001 :block/string "((ILx4-NrtG))" 536874824]
   [4001 :block/uid "LFjUJwCVM" 536874821]
@@ -47175,4 +47260,46 @@
   [4004 :block/string "" 536874861]
   [4004 :block/uid "uemkMU0gI" 536874861]
   [4004 :edit/time 1619641947117 536874861]
-  [4004 :edit/user 1 536874861]]}
+  [4004 :edit/user 1 536874861]
+  [4005 :block/children 3946 536874870]
+  [4005 :block/children 3947 536874870]
+  [4005 :block/open true 536874866]
+  [4005 :block/order 0 536874866]
+  [4005 :block/page 3511 536874867]
+  [4005 :block/parents 3511 536874867]
+  [4005 :block/parents 3929 536874867]
+  [4005 :block/parents 3937 536874867]
+  [4005 :block/refs 501 536874869]
+  [4005 :block/string "[[Chinarut 🦥]]" 536874868]
+  [4005 :block/uid "K-kWsCCz2" 536874866]
+  [4005 :create/time 1619641994345 536874866]
+  [4005 :create/user 1 536874866]
+  [4005 :edit/time 1619641998272 536874868]
+  [4005 :edit/user 1 536874866]
+  [4006 :block/children 3563 536874877]
+  [4006 :block/children 3586 536874877]
+  [4006 :block/children 3696 536874877]
+  [4006 :block/children 3848 536874877]
+  [4006 :block/open true 536874873]
+  [4006 :block/order 0 536874873]
+  [4006 :block/page 3511 536874874]
+  [4006 :block/parents 3511 536874874]
+  [4006 :block/parents 3512 536874874]
+  [4006 :block/parents 3937 536874874]
+  [4006 :block/refs 501 536874876]
+  [4006 :block/string "[[Chinarut 🦥]]" 536874875]
+  [4006 :block/uid "kwde113T9" 536874873]
+  [4006 :create/time 1619642006458 536874873]
+  [4006 :create/user 1 536874873]
+  [4006 :edit/time 1619642009133 536874875]
+  [4006 :edit/user 1 536874873]
+  [4007 :block/open true 536874894]
+  [4007 :block/order 3 536874894]
+  [4007 :block/page 3511 536874895]
+  [4007 :block/parents 3511 536874895]
+  [4007 :block/string "" 536874894]
+  [4007 :block/uid "mCUPwSh-7" 536874894]
+  [4007 :create/time 1619642066835 536874894]
+  [4007 :create/user 1 536874894]
+  [4007 :edit/time 1619642066835 536874894]
+  [4007 :edit/user 1 536874894]]}
