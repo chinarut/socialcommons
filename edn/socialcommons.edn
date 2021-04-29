@@ -38777,6 +38777,10 @@
    :version/nonce
    "uuid6bcfe3ce-00f9-40a8-ba67-546d97dccfa0"
    536872981]
+  [3237
+   :version/upgraded-nonce
+   "uuid6bcfe3ce-00f9-40a8-ba67-546d97dccfa0"
+   536875009]
   [3238 :block/uid "01-30-2021" 536872981]
   [3238 :create/time 1612045087325 536872981]
   [3238 :edit/time 1612045087325 536872981]
@@ -38794,6 +38798,10 @@
    :version/nonce
    "uuid6e78f712-3287-4679-9218-531650c67baa"
    536873673]
+  [3240
+   :version/upgraded-nonce
+   "uuid6e78f712-3287-4679-9218-531650c67baa"
+   536875009]
   [3242 :block/children 3250 536872996]
   [3242 :block/children 3269 536873090]
   [3242 :block/children 3286 536873251]
@@ -39588,6 +39596,10 @@
    :version/nonce
    "uuide5539b5d-dfac-48c6-a2e7-fc0eb388ff4a"
    536875008]
+  [3339
+   :version/upgraded-nonce
+   "uuide5539b5d-dfac-48c6-a2e7-fc0eb388ff4a"
+   536875009]
   [3340 :block/open true 536873675]
   [3340 :block/order 0 536873675]
   [3340 :block/page 3338 536873676]
@@ -39624,6 +39636,10 @@
    :version/nonce
    "uuid83991f47-dae0-4114-9910-0e194e8cd0e4"
    536873683]
+  [3344
+   :version/upgraded-nonce
+   "uuid83991f47-dae0-4114-9910-0e194e8cd0e4"
+   536875009]
   [3345 :block/uid "03-31-2021" 536873684]
   [3345 :create/time 1617232665551 536873684]
   [3345 :create/user 1 536873684]
@@ -47474,4 +47490,9 @@
   [4025 :edit/time 1619657112224 536875008]
   [4025 :edit/user 1 536875008]
   [4025 :log/id 1619657112223 536875008]
-  [4025 :node/title "April 29th, 2021" 536875008]]}
+  [4025 :node/title "April 29th, 2021" 536875008]
+  [4026 :version/id "0.8.5" 536875009]
+  [4026
+   :version/nonce
+   "uuid78fa5eb5-10e8-488d-a876-7906c3a5a1ff" 
+   536875009]]}
