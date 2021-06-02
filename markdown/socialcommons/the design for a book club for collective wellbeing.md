@@ -1,0 +1,73 @@
+- [[A wellbeing commons is an open digital garden where participants learn to creatively share and connect a vast array of personal experience and wisdom such that it results in collective breakthrough]]
+- key distinctions from past book clubs
+    - learning to craft zettels from multiple sources (not just one book)
+    - cohorts/teams collaborate together unified through a common framework
+- overarching meta goals
+    - [[index and organize our community's expansive knowlege in way that creates relevance to what each and everyone is up to without the overwhelm]]
+    - [[enable the bookworms of the world to contribute to our conversation in such a way that it elevates our context and gives us challenging problems to be solved by Roam in conjunction with other platforms]]
+- possible implementation of a [[Wellbeing Commons]] [*](((WQ8ZpOe-l)))
+    - explore individual wellbeing and it’s connection to universal wellbeing 
+    - explore as a collective using Roam Research
+    - focus conversations around zettels
+    - contribute to graph in the context of what “element cohorts” are interested in reading
+        - provided you are contributing to your “cohort element” - you are welcome to expand the conversation of the other 4 elements
+- unknowns
+    - it is very possible a 6th team focuses on integration and synthesis (breadth over depth)
+    - an alternative structure would be to focus on synthesizing these 2 books
+        - [[The 5 Essential Elements of Wellbeing]]
+        - [[The Zeitgeist Movement Defined]]
+- backstory
+    - ((UGBQZpeIX)) (for now, see [[Wellbeing Commons]])
+- themes
+    - choose your own adventure [*](((P34QxngDt)))
+    - [[Being curious and following our interests keeps us connected to our personal goals and makes building autonomy around wellbeing fun]]
+- claims
+    - [[Wellbeing is inter-disciplinary in nature thus there exists many models and frameworks for wellbeing. Having a note-taking method capturing differing perspectives expands the richness of dialogue able to express wellbeing at multiple levels of abstraction]]
+    - [[A collective slipbox is a network of individuals. Every individual has a unique blueprint for optimum wellbeing. Every time we add an individual to the slipbox, we expand the richness of interconnected concepts and abstractions elevating our collective wellbeing]]
+- audience
+    - possible clan formations [*](((s3i415Qa-)))
+        - primary: #wellbeing5
+            - #purpose
+            - #physical
+            - #financial
+            - #social
+            - #community
+        - secondary: from RBC4 debrief
+            - life learners [*](((pxD5xdf5p)))
+            - [those who] dive into their truth [*](((G3sVrsdET)))
+                - #inquiry what does it take to hold a space for interpersonal development inside Roam? [*](((81yKe4iIG)))
+            - use of Roam to process psycho-spiritual trauma [*](((p4DBkXdcX))) [[CK Lin]]
+        - tertiary
+            - asynchronous
+            - non-US participants
+            - reading room lovers
+            - zettelmasters
+            - prompt writers
+            - communication specialists
+- goals
+    - #goal maintain a sense of autonomy yet collectiveness [*](((iy7_nYQ9r)))
+    - in the context of [[[[The Zeitgeist Movement Defined]]/[[book]]]]
+        - step into what it means to be responsible on this Earth [*](((8xMihLfeG)))
+        - expand one’s sense of wellbeing and sense of meaning and contribution [*](((pgK-kvOsd)))
+        - build upon [[Braiding Sweetgrass]] [*](((hbBY7IlM9)))
+        - challenge world views constructively [*](((fAgaE41vd)))
+            - Roam to facilitate constructive and friendly debate [*](((zHapS1Bio)))
+        - dive into [a work with 800 references, segmented in 18 essays](https://www.thezeitgeistmovement.com/education/), and because it is in the public domain, the possibility exists to import the entire text into the graph and take on block-referenced conversations (if having an entire book in the graph (like [[How to Take Smart Notes]]) is still seen of value) [*](((fdtBXesD3)))
+        - get related to the history of how our world came to be.  like what happened in the past that led us to this point? [*](((aVZsIusVR)))
+        - clarifying the actions we might want to take as a collective around an existing vision rooted in the [[scientific method]] [*](((K5W25N4IJ)))
+            - learn how to design/reinvent our future on this Earth [*](((dMKVttQRR)))
+- core structures
+    - define container up front [*](((fRV1E1QP-))) [[CK Lin]]
+        - week 0 [*](((CD1EzjuxP)))
+        - clarify intention (supported by registration/fulfillment process) [*](((O2R0AGxQE)))
+            - go beyond curiosity (and keep it alive!) [*](((BcxXlwy5w)))
+            - refine intention [iteratively] as needed [*](((R_VWPle8H)))
+    - buddy system (accountability buddy) [*](((S5yhD2dHb)))
+        - reset [each others] expectations (as needed) [*](((bpbBaBmm9)))
+    - exit: simple question: why are you leaving? [*](((vsC0QqoUX))) [[Joey Harris]]
+        - immediate feedback (to drive changes mid-flight) [*](((NCDMddvGw)))
+- additional structures
+    - each cohort gets to pick a book (specific to their element) [*](((rHn7OC0wj)))
+- outcomes
+    - [[Wellbeing Commons]] prototype
+    - consider Amazon review(s) as form of concrete output(s) [*](((iH0M9vyGW)))

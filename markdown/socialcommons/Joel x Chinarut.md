@@ -106,7 +106,7 @@
     - [[Catherine Rickwood]]
         - [[Chinarut 🦥]] synthetic form of [[roam book club]]
             - {{[[TODO]]}} reword Catherine’s reflection in my own words
-            - #roam-book-club
+            - #roam-book-club [[the design for a book club for collective wellbeing]]
                 - #inquiry how do we track book references and synthesize bodies of knowledge together?
                 - use the book [[5 Essential Elements of Wellbeing]] as a starting point
                     - grounded in science

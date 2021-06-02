@@ -7,7 +7,7 @@
 - outcomes
     - [[Wellbeing 5 Advisory]]
         - [Anchoring Your Wellbeing 5 Advisory](https://www.notion.so/communitygarden/Anchoring-Your-Wellbeing-5-Advisory-b4cba9a9dc234fb2b2aabd0454cf19df) #Notion
-- #roam-book-club
+- #roam-book-club [[the design for a book club for collective wellbeing]]
     - #inquiry how do we track book references and synthesize bodies of knowledge together?
     - wellbeing is universal - there isn’t one human being that is not impacted by their wellbeing practice
     - use the book [[5 Essential Elements of Wellbeing]] as a starting point

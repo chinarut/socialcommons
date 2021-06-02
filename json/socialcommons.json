@@ -443,7 +443,7 @@
         }
       },
       {
-        "edit-time": 1616362469090,
+        "edit-time": 1622667606069,
         "children": [
           {
             "string": "#inquiry how do we track book references and synthesize bodies of knowledge together?",
@@ -783,15 +783,21 @@
         "refs": [
           {
             "uid": "IGIH8HZoA"
+          },
+          {
+            "uid": "sPZbb8vgG"
           }
         ],
         "uid": "ExOMW1Mgw",
         ":block/refs": [
           {
             ":block/uid": "IGIH8HZoA"
+          },
+          {
+            ":block/uid": "sPZbb8vgG"
           }
         ],
-        "string": "#roam-book-club",
+        "string": "#roam-book-club [[the design for a book club for collective wellbeing]]",
         ":create/user": {
           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
         },
@@ -55232,8 +55238,1895 @@
   {
     "create-time": 1622599561775,
     "title": "June 2nd, 2021",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    "children": [
+      {
+        "string": "Import",
+        "children": [
+          {
+            "string": "[[the design for a book club for collective wellbeing]]",
+            "refs": [
+              {
+                "uid": "sPZbb8vgG"
+              }
+            ],
+            "children": [
+              {
+                "string": "From: the design for a book club for collective wellbeing.json",
+                "uid": "saDxxHbn2"
+              }
+            ],
+            "uid": "vsjKExtEO",
+            ":block/refs": [
+              {
+                ":block/uid": "sPZbb8vgG"
+              }
+            ]
+          }
+        ],
+        "uid": "-HJfbm7sF"
+      }
+    ],
     "uid": "06-02-2021",
     "edit-time": 1622599561775,
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1622667524978,
+    "title": "the design for a book club for collective wellbeing",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    "children": [
+      {
+        "string": "[[A wellbeing commons is an open digital garden where participants learn to creatively share and connect a vast array of personal experience and wisdom such that it results in collective breakthrough]]",
+        "create-time": 1622665934308,
+        ":block/refs": [
+          {
+            ":block/uid": "djQx_W4Fd"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "djQx_W4Fd"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "uid": "C3CKnce4E",
+        "edit-time": 1622665938852,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "key distinctions from past book clubs",
+        "create-time": 1622666628627,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "learning to craft zettels from multiple sources (not just one book)",
+            "create-time": 1622666741226,
+            "uid": "h1H2OKtLP",
+            "edit-time": 1622667044147,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "cohorts/teams collaborate together unified through a common framework",
+            "create-time": 1622666696564,
+            "uid": "Qw50oKVu0",
+            "edit-time": 1622666936996,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "gz88_8bL_",
+        "edit-time": 1622668740953,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "overarching meta goals",
+        "create-time": 1622669124480,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "[[index and organize our community's expansive knowlege in way that creates relevance to what each and everyone is up to without the overwhelm]]",
+            "create-time": 1622669138298,
+            ":block/refs": [
+              {
+                ":block/uid": "50W7X03K5"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "50W7X03K5"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "uid": "xaKVlbr8A",
+            "edit-time": 1622669138298,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "[[enable the bookworms of the world to contribute to our conversation in such a way that it elevates our context and gives us challenging problems to be solved by Roam in conjunction with other platforms]]",
+            "create-time": 1622669128945,
+            ":block/refs": [
+              {
+                ":block/uid": "r4TdVhbQd"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "r4TdVhbQd"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "uid": "gyWBjgwVi",
+            "edit-time": 1622669142264,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "s4wwx78KE",
+        "edit-time": 1622669150323,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "edit-time": 1622668731457,
+        "children": [
+          {
+            "string": "explore individual wellbeing and it’s connection to universal wellbeing ",
+            "create-time": 1622666424677,
+            "uid": "IiLNIwF6p",
+            "edit-time": 1622666426186,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "explore as a collective using Roam Research",
+            "create-time": 1622666490197,
+            "uid": "3K1_YuKeB",
+            "edit-time": 1622666511273,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "focus conversations around zettels",
+            "create-time": 1622666525799,
+            "uid": "6C350gJvq",
+            "edit-time": 1622666555538,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "contribute to graph in the context of what “element cohorts” are interested in reading",
+            "create-time": 1622666565793,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "provided you are contributing to your “cohort element” - you are welcome to expand the conversation of the other 4 elements",
+                "create-time": 1622666660778,
+                "uid": "ijoR2yaU2",
+                "edit-time": 1622666797396,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "kVlIErdaW",
+            "edit-time": 1622666613326,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "TBzCoGxjt"
+          },
+          {
+            "uid": "WQ8ZpOe-l"
+          }
+        ],
+        "uid": "XsGiYikhJ",
+        ":block/refs": [
+          {
+            ":block/uid": "TBzCoGxjt"
+          },
+          {
+            ":block/uid": "WQ8ZpOe-l"
+          }
+        ],
+        "string": "possible implementation of a [[Wellbeing Commons]] [*](((WQ8ZpOe-l)))",
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "create-time": 1622666334296,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "unknowns",
+        "create-time": 1622666801228,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "it is very possible a 6th team focuses on integration and synthesis (breadth over depth)",
+            "create-time": 1622666805902,
+            "uid": "zspt9cPWT",
+            "edit-time": 1622667106121,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "an alternative structure would be to focus on synthesizing these 2 books",
+            "create-time": 1622667170076,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "[[The 5 Essential Elements of Wellbeing]]",
+                "create-time": 1622667185191,
+                ":block/refs": [
+                  {
+                    ":block/uid": "UCgsl-NP_"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "UCgsl-NP_"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "MPwS-pmyy",
+                "edit-time": 1622667189429,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "[[The Zeitgeist Movement Defined]]",
+                "create-time": 1622667189423,
+                ":block/refs": [
+                  {
+                    ":block/uid": "XqRDN324C"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "XqRDN324C"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "o8Tzeh1fb",
+                "edit-time": 1622667193380,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "hRXXzA_If",
+            "edit-time": 1622668761758,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "91OuEsvTn",
+        "edit-time": 1622666805022,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "backstory",
+        "create-time": 1622665939521,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "((UGBQZpeIX)) (for now, see [[Wellbeing Commons]])",
+            "create-time": 1622665942255,
+            ":block/refs": [
+              {
+                ":block/uid": "TBzCoGxjt"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "TBzCoGxjt"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "uid": "S045m6GPn",
+            "edit-time": 1622668921502,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "hX0IwCFyz",
+        "edit-time": 1622665942262,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "themes",
+        "create-time": 1622665322151,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "choose your own adventure [*](((P34QxngDt)))",
+            "create-time": 1622665216017,
+            "uid": "0rbLIt1aW",
+            "edit-time": 1622667657002,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "[[Being curious and following our interests keeps us connected to our personal goals and makes building autonomy around wellbeing fun]]",
+            "create-time": 1622665509240,
+            ":block/refs": [
+              {
+                ":block/uid": "seRdXo7g3"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "seRdXo7g3"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "uid": "x7oHTHKtG",
+            "edit-time": 1622665509240,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "A-_p0TlqE",
+        "edit-time": 1622665324483,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "claims",
+        "create-time": 1622665521087,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "[[Wellbeing is inter-disciplinary in nature thus there exists many models and frameworks for wellbeing. Having a note-taking method capturing differing perspectives expands the richness of dialogue able to express wellbeing at multiple levels of abstraction]]",
+            "create-time": 1622665509240,
+            ":block/refs": [
+              {
+                ":block/uid": "KZC854aR8"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "KZC854aR8"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "uid": "Q0hMsgwZW",
+            "edit-time": 1622665509240,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "[[A collective slipbox is a network of individuals. Every individual has a unique blueprint for optimum wellbeing. Every time we add an individual to the slipbox, we expand the richness of interconnected concepts and abstractions elevating our collective wellbeing]]",
+            "create-time": 1622665509240,
+            ":block/refs": [
+              {
+                ":block/uid": "AjXtjYbp0"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "AjXtjYbp0"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "uid": "ps4l_iA_L",
+            "edit-time": 1622665509240,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "8Y0KKrEuS",
+        "edit-time": 1622665555037,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "audience",
+        "create-time": 1622665401613,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "possible clan formations [*](((s3i415Qa-)))",
+            "create-time": 1622665216017,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "edit-time": 1622666190491,
+                "children": [
+                  {
+                    "string": "#purpose",
+                    "create-time": 1622666168465,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "IVYyvJRQg"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "IVYyvJRQg"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "uid": "S5aE6DJCJ",
+                    "edit-time": 1622666168465,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "#physical",
+                    "create-time": 1622666168465,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ROFRKm8nO"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "ROFRKm8nO"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "uid": "-0cBT0AF1",
+                    "edit-time": 1622666168465,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "#financial",
+                    "create-time": 1622666168465,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "VDLLRhY8c"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "VDLLRhY8c"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "uid": "jiZ7lUq8Q",
+                    "edit-time": 1622666168465,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "#social",
+                    "create-time": 1622666168465,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "8YkkqLFH_"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "8YkkqLFH_"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "uid": "_aGv-oFs9",
+                    "edit-time": 1622666168465,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "#community",
+                    "create-time": 1622666168465,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "IsQfKNYKI"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "IsQfKNYKI"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "uid": "7occS3LRl",
+                    "edit-time": 1622666168465,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "G4eOJ2p-5"
+                  }
+                ],
+                "uid": "-cOH7PPUG",
+                ":block/refs": [
+                  {
+                    ":block/uid": "G4eOJ2p-5"
+                  }
+                ],
+                "string": "primary: #wellbeing5",
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "create-time": 1622665714979,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "secondary: from RBC4 debrief",
+                "create-time": 1622665702829,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "life learners [*](((pxD5xdf5p)))",
+                    "create-time": 1622665216017,
+                    "uid": "62hSj5Qp2",
+                    "edit-time": 1622667904098,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "[those who] dive into their truth [*](((G3sVrsdET)))",
+                    "create-time": 1622665216017,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "children": [
+                      {
+                        "string": "#inquiry what does it take to hold a space for interpersonal development inside Roam? [*](((81yKe4iIG)))",
+                        "create-time": 1622665216017,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "5-hjHKbDW"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "5-hjHKbDW"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "uid": "vv7XPSGi2",
+                        "edit-time": 1622668849632,
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      }
+                    ],
+                    "uid": "myu0bLFoF",
+                    "edit-time": 1622668594021,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "use of Roam to process psycho-spiritual trauma [*](((p4DBkXdcX))) [[CK Lin]]",
+                    "create-time": 1622665216017,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "xgPqUOqDe"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "xgPqUOqDe"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "uid": "kxWB1P-W0",
+                    "edit-time": 1622667955057,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "ehWcjGsEw",
+                "edit-time": 1622666194372,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "tertiary",
+                "create-time": 1622666833330,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "asynchronous",
+                    "create-time": 1622666845364,
+                    "uid": "7HI4z035c",
+                    "edit-time": 1622666849068,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "non-US participants",
+                    "create-time": 1622666858933,
+                    "uid": "z-Sf6vtY6",
+                    "edit-time": 1622666868258,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "reading room lovers",
+                    "create-time": 1622666872482,
+                    "uid": "J6pwmkm9f",
+                    "edit-time": 1622666893100,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "zettelmasters",
+                    "create-time": 1622666879499,
+                    "uid": "4A_ePzvqd",
+                    "edit-time": 1622666883497,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "prompt writers",
+                    "create-time": 1622669010625,
+                    "uid": "kgpHhMnXW",
+                    "edit-time": 1622669016617,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "communication specialists",
+                    "create-time": 1622669028002,
+                    "uid": "ViDNdGF_Z",
+                    "edit-time": 1622669033038,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "TkWfwOyre",
+                "edit-time": 1622666845373,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "HkNRjM0hK",
+            "edit-time": 1622667795818,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "qjEMvvuSK",
+        "edit-time": 1622665404068,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "goals",
+        "create-time": 1622665303922,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "#goal maintain a sense of autonomy yet collectiveness [*](((iy7_nYQ9r)))",
+            "create-time": 1622665306041,
+            ":block/refs": [
+              {
+                ":block/uid": "ml3FxtSy7"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ml3FxtSy7"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "uid": "7x63oByBt",
+            "edit-time": 1622667984551,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "edit-time": 1622667139877,
+            "children": [
+              {
+                "string": "step into what it means to be responsible on this Earth [*](((8xMihLfeG)))",
+                "create-time": 1622665866657,
+                "uid": "szpu8FfCV",
+                "edit-time": 1622668011518,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "expand one’s sense of wellbeing and sense of meaning and contribution [*](((pgK-kvOsd)))",
+                "create-time": 1622665866657,
+                "uid": "E1kahChF3",
+                "edit-time": 1622668031911,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "build upon [[Braiding Sweetgrass]] [*](((hbBY7IlM9)))",
+                "create-time": 1622665866657,
+                ":block/refs": [
+                  {
+                    ":block/uid": "mITJLw5pP"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "mITJLw5pP"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "KupQWax-d",
+                "edit-time": 1622668050667,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "challenge world views constructively [*](((fAgaE41vd)))",
+                "create-time": 1622665866657,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "Roam to facilitate constructive and friendly debate [*](((zHapS1Bio)))",
+                    "create-time": 1622665866657,
+                    "uid": "NqoexN6_7",
+                    "edit-time": 1622668094274,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "iIEa8zN0l",
+                "edit-time": 1622668066276,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "dive into [a work with 800 references, segmented in 18 essays](https://www.thezeitgeistmovement.com/education/), and because it is in the public domain, the possibility exists to import the entire text into the graph and take on block-referenced conversations (if having an entire book in the graph (like [[How to Take Smart Notes]]) is still seen of value) [*](((fdtBXesD3)))",
+                "create-time": 1622665866657,
+                ":block/refs": [
+                  {
+                    ":block/uid": "kUQ0fc-mS"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "kUQ0fc-mS"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "vgDBysRjh",
+                "edit-time": 1622668178634,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "get related to the history of how our world came to be.  like what happened in the past that led us to this point? [*](((aVZsIusVR)))",
+                "create-time": 1622665866657,
+                "uid": "Q5dV8JGeB",
+                "edit-time": 1622668206224,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "edit-time": 1622668231843,
+                "children": [
+                  {
+                    "string": "learn how to design/reinvent our future on this Earth [*](((dMKVttQRR)))",
+                    "create-time": 1622665866657,
+                    "uid": "oyJpT5ZG9",
+                    "edit-time": 1622668252512,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "ZNG_rDEqt"
+                  }
+                ],
+                "uid": "XyV3SDLfV",
+                ":block/refs": [
+                  {
+                    ":block/uid": "ZNG_rDEqt"
+                  }
+                ],
+                "string": "clarifying the actions we might want to take as a collective around an existing vision rooted in the [[scientific method]] [*](((K5W25N4IJ)))",
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "create-time": 1622665866657,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "oz-GzBojV"
+              },
+              {
+                "uid": "XqRDN324C"
+              },
+              {
+                "uid": "4xreHBQ7m"
+              }
+            ],
+            "uid": "15veHIUDY",
+            ":block/refs": [
+              {
+                ":block/uid": "oz-GzBojV"
+              },
+              {
+                ":block/uid": "XqRDN324C"
+              },
+              {
+                ":block/uid": "4xreHBQ7m"
+              }
+            ],
+            "string": "in the context of [[[[The Zeitgeist Movement Defined]]/[[book]]]]",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1622665837225,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "TkKvkDqQh",
+        "edit-time": 1622665305317,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "core structures",
+        "create-time": 1622665208163,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "edit-time": 1622668605572,
+            "children": [
+              {
+                "string": "week 0 [*](((CD1EzjuxP)))",
+                "create-time": 1622665216017,
+                "uid": "WhFvecnCT",
+                "edit-time": 1622668610578,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "clarify intention (supported by registration/fulfillment process) [*](((O2R0AGxQE)))",
+                "create-time": 1622665216017,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "go beyond curiosity (and keep it alive!) [*](((BcxXlwy5w)))",
+                    "create-time": 1622665216017,
+                    "uid": "y9WB8pvhC",
+                    "edit-time": 1622668357690,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "refine intention [iteratively] as needed [*](((R_VWPle8H)))",
+                    "create-time": 1622665216017,
+                    "uid": "YwTpTN14_",
+                    "edit-time": 1622668371818,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "yv_sGXE3U",
+                "edit-time": 1622668332262,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "xgPqUOqDe"
+              }
+            ],
+            "uid": "_hRorBA_i",
+            ":block/refs": [
+              {
+                ":block/uid": "xgPqUOqDe"
+              }
+            ],
+            "string": "define container up front [*](((fRV1E1QP-))) [[CK Lin]]",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1622665216017,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "buddy system (accountability buddy) [*](((S5yhD2dHb)))",
+            "create-time": 1622665216017,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "reset [each others] expectations (as needed) [*](((bpbBaBmm9)))",
+                "create-time": 1622665216017,
+                "uid": "LXHFmkq6R",
+                "edit-time": 1622668414583,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "HqNqBovLv",
+            "edit-time": 1622668387500,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "edit-time": 1622668441407,
+            "children": [
+              {
+                "string": "immediate feedback (to drive changes mid-flight) [*](((NCDMddvGw)))",
+                "create-time": 1622665750701,
+                "uid": "Z2qs_aFsD",
+                "edit-time": 1622668473555,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "56fM0M8uk"
+              }
+            ],
+            "uid": "TJBTnAf91",
+            ":block/refs": [
+              {
+                ":block/uid": "56fM0M8uk"
+              }
+            ],
+            "string": "exit: simple question: why are you leaving? [*](((vsC0QqoUX))) [[Joey Harris]]",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1622665759318,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "h9evnpVn9",
+        "edit-time": 1622665318893,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "additional structures",
+        "create-time": 1622665341357,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "each cohort gets to pick a book (specific to their element) [*](((rHn7OC0wj)))",
+            "create-time": 1622665306041,
+            "uid": "V4orYeQ40",
+            "edit-time": 1622668506438,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "WVHlOlQY2",
+        "edit-time": 1622665345190,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "outcomes",
+        "create-time": 1622665362019,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "[[Wellbeing Commons]] prototype",
+            "create-time": 1622665369171,
+            ":block/refs": [
+              {
+                ":block/uid": "TBzCoGxjt"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "TBzCoGxjt"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "uid": "R0pyjyCQG",
+            "edit-time": 1622665385016,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "consider Amazon review(s) as form of concrete output(s) [*](((iH0M9vyGW)))",
+            "create-time": 1622665216017,
+            "uid": "BiebBeWQ_",
+            "edit-time": 1622668531424,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "eZmhgsINq",
+        "edit-time": 1622665364806,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      }
+    ],
+    "uid": "sPZbb8vgG",
+    "edit-time": 1619974174953,
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1622667524956,
+    "title": "The 5 Essential Elements of Wellbeing",
+    "uid": "UCgsl-NP_",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1622667524960,
+    "title": "wellbeing5",
+    "uid": "G4eOJ2p-5",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1622667524960,
+    "title": "purpose",
+    "uid": "IVYyvJRQg",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1622667524961,
+    "title": "social",
+    "uid": "8YkkqLFH_",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1622667524961,
+    "title": "community",
+    "uid": "IsQfKNYKI",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1622667524965,
+    "title": "[[The Zeitgeist Movement Defined]]/[[book]]",
+    "refs": [
+      {
+        "uid": "oz-GzBojV"
+      },
+      {
+        "uid": "XqRDN324C"
+      }
+    ],
+    "uid": "4xreHBQ7m",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":block/refs": [
+      {
+        ":block/uid": "oz-GzBojV"
+      },
+      {
+        ":block/uid": "XqRDN324C"
+      }
+    ]
+  },
+  {
+    "create-time": 1622667815321,
+    "title": "roam/css",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    "children": [
+      {
+        "edit-time": 1622667824867,
+        "children": [
+          {
+            "string": "#physical",
+            "create-time": 1604616430254,
+            ":block/refs": [
+              {
+                ":block/uid": "ROFRKm8nO"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ROFRKm8nO"
+              }
+            ],
+            "children": [
+              {
+                "string": "```css\nspan.rm-page-ref[data-tag=\"physical\"] {\n    color: rgb(251,244,244) !important;\n    padding: 3px 5px 3px 5px;\n\tfont-size: 13px;\n    line-height: 1em;\n    border-radius: 5px 5px 5px 5px;\n    position:relative;\n\tbackground: #1B42EA;  /* fallback for old browsers */\n\tbackground: -webkit-linear-gradient(to right, #76f264, #76f264);  /* Chrome 10-25, Safari 5.1-6 */\n\tbackground: linear-gradient(to right, #9C27B0, #DF6FF2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */\n}\n\nspan.rm-page-ref[data-tag=\"physical\"]:before {\n    content: '🕺'\n}```",
+                "create-time": 1604616463956,
+                "uid": "v8-XnqzaC",
+                "edit-time": 1622667824867,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "8TfjzPuD7",
+            "edit-time": 1622667824867,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "#purpose",
+            "create-time": 1604389093858,
+            ":block/refs": [
+              {
+                ":block/uid": "IVYyvJRQg"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "IVYyvJRQg"
+              }
+            ],
+            "children": [
+              {
+                "string": "```css\nspan.rm-page-ref[data-tag=\"purpose\"] {\n    color: white !important;\n    padding: 3px 5px 3px 5px;\n\tfont-size: 13px;\n    line-height: 1em;\n    border-radius: 5px 5px 5px 5px;\n    position:relative;\n\tbackground: #FFEFBA;  /* fallback for old browsers */\n\tbackground: -webkit-linear-gradient(to right, #FFFFFF, #FFEFBA);  /* Chrome 10-25, Safari 5.1-6 */\n\tbackground: linear-gradient(to right, #C41511, #F46966); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */\n}\n\nspan.rm-page-ref[data-tag=\"purpose\"]:before {\n    content: '🧭'\n}```",
+                "create-time": 1604389317178,
+                "uid": "ZHAtG-V45",
+                "edit-time": 1622667824867,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "Dh8cARxvO",
+            "edit-time": 1622667824867,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "#community",
+            "create-time": 1604569425217,
+            ":block/refs": [
+              {
+                ":block/uid": "IsQfKNYKI"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "IsQfKNYKI"
+              }
+            ],
+            "children": [
+              {
+                "string": "```css\nspan.rm-page-ref[data-tag=\"community\"] {\n    color: white !important;\n  \tpadding: 3px 5px 3px 5px;\n    font-size: 13px;\n    line-height: 1em;\n  \tborder-radius: 5px 5px 5px 5px;\n    position:relative;\n\tbackground: #FFEFBA;  /* fallback for old browsers */\n  \tbackground: -webkit-linear-gradient(to right, #FFFFFF, #FFEFBA);  /* Chrome 10-25, Safari 5.1-6 */\n\tbackground: linear-gradient(to right, #0D71EB, #0d9deb);\n}\n\nspan.rm-page-ref[data-tag=\"community\"]:before {\n    content: '🌏'\n}```",
+                "create-time": 1604569440838,
+                "uid": "VLKmPFRoy",
+                "edit-time": 1622667824867,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "OU8a8MImQ",
+            "edit-time": 1622667824867,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "edit-time": 1622667824867,
+            "children": [
+              {
+                "string": "```css\nspan.rm-page-ref[data-tag=\"financial\"] {\n    color: white !important;\n    padding: 3px 5px 3px 5px;\n\tfont-size: 13px;\n    line-height: 1em;\n    border-radius: 5px 5px 5px 5px;\n    position:relative;\n\tbackground: #FFEFBA;  /* fallback for old browsers */\n\tbackground: -webkit-linear-gradient(to right, #FFFFFF, #FFEFBA);  /* Chrome 10-25, Safari 5.1-6 */\n\tbackground: linear-gradient(to right, #397F3C, #3db841); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */\n}\n\nspan.rm-page-ref[data-tag=\"financial\"]:before {\n    content: '💰'\n}```",
+                "create-time": 1619215254613,
+                "uid": "BcMyw-U7Y",
+                "edit-time": 1622667824867,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "VDLLRhY8c"
+              }
+            ],
+            "uid": "A61KMiK8n",
+            ":block/refs": [
+              {
+                ":block/uid": "VDLLRhY8c"
+              }
+            ],
+            "string": "#financial",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1619215242428,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "edit-time": 1622667824867,
+            "children": [
+              {
+                "string": "```css\nspan.rm-page-ref[data-tag=\"social\"] {\n    color: #FFFFFF !important;\n    padding: 3px 5px 3px 5px;\n\tfont-size: 13px;\n    line-height: 1em;\n    border-radius: 5px 5px 5px 5px;\n    position:relative;\n\tbackground: #FFEFBA;  /* fallback for old browsers */\n\tbackground: -webkit-linear-gradient(to right, #FFFFFF, #FFEFBA);  /* Chrome 10-25, Safari 5.1-6 */\n\tbackground: linear-gradient(to right, #D07E04, #e8a84a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */\n}\n\nspan.rm-page-ref[data-tag=\"social\"]:before {\n    content: '💞'\n}```",
+                "create-time": 1619215251768,
+                "uid": "aLhKF8Ev5",
+                "edit-time": 1622667824867,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "8YkkqLFH_"
+              }
+            ],
+            "uid": "gE_3qOI4M",
+            ":block/refs": [
+              {
+                ":block/uid": "8YkkqLFH_"
+              }
+            ],
+            "string": "#social",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1619215248976,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "UCgsl-NP_"
+          }
+        ],
+        "uid": "Dtelkm6Pe",
+        ":block/refs": [
+          {
+            ":block/uid": "UCgsl-NP_"
+          }
+        ],
+        "string": "Colored tags for [[The 5 Essential Elements of Wellbeing]]",
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "create-time": 1619215074884,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "make block references more visible (from @joel-covid19)",
+        "create-time": 1603905528964,
+        "children": [
+          {
+            "string": "The purpose of this is to allow in-line commenting on other people's comments to more clearly show visually which part is a \"quote\" that we are responding to, and which part is the \"new speaker\" speaking.\n",
+            "create-time": 1602967625234,
+            "children": [
+              {
+                "string": "also note that, since this now provides a strong visual cue that something is a block, I'm taken the liberty of turning off the underlining as well, because it now seems redundant. ",
+                "create-time": 1602967631381,
+                "uid": "cUh0zD9NI",
+                "edit-time": 1622667849614,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "4KvweuDdm",
+            "edit-time": 1622667849614,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "CSS below:",
+            "create-time": 1602527070298,
+            "children": [
+              {
+                "string": "```css\n/* turn off underlining */ \n.rm-block-ref{\n    border-bottom: none;\n}\n\n/* recolor the block reference */\n\n.rm-block-ref{\n    background-color: #ffffe3;\n}```",
+                "create-time": 1602527156696,
+                "uid": "UVE6AhWx4",
+                "edit-time": 1622667849614,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "Xbl5aM2eJ",
+            "edit-time": 1622667849614,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "fhO-qBAyx",
+        "edit-time": 1622667849614,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "edit-time": 1622667849614,
+        "children": [
+          {
+            "string": "Variables",
+            "create-time": 1613767512253,
+            ":create/user": {
+              ":user/uid": "jVdiqSKLGrfbx8vaEdtcLCAcOIs1"
+            },
+            "children": [
+              {
+                "string": "Colors",
+                "create-time": 1613767512253,
+                ":create/user": {
+                  ":user/uid": "jVdiqSKLGrfbx8vaEdtcLCAcOIs1"
+                },
+                "children": [
+                  {
+                    "string": "Black, White, Gray",
+                    "create-time": 1613767512253,
+                    ":create/user": {
+                      ":user/uid": "jVdiqSKLGrfbx8vaEdtcLCAcOIs1"
+                    },
+                    "children": [
+                      {
+                        "string": "```css\n:root {\n  --cl-white:    #ffffff;\n  --cl-gray-100: #f8f9faff; /*--cultured*/\n  --cl-gray-200: #e9ecefff; /*--cultured-2*/\n  --cl-gray-300: #dee2e6ff; /*--gainsboro*/\n  --cl-gray-400: #ced4daff; /*--light-gray*/\n  --cl-gray-500: #adb5bdff; /*--cadet-blue-crayola*/\n  --cl-gray-600: #6c757dff; /*--slate-gray*/\n  --cl-gray-700: #495057ff; /*--davys-grey*/\n  --cl-gray-800: #343a40ff; /*--gunmetal*/\n  --cl-gray-900: #212529ff; /*--charleston-green*/\n  --cl-black:    #000000;\n}```",
+                        "create-time": 1613767512253,
+                        "uid": "nglI-8U0t",
+                        "edit-time": 1622667849614,
+                        ":create/user": {
+                          ":user/uid": "jVdiqSKLGrfbx8vaEdtcLCAcOIs1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      }
+                    ],
+                    "uid": "inT1-iNqi",
+                    "edit-time": 1622667849614,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "ybqxEvhDZ",
+                "edit-time": 1622667849614,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "Ojnj2vehP",
+            "edit-time": 1622667849614,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Code",
+            "create-time": 1622306690386,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "edit-time": 1622667849614,
+                "children": [
+                  {
+                    "edit-time": 1622667849614,
+                    "children": [
+                      {
+                        "string": "```css\nspan.rm-page-ref[data-tag=\"Change Log\"] {\n    background: var(--cl-gray-600);\n    color: var(--cl-white);\n    padding: 2px 5px 2px 5px;\n    font-size: 13px;\n    line-height: 1em;\n    font-weight: 500;\n    border-radius: 5px 5px 5px 5px;\n    position:relative;\n}\n\nspan.rm-page-ref[data-tag=\"Change Log\"]:before {\n    content: '📢'\n}```",
+                        "create-time": 1613767512253,
+                        "uid": "ehubkrK56",
+                        "edit-time": 1622667849614,
+                        ":create/user": {
+                          ":user/uid": "jVdiqSKLGrfbx8vaEdtcLCAcOIs1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "DG7mYm-U3"
+                      }
+                    ],
+                    "uid": "q31XqZHRg",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "DG7mYm-U3"
+                      }
+                    ],
+                    "string": "#[[Change Log]]",
+                    ":create/user": {
+                      ":user/uid": "jVdiqSKLGrfbx8vaEdtcLCAcOIs1"
+                    },
+                    "create-time": 1613767512253,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "g-uDZc9sL"
+                  }
+                ],
+                "uid": "pHK2J3A3Y",
+                ":block/refs": [
+                  {
+                    ":block/uid": "g-uDZc9sL"
+                  }
+                ],
+                "string": "[[css/Daily Note Pages]]",
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "create-time": 1622306703163,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "edit-time": 1622667849614,
+                "children": [
+                  {
+                    "string": "External Links",
+                    "create-time": 1613767512253,
+                    ":create/user": {
+                      ":user/uid": "jVdiqSKLGrfbx8vaEdtcLCAcOIs1"
+                    },
+                    "children": [
+                      {
+                        "string": "V2",
+                        "create-time": 1613767512253,
+                        ":create/user": {
+                          ":user/uid": "jVdiqSKLGrfbx8vaEdtcLCAcOIs1"
+                        },
+                        "children": [
+                          {
+                            "string": "```css\n/*Aliases - internal & external*/\n.rm-alias--external {\n  color: var(--fg-link);\n    text-decoration: none!important;\n    border-bottom: 1px dashed;\n}\n\n.rm-alias--external:hover {\n\tcolor: var(--fg-link-hover);\n    text-decoration: none!important;\n    border-bottom: 1px dashed;\n}\n\n.rm-alias--external:after {\n  content: ' ↗';```",
+                            "create-time": 1613767512253,
+                            "uid": "6cJN-mllJ",
+                            "edit-time": 1622667849614,
+                            ":create/user": {
+                              ":user/uid": "jVdiqSKLGrfbx8vaEdtcLCAcOIs1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          }
+                        ],
+                        "uid": "AvsvGxGKM",
+                        "edit-time": 1622667849614,
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      }
+                    ],
+                    "uid": "qKWS0dbrg",
+                    "edit-time": 1622667849614,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "Sr-AKarXg"
+                  }
+                ],
+                "uid": "owg0SG9Yo",
+                ":block/refs": [
+                  {
+                    ":block/uid": "Sr-AKarXg"
+                  }
+                ],
+                "string": "[[css/User Interface & Block Content]]",
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "create-time": 1622306740933,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "BOzmrx3Q1",
+            "edit-time": 1622667849614,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "geQJySgQI"
+          }
+        ],
+        "uid": "XlezWjIlQ",
+        ":block/refs": [
+          {
+            ":block/uid": "geQJySgQI"
+          }
+        ],
+        "string": "subset of the [[Roaman Agora]]) (from @joel-covid19)",
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "create-time": 1622306676579,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      }
+    ],
+    "uid": "k7hAeinLK",
+    "edit-time": 1622667815321,
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1622667849639,
+    "title": "Roaman Agora",
+    "uid": "geQJySgQI",
+    "edit-time": 1622667849639,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1622667849642,
+    "title": "css/Daily Note Pages",
+    "uid": "g-uDZc9sL",
+    "edit-time": 1622667849642,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1622667849645,
+    "title": "Change Log",
+    "uid": "DG7mYm-U3",
+    "edit-time": 1622667849645,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1622667849647,
+    "title": "css/User Interface & Block Content",
+    "uid": "Sr-AKarXg",
+    "edit-time": 1622667849648,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1622667955066,
+    "title": "CK Lin",
+    "uid": "xgPqUOqDe",
+    "edit-time": 1622667955070,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1622668224865,
+    "title": "scientific method",
+    "uid": "ZNG_rDEqt",
+    "edit-time": 1622668224866,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1622668437799,
+    "title": "Joey Harris",
+    "uid": "56fM0M8uk",
+    "edit-time": 1622668437801,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1622669129670,
+    "title": "index and organize our community's expansive knowlege in way that creates relevance to what each and everyone is up to without the overwhelm",
+    "uid": "50W7X03K5",
+    "edit-time": 1622669129671,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1622669129670,
+    "title": "enable the bookworms of the world to contribute to our conversation in such a way that it elevates our context and gives us challenging problems to be solved by Roam in conjunction with other platforms",
+    "uid": "r4TdVhbQd",
+    "edit-time": 1622669129671,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
