@@ -55283,309 +55283,285 @@
     },
     "children": [
       {
-        "string": "[[A wellbeing commons is an open digital garden where participants learn to creatively share and connect a vast array of personal experience and wisdom such that it results in collective breakthrough]]",
-        "create-time": 1622665934308,
-        ":block/refs": [
-          {
-            ":block/uid": "djQx_W4Fd"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "djQx_W4Fd"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-        },
-        "uid": "C3CKnce4E",
-        "edit-time": 1622665938852,
-        ":edit/user": {
-          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-        }
-      },
-      {
-        "string": "key distinctions from past book clubs",
-        "create-time": 1622666628627,
-        ":create/user": {
-          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-        },
+        "edit-time": 1622673109430,
         "children": [
           {
-            "string": "learning to craft zettels from multiple sources (not just one book)",
-            "create-time": 1622666741226,
-            "uid": "h1H2OKtLP",
-            "edit-time": 1622667044147,
-            ":create/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            },
-            ":edit/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            }
-          },
-          {
-            "string": "cohorts/teams collaborate together unified through a common framework",
-            "create-time": 1622666696564,
-            "uid": "Qw50oKVu0",
-            "edit-time": 1622666936996,
-            ":create/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            },
-            ":edit/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            }
-          }
-        ],
-        "uid": "gz88_8bL_",
-        "edit-time": 1622668740953,
-        ":edit/user": {
-          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-        }
-      },
-      {
-        "string": "overarching meta goals",
-        "create-time": 1622669124480,
-        ":create/user": {
-          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-        },
-        "children": [
-          {
-            "string": "[[index and organize our community's expansive knowlege in way that creates relevance to what each and everyone is up to without the overwhelm]]",
-            "create-time": 1622669138298,
-            ":block/refs": [
-              {
-                ":block/uid": "50W7X03K5"
-              }
-            ],
-            "refs": [
-              {
-                "uid": "50W7X03K5"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            },
-            "uid": "xaKVlbr8A",
-            "edit-time": 1622669138298,
-            ":edit/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            }
-          },
-          {
-            "string": "[[enable the bookworms of the world to contribute to our conversation in such a way that it elevates our context and gives us challenging problems to be solved by Roam in conjunction with other platforms]]",
-            "create-time": 1622669128945,
-            ":block/refs": [
-              {
-                ":block/uid": "r4TdVhbQd"
-              }
-            ],
-            "refs": [
-              {
-                "uid": "r4TdVhbQd"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            },
-            "uid": "gyWBjgwVi",
-            "edit-time": 1622669142264,
-            ":edit/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            }
-          }
-        ],
-        "uid": "s4wwx78KE",
-        "edit-time": 1622669150323,
-        ":edit/user": {
-          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-        }
-      },
-      {
-        "edit-time": 1622668731457,
-        "children": [
-          {
-            "string": "explore individual wellbeing and it’s connection to universal wellbeing ",
-            "create-time": 1622666424677,
-            "uid": "IiLNIwF6p",
-            "edit-time": 1622666426186,
-            ":create/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            },
-            ":edit/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            }
-          },
-          {
-            "string": "explore as a collective using Roam Research",
-            "create-time": 1622666490197,
-            "uid": "3K1_YuKeB",
-            "edit-time": 1622666511273,
-            ":create/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            },
-            ":edit/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            }
-          },
-          {
-            "string": "focus conversations around zettels",
-            "create-time": 1622666525799,
-            "uid": "6C350gJvq",
-            "edit-time": 1622666555538,
-            ":create/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            },
-            ":edit/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            }
-          },
-          {
-            "string": "contribute to graph in the context of what “element cohorts” are interested in reading",
-            "create-time": 1622666565793,
-            ":create/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            },
+            "edit-time": 1622673274416,
             "children": [
               {
-                "string": "provided you are contributing to your “cohort element” - you are welcome to expand the conversation of the other 4 elements",
-                "create-time": 1622666660778,
-                "uid": "ijoR2yaU2",
-                "edit-time": 1622666797396,
+                "string": "an alternative structure would be to focus on synthesizing these 2 books",
+                "create-time": 1622667170076,
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
+                "children": [
+                  {
+                    "string": "inner: [[The 5 Essential Elements of Wellbeing]]",
+                    "create-time": 1622667185191,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "UCgsl-NP_"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "UCgsl-NP_"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "uid": "MPwS-pmyy",
+                    "edit-time": 1622675352150,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "edit-time": 1622675359947,
+                    "children": [
+                      {
+                        "edit-time": 1622675253782,
+                        "children": [
+                          {
+                            "string": "step into what it means to be responsible on this Earth [*](((8xMihLfeG)))",
+                            "create-time": 1622665866657,
+                            "uid": "szpu8FfCV",
+                            "edit-time": 1622668011518,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          },
+                          {
+                            "string": "expand one’s sense of wellbeing and sense of meaning and contribution [*](((pgK-kvOsd)))",
+                            "create-time": 1622665866657,
+                            "uid": "E1kahChF3",
+                            "edit-time": 1622668031911,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          },
+                          {
+                            "string": "build upon [[Braiding Sweetgrass]] [*](((hbBY7IlM9)))",
+                            "create-time": 1622665866657,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "mITJLw5pP"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "mITJLw5pP"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            "uid": "KupQWax-d",
+                            "edit-time": 1622668050667,
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          },
+                          {
+                            "string": "challenge world views constructively [*](((fAgaE41vd)))",
+                            "create-time": 1622665866657,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            "children": [
+                              {
+                                "string": "Roam to facilitate constructive and friendly debate [*](((zHapS1Bio)))",
+                                "create-time": 1622665866657,
+                                "uid": "NqoexN6_7",
+                                "edit-time": 1622668094274,
+                                ":create/user": {
+                                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                                }
+                              }
+                            ],
+                            "uid": "iIEa8zN0l",
+                            "edit-time": 1622668066276,
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          },
+                          {
+                            "string": "dive into [a work with 800 references, segmented in 18 essays](https://www.thezeitgeistmovement.com/education/), and because it is in the public domain, the possibility exists to import the entire text into the graph and take on block-referenced conversations (if having an entire book in the graph (like [[How to Take Smart Notes]]) is still seen of value) [*](((fdtBXesD3)))",
+                            "create-time": 1622665866657,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "kUQ0fc-mS"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "kUQ0fc-mS"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            "uid": "vgDBysRjh",
+                            "edit-time": 1622668178634,
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          },
+                          {
+                            "string": "get related to the history of how our world came to be.  like what happened in the past that led us to this point? [*](((aVZsIusVR)))",
+                            "create-time": 1622665866657,
+                            "uid": "Q5dV8JGeB",
+                            "edit-time": 1622668206224,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          },
+                          {
+                            "edit-time": 1622668231843,
+                            "children": [
+                              {
+                                "string": "learn how to design/reinvent our future on this Earth [*](((dMKVttQRR)))",
+                                "create-time": 1622665866657,
+                                "uid": "oyJpT5ZG9",
+                                "edit-time": 1622668252512,
+                                ":create/user": {
+                                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "ZNG_rDEqt"
+                              }
+                            ],
+                            "uid": "XyV3SDLfV",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "ZNG_rDEqt"
+                              }
+                            ],
+                            "string": "clarifying the actions we might want to take as a collective around an existing vision rooted in the [[scientific method]] [*](((K5W25N4IJ)))",
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            "create-time": 1622665866657,
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "ZuxcbnfVv"
+                          },
+                          {
+                            "uid": "oz-GzBojV"
+                          },
+                          {
+                            "uid": "XqRDN324C"
+                          },
+                          {
+                            "uid": "4xreHBQ7m"
+                          }
+                        ],
+                        "uid": "15veHIUDY",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "ZuxcbnfVv"
+                          },
+                          {
+                            ":block/uid": "oz-GzBojV"
+                          },
+                          {
+                            ":block/uid": "XqRDN324C"
+                          },
+                          {
+                            ":block/uid": "4xreHBQ7m"
+                          }
+                        ],
+                        "string": "{{[[TODO]]}} case for [[[[The Zeitgeist Movement Defined]]/[[book]]]]",
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "create-time": 1622665837225,
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "XqRDN324C"
+                      }
+                    ],
+                    "uid": "hCNNz5kVI",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "XqRDN324C"
+                      }
+                    ],
+                    "string": "outer: [[The Zeitgeist Movement Defined]]",
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "create-time": 1622675353783,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "hRXXzA_If",
+                "edit-time": 1622668761758,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }
               }
             ],
-            "uid": "kVlIErdaW",
-            "edit-time": 1622666613326,
-            ":edit/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            }
-          }
-        ],
-        "refs": [
-          {
-            "uid": "TBzCoGxjt"
-          },
-          {
-            "uid": "WQ8ZpOe-l"
-          }
-        ],
-        "uid": "XsGiYikhJ",
-        ":block/refs": [
-          {
-            ":block/uid": "TBzCoGxjt"
-          },
-          {
-            ":block/uid": "WQ8ZpOe-l"
-          }
-        ],
-        "string": "possible implementation of a [[Wellbeing Commons]] [*](((WQ8ZpOe-l)))",
-        ":create/user": {
-          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-        },
-        "create-time": 1622666334296,
-        ":edit/user": {
-          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-        }
-      },
-      {
-        "string": "unknowns",
-        "create-time": 1622666801228,
-        ":create/user": {
-          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-        },
-        "children": [
-          {
-            "string": "it is very possible a 6th team focuses on integration and synthesis (breadth over depth)",
-            "create-time": 1622666805902,
-            "uid": "zspt9cPWT",
-            "edit-time": 1622667106121,
-            ":create/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            },
-            ":edit/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            }
-          },
-          {
-            "string": "an alternative structure would be to focus on synthesizing these 2 books",
-            "create-time": 1622667170076,
-            ":create/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            },
-            "children": [
+            "refs": [
               {
-                "string": "[[The 5 Essential Elements of Wellbeing]]",
-                "create-time": 1622667185191,
-                ":block/refs": [
-                  {
-                    ":block/uid": "UCgsl-NP_"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "UCgsl-NP_"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                "uid": "MPwS-pmyy",
-                "edit-time": 1622667189429,
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
+                "uid": "UCgsl-NP_"
               },
               {
-                "string": "[[The Zeitgeist Movement Defined]]",
-                "create-time": 1622667189423,
-                ":block/refs": [
-                  {
-                    ":block/uid": "XqRDN324C"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "XqRDN324C"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                "uid": "o8Tzeh1fb",
-                "edit-time": 1622667193380,
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
+                "uid": "ETa0ps5ar"
               }
             ],
-            "uid": "hRXXzA_If",
-            "edit-time": 1622668761758,
+            "uid": "UI7AxLmko",
+            ":block/refs": [
+              {
+                ":block/uid": "UCgsl-NP_"
+              },
+              {
+                ":block/uid": "ETa0ps5ar"
+              }
+            ],
+            "string": "#backstory I've been wondering for quite some time how a book club might look like if everyone were to bring **five** books they feel would constitute how [[The 5 Essential Elements of Wellbeing]] looks like in their life.  this could easily be a year-long effort as there would be 6 books total (1 in common, 5 of your choosing) to take on. [*](((UGBQZpeIX)))",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1622673183396,
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             }
-          }
-        ],
-        "uid": "91OuEsvTn",
-        "edit-time": 1622666805022,
-        ":edit/user": {
-          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-        }
-      },
-      {
-        "string": "backstory",
-        "create-time": 1622665939521,
-        ":create/user": {
-          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-        },
-        "children": [
+          },
           {
-            "string": "((UGBQZpeIX)) (for now, see [[Wellbeing Commons]])",
-            "create-time": 1622665942255,
+            "string": "read more behind the context behind a [[Wellbeing Commons]]",
+            "create-time": 1622672035405,
             ":block/refs": [
               {
                 ":block/uid": "TBzCoGxjt"
@@ -55599,31 +55575,79 @@
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
-            "uid": "S045m6GPn",
-            "edit-time": 1622668921502,
+            "uid": "S_Ba_7YOr",
+            "edit-time": 1622673817440,
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             }
           }
         ],
-        "uid": "hX0IwCFyz",
-        "edit-time": 1622665942262,
+        "refs": [
+          {
+            "uid": "djQx_W4Fd"
+          }
+        ],
+        "uid": "pmQypUorF",
+        ":block/refs": [
+          {
+            ":block/uid": "djQx_W4Fd"
+          }
+        ],
+        "string": "[[A wellbeing commons is an open digital garden where participants learn to creatively share and connect a vast array of personal experience and wisdom such that it results in collective breakthrough]]",
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "create-time": 1622673099051,
         ":edit/user": {
           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
         }
       },
       {
-        "string": "themes",
-        "create-time": 1622665322151,
-        ":create/user": {
-          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-        },
+        "edit-time": 1622672409969,
         "children": [
           {
-            "string": "choose your own adventure [*](((P34QxngDt)))",
-            "create-time": 1622665216017,
-            "uid": "0rbLIt1aW",
-            "edit-time": 1622667657002,
+            "string": "**choose your own adventure** - giving participants the opportunity to choose a book consistent with the cohort’s theme [*](((P34QxngDt)))",
+            "create-time": 1622672799337,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "each cohort gets to pick a book (specific to their element) [*](((rHn7OC0wj)))",
+                "create-time": 1622665306041,
+                "uid": "V4orYeQ40",
+                "edit-time": 1622668506438,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "it is likely a 6th cohort focuses on integration and synthesis (breadth over depth)",
+                "create-time": 1622666805902,
+                "uid": "zspt9cPWT",
+                "edit-time": 1622673329380,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "SNkSToDr0",
+            "edit-time": 1622673489786,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "the use of a unified, common framework and **thematic approach** to book club",
+            "create-time": 1622672446716,
+            "uid": "W8_SRuLdY",
+            "edit-time": 1622673499779,
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
@@ -55631,6 +55655,146 @@
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             }
           },
+          {
+            "string": "exploring individual wellbeing and it’s **connection to universal wellbeing** ",
+            "create-time": 1622666696564,
+            "uid": "Qw50oKVu0",
+            "edit-time": 1622673508219,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "individuals choose a **line of inquiry to lead and follow through** to completion",
+            "create-time": 1622674468173,
+            "uid": "LGvFPxGgB",
+            "edit-time": 1622675028462,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "learning to **navigate contrasting perspectives** (both internally and with the group)",
+            "create-time": 1622672473914,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "crafting zettels from multiple sources/books (not just one book)",
+                "create-time": 1622672159151,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "this better reflects real-world experience",
+                    "create-time": 1622672593030,
+                    "uid": "e6g2utf5P",
+                    "edit-time": 1622672613323,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "8RLeXIoCy",
+                "edit-time": 1622672555214,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "provided you are contributing to your cohort - you are welcome to participate and help expand the conversations in other cohorts",
+                "create-time": 1622666660778,
+                "uid": "ijoR2yaU2",
+                "edit-time": 1622673389127,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "XyaypfBdw",
+            "edit-time": 1622674305607,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "edit-time": 1622674927265,
+            "children": [
+              {
+                "string": "individual profile pages (and slipboxes) are hosted in personal graphs",
+                "create-time": 1622673854185,
+                "uid": "V5g3z5i4M",
+                "edit-time": 1622674272488,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "7BiGUsy3E"
+              }
+            ],
+            "uid": "s-bI5GBkY",
+            ":block/refs": [
+              {
+                ":block/uid": "7BiGUsy3E"
+              }
+            ],
+            "string": " #stretch Be an **active testbed** for features in development enabling intergraph communication",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1622673697608,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "WQ8ZpOe-l"
+          }
+        ],
+        "uid": "gz88_8bL_",
+        ":block/refs": [
+          {
+            ":block/uid": "WQ8ZpOe-l"
+          }
+        ],
+        "string": "key distinctions from past book clubs [*](((WQ8ZpOe-l)))",
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "create-time": 1622666628627,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "claims",
+        "create-time": 1622665521087,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
           {
             "string": "[[Being curious and following our interests keeps us connected to our personal goals and makes building autonomy around wellbeing fun]]",
             "create-time": 1622665509240,
@@ -55652,21 +55816,7 @@
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             }
-          }
-        ],
-        "uid": "A-_p0TlqE",
-        "edit-time": 1622665324483,
-        ":edit/user": {
-          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-        }
-      },
-      {
-        "string": "claims",
-        "create-time": 1622665521087,
-        ":create/user": {
-          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-        },
-        "children": [
+          },
           {
             "string": "[[Wellbeing is inter-disciplinary in nature thus there exists many models and frameworks for wellbeing. Having a note-taking method capturing differing perspectives expands the richness of dialogue able to express wellbeing at multiple levels of abstraction]]",
             "create-time": 1622665509240,
@@ -55719,333 +55869,131 @@
         }
       },
       {
-        "string": "audience",
-        "create-time": 1622665401613,
+        "string": "assertions/assumptions",
+        "create-time": 1622672631057,
         ":create/user": {
           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
         },
         "children": [
           {
-            "string": "possible clan formations [*](((s3i415Qa-)))",
-            "create-time": 1622665216017,
+            "string": "it is a good idea to start with [[The 5 Essential Elements of Wellbeing]] as a unified framework",
+            "create-time": 1622673150589,
+            ":block/refs": [
+              {
+                ":block/uid": "UCgsl-NP_"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "UCgsl-NP_"
+              }
+            ],
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
-            "children": [
-              {
-                "edit-time": 1622666190491,
-                "children": [
-                  {
-                    "string": "#purpose",
-                    "create-time": 1622666168465,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "IVYyvJRQg"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "IVYyvJRQg"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    "uid": "S5aE6DJCJ",
-                    "edit-time": 1622666168465,
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "#physical",
-                    "create-time": 1622666168465,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "ROFRKm8nO"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "ROFRKm8nO"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    "uid": "-0cBT0AF1",
-                    "edit-time": 1622666168465,
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "#financial",
-                    "create-time": 1622666168465,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "VDLLRhY8c"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "VDLLRhY8c"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    "uid": "jiZ7lUq8Q",
-                    "edit-time": 1622666168465,
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "#social",
-                    "create-time": 1622666168465,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "8YkkqLFH_"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "8YkkqLFH_"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    "uid": "_aGv-oFs9",
-                    "edit-time": 1622666168465,
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "#community",
-                    "create-time": 1622666168465,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "IsQfKNYKI"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "IsQfKNYKI"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    "uid": "7occS3LRl",
-                    "edit-time": 1622666168465,
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "G4eOJ2p-5"
-                  }
-                ],
-                "uid": "-cOH7PPUG",
-                ":block/refs": [
-                  {
-                    ":block/uid": "G4eOJ2p-5"
-                  }
-                ],
-                "string": "primary: #wellbeing5",
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                "create-time": 1622665714979,
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              },
-              {
-                "string": "secondary: from RBC4 debrief",
-                "create-time": 1622665702829,
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                "children": [
-                  {
-                    "string": "life learners [*](((pxD5xdf5p)))",
-                    "create-time": 1622665216017,
-                    "uid": "62hSj5Qp2",
-                    "edit-time": 1622667904098,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "[those who] dive into their truth [*](((G3sVrsdET)))",
-                    "create-time": 1622665216017,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    "children": [
-                      {
-                        "string": "#inquiry what does it take to hold a space for interpersonal development inside Roam? [*](((81yKe4iIG)))",
-                        "create-time": 1622665216017,
-                        ":block/refs": [
-                          {
-                            ":block/uid": "5-hjHKbDW"
-                          }
-                        ],
-                        "refs": [
-                          {
-                            "uid": "5-hjHKbDW"
-                          }
-                        ],
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        "uid": "vv7XPSGi2",
-                        "edit-time": 1622668849632,
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
-                      }
-                    ],
-                    "uid": "myu0bLFoF",
-                    "edit-time": 1622668594021,
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "use of Roam to process psycho-spiritual trauma [*](((p4DBkXdcX))) [[CK Lin]]",
-                    "create-time": 1622665216017,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "xgPqUOqDe"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "xgPqUOqDe"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    "uid": "kxWB1P-W0",
-                    "edit-time": 1622667955057,
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  }
-                ],
-                "uid": "ehWcjGsEw",
-                "edit-time": 1622666194372,
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              },
-              {
-                "string": "tertiary",
-                "create-time": 1622666833330,
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                "children": [
-                  {
-                    "string": "asynchronous",
-                    "create-time": 1622666845364,
-                    "uid": "7HI4z035c",
-                    "edit-time": 1622666849068,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "non-US participants",
-                    "create-time": 1622666858933,
-                    "uid": "z-Sf6vtY6",
-                    "edit-time": 1622666868258,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "reading room lovers",
-                    "create-time": 1622666872482,
-                    "uid": "J6pwmkm9f",
-                    "edit-time": 1622666893100,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "zettelmasters",
-                    "create-time": 1622666879499,
-                    "uid": "4A_ePzvqd",
-                    "edit-time": 1622666883497,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "prompt writers",
-                    "create-time": 1622669010625,
-                    "uid": "kgpHhMnXW",
-                    "edit-time": 1622669016617,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "communication specialists",
-                    "create-time": 1622669028002,
-                    "uid": "ViDNdGF_Z",
-                    "edit-time": 1622669033038,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  }
-                ],
-                "uid": "TkWfwOyre",
-                "edit-time": 1622666845373,
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              }
-            ],
-            "uid": "HkNRjM0hK",
-            "edit-time": 1622667795818,
+            "uid": "DcCN5gE1s",
+            "edit-time": 1622673172161,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "it is a good idea to leverage Roam Research to prototype a Wellbeing Commons",
+            "create-time": 1622672633979,
+            "uid": "iUk6EiR6X",
+            "edit-time": 1622672671225,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "it is a good idea to leverage roam book club as a means to give a Wellbeing Commons collective substance",
+            "create-time": 1622672671213,
+            "uid": "IHC_4ojzC",
+            "edit-time": 1622673145910,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "this is something the roam book club community is a calling for",
+            "create-time": 1622675050403,
+            "uid": "jOqocgOuv",
+            "edit-time": 1622675063064,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             }
           }
         ],
-        "uid": "qjEMvvuSK",
-        "edit-time": 1622665404068,
+        "uid": "OlFFB5MTC",
+        "edit-time": 1622673019608,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "meta goals",
+        "create-time": 1622669124480,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "[[index and organize our community's expansive knowlege in way that creates relevance to what each and everyone is up to without the overwhelm]]",
+            "create-time": 1622669138298,
+            ":block/refs": [
+              {
+                ":block/uid": "50W7X03K5"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "50W7X03K5"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "uid": "xaKVlbr8A",
+            "edit-time": 1622669138298,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "[[enable the bookworms of the world to contribute to our conversation in such a way that it elevates our context and gives us challenging problems to be solved by Roam in conjunction with other platforms]]",
+            "create-time": 1622669128945,
+            ":block/refs": [
+              {
+                ":block/uid": "r4TdVhbQd"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "r4TdVhbQd"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "uid": "gyWBjgwVi",
+            "edit-time": 1622669142264,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "s4wwx78KE",
+        "edit-time": 1622673000400,
         ":edit/user": {
           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
         }
@@ -56080,179 +56028,63 @@
             }
           },
           {
-            "edit-time": 1622667139877,
-            "children": [
+            "string": "expand explorations in Roam Research",
+            "create-time": 1622666490197,
+            "uid": "3K1_YuKeB",
+            "edit-time": 1622674535830,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "continue to hold space for zettel-driven dialogue [[Zettel Map]]",
+            "create-time": 1622666525799,
+            ":block/refs": [
               {
-                "string": "step into what it means to be responsible on this Earth [*](((8xMihLfeG)))",
-                "create-time": 1622665866657,
-                "uid": "szpu8FfCV",
-                "edit-time": 1622668011518,
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              },
-              {
-                "string": "expand one’s sense of wellbeing and sense of meaning and contribution [*](((pgK-kvOsd)))",
-                "create-time": 1622665866657,
-                "uid": "E1kahChF3",
-                "edit-time": 1622668031911,
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              },
-              {
-                "string": "build upon [[Braiding Sweetgrass]] [*](((hbBY7IlM9)))",
-                "create-time": 1622665866657,
-                ":block/refs": [
-                  {
-                    ":block/uid": "mITJLw5pP"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "mITJLw5pP"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                "uid": "KupQWax-d",
-                "edit-time": 1622668050667,
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              },
-              {
-                "string": "challenge world views constructively [*](((fAgaE41vd)))",
-                "create-time": 1622665866657,
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                "children": [
-                  {
-                    "string": "Roam to facilitate constructive and friendly debate [*](((zHapS1Bio)))",
-                    "create-time": 1622665866657,
-                    "uid": "NqoexN6_7",
-                    "edit-time": 1622668094274,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  }
-                ],
-                "uid": "iIEa8zN0l",
-                "edit-time": 1622668066276,
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              },
-              {
-                "string": "dive into [a work with 800 references, segmented in 18 essays](https://www.thezeitgeistmovement.com/education/), and because it is in the public domain, the possibility exists to import the entire text into the graph and take on block-referenced conversations (if having an entire book in the graph (like [[How to Take Smart Notes]]) is still seen of value) [*](((fdtBXesD3)))",
-                "create-time": 1622665866657,
-                ":block/refs": [
-                  {
-                    ":block/uid": "kUQ0fc-mS"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "kUQ0fc-mS"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                "uid": "vgDBysRjh",
-                "edit-time": 1622668178634,
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              },
-              {
-                "string": "get related to the history of how our world came to be.  like what happened in the past that led us to this point? [*](((aVZsIusVR)))",
-                "create-time": 1622665866657,
-                "uid": "Q5dV8JGeB",
-                "edit-time": 1622668206224,
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              },
-              {
-                "edit-time": 1622668231843,
-                "children": [
-                  {
-                    "string": "learn how to design/reinvent our future on this Earth [*](((dMKVttQRR)))",
-                    "create-time": 1622665866657,
-                    "uid": "oyJpT5ZG9",
-                    "edit-time": 1622668252512,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "ZNG_rDEqt"
-                  }
-                ],
-                "uid": "XyV3SDLfV",
-                ":block/refs": [
-                  {
-                    ":block/uid": "ZNG_rDEqt"
-                  }
-                ],
-                "string": "clarifying the actions we might want to take as a collective around an existing vision rooted in the [[scientific method]] [*](((K5W25N4IJ)))",
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                "create-time": 1622665866657,
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
+                ":block/uid": "LEvQ26Tlb"
               }
             ],
             "refs": [
               {
-                "uid": "oz-GzBojV"
-              },
-              {
-                "uid": "XqRDN324C"
-              },
-              {
-                "uid": "4xreHBQ7m"
+                "uid": "LEvQ26Tlb"
               }
             ],
-            "uid": "15veHIUDY",
-            ":block/refs": [
-              {
-                ":block/uid": "oz-GzBojV"
-              },
-              {
-                ":block/uid": "XqRDN324C"
-              },
-              {
-                ":block/uid": "4xreHBQ7m"
-              }
-            ],
-            "string": "in the context of [[[[The Zeitgeist Movement Defined]]/[[book]]]]",
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
-            "create-time": 1622665837225,
+            "uid": "6C350gJvq",
+            "edit-time": 1622674582123,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "expand [[interstitial journaling]] practice [[Tracy Winchell]]",
+            "create-time": 1622675885482,
+            ":block/refs": [
+              {
+                ":block/uid": "g-w9T9499"
+              },
+              {
+                ":block/uid": "VAMVr9l6y"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "g-w9T9499"
+              },
+              {
+                "uid": "VAMVr9l6y"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "uid": "O0mSHqaFN",
+            "edit-time": 1622675977584,
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             }
@@ -56265,11 +56097,7 @@
         }
       },
       {
-        "string": "core structures",
-        "create-time": 1622665208163,
-        ":create/user": {
-          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-        },
+        "edit-time": 1622675148482,
         "children": [
           {
             "edit-time": 1622668605572,
@@ -56372,7 +56200,7 @@
             }
           },
           {
-            "edit-time": 1622668441407,
+            "edit-time": 1622675223825,
             "children": [
               {
                 "string": "immediate feedback (to drive changes mid-flight) [*](((NCDMddvGw)))",
@@ -56385,20 +56213,62 @@
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }
+              },
+              {
+                "string": "club continues to hold space",
+                "create-time": 1622675725033,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "“come do the work if you want. if you don’t want to do the work, we’re not going to chase you down!” [[Tracy Winchell]]",
+                    "create-time": 1622675705007,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "g-w9T9499"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "g-w9T9499"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "uid": "MfM4j9tqK",
+                    "edit-time": 1622675774700,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "nERvrr7jZ",
+                "edit-time": 1622675744344,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
               }
             ],
             "refs": [
               {
                 "uid": "56fM0M8uk"
+              },
+              {
+                "uid": "JJ2sApGeD"
               }
             ],
             "uid": "TJBTnAf91",
             ":block/refs": [
               {
                 ":block/uid": "56fM0M8uk"
+              },
+              {
+                ":block/uid": "JJ2sApGeD"
               }
             ],
-            "string": "exit: simple question: why are you leaving? [*](((vsC0QqoUX))) [[Joey Harris]]",
+            "string": "simple #exit question: why are you leaving? [*](((vsC0QqoUX))) [[Joey Harris]]",
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
@@ -56408,34 +56278,446 @@
             }
           }
         ],
+        "refs": [
+          {
+            "uid": "Q_H6yb7Nc"
+          }
+        ],
         "uid": "h9evnpVn9",
-        "edit-time": 1622665318893,
+        ":block/refs": [
+          {
+            ":block/uid": "Q_H6yb7Nc"
+          }
+        ],
+        "string": "core input from #RBC4 debrief",
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "create-time": 1622665208163,
         ":edit/user": {
           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
         }
       },
       {
-        "string": "additional structures",
-        "create-time": 1622665341357,
+        "string": "cohort development [*](((s3i415Qa-)))",
+        "create-time": 1622665401613,
         ":create/user": {
           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
         },
         "children": [
           {
-            "string": "each cohort gets to pick a book (specific to their element) [*](((rHn7OC0wj)))",
-            "create-time": 1622665306041,
-            "uid": "V4orYeQ40",
-            "edit-time": 1622668506438,
+            "edit-time": 1622666190491,
+            "children": [
+              {
+                "string": "#purpose",
+                "create-time": 1622666168465,
+                ":block/refs": [
+                  {
+                    ":block/uid": "IVYyvJRQg"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "IVYyvJRQg"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "S5aE6DJCJ",
+                "edit-time": 1622666168465,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "#physical",
+                "create-time": 1622666168465,
+                ":block/refs": [
+                  {
+                    ":block/uid": "ROFRKm8nO"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "ROFRKm8nO"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "-0cBT0AF1",
+                "edit-time": 1622666168465,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "#financial",
+                "create-time": 1622666168465,
+                ":block/refs": [
+                  {
+                    ":block/uid": "VDLLRhY8c"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "VDLLRhY8c"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "jiZ7lUq8Q",
+                "edit-time": 1622666168465,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "#social",
+                "create-time": 1622666168465,
+                ":block/refs": [
+                  {
+                    ":block/uid": "8YkkqLFH_"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "8YkkqLFH_"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "_aGv-oFs9",
+                "edit-time": 1622666168465,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "#community",
+                "create-time": 1622666168465,
+                ":block/refs": [
+                  {
+                    ":block/uid": "IsQfKNYKI"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "IsQfKNYKI"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "7occS3LRl",
+                "edit-time": 1622666168465,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "G4eOJ2p-5"
+              }
+            ],
+            "uid": "-cOH7PPUG",
+            ":block/refs": [
+              {
+                ":block/uid": "G4eOJ2p-5"
+              }
+            ],
+            "string": "primary: #wellbeing5",
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
+            "create-time": 1622665714979,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "edit-time": 1622675173749,
+            "children": [
+              {
+                "string": "life learners [*](((pxD5xdf5p)))",
+                "create-time": 1622665216017,
+                "uid": "62hSj5Qp2",
+                "edit-time": 1622667904098,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "[those who] dive into their truth [*](((G3sVrsdET)))",
+                "create-time": 1622665216017,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "#inquiry what does it take to hold a space for interpersonal development inside Roam? [*](((81yKe4iIG)))",
+                    "create-time": 1622665216017,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "5-hjHKbDW"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "5-hjHKbDW"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "uid": "vv7XPSGi2",
+                    "edit-time": 1622668849632,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "myu0bLFoF",
+                "edit-time": 1622668594021,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "use of Roam to process psycho-spiritual trauma [*](((p4DBkXdcX)))",
+                "create-time": 1622665216017,
+                "uid": "kxWB1P-W0",
+                "edit-time": 1622675172124,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "xgPqUOqDe"
+              },
+              {
+                "uid": "Q_H6yb7Nc"
+              }
+            ],
+            "uid": "ehWcjGsEw",
+            ":block/refs": [
+              {
+                ":block/uid": "xgPqUOqDe"
+              },
+              {
+                ":block/uid": "Q_H6yb7Nc"
+              }
+            ],
+            "string": "secondary: from #RBC4 debrief  [[CK Lin]]",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1622665702829,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "tertiary",
+            "create-time": 1622666833330,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "asynchronous",
+                "create-time": 1622666845364,
+                "uid": "7HI4z035c",
+                "edit-time": 1622666849068,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "non-US participants",
+                "create-time": 1622666858933,
+                "uid": "z-Sf6vtY6",
+                "edit-time": 1622666868258,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "reading room lovers",
+                "create-time": 1622666872482,
+                "uid": "J6pwmkm9f",
+                "edit-time": 1622666893100,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "zettelmasters",
+                "create-time": 1622666879499,
+                "uid": "4A_ePzvqd",
+                "edit-time": 1622666883497,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "communication specialists",
+                "create-time": 1622669028002,
+                "uid": "ViDNdGF_Z",
+                "edit-time": 1622669033038,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "writers",
+                "create-time": 1622674439981,
+                "uid": "OBKd7aRPh",
+                "edit-time": 1622674448551,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "academics/researchers",
+                "create-time": 1622674478827,
+                "uid": "ZnudHO0fa",
+                "edit-time": 1622674484453,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "TkWfwOyre",
+            "edit-time": 1622666845373,
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             }
           }
         ],
-        "uid": "WVHlOlQY2",
-        "edit-time": 1622665345190,
+        "uid": "qjEMvvuSK",
+        "edit-time": 1622674416534,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "things to be aware of",
+        "create-time": 1622676678070,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "be sensitive to post-pandemic reintegration “busy-ness”",
+            "create-time": 1622676683245,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "effort is best supportive of whatever people are dealing with creating their “new normal”",
+                "create-time": 1622676730785,
+                "uid": "y-FPQcj69",
+                "edit-time": 1622676767689,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "D_s4E04BI",
+            "edit-time": 1622676967761,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "directions Roam Research intends to bring the future of book club",
+            "create-time": 1622676767676,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "{{[[TODO]]}} checkin with [[Matt M]] what exists re: roam book club “toolbox” after YouTube “how to lead a book club” session [[Chinarut 🦥]]",
+                "create-time": 1622676786275,
+                ":block/refs": [
+                  {
+                    ":block/uid": "2ompgu8xt"
+                  },
+                  {
+                    ":block/uid": "ZuxcbnfVv"
+                  },
+                  {
+                    ":block/uid": "ISxdC3Xhu"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "2ompgu8xt"
+                  },
+                  {
+                    "uid": "ZuxcbnfVv"
+                  },
+                  {
+                    "uid": "ISxdC3Xhu"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "1ebhbH6j8",
+                "edit-time": 1622676921549,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "lgefw7OMx",
+            "edit-time": 1622676785567,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "Z5hNEyo41",
+        "edit-time": 1622676928905,
         ":edit/user": {
           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
         }
@@ -56447,6 +56729,18 @@
           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
         },
         "children": [
+          {
+            "string": "20 participants completed made it to the finish line",
+            "create-time": 1622674752383,
+            "uid": "OOi1s00-L",
+            "edit-time": 1622674815112,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
           {
             "string": "[[Wellbeing Commons]] prototype",
             "create-time": 1622665369171,
@@ -56470,20 +56764,30 @@
             }
           },
           {
-            "string": "consider Amazon review(s) as form of concrete output(s) [*](((iH0M9vyGW)))",
+            "string": "consider Amazon book review(s) as form of concrete output(s) [*](((iH0M9vyGW))) [[CK Lin]]",
             "create-time": 1622665216017,
-            "uid": "BiebBeWQ_",
-            "edit-time": 1622668531424,
+            ":block/refs": [
+              {
+                ":block/uid": "xgPqUOqDe"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "xgPqUOqDe"
+              }
+            ],
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
+            "uid": "BiebBeWQ_",
+            "edit-time": 1622674833008,
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             }
           }
         ],
         "uid": "eZmhgsINq",
-        "edit-time": 1622665364806,
+        "edit-time": 1622676667972,
         ":edit/user": {
           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
         }
@@ -57127,6 +57431,102 @@
     "title": "enable the bookworms of the world to contribute to our conversation in such a way that it elevates our context and gives us challenging problems to be solved by Roam in conjunction with other platforms",
     "uid": "r4TdVhbQd",
     "edit-time": 1622669129671,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1622673274419,
+    "title": "backstory",
+    "uid": "ETa0ps5ar",
+    "edit-time": 1622673274423,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1622674582129,
+    "title": "Zettel Map",
+    "uid": "LEvQ26Tlb",
+    "edit-time": 1622674582137,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1622674800779,
+    "title": "Tracy Winchell",
+    "uid": "g-w9T9499",
+    "edit-time": 1622674800780,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1622674923592,
+    "title": "stretch",
+    "uid": "7BiGUsy3E",
+    "edit-time": 1622674923599,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1622675148486,
+    "title": "RBC4",
+    "uid": "Q_H6yb7Nc",
+    "edit-time": 1622675148486,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1622675223828,
+    "title": "exit",
+    "uid": "JJ2sApGeD",
+    "edit-time": 1622675223829,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1622675947700,
+    "title": "interstitial journaling",
+    "uid": "VAMVr9l6y",
+    "edit-time": 1622675947703,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1622676860548,
+    "title": "Matt M",
+    "uid": "ISxdC3Xhu",
+    "edit-time": 1622676860563,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },

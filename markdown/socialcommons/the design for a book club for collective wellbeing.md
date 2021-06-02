@@ -1,62 +1,50 @@
 - [[A wellbeing commons is an open digital garden where participants learn to creatively share and connect a vast array of personal experience and wisdom such that it results in collective breakthrough]]
-- key distinctions from past book clubs
-    - learning to craft zettels from multiple sources (not just one book)
-    - cohorts/teams collaborate together unified through a common framework
-- overarching meta goals
-    - [[index and organize our community's expansive knowlege in way that creates relevance to what each and everyone is up to without the overwhelm]]
-    - [[enable the bookworms of the world to contribute to our conversation in such a way that it elevates our context and gives us challenging problems to be solved by Roam in conjunction with other platforms]]
-- possible implementation of a [[Wellbeing Commons]] [*](((WQ8ZpOe-l)))
-    - explore individual wellbeing and it’s connection to universal wellbeing 
-    - explore as a collective using Roam Research
-    - focus conversations around zettels
-    - contribute to graph in the context of what “element cohorts” are interested in reading
-        - provided you are contributing to your “cohort element” - you are welcome to expand the conversation of the other 4 elements
-- unknowns
-    - it is very possible a 6th team focuses on integration and synthesis (breadth over depth)
-    - an alternative structure would be to focus on synthesizing these 2 books
-        - [[The 5 Essential Elements of Wellbeing]]
-        - [[The Zeitgeist Movement Defined]]
-- backstory
-    - ((UGBQZpeIX)) (for now, see [[Wellbeing Commons]])
-- themes
-    - choose your own adventure [*](((P34QxngDt)))
-    - [[Being curious and following our interests keeps us connected to our personal goals and makes building autonomy around wellbeing fun]]
+    - #backstory I've been wondering for quite some time how a book club might look like if everyone were to bring **five** books they feel would constitute how [[The 5 Essential Elements of Wellbeing]] looks like in their life.  this could easily be a year-long effort as there would be 6 books total (1 in common, 5 of your choosing) to take on. [*](((UGBQZpeIX)))
+        - an alternative structure would be to focus on synthesizing these 2 books
+            - inner: [[The 5 Essential Elements of Wellbeing]]
+            - outer: [[The Zeitgeist Movement Defined]]
+                - {{[[TODO]]}} case for [[[[The Zeitgeist Movement Defined]]/[[book]]]]
+                    - step into what it means to be responsible on this Earth [*](((8xMihLfeG)))
+                    - expand one’s sense of wellbeing and sense of meaning and contribution [*](((pgK-kvOsd)))
+                    - build upon [[Braiding Sweetgrass]] [*](((hbBY7IlM9)))
+                    - challenge world views constructively [*](((fAgaE41vd)))
+                        - Roam to facilitate constructive and friendly debate [*](((zHapS1Bio)))
+                    - dive into [a work with 800 references, segmented in 18 essays](https://www.thezeitgeistmovement.com/education/), and because it is in the public domain, the possibility exists to import the entire text into the graph and take on block-referenced conversations (if having an entire book in the graph (like [[How to Take Smart Notes]]) is still seen of value) [*](((fdtBXesD3)))
+                    - get related to the history of how our world came to be.  like what happened in the past that led us to this point? [*](((aVZsIusVR)))
+                    - clarifying the actions we might want to take as a collective around an existing vision rooted in the [[scientific method]] [*](((K5W25N4IJ)))
+                        - learn how to design/reinvent our future on this Earth [*](((dMKVttQRR)))
+    - read more behind the context behind a [[Wellbeing Commons]]
+- key distinctions from past book clubs [*](((WQ8ZpOe-l)))
+    - **choose your own adventure** - giving participants the opportunity to choose a book consistent with the cohort’s theme [*](((P34QxngDt)))
+        - each cohort gets to pick a book (specific to their element) [*](((rHn7OC0wj)))
+        - it is likely a 6th cohort focuses on integration and synthesis (breadth over depth)
+    - the use of a unified, common framework and **thematic approach** to book club
+    - exploring individual wellbeing and it’s **connection to universal wellbeing** 
+    - individuals choose a **line of inquiry to lead and follow through** to completion
+    - learning to **navigate contrasting perspectives** (both internally and with the group)
+        - crafting zettels from multiple sources/books (not just one book)
+            - this better reflects real-world experience
+        - provided you are contributing to your cohort - you are welcome to participate and help expand the conversations in other cohorts
+    -  #stretch Be an **active testbed** for features in development enabling intergraph communication
+        - individual profile pages (and slipboxes) are hosted in personal graphs
 - claims
+    - [[Being curious and following our interests keeps us connected to our personal goals and makes building autonomy around wellbeing fun]]
     - [[Wellbeing is inter-disciplinary in nature thus there exists many models and frameworks for wellbeing. Having a note-taking method capturing differing perspectives expands the richness of dialogue able to express wellbeing at multiple levels of abstraction]]
     - [[A collective slipbox is a network of individuals. Every individual has a unique blueprint for optimum wellbeing. Every time we add an individual to the slipbox, we expand the richness of interconnected concepts and abstractions elevating our collective wellbeing]]
-- audience
-    - possible clan formations [*](((s3i415Qa-)))
-        - primary: #wellbeing5
-            - #purpose
-            - #physical
-            - #financial
-            - #social
-            - #community
-        - secondary: from RBC4 debrief
-            - life learners [*](((pxD5xdf5p)))
-            - [those who] dive into their truth [*](((G3sVrsdET)))
-                - #inquiry what does it take to hold a space for interpersonal development inside Roam? [*](((81yKe4iIG)))
-            - use of Roam to process psycho-spiritual trauma [*](((p4DBkXdcX))) [[CK Lin]]
-        - tertiary
-            - asynchronous
-            - non-US participants
-            - reading room lovers
-            - zettelmasters
-            - prompt writers
-            - communication specialists
+- assertions/assumptions
+    - it is a good idea to start with [[The 5 Essential Elements of Wellbeing]] as a unified framework
+    - it is a good idea to leverage Roam Research to prototype a Wellbeing Commons
+    - it is a good idea to leverage roam book club as a means to give a Wellbeing Commons collective substance
+    - this is something the roam book club community is a calling for
+- meta goals
+    - [[index and organize our community's expansive knowlege in way that creates relevance to what each and everyone is up to without the overwhelm]]
+    - [[enable the bookworms of the world to contribute to our conversation in such a way that it elevates our context and gives us challenging problems to be solved by Roam in conjunction with other platforms]]
 - goals
     - #goal maintain a sense of autonomy yet collectiveness [*](((iy7_nYQ9r)))
-    - in the context of [[[[The Zeitgeist Movement Defined]]/[[book]]]]
-        - step into what it means to be responsible on this Earth [*](((8xMihLfeG)))
-        - expand one’s sense of wellbeing and sense of meaning and contribution [*](((pgK-kvOsd)))
-        - build upon [[Braiding Sweetgrass]] [*](((hbBY7IlM9)))
-        - challenge world views constructively [*](((fAgaE41vd)))
-            - Roam to facilitate constructive and friendly debate [*](((zHapS1Bio)))
-        - dive into [a work with 800 references, segmented in 18 essays](https://www.thezeitgeistmovement.com/education/), and because it is in the public domain, the possibility exists to import the entire text into the graph and take on block-referenced conversations (if having an entire book in the graph (like [[How to Take Smart Notes]]) is still seen of value) [*](((fdtBXesD3)))
-        - get related to the history of how our world came to be.  like what happened in the past that led us to this point? [*](((aVZsIusVR)))
-        - clarifying the actions we might want to take as a collective around an existing vision rooted in the [[scientific method]] [*](((K5W25N4IJ)))
-            - learn how to design/reinvent our future on this Earth [*](((dMKVttQRR)))
-- core structures
+    - expand explorations in Roam Research
+    - continue to hold space for zettel-driven dialogue [[Zettel Map]]
+    - expand [[interstitial journaling]] practice [[Tracy Winchell]]
+- core input from #RBC4 debrief
     - define container up front [*](((fRV1E1QP-))) [[CK Lin]]
         - week 0 [*](((CD1EzjuxP)))
         - clarify intention (supported by registration/fulfillment process) [*](((O2R0AGxQE)))
@@ -64,10 +52,36 @@
             - refine intention [iteratively] as needed [*](((R_VWPle8H)))
     - buddy system (accountability buddy) [*](((S5yhD2dHb)))
         - reset [each others] expectations (as needed) [*](((bpbBaBmm9)))
-    - exit: simple question: why are you leaving? [*](((vsC0QqoUX))) [[Joey Harris]]
+    - simple #exit question: why are you leaving? [*](((vsC0QqoUX))) [[Joey Harris]]
         - immediate feedback (to drive changes mid-flight) [*](((NCDMddvGw)))
-- additional structures
-    - each cohort gets to pick a book (specific to their element) [*](((rHn7OC0wj)))
+        - club continues to hold space
+            - “come do the work if you want. if you don’t want to do the work, we’re not going to chase you down!” [[Tracy Winchell]]
+- cohort development [*](((s3i415Qa-)))
+    - primary: #wellbeing5
+        - #purpose
+        - #physical
+        - #financial
+        - #social
+        - #community
+    - secondary: from #RBC4 debrief  [[CK Lin]]
+        - life learners [*](((pxD5xdf5p)))
+        - [those who] dive into their truth [*](((G3sVrsdET)))
+            - #inquiry what does it take to hold a space for interpersonal development inside Roam? [*](((81yKe4iIG)))
+        - use of Roam to process psycho-spiritual trauma [*](((p4DBkXdcX)))
+    - tertiary
+        - asynchronous
+        - non-US participants
+        - reading room lovers
+        - zettelmasters
+        - communication specialists
+        - writers
+        - academics/researchers
+- things to be aware of
+    - be sensitive to post-pandemic reintegration “busy-ness”
+        - effort is best supportive of whatever people are dealing with creating their “new normal”
+    - directions Roam Research intends to bring the future of book club
+        - {{[[TODO]]}} checkin with [[Matt M]] what exists re: roam book club “toolbox” after YouTube “how to lead a book club” session [[Chinarut 🦥]]
 - outcomes
+    - 20 participants completed made it to the finish line
     - [[Wellbeing Commons]] prototype
-    - consider Amazon review(s) as form of concrete output(s) [*](((iH0M9vyGW)))
+    - consider Amazon book review(s) as form of concrete output(s) [*](((iH0M9vyGW))) [[CK Lin]]
