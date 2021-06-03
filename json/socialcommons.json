@@ -55256,6 +55256,30 @@
               {
                 "string": "From: the design for a book club for collective wellbeing.json",
                 "uid": "saDxxHbn2"
+              },
+              {
+                "string": "Origin: @RBC4-Braiding-Sweetgrass",
+                "create-time": 1622685629067,
+                "uid": "xWeuSmnzM",
+                "edit-time": 1622685629067,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Initial Synthesis: @chinarut",
+                "create-time": 1622685512828,
+                "uid": "ptaBidIJF",
+                "edit-time": 1622685644643,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
               }
             ],
             "uid": "vsjKExtEO",
@@ -55693,7 +55717,7 @@
             "edit-time": 1622673172161,
             "children": [
               {
-                "edit-time": 1622680952311,
+                "edit-time": 1622686208625,
                 "children": [
                   {
                     "edit-time": 1622679040129,
@@ -55897,7 +55921,7 @@
                     ":block/uid": "UCgsl-NP_"
                   }
                 ],
-                "string": "[[The 5 Essential Elements of Wellbeing]] is more “hands on” and accessible (ie. personal development) than [[The Zeitgeist Movement Defined]] (ie. systemic global transformation of society’s biggest challenges)",
+                "string": "[[The 5 Essential Elements of Wellbeing]] is more “hands on” and accessible (ie. personal development) than [[The Zeitgeist Movement Defined]] (ie. systemic global transformation of society’s biggest challenges) - both are \"holistic\" in differing ways",
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
@@ -56087,34 +56111,6 @@
             },
             "uid": "6C350gJvq",
             "edit-time": 1622674582123,
-            ":edit/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            }
-          },
-          {
-            "string": "expand [[interstitial journaling]] practice [[Tracy Winchell]]",
-            "create-time": 1622675885482,
-            ":block/refs": [
-              {
-                ":block/uid": "g-w9T9499"
-              },
-              {
-                ":block/uid": "VAMVr9l6y"
-              }
-            ],
-            "refs": [
-              {
-                "uid": "g-w9T9499"
-              },
-              {
-                "uid": "VAMVr9l6y"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            },
-            "uid": "O0mSHqaFN",
-            "edit-time": 1622675977584,
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             }
@@ -56329,6 +56325,60 @@
         }
       },
       {
+        "string": "components",
+        "create-time": 1622685720208,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "[[Roaman Journaling]] for self-awareness and growth [[Tracy Winchell]]",
+            "create-time": 1622675885482,
+            ":block/refs": [
+              {
+                ":block/uid": "g-w9T9499"
+              },
+              {
+                ":block/uid": "8KLSDLL_o"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "g-w9T9499"
+              },
+              {
+                "uid": "8KLSDLL_o"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "uid": "O0mSHqaFN",
+            "edit-time": 1622686415406,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "office hours",
+            "create-time": 1622686614891,
+            "uid": "07kKCMJx_",
+            "edit-time": 1622686619223,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "6H7y5u01D",
+        "edit-time": 1622685725948,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
         "string": "cohort development [*](((s3i415Qa-)))",
         "create-time": 1622665401613,
         ":create/user": {
@@ -56470,7 +56520,7 @@
             }
           },
           {
-            "edit-time": 1622675173749,
+            "edit-time": 1622686672248,
             "children": [
               {
                 "string": "life learners [*](((pxD5xdf5p)))",
@@ -56521,13 +56571,23 @@
                 }
               },
               {
-                "string": "use of Roam to process psycho-spiritual trauma [*](((p4DBkXdcX)))",
+                "string": "use of Roam to process psycho-spiritual trauma [*](((p4DBkXdcX))) [[CK Lin]]",
                 "create-time": 1622665216017,
-                "uid": "kxWB1P-W0",
-                "edit-time": 1622675172124,
+                ":block/refs": [
+                  {
+                    ":block/uid": "xgPqUOqDe"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "xgPqUOqDe"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
+                "uid": "kxWB1P-W0",
+                "edit-time": 1622686667978,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }
@@ -56535,22 +56595,16 @@
             ],
             "refs": [
               {
-                "uid": "xgPqUOqDe"
-              },
-              {
                 "uid": "Q_H6yb7Nc"
               }
             ],
             "uid": "ehWcjGsEw",
             ":block/refs": [
               {
-                ":block/uid": "xgPqUOqDe"
-              },
-              {
                 ":block/uid": "Q_H6yb7Nc"
               }
             ],
-            "string": "secondary: from #RBC4 debrief  [[CK Lin]]",
+            "string": "from #RBC4 debrief",
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
@@ -56560,17 +56614,29 @@
             }
           },
           {
-            "string": "tertiary",
+            "string": "other emergents",
             "create-time": 1622666833330,
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
             "children": [
               {
-                "string": "asynchronous",
+                "string": "coaches (life & tech)",
+                "create-time": 1622686248603,
+                "uid": "TWusTctYZ",
+                "edit-time": 1622686257194,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "asynchronous communicators",
                 "create-time": 1622666845364,
                 "uid": "7HI4z035c",
-                "edit-time": 1622666849068,
+                "edit-time": 1622686280264,
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
@@ -56582,7 +56648,7 @@
                 "string": "non-US participants",
                 "create-time": 1622666858933,
                 "uid": "z-Sf6vtY6",
-                "edit-time": 1622666868258,
+                "edit-time": 1622686603907,
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
@@ -56591,10 +56657,10 @@
                 }
               },
               {
-                "string": "reading room lovers",
-                "create-time": 1622666872482,
-                "uid": "J6pwmkm9f",
-                "edit-time": 1622666893100,
+                "string": "book lovers (holders of reading room!)",
+                "create-time": 1622686564776,
+                "uid": "iQl-IRAtg",
+                "edit-time": 1622686579325,
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
@@ -56615,10 +56681,10 @@
                 }
               },
               {
-                "string": "communication specialists",
+                "string": "team builders",
                 "create-time": 1622669028002,
                 "uid": "ViDNdGF_Z",
-                "edit-time": 1622669033038,
+                "edit-time": 1622686547367,
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
@@ -56642,7 +56708,55 @@
                 "string": "academics/researchers",
                 "create-time": 1622674478827,
                 "uid": "ZnudHO0fa",
-                "edit-time": 1622674484453,
+                "edit-time": 1622686551798,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "activists",
+                "create-time": 1622686260412,
+                "uid": "7ZyyRqsgq",
+                "edit-time": 1622686336511,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "community builders\n",
+                "create-time": 1622686324274,
+                "uid": "k7nTr8Jdk",
+                "edit-time": 1622686502468,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "engineers/developers",
+                "create-time": 1622686502680,
+                "uid": "B5c8i1gCT",
+                "edit-time": 1622686532671,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "creatives/artists",
+                "create-time": 1622686514353,
+                "uid": "dgN1MHTJQ",
+                "edit-time": 1622686529759,
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
@@ -56652,7 +56766,7 @@
               }
             ],
             "uid": "TkWfwOyre",
-            "edit-time": 1622666845373,
+            "edit-time": 1622686478006,
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             }
@@ -56794,11 +56908,19 @@
             }
           },
           {
-            "string": "consider Amazon book review(s) as form of concrete output(s) [*](((iH0M9vyGW))) [[CK Lin]]",
-            "create-time": 1622665216017,
-            ":block/refs": [
+            "edit-time": 1622674833008,
+            "children": [
               {
-                ":block/uid": "xgPqUOqDe"
+                "string": "assembled from zettels",
+                "create-time": 1622685803309,
+                "uid": "lAs8ZkxND",
+                "edit-time": 1622685816498,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
               }
             ],
             "refs": [
@@ -56806,11 +56928,17 @@
                 "uid": "xgPqUOqDe"
               }
             ],
+            "uid": "BiebBeWQ_",
+            ":block/refs": [
+              {
+                ":block/uid": "xgPqUOqDe"
+              }
+            ],
+            "string": "consider Amazon book review(s) as form of concrete output(s) [*](((iH0M9vyGW))) [[CK Lin]]",
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
-            "uid": "BiebBeWQ_",
-            "edit-time": 1622674833008,
+            "create-time": 1622665216017,
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             }
@@ -57541,18 +57669,6 @@
     }
   },
   {
-    "create-time": 1622675947700,
-    "title": "interstitial journaling",
-    "uid": "VAMVr9l6y",
-    "edit-time": 1622675947703,
-    ":create/user": {
-      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-    },
-    ":edit/user": {
-      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-    }
-  },
-  {
     "create-time": 1622676860548,
     "title": "Matt M",
     "uid": "ISxdC3Xhu",
@@ -57569,6 +57685,18 @@
     "title": "June 3rd, 2021",
     "uid": "06-03-2021",
     "edit-time": 1622684650022,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1622686073588,
+    "title": "Roaman Journaling",
+    "uid": "8KLSDLL_o",
+    "edit-time": 1622686073597,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },

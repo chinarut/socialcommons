@@ -23,7 +23,7 @@
     - [[A collective slipbox is a network of individuals. Every individual has a unique blueprint for optimum wellbeing. Every time we add an individual to the slipbox, we expand the richness of interconnected concepts and abstractions elevating our collective wellbeing]]
 - assertions/assumptions
     - it is a good idea to start with [[The 5 Essential Elements of Wellbeing]] as a unified framework
-        - [[The 5 Essential Elements of Wellbeing]] is more “hands on” and accessible (ie. personal development) than [[The Zeitgeist Movement Defined]] (ie. systemic global transformation of society’s biggest challenges)
+        - [[The 5 Essential Elements of Wellbeing]] is more “hands on” and accessible (ie. personal development) than [[The Zeitgeist Movement Defined]] (ie. systemic global transformation of society’s biggest challenges) - both are "holistic" in differing ways
             - {{[[TODO]]}} counter case/goals for [[[[The Zeitgeist Movement Defined]]/[[book]]]]
                 - step into what it means to be responsible on this Earth [*](((8xMihLfeG)))
                 - expand one’s sense of wellbeing and sense of meaning and contribution [*](((pgK-kvOsd)))
@@ -44,7 +44,6 @@
     - #goal maintain a sense of autonomy yet collectiveness [*](((iy7_nYQ9r)))
     - expand explorations in Roam Research
     - continue to hold space for zettel-driven dialogue [[Zettel Map]]
-    - expand [[interstitial journaling]] practice [[Tracy Winchell]]
 - core input from #RBC4 debrief
     - define container up front [*](((fRV1E1QP-))) [[CK Lin]]
         - week 0 [*](((CD1EzjuxP)))
@@ -57,6 +56,9 @@
         - immediate feedback (to drive changes mid-flight) [*](((NCDMddvGw)))
         - club continues to hold space
             - “come do the work if you want. if you don’t want to do the work, we’re not going to chase you down!” [[Tracy Winchell]]
+- components
+    - [[Roaman Journaling]] for self-awareness and growth [[Tracy Winchell]]
+    - office hours
 - cohort development [*](((s3i415Qa-)))
     - primary: #wellbeing5
         - #purpose
@@ -64,19 +66,25 @@
         - #financial
         - #social
         - #community
-    - secondary: from #RBC4 debrief  [[CK Lin]]
+    - from #RBC4 debrief
         - life learners [*](((pxD5xdf5p)))
         - [those who] dive into their truth [*](((G3sVrsdET)))
             - #inquiry what does it take to hold a space for interpersonal development inside Roam? [*](((81yKe4iIG)))
-        - use of Roam to process psycho-spiritual trauma [*](((p4DBkXdcX)))
-    - tertiary
-        - asynchronous
+        - use of Roam to process psycho-spiritual trauma [*](((p4DBkXdcX))) [[CK Lin]]
+    - other emergents
+        - coaches (life & tech)
+        - asynchronous communicators
         - non-US participants
-        - reading room lovers
+        - book lovers (holders of reading room!)
         - zettelmasters
-        - communication specialists
+        - team builders
         - writers
         - academics/researchers
+        - activists
+        - community builders
+
+        - engineers/developers
+        - creatives/artists
 - things to be aware of
     - be sensitive to post-pandemic reintegration “busy-ness”
         - effort is best supportive of whatever people are dealing with creating their “new normal”
@@ -86,3 +94,4 @@
     - 20 participants cross the finish line (ie. last session) and feedback session
     - [[Wellbeing Commons]] prototype
     - consider Amazon book review(s) as form of concrete output(s) [*](((iH0M9vyGW))) [[CK Lin]]
+        - assembled from zettels
