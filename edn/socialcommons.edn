@@ -47499,8 +47499,8 @@
   [4026 :version/id "0.8.5" 536875009]
   [4026
    :version/nonce
-   "uuid7c8f7d67-d52d-40d8-b6f5-0701a8df5ca8"
-   536875973]
+   "uuid3de59e00-0422-475b-9fc9-45f6248769c1"
+   536876049]
   [4027 :block/uid "04-30-2021" 536875010]
   [4027 :create/time 1619743209057 536875010]
   [4027 :create/user 1 536875010]
@@ -48189,11 +48189,11 @@
   [4107 :block/children 4230 536875892]
   [4107 :block/open true 536875337]
   [4107 :block/order 5 536875775]
-  [4107 :block/string "goals" 536875044]
+  [4107 :block/string "additional goals" 536875976]
   [4107 :block/uid "TkKvkDqQh" 536875044]
   [4107 :create/time 1622665303922 536875044]
   [4107 :create/user 1 536875044]
-  [4107 :edit/time 1622665305317 536875044]
+  [4107 :edit/time 1622678222169 536875976]
   [4107 :edit/user 1 536875044]
   [4108 :block/open true 536875044]
   [4108 :block/order 0 536875716]
@@ -48214,26 +48214,25 @@
   [4109 :block/children 4116 536875840]
   [4109 :block/children 4118 536875840]
   [4109 :block/children 4119 536875840]
-  [4109 :block/open false 536875861]
+  [4109 :block/open false 536876028]
   [4109 :block/order 0 536875859]
   [4109 :block/page 4060 536875839]
   [4109 :block/parents 4060 536875839]
-  [4109 :block/parents 4073 536875839]
-  [4109 :block/parents 4203 536875839]
-  [4109 :block/parents 4205 536875839]
-  [4109 :block/parents 4227 536875860]
+  [4109 :block/parents 4199 536876010]
+  [4109 :block/parents 4204 536876010]
+  [4109 :block/parents 4241 536876010]
   [4109 :block/refs 577 536875825]
   [4109 :block/refs 2814 536875044]
   [4109 :block/refs 3531 536875044]
   [4109 :block/refs 4110 536875044]
   [4109
    :block/string
-   "{{[[TODO]]}} case for [[[[The Zeitgeist Movement Defined]]/[[book]]]]"
-   536875824]
+   "{{[[TODO]]}} counter case/goals for [[[[The Zeitgeist Movement Defined]]/[[book]]]]"
+   536876013]
   [4109 :block/uid "15veHIUDY" 536875044]
   [4109 :create/time 1622665837225 536875044]
   [4109 :create/user 1 536875044]
-  [4109 :edit/time 1622675253782 536875824]
+  [4109 :edit/time 1622679040129 536876013]
   [4109 :edit/user 1 536875044]
   [4110 :block/refs 2814 536875044]
   [4110 :block/refs 3531 536875044]
@@ -48248,11 +48247,10 @@
   [4111 :block/order 0 536875840]
   [4111 :block/page 4060 536875831]
   [4111 :block/parents 4060 536875831]
-  [4111 :block/parents 4073 536875831]
   [4111 :block/parents 4109 536875841]
-  [4111 :block/parents 4203 536875831]
-  [4111 :block/parents 4205 536875831]
-  [4111 :block/parents 4227 536875860]
+  [4111 :block/parents 4199 536876010]
+  [4111 :block/parents 4204 536876010]
+  [4111 :block/parents 4241 536876010]
   [4111
    :block/string
    "step into what it means to be responsible on this Earth [*](((8xMihLfeG)))"
@@ -48266,11 +48264,10 @@
   [4112 :block/order 1 536875840]
   [4112 :block/page 4060 536875832]
   [4112 :block/parents 4060 536875832]
-  [4112 :block/parents 4073 536875832]
   [4112 :block/parents 4109 536875842]
-  [4112 :block/parents 4203 536875832]
-  [4112 :block/parents 4205 536875832]
-  [4112 :block/parents 4227 536875860]
+  [4112 :block/parents 4199 536876010]
+  [4112 :block/parents 4204 536876010]
+  [4112 :block/parents 4241 536876010]
   [4112
    :block/string
    "expand one’s sense of wellbeing and sense of meaning and contribution [*](((pgK-kvOsd)))"
@@ -48284,11 +48281,10 @@
   [4113 :block/order 2 536875840]
   [4113 :block/page 4060 536875833]
   [4113 :block/parents 4060 536875833]
-  [4113 :block/parents 4073 536875833]
   [4113 :block/parents 4109 536875843]
-  [4113 :block/parents 4203 536875833]
-  [4113 :block/parents 4205 536875833]
-  [4113 :block/parents 4227 536875860]
+  [4113 :block/parents 4199 536876010]
+  [4113 :block/parents 4204 536876010]
+  [4113 :block/parents 4241 536876010]
   [4113 :block/refs 3521 536875141]
   [4113
    :block/string
@@ -48304,11 +48300,10 @@
   [4114 :block/order 3 536875840]
   [4114 :block/page 4060 536875834]
   [4114 :block/parents 4060 536875834]
-  [4114 :block/parents 4073 536875834]
   [4114 :block/parents 4109 536875844]
-  [4114 :block/parents 4203 536875834]
-  [4114 :block/parents 4205 536875834]
-  [4114 :block/parents 4227 536875860]
+  [4114 :block/parents 4199 536876010]
+  [4114 :block/parents 4204 536876010]
+  [4114 :block/parents 4241 536876010]
   [4114
    :block/string
    "challenge world views constructively [*](((fAgaE41vd)))"
@@ -48322,12 +48317,11 @@
   [4115 :block/order 0 536875044]
   [4115 :block/page 4060 536875834]
   [4115 :block/parents 4060 536875834]
-  [4115 :block/parents 4073 536875834]
   [4115 :block/parents 4109 536875844]
   [4115 :block/parents 4114 536875834]
-  [4115 :block/parents 4203 536875834]
-  [4115 :block/parents 4205 536875834]
-  [4115 :block/parents 4227 536875860]
+  [4115 :block/parents 4199 536876010]
+  [4115 :block/parents 4204 536876010]
+  [4115 :block/parents 4241 536876010]
   [4115
    :block/string
    "Roam to facilitate constructive and friendly debate [*](((zHapS1Bio)))"
@@ -48341,11 +48335,10 @@
   [4116 :block/order 4 536875840]
   [4116 :block/page 4060 536875835]
   [4116 :block/parents 4060 536875835]
-  [4116 :block/parents 4073 536875835]
   [4116 :block/parents 4109 536875845]
-  [4116 :block/parents 4203 536875835]
-  [4116 :block/parents 4205 536875835]
-  [4116 :block/parents 4227 536875860]
+  [4116 :block/parents 4199 536876010]
+  [4116 :block/parents 4204 536876010]
+  [4116 :block/parents 4241 536876010]
   [4116 :block/refs 653 536875155]
   [4116
    :block/string
@@ -48360,11 +48353,10 @@
   [4118 :block/order 5 536875840]
   [4118 :block/page 4060 536875836]
   [4118 :block/parents 4060 536875836]
-  [4118 :block/parents 4073 536875836]
   [4118 :block/parents 4109 536875846]
-  [4118 :block/parents 4203 536875836]
-  [4118 :block/parents 4205 536875836]
-  [4118 :block/parents 4227 536875860]
+  [4118 :block/parents 4199 536876010]
+  [4118 :block/parents 4204 536876010]
+  [4118 :block/parents 4241 536876010]
   [4118
    :block/string
    "get related to the history of how our world came to be.  like what happened in the past that led us to this point? [*](((aVZsIusVR)))"
@@ -48379,11 +48371,10 @@
   [4119 :block/order 6 536875840]
   [4119 :block/page 4060 536875837]
   [4119 :block/parents 4060 536875837]
-  [4119 :block/parents 4073 536875837]
   [4119 :block/parents 4109 536875847]
-  [4119 :block/parents 4203 536875837]
-  [4119 :block/parents 4205 536875837]
-  [4119 :block/parents 4227 536875860]
+  [4119 :block/parents 4199 536876010]
+  [4119 :block/parents 4204 536876010]
+  [4119 :block/parents 4241 536876010]
   [4119 :block/refs 4180 536875168]
   [4119
    :block/string
@@ -48398,12 +48389,11 @@
   [4120 :block/order 0 536875044]
   [4120 :block/page 4060 536875837]
   [4120 :block/parents 4060 536875837]
-  [4120 :block/parents 4073 536875837]
   [4120 :block/parents 4109 536875847]
   [4120 :block/parents 4119 536875837]
-  [4120 :block/parents 4203 536875837]
-  [4120 :block/parents 4205 536875837]
-  [4120 :block/parents 4227 536875860]
+  [4120 :block/parents 4199 536876010]
+  [4120 :block/parents 4204 536876010]
+  [4120 :block/parents 4241 536876010]
   [4120
    :block/string
    "learn how to design/reinvent our future on this Earth [*](((dMKVttQRR)))"
@@ -49211,12 +49201,12 @@
   [4196 :block/parents 4062 536875405]
   [4196
    :block/string
-   "the use of a unified, common framework and **thematic approach** to book club"
-   536875581]
+   "**organizing by meta framework** in support of the thematic approach to book club"
+   536875993]
   [4196 :block/uid "W8_SRuLdY" 536875404]
   [4196 :create/time 1622672446716 536875404]
   [4196 :create/user 1 536875404]
-  [4196 :edit/time 1622673499779 536875581]
+  [4196 :edit/time 1622678857860 536875993]
   [4196 :edit/user 1 536875404]
   [4197 :block/children 4070 536875554]
   [4197 :block/children 4193 536875419]
@@ -49265,7 +49255,7 @@
   [4199 :edit/time 1622673019608 536875498]
   [4199 :edit/user 1 536875433]
   [4200 :block/open true 536875435]
-  [4200 :block/order 1 536875519]
+  [4200 :block/order 1 536875996]
   [4200 :block/page 4060 536875436]
   [4200 :block/parents 4060 536875436]
   [4200 :block/parents 4199 536875439]
@@ -49279,7 +49269,7 @@
   [4200 :edit/time 1622672671225 536875449]
   [4200 :edit/user 1 536875435]
   [4201 :block/open true 536875447]
-  [4201 :block/order 2 536875519]
+  [4201 :block/order 2 536875996]
   [4201 :block/page 4060 536875448]
   [4201 :block/parents 4060 536875448]
   [4201 :block/parents 4199 536875448]
@@ -49310,7 +49300,7 @@
   [4202 :edit/user 1 536875466]
   [4203 :block/children 4191 536875505]
   [4203 :block/children 4205 536875539]
-  [4203 :block/open false 536875890]
+  [4203 :block/open false 536876048]
   [4203 :block/order 0 536875500]
   [4203 :block/page 4060 536875501]
   [4203 :block/parents 4060 536875501]
@@ -49324,6 +49314,7 @@
   [4203 :create/user 1 536875500]
   [4203 :edit/time 1622673109430 536875505]
   [4203 :edit/user 1 536875500]
+  [4204 :block/children 4241 536875996]
   [4204 :block/open true 536875538]
   [4204 :block/order 0 536875511]
   [4204 :block/page 4060 536875512]
@@ -49340,7 +49331,7 @@
   [4204 :edit/time 1622673172161 536875516]
   [4204 :edit/user 1 536875511]
   [4205 :block/children 4073 536875558]
-  [4205 :block/open true 536875889]
+  [4205 :block/open false 536876047]
   [4205 :block/order 0 536875519]
   [4205 :block/page 4060 536875518]
   [4205 :block/parents 4060 536875518]
@@ -49444,12 +49435,12 @@
   [4220 :block/parents 4134 536875753]
   [4220
    :block/string
-   "20 participants completed made it to the finish line"
-   536875760]
+   "20 participants cross the finish line (ie. last session) and feedback session"
+   536876046]
   [4220 :block/uid "OOi1s00-L" 536875752]
   [4220 :create/time 1622674752383 536875752]
   [4220 :create/user 1 536875752]
-  [4220 :edit/time 1622674815112 536875760]
+  [4220 :edit/time 1622681100940 536876046]
   [4220 :edit/user 1 536875752]
   [4221 :block/uid "g-w9T9499" 536875759]
   [4221 :create/time 1622674800779 536875759]
@@ -49464,7 +49455,7 @@
   [4222 :edit/user 1 536875770]
   [4222 :node/title "stretch" 536875770]
   [4224 :block/open true 536875794]
-  [4224 :block/order 3 536875794]
+  [4224 :block/order 3 536875996]
   [4224 :block/page 4060 536875795]
   [4224 :block/parents 4060 536875795]
   [4224 :block/parents 4199 536875795]
@@ -49489,7 +49480,6 @@
   [4226 :edit/time 1622675223829 536875821]
   [4226 :edit/user 1 536875821]
   [4226 :node/title "exit" 536875821]
-  [4227 :block/children 4109 536875859]
   [4227 :block/open true 536875855]
   [4227 :block/order 1 536875855]
   [4227 :block/page 4060 536875856]
@@ -49627,16 +49617,41 @@
   [4239 :block/refs 4240 536875961]
   [4239
    :block/string
-   "{{[[TODO]]}} checkin with [[Matt M]] what exists re: roam book club “toolbox” after YouTube “how to lead a book club” session [[Chinarut 🦥]]"
-   536875970]
+   "{{[[TODO]]}} checkin with [[Matt M]] re: roam book club organizer’s “toolkit” components [[Chinarut 🦥]]"
+   536876034]
   [4239 :block/uid "1ebhbH6j8" 536875948]
   [4239 :create/time 1622676786275 536875948]
   [4239 :create/user 1 536875948]
-  [4239 :edit/time 1622676921549 536875970]
+  [4239 :edit/time 1622681041246 536876034]
   [4239 :edit/user 1 536875948]
   [4240 :block/uid "ISxdC3Xhu" 536875961]
   [4240 :create/time 1622676860548 536875961]
   [4240 :create/user 1 536875961]
   [4240 :edit/time 1622676860563 536875961]
-  [4240 :edit/user 1 536875961] 
-  [4240 :node/title "Matt M" 536875961]]}
+  [4240 :edit/user 1 536875961]
+  [4240 :node/title "Matt M" 536875961]
+  [4241 :block/children 4109 536876009]
+  [4241 :block/open true 536875994]
+  [4241 :block/order 0 536875996]
+  [4241 :block/page 4060 536875995]
+  [4241 :block/parents 4060 536875995]
+  [4241 :block/parents 4199 536875995]
+  [4241 :block/parents 4204 536875997]
+  [4241 :block/refs 3531 536876001]
+  [4241 :block/refs 4075 536875999]
+  [4241
+   :block/string
+   "[[The 5 Essential Elements of Wellbeing]] is more “hands on” and accessible (ie. personal development) than [[The Zeitgeist Movement Defined]] (ie. systemic global transformation of society’s biggest challenges)"
+   536876026]
+  [4241 :block/uid "2DIsC6oIj" 536875994]
+  [4241 :create/time 1622678963488 536875994]
+  [4241 :create/user 1 536875994]
+  [4241 :edit/time 1622680952311 536876026]
+  [4241 :edit/user 1 536875994]
+  [4242 :block/uid "06-03-2021" 536876049]
+  [4242 :create/time 1622684650022 536876049]
+  [4242 :create/user 1 536876049]
+  [4242 :edit/time 1622684650022 536876049]
+  [4242 :edit/user 1 536876049]
+  [4242 :log/id 1622684650021 536876049]
+  [4242 :node/title "June 3rd, 2021" 536876049]]}

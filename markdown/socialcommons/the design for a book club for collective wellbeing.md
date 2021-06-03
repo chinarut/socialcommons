@@ -3,22 +3,12 @@
         - an alternative structure would be to focus on synthesizing these 2 books
             - inner: [[The 5 Essential Elements of Wellbeing]]
             - outer: [[The Zeitgeist Movement Defined]]
-                - {{[[TODO]]}} case for [[[[The Zeitgeist Movement Defined]]/[[book]]]]
-                    - step into what it means to be responsible on this Earth [*](((8xMihLfeG)))
-                    - expand one’s sense of wellbeing and sense of meaning and contribution [*](((pgK-kvOsd)))
-                    - build upon [[Braiding Sweetgrass]] [*](((hbBY7IlM9)))
-                    - challenge world views constructively [*](((fAgaE41vd)))
-                        - Roam to facilitate constructive and friendly debate [*](((zHapS1Bio)))
-                    - dive into [a work with 800 references, segmented in 18 essays](https://www.thezeitgeistmovement.com/education/), and because it is in the public domain, the possibility exists to import the entire text into the graph and take on block-referenced conversations (if having an entire book in the graph (like [[How to Take Smart Notes]]) is still seen of value) [*](((fdtBXesD3)))
-                    - get related to the history of how our world came to be.  like what happened in the past that led us to this point? [*](((aVZsIusVR)))
-                    - clarifying the actions we might want to take as a collective around an existing vision rooted in the [[scientific method]] [*](((K5W25N4IJ)))
-                        - learn how to design/reinvent our future on this Earth [*](((dMKVttQRR)))
     - read more behind the context behind a [[Wellbeing Commons]]
 - key distinctions from past book clubs [*](((WQ8ZpOe-l)))
     - **choose your own adventure** - giving participants the opportunity to choose a book consistent with the cohort’s theme [*](((P34QxngDt)))
         - each cohort gets to pick a book (specific to their element) [*](((rHn7OC0wj)))
         - it is likely a 6th cohort focuses on integration and synthesis (breadth over depth)
-    - the use of a unified, common framework and **thematic approach** to book club
+    - **organizing by meta framework** in support of the thematic approach to book club
     - exploring individual wellbeing and it’s **connection to universal wellbeing** 
     - individuals choose a **line of inquiry to lead and follow through** to completion
     - learning to **navigate contrasting perspectives** (both internally and with the group)
@@ -33,13 +23,24 @@
     - [[A collective slipbox is a network of individuals. Every individual has a unique blueprint for optimum wellbeing. Every time we add an individual to the slipbox, we expand the richness of interconnected concepts and abstractions elevating our collective wellbeing]]
 - assertions/assumptions
     - it is a good idea to start with [[The 5 Essential Elements of Wellbeing]] as a unified framework
+        - [[The 5 Essential Elements of Wellbeing]] is more “hands on” and accessible (ie. personal development) than [[The Zeitgeist Movement Defined]] (ie. systemic global transformation of society’s biggest challenges)
+            - {{[[TODO]]}} counter case/goals for [[[[The Zeitgeist Movement Defined]]/[[book]]]]
+                - step into what it means to be responsible on this Earth [*](((8xMihLfeG)))
+                - expand one’s sense of wellbeing and sense of meaning and contribution [*](((pgK-kvOsd)))
+                - build upon [[Braiding Sweetgrass]] [*](((hbBY7IlM9)))
+                - challenge world views constructively [*](((fAgaE41vd)))
+                    - Roam to facilitate constructive and friendly debate [*](((zHapS1Bio)))
+                - dive into [a work with 800 references, segmented in 18 essays](https://www.thezeitgeistmovement.com/education/), and because it is in the public domain, the possibility exists to import the entire text into the graph and take on block-referenced conversations (if having an entire book in the graph (like [[How to Take Smart Notes]]) is still seen of value) [*](((fdtBXesD3)))
+                - get related to the history of how our world came to be.  like what happened in the past that led us to this point? [*](((aVZsIusVR)))
+                - clarifying the actions we might want to take as a collective around an existing vision rooted in the [[scientific method]] [*](((K5W25N4IJ)))
+                    - learn how to design/reinvent our future on this Earth [*](((dMKVttQRR)))
     - it is a good idea to leverage Roam Research to prototype a Wellbeing Commons
     - it is a good idea to leverage roam book club as a means to give a Wellbeing Commons collective substance
     - this is something the roam book club community is a calling for
 - meta goals
     - [[index and organize our community's expansive knowlege in way that creates relevance to what each and everyone is up to without the overwhelm]]
     - [[enable the bookworms of the world to contribute to our conversation in such a way that it elevates our context and gives us challenging problems to be solved by Roam in conjunction with other platforms]]
-- goals
+- additional goals
     - #goal maintain a sense of autonomy yet collectiveness [*](((iy7_nYQ9r)))
     - expand explorations in Roam Research
     - continue to hold space for zettel-driven dialogue [[Zettel Map]]
@@ -80,8 +81,8 @@
     - be sensitive to post-pandemic reintegration “busy-ness”
         - effort is best supportive of whatever people are dealing with creating their “new normal”
     - directions Roam Research intends to bring the future of book club
-        - {{[[TODO]]}} checkin with [[Matt M]] what exists re: roam book club “toolbox” after YouTube “how to lead a book club” session [[Chinarut 🦥]]
+        - {{[[TODO]]}} checkin with [[Matt M]] re: roam book club organizer’s “toolkit” components [[Chinarut 🦥]]
 - outcomes
-    - 20 participants completed made it to the finish line
+    - 20 participants cross the finish line (ie. last session) and feedback session
     - [[Wellbeing Commons]] prototype
     - consider Amazon book review(s) as form of concrete output(s) [*](((iH0M9vyGW))) [[CK Lin]]

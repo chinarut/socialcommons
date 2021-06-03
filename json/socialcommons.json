@@ -55318,191 +55318,11 @@
                     }
                   },
                   {
-                    "edit-time": 1622675359947,
-                    "children": [
+                    "string": "outer: [[The Zeitgeist Movement Defined]]",
+                    "create-time": 1622675353783,
+                    ":block/refs": [
                       {
-                        "edit-time": 1622675253782,
-                        "children": [
-                          {
-                            "string": "step into what it means to be responsible on this Earth [*](((8xMihLfeG)))",
-                            "create-time": 1622665866657,
-                            "uid": "szpu8FfCV",
-                            "edit-time": 1622668011518,
-                            ":create/user": {
-                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                            }
-                          },
-                          {
-                            "string": "expand one’s sense of wellbeing and sense of meaning and contribution [*](((pgK-kvOsd)))",
-                            "create-time": 1622665866657,
-                            "uid": "E1kahChF3",
-                            "edit-time": 1622668031911,
-                            ":create/user": {
-                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                            }
-                          },
-                          {
-                            "string": "build upon [[Braiding Sweetgrass]] [*](((hbBY7IlM9)))",
-                            "create-time": 1622665866657,
-                            ":block/refs": [
-                              {
-                                ":block/uid": "mITJLw5pP"
-                              }
-                            ],
-                            "refs": [
-                              {
-                                "uid": "mITJLw5pP"
-                              }
-                            ],
-                            ":create/user": {
-                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                            },
-                            "uid": "KupQWax-d",
-                            "edit-time": 1622668050667,
-                            ":edit/user": {
-                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                            }
-                          },
-                          {
-                            "string": "challenge world views constructively [*](((fAgaE41vd)))",
-                            "create-time": 1622665866657,
-                            ":create/user": {
-                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                            },
-                            "children": [
-                              {
-                                "string": "Roam to facilitate constructive and friendly debate [*](((zHapS1Bio)))",
-                                "create-time": 1622665866657,
-                                "uid": "NqoexN6_7",
-                                "edit-time": 1622668094274,
-                                ":create/user": {
-                                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                                },
-                                ":edit/user": {
-                                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                                }
-                              }
-                            ],
-                            "uid": "iIEa8zN0l",
-                            "edit-time": 1622668066276,
-                            ":edit/user": {
-                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                            }
-                          },
-                          {
-                            "string": "dive into [a work with 800 references, segmented in 18 essays](https://www.thezeitgeistmovement.com/education/), and because it is in the public domain, the possibility exists to import the entire text into the graph and take on block-referenced conversations (if having an entire book in the graph (like [[How to Take Smart Notes]]) is still seen of value) [*](((fdtBXesD3)))",
-                            "create-time": 1622665866657,
-                            ":block/refs": [
-                              {
-                                ":block/uid": "kUQ0fc-mS"
-                              }
-                            ],
-                            "refs": [
-                              {
-                                "uid": "kUQ0fc-mS"
-                              }
-                            ],
-                            ":create/user": {
-                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                            },
-                            "uid": "vgDBysRjh",
-                            "edit-time": 1622668178634,
-                            ":edit/user": {
-                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                            }
-                          },
-                          {
-                            "string": "get related to the history of how our world came to be.  like what happened in the past that led us to this point? [*](((aVZsIusVR)))",
-                            "create-time": 1622665866657,
-                            "uid": "Q5dV8JGeB",
-                            "edit-time": 1622668206224,
-                            ":create/user": {
-                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                            }
-                          },
-                          {
-                            "edit-time": 1622668231843,
-                            "children": [
-                              {
-                                "string": "learn how to design/reinvent our future on this Earth [*](((dMKVttQRR)))",
-                                "create-time": 1622665866657,
-                                "uid": "oyJpT5ZG9",
-                                "edit-time": 1622668252512,
-                                ":create/user": {
-                                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                                },
-                                ":edit/user": {
-                                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                                }
-                              }
-                            ],
-                            "refs": [
-                              {
-                                "uid": "ZNG_rDEqt"
-                              }
-                            ],
-                            "uid": "XyV3SDLfV",
-                            ":block/refs": [
-                              {
-                                ":block/uid": "ZNG_rDEqt"
-                              }
-                            ],
-                            "string": "clarifying the actions we might want to take as a collective around an existing vision rooted in the [[scientific method]] [*](((K5W25N4IJ)))",
-                            ":create/user": {
-                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                            },
-                            "create-time": 1622665866657,
-                            ":edit/user": {
-                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                            }
-                          }
-                        ],
-                        "refs": [
-                          {
-                            "uid": "ZuxcbnfVv"
-                          },
-                          {
-                            "uid": "oz-GzBojV"
-                          },
-                          {
-                            "uid": "XqRDN324C"
-                          },
-                          {
-                            "uid": "4xreHBQ7m"
-                          }
-                        ],
-                        "uid": "15veHIUDY",
-                        ":block/refs": [
-                          {
-                            ":block/uid": "ZuxcbnfVv"
-                          },
-                          {
-                            ":block/uid": "oz-GzBojV"
-                          },
-                          {
-                            ":block/uid": "XqRDN324C"
-                          },
-                          {
-                            ":block/uid": "4xreHBQ7m"
-                          }
-                        ],
-                        "string": "{{[[TODO]]}} case for [[[[The Zeitgeist Movement Defined]]/[[book]]]]",
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        "create-time": 1622665837225,
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        }
+                        ":block/uid": "XqRDN324C"
                       }
                     ],
                     "refs": [
@@ -55510,17 +55330,11 @@
                         "uid": "XqRDN324C"
                       }
                     ],
-                    "uid": "hCNNz5kVI",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "XqRDN324C"
-                      }
-                    ],
-                    "string": "outer: [[The Zeitgeist Movement Defined]]",
                     ":create/user": {
                       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                     },
-                    "create-time": 1622675353783,
+                    "uid": "hCNNz5kVI",
+                    "edit-time": 1622675359947,
                     ":edit/user": {
                       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                     }
@@ -55644,10 +55458,10 @@
             }
           },
           {
-            "string": "the use of a unified, common framework and **thematic approach** to book club",
+            "string": "**organizing by meta framework** in support of the thematic approach to book club",
             "create-time": 1622672446716,
             "uid": "W8_SRuLdY",
-            "edit-time": 1622673499779,
+            "edit-time": 1622678857860,
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
@@ -55876,11 +55690,221 @@
         },
         "children": [
           {
-            "string": "it is a good idea to start with [[The 5 Essential Elements of Wellbeing]] as a unified framework",
-            "create-time": 1622673150589,
-            ":block/refs": [
+            "edit-time": 1622673172161,
+            "children": [
               {
-                ":block/uid": "UCgsl-NP_"
+                "edit-time": 1622680952311,
+                "children": [
+                  {
+                    "edit-time": 1622679040129,
+                    "children": [
+                      {
+                        "string": "step into what it means to be responsible on this Earth [*](((8xMihLfeG)))",
+                        "create-time": 1622665866657,
+                        "uid": "szpu8FfCV",
+                        "edit-time": 1622668011518,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "expand one’s sense of wellbeing and sense of meaning and contribution [*](((pgK-kvOsd)))",
+                        "create-time": 1622665866657,
+                        "uid": "E1kahChF3",
+                        "edit-time": 1622668031911,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "build upon [[Braiding Sweetgrass]] [*](((hbBY7IlM9)))",
+                        "create-time": 1622665866657,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "mITJLw5pP"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "mITJLw5pP"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "uid": "KupQWax-d",
+                        "edit-time": 1622668050667,
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "challenge world views constructively [*](((fAgaE41vd)))",
+                        "create-time": 1622665866657,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "children": [
+                          {
+                            "string": "Roam to facilitate constructive and friendly debate [*](((zHapS1Bio)))",
+                            "create-time": 1622665866657,
+                            "uid": "NqoexN6_7",
+                            "edit-time": 1622668094274,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          }
+                        ],
+                        "uid": "iIEa8zN0l",
+                        "edit-time": 1622668066276,
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "dive into [a work with 800 references, segmented in 18 essays](https://www.thezeitgeistmovement.com/education/), and because it is in the public domain, the possibility exists to import the entire text into the graph and take on block-referenced conversations (if having an entire book in the graph (like [[How to Take Smart Notes]]) is still seen of value) [*](((fdtBXesD3)))",
+                        "create-time": 1622665866657,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "kUQ0fc-mS"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "kUQ0fc-mS"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "uid": "vgDBysRjh",
+                        "edit-time": 1622668178634,
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "get related to the history of how our world came to be.  like what happened in the past that led us to this point? [*](((aVZsIusVR)))",
+                        "create-time": 1622665866657,
+                        "uid": "Q5dV8JGeB",
+                        "edit-time": 1622668206224,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "edit-time": 1622668231843,
+                        "children": [
+                          {
+                            "string": "learn how to design/reinvent our future on this Earth [*](((dMKVttQRR)))",
+                            "create-time": 1622665866657,
+                            "uid": "oyJpT5ZG9",
+                            "edit-time": 1622668252512,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "ZNG_rDEqt"
+                          }
+                        ],
+                        "uid": "XyV3SDLfV",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "ZNG_rDEqt"
+                          }
+                        ],
+                        "string": "clarifying the actions we might want to take as a collective around an existing vision rooted in the [[scientific method]] [*](((K5W25N4IJ)))",
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "create-time": 1622665866657,
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "ZuxcbnfVv"
+                      },
+                      {
+                        "uid": "oz-GzBojV"
+                      },
+                      {
+                        "uid": "XqRDN324C"
+                      },
+                      {
+                        "uid": "4xreHBQ7m"
+                      }
+                    ],
+                    "uid": "15veHIUDY",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ZuxcbnfVv"
+                      },
+                      {
+                        ":block/uid": "oz-GzBojV"
+                      },
+                      {
+                        ":block/uid": "XqRDN324C"
+                      },
+                      {
+                        ":block/uid": "4xreHBQ7m"
+                      }
+                    ],
+                    "string": "{{[[TODO]]}} counter case/goals for [[[[The Zeitgeist Movement Defined]]/[[book]]]]",
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "create-time": 1622665837225,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "XqRDN324C"
+                  },
+                  {
+                    "uid": "UCgsl-NP_"
+                  }
+                ],
+                "uid": "2DIsC6oIj",
+                ":block/refs": [
+                  {
+                    ":block/uid": "XqRDN324C"
+                  },
+                  {
+                    ":block/uid": "UCgsl-NP_"
+                  }
+                ],
+                "string": "[[The 5 Essential Elements of Wellbeing]] is more “hands on” and accessible (ie. personal development) than [[The Zeitgeist Movement Defined]] (ie. systemic global transformation of society’s biggest challenges)",
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "create-time": 1622678963488,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
               }
             ],
             "refs": [
@@ -55888,11 +55912,17 @@
                 "uid": "UCgsl-NP_"
               }
             ],
+            "uid": "DcCN5gE1s",
+            ":block/refs": [
+              {
+                ":block/uid": "UCgsl-NP_"
+              }
+            ],
+            "string": "it is a good idea to start with [[The 5 Essential Elements of Wellbeing]] as a unified framework",
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
-            "uid": "DcCN5gE1s",
-            "edit-time": 1622673172161,
+            "create-time": 1622673150589,
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             }
@@ -55999,7 +56029,7 @@
         }
       },
       {
-        "string": "goals",
+        "string": "additional goals",
         "create-time": 1622665303922,
         ":create/user": {
           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
@@ -56091,7 +56121,7 @@
           }
         ],
         "uid": "TkKvkDqQh",
-        "edit-time": 1622665305317,
+        "edit-time": 1622678222169,
         ":edit/user": {
           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
         }
@@ -56675,7 +56705,7 @@
             },
             "children": [
               {
-                "string": "{{[[TODO]]}} checkin with [[Matt M]] what exists re: roam book club “toolbox” after YouTube “how to lead a book club” session [[Chinarut 🦥]]",
+                "string": "{{[[TODO]]}} checkin with [[Matt M]] re: roam book club organizer’s “toolkit” components [[Chinarut 🦥]]",
                 "create-time": 1622676786275,
                 ":block/refs": [
                   {
@@ -56703,7 +56733,7 @@
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
                 "uid": "1ebhbH6j8",
-                "edit-time": 1622676921549,
+                "edit-time": 1622681041246,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }
@@ -56730,10 +56760,10 @@
         },
         "children": [
           {
-            "string": "20 participants completed made it to the finish line",
+            "string": "20 participants cross the finish line (ie. last session) and feedback session",
             "create-time": 1622674752383,
             "uid": "OOi1s00-L",
-            "edit-time": 1622674815112,
+            "edit-time": 1622681100940,
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
@@ -57527,6 +57557,18 @@
     "title": "Matt M",
     "uid": "ISxdC3Xhu",
     "edit-time": 1622676860563,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1622684650022,
+    "title": "June 3rd, 2021",
+    "uid": "06-03-2021",
+    "edit-time": 1622684650022,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
