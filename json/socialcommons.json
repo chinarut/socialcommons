@@ -55692,7 +55692,7 @@
                 }
               },
               {
-                "string": "Initial Synthesis: [[Chinarut]]",
+                "string": "Synthesizer: [[Chinarut]]",
                 "create-time": 1622685512828,
                 ":block/refs": [
                   {
@@ -55708,7 +55708,7 @@
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
                 "uid": "ptaBidIJF",
-                "edit-time": 1623027811346,
+                "edit-time": 1623027893812,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }
@@ -58199,7 +58199,7 @@
                 }
               },
               {
-                "string": "Forwarder: [[Chinarut]]",
+                "string": "Synthesizer: [[Chinarut]]",
                 "create-time": 1623027821949,
                 ":block/refs": [
                   {
@@ -58215,7 +58215,7 @@
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
                 "uid": "J6LVt4f3p",
-                "edit-time": 1623027864972,
+                "edit-time": 1623027885969,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }

@@ -47505,8 +47505,8 @@
   [4026 :version/id "0.8.5" 536875009]
   [4026
    :version/nonce
-   "uuid4523a64b-ea47-45a5-a0ef-eac39ae9c8c0"
-   536876357]
+   "uuid563df17a-1ba4-458b-8cb1-1261daf62417"
+   536876360]
   [4027 :block/uid "04-30-2021" 536875010]
   [4027 :create/time 1619743209057 536875010]
   [4027 :create/user 1 536875010]
@@ -49656,11 +49656,11 @@
   [4243 :block/parents 4137 536876052]
   [4243 :block/parents 4138 536876052]
   [4243 :block/refs 4270 536876344]
-  [4243 :block/string "Initial Synthesis: [[Chinarut]]" 536876343]
+  [4243 :block/string "Synthesizer: [[Chinarut]]" 536876360]
   [4243 :block/uid "ptaBidIJF" 536876051]
   [4243 :create/time 1622685512828 536876051]
   [4243 :create/user 1 536876051]
-  [4243 :edit/time 1623027811346 536876343]
+  [4243 :edit/time 1623027893812 536876360]
   [4243 :edit/user 1 536876051]
   [4246 :block/open true 536876088]
   [4246 :block/order 1 536876088]
@@ -50286,9 +50286,9 @@
   [4314 :block/parents 4304 536876350]
   [4314 :block/parents 4305 536876350]
   [4314 :block/refs 4270 536876353]
-  [4314 :block/string "Forwarder: [[Chinarut]]" 536876357]
+  [4314 :block/string "Synthesizer: [[Chinarut]]" 536876358]
   [4314 :block/uid "J6LVt4f3p" 536876349]
   [4314 :create/time 1623027821949 536876349]
   [4314 :create/user 1 536876349]
-  [4314 :edit/time 1623027864972 536876357]
+  [4314 :edit/time 1623027885969 536876358]
   [4314 :edit/user 1 536876349]]}

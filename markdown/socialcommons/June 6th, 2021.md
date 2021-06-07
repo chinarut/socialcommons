@@ -2,4 +2,4 @@
     - [[support]]
         - From: support.json
         - Origin: @roam-book-club-2
-        - Forwarder: [[Chinarut]]
+        - Synthesizer: [[Chinarut]]
