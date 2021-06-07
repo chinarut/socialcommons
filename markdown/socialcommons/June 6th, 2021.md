@@ -1,3 +1,5 @@
 - Import
     - [[support]]
-        - From: support.json (@roam-book-club-2)
+        - From: support.json
+        - Origin: @roam-book-club-2
+        - Forwarder: [[Chinarut]]

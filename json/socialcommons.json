@@ -55692,13 +55692,23 @@
                 }
               },
               {
-                "string": "Initial Synthesis: @chinarut",
+                "string": "Initial Synthesis: [[Chinarut]]",
                 "create-time": 1622685512828,
-                "uid": "ptaBidIJF",
-                "edit-time": 1622685644643,
+                ":block/refs": [
+                  {
+                    ":block/uid": "JcQS0E6hZ"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "JcQS0E6hZ"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
+                "uid": "ptaBidIJF",
+                "edit-time": 1623027811346,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }
@@ -58169,9 +58179,43 @@
             ],
             "children": [
               {
-                "string": "From: support.json (@roam-book-club-2)",
+                "string": "From: support.json",
+                "create-time": 1623027818362,
+                "uid": "oj3NRUpml",
+                "edit-time": 1623027818362,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Origin: @roam-book-club-2",
                 "uid": "VHBfZPSSU",
-                "edit-time": 1623027772046,
+                "edit-time": 1623027821965,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Forwarder: [[Chinarut]]",
+                "create-time": 1623027821949,
+                ":block/refs": [
+                  {
+                    ":block/uid": "JcQS0E6hZ"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "JcQS0E6hZ"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "J6LVt4f3p",
+                "edit-time": 1623027864972,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }
