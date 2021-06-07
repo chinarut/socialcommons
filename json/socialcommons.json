@@ -37803,7 +37803,7 @@
     },
     "children": [
       {
-        "string": "this was an #experiment started in RBC2: [@roam-book-club-2/support](https://roamresearch.com/#/app/roam-book-club-2/page/dXLMHJZYw)",
+        "string": "this #experiment began in RBC2: [@roam-book-club-2/support](https://roamresearch.com/#/app/roam-book-club-2/page/dXLMHJZYw)",
         "create-time": 1623027697619,
         ":block/refs": [
           {
@@ -37819,7 +37819,7 @@
           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
         },
         "uid": "ajHL0Ixhd",
-        "edit-time": 1623027725280,
+        "edit-time": 1623027734829,
         ":edit/user": {
           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
         }
@@ -58169,8 +58169,12 @@
             ],
             "children": [
               {
-                "string": "From: support.json",
-                "uid": "VHBfZPSSU"
+                "string": "From: support.json (@roam-book-club-2)",
+                "uid": "VHBfZPSSU",
+                "edit-time": 1623027772046,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
               }
             ],
             "uid": "to_fZ99-8",

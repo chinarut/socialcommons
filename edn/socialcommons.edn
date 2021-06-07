@@ -47505,8 +47505,8 @@
   [4026 :version/id "0.8.5" 536875009]
   [4026
    :version/nonce
-   "uuid5222a88e-a139-4015-8afa-71e1e2f3f9bb"
-   536876337]
+   "uuidcf04eff9-1a74-4ebb-96df-373d5660ed73"
+   536876342]
   [4027 :block/uid "04-30-2021" 536875010]
   [4027 :create/time 1619743209057 536875010]
   [4027 :create/user 1 536875010]
@@ -50194,8 +50194,14 @@
   [4305 :edit/seen-by 1 536876327]
   [4306 :block/open true 536876274]
   [4306 :block/order 0 536876274]
-  [4306 :block/string "From: support.json" 536876274]
+  [4306
+   :block/string
+   "From: support.json (@roam-book-club-2)"
+   536876342]
   [4306 :block/uid "VHBfZPSSU" 536876274]
+  [4306 :edit/seen-by 1 536876339]
+  [4306 :edit/time 1623027772046 536876342]
+  [4306 :edit/user 1 536876340]
   [4307 :block/open true 536876289]
   [4307 :block/order 0 536876291]
   [4307 :block/page 1071 536876290]
@@ -50247,12 +50253,12 @@
   [4311 :block/refs 609 536876331]
   [4311
    :block/string
-   "this #experiment started in RBC2: [@roam-book-club-2/support](https://roamresearch.com/#/app/roam-book-club-2/page/dXLMHJZYw)"
-   536876337]
+   "this #experiment began in RBC2: [@roam-book-club-2/support](https://roamresearch.com/#/app/roam-book-club-2/page/dXLMHJZYw)"
+   536876338]
   [4311 :block/uid "ajHL0Ixhd" 536876328]
   [4311 :create/time 1623027697619 536876328]
   [4311 :create/user 1 536876328]
-  [4311 :edit/time 1623027732279 536876337]
+  [4311 :edit/time 1623027734829 536876338]
   [4311 :edit/user 1 536876328]
   [4312 :block/uid "06-07-2021" 536876336]
   [4312 :create/time 1623027728849 536876336]

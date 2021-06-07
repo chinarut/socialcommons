@@ -2,4 +2,4 @@
     - [[the design for a book club for collective wellbeing]]
         - From: the design for a book club for collective wellbeing.json
         - Origin: @RBC4-Braiding-Sweetgrass
-        - Initial Synthesis: @chinarut
+        - Initial Synthesis: [[Chinarut]]
