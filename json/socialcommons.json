@@ -37798,11 +37798,433 @@
   {
     "create-time": 1607518315565,
     "title": "support",
-    "uid": "7FymTvAXo",
-    "edit-time": 1607518315872,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    "children": [
+      {
+        "string": "this was an #experiment started in RBC2: [@roam-book-club-2/support](https://roamresearch.com/#/app/roam-book-club-2/page/dXLMHJZYw)",
+        "create-time": 1623027697619,
+        ":block/refs": [
+          {
+            ":block/uid": "3Lx-n2ul0"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "3Lx-n2ul0"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "uid": "ajHL0Ixhd",
+        "edit-time": 1623027725280,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "edit-time": 1623027230313,
+        "children": [
+          {
+            "emojis": [
+              {
+                "emoji": {
+                  "native": "💯"
+                },
+                "users": [
+                  {
+                    "time": 1605034796269,
+                    "uid": "tzysN5tyA6THWHsx9yOPE8C9W9v2"
+                  }
+                ]
+              }
+            ],
+            "edit-time": 1623027253071,
+            "refs": [
+              {
+                "uid": "S6ULDw0NJ"
+              },
+              {
+                "uid": "mg_hW_i6e"
+              }
+            ],
+            "uid": "K-KhgNLdU",
+            ":block/refs": [
+              {
+                ":block/uid": "S6ULDw0NJ"
+              },
+              {
+                ":block/uid": "mg_hW_i6e"
+              }
+            ],
+            "string": "the book club #multiplayer experiment presents some of the most challenging #[[usecase]]s pushing Roam to its limits :)",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1605031259104,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "emojis": [
+              {
+                "emoji": {
+                  "native": "👍"
+                },
+                "users": [
+                  {
+                    "time": 1605034803560,
+                    "uid": "tzysN5tyA6THWHsx9yOPE8C9W9v2"
+                  }
+                ]
+              }
+            ],
+            "edit-time": 1605032444082,
+            "refs": [
+              {
+                "uid": "3Lx-n2ul0"
+              }
+            ],
+            "uid": "-xI0MTzrD",
+            ":block/refs": [
+              {
+                ":block/uid": "3Lx-n2ul0"
+              }
+            ],
+            "string": "a lionshare of believers are in this #experiment bringing a TON of sum experience to the table",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1605032052272,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "edit-time": 1605684233990,
+            "children": [
+              {
+                "string": "{{[[youtube]]: https://youtu.be/8JqNgx280iI}}",
+                "create-time": 1623027280637,
+                ":block/refs": [
+                  {
+                    ":block/uid": "rhxnkaKXO"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "rhxnkaKXO"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "iOrgTeWo_",
+                "edit-time": 1623027282058,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "mvK7fekZa"
+              }
+            ],
+            "uid": "dB0RjFXNk",
+            ":block/refs": [
+              {
+                ":block/uid": "mvK7fekZa"
+              }
+            ],
+            "string": "an [[in-graph support experience]] is a good idea",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1605033268042,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "participants shall actively triage their set of requests and come up with creative ways to communicate which requests are most relevant and important to them (contrast to throwing requests over the fence in a typical support system)",
+            "create-time": 1605033472684,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "there is a long-term collective, consensus selection of requests that will inevitably emerge (applicable to both feature requests (`# support`) and frequently asked questions (`# help`))",
+                "create-time": 1605066130179,
+                "uid": "LsyCORHGp",
+                "edit-time": 1605066267991,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "DNIN2REbC",
+            "edit-time": 1605066317149,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "3Lx-n2ul0"
+          }
+        ],
+        "uid": "g2Z8pqrLB",
+        ":block/refs": [
+          {
+            ":block/uid": "3Lx-n2ul0"
+          }
+        ],
+        "string": "#experiment assertions",
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "create-time": 1623027082275,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "some minimal conventions to get the ball rolling",
+        "create-time": 1605031131119,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "insert a TODO and tag #support with your headline",
+            "create-time": 1605031144545,
+            ":block/refs": [
+              {
+                ":block/uid": "7FymTvAXo"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "7FymTvAXo"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "uid": "bZJhUYop3",
+            "edit-time": 1605032347336,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "parent of block naturally provides context",
+            "create-time": 1605031408617,
+            "uid": "WZOoDErbO",
+            "edit-time": 1605031428503,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "attribute child blocks categorize the request",
+            "create-time": 1623027320004,
+            "uid": "BCsCfGSPL",
+            "edit-time": 1623027359272,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "additional child blocks optionally add more context",
+            "create-time": 1605031428500,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "child blocks serve as conversation with the support/dev team (including links to help pages and/or workarounds)",
+                "create-time": 1605031460580,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "{{[[TODO]]}} explore Roam Inter",
+                    "create-time": 1623027392220,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ZuxcbnfVv"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "ZuxcbnfVv"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "uid": "KzOpry2IO",
+                    "edit-time": 1623027411017,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "s9X8iFu-m",
+                "edit-time": 1605031504203,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "Ak3BeewQL",
+            "edit-time": 1623027368473,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "nD0R__x8e",
+        "edit-time": 1605031674390,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "we will come up with tags, queries, attributes, and filters organically to sort requests and issues over time and manage state.",
+        "create-time": 1605031526260,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "before we go nuts creating tags, queries or attributes, let’s collect lots of issues and requests first (raw data :)",
+            "create-time": 1605031208999,
+            "uid": "9mRcY9ReK",
+            "edit-time": 1605031905107,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "[[enhancement request]] tag already exists (could refactor)",
+            "create-time": 1605042836365,
+            ":block/refs": [
+              {
+                ":block/uid": "PZsZ_4sXC"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "PZsZ_4sXC"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "uid": "tBr2sbVzs",
+            "edit-time": 1605043416560,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "#bug could be another tag to start with ensuring these get squished sooner than later",
+            "create-time": 1605031920634,
+            ":block/refs": [
+              {
+                ":block/uid": "R-2EIgMGJ"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "R-2EIgMGJ"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "uid": "WE6gh6ddG",
+            "edit-time": 1605043391283,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "experiment with filters below to keep things simple initially",
+            "create-time": 1605042713275,
+            "uid": "M-6vqUCkU",
+            "edit-time": 1605043442194,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "e3HWpAn0A",
+        "edit-time": 1605684598976,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "{{attr-table: [[IssueType]]}}",
+        "create-time": 1605683799364,
+        ":block/refs": [
+          {
+            ":block/uid": "gLj7EHMIM"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "gLj7EHMIM"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "uid": "9azYUmRCJ",
+        "edit-time": 1605683815353,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1605683816402,
+        "uid": "XfTKymPNm",
+        "edit-time": 1605683816402,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      }
+    ],
+    "uid": "7FymTvAXo",
+    "edit-time": 1607518315872,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -57731,8 +58153,236 @@
   {
     "create-time": 1622941251146,
     "title": "June 6th, 2021",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    "children": [
+      {
+        "string": "Import",
+        "children": [
+          {
+            "string": "[[support]]",
+            "refs": [
+              {
+                "uid": "7FymTvAXo"
+              }
+            ],
+            "children": [
+              {
+                "string": "From: support.json",
+                "uid": "VHBfZPSSU"
+              }
+            ],
+            "uid": "to_fZ99-8",
+            ":block/refs": [
+              {
+                ":block/uid": "7FymTvAXo"
+              }
+            ]
+          }
+        ],
+        "uid": "W1bevLYqO"
+      }
+    ],
     "uid": "06-06-2021",
     "edit-time": 1622941251146,
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1623026827412,
+    "title": "📜 Directory of members",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    "children": [
+      {
+        "string": "names of active members, note these are also links to our home pages!",
+        "create-time": 1618096733982,
+        "uid": "ED3E_D3Ey",
+        "edit-time": 1623026874077,
+        ":create/user": {
+          ":user/uid": "tzysN5tyA6THWHsx9yOPE8C9W9v2"
+        },
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "the whole list is indented below to allow for \"numbering\"",
+        "create-time": 1618507945257,
+        ":create/user": {
+          ":user/uid": "tzysN5tyA6THWHsx9yOPE8C9W9v2"
+        },
+        "children": [
+          {
+            "string": "{{[[TODO]]}} #howto make an outline a numbered list in Roam #support",
+            "create-time": 1623026975465,
+            ":block/refs": [
+              {
+                ":block/uid": "ZuxcbnfVv"
+              },
+              {
+                ":block/uid": "7FymTvAXo"
+              },
+              {
+                ":block/uid": "YZfiMbSCX"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ZuxcbnfVv"
+              },
+              {
+                "uid": "7FymTvAXo"
+              },
+              {
+                "uid": "YZfiMbSCX"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "uid": "pxdVnVmPc",
+            "edit-time": 1623026997472,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "RQaTxHMnL",
+        "edit-time": 1623026874077,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": ":hiccup [:hr {:style {:border-top \"3px solid purple\"}}]",
+        "create-time": 1623026876592,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "[[Chinarut]] #organizers #[[🦥sloths]] #ichain",
+            "create-time": 1623026888684,
+            ":block/refs": [
+              {
+                ":block/uid": "JcQS0E6hZ"
+              },
+              {
+                ":block/uid": "EA47AwVaY"
+              },
+              {
+                ":block/uid": "7M0yjhlAG"
+              },
+              {
+                ":block/uid": "DIgOo-ctU"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "JcQS0E6hZ"
+              },
+              {
+                "uid": "EA47AwVaY"
+              },
+              {
+                "uid": "7M0yjhlAG"
+              },
+              {
+                "uid": "DIgOo-ctU"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "uid": "_YRZgHKPJ",
+            "edit-time": 1623026913842,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "-8Yv0dMvy",
+        "edit-time": 1623026888289,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      }
+    ],
+    "uid": "MudJSWLhb",
+    "edit-time": 1623026827412,
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1623026903994,
+    "title": "Chinarut",
+    "uid": "JcQS0E6hZ",
+    "edit-time": 1623026904000,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1623026903994,
+    "title": "🦥sloths",
+    "uid": "EA47AwVaY",
+    "edit-time": 1623026904000,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1623026903994,
+    "title": "organizers",
+    "uid": "7M0yjhlAG",
+    "edit-time": 1623026904000,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1623026903994,
+    "title": "ichain",
+    "uid": "DIgOo-ctU",
+    "edit-time": 1623026904000,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1623026984027,
+    "title": "howto",
+    "uid": "YZfiMbSCX",
+    "edit-time": 1623026984031,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1623027728849,
+    "title": "June 7th, 2021",
+    "uid": "06-07-2021",
+    "edit-time": 1623027728849,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
