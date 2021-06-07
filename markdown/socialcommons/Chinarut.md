@@ -4,10 +4,10 @@
     - 
     - [[Henry Finkelstein]], [[November 29th, 2020]]
         - Love your goals and how you're going about your Zettels. Well done sir!
-            - #Reply-from [[Chinarut 🦥]] thank you for dropping by and the complements! you motivated me to review [my goals](((9rOs4QMsG))) and remind myself why I’m here (not to mention fix lots of typos :) I am really curious, is there anything in particular you feel I’m doing right with my zettels? sometimes I feel lost in a zettelstorm :D I’m glad to provide inspiration! 🙏🏼
+            - #Reply-from [[Chinarut]] thank you for dropping by and the complements! you motivated me to review [my goals](((9rOs4QMsG))) and remind myself why I’m here (not to mention fix lots of typos :) I am really curious, is there anything in particular you feel I’m doing right with my zettels? sometimes I feel lost in a zettelstorm :D I’m glad to provide inspiration! 🙏🏼
     - #Chat  [[Jason Kleinberg 🎻]] I was wondering about the links you place just under the chapter links for the book. Are these pages for concepts you've already been thinking of? Or things that you want to think more about? Please elaborate. Thanks!
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-book-club-2%2FL6wjdxjdCY.png?alt=media&token=636493c2-eee2-4c4b-8a17-d7c354f48d8a)
-        - #Reply-from [[Chinarut 🦥]] thanks for inspiring me to document the Process I use to create my literature notes below. The list of concepts is inspired by ((aZeEH79t5)) [[@[[Jason Kleinberg 🎻]]]]
+        - #Reply-from [[Chinarut]] thanks for inspiring me to document the Process I use to create my literature notes below. The list of concepts is inspired by ((aZeEH79t5)) [[@[[Jason Kleinberg 🎻]]]]
             - Put some thought into the keywords that index your notes so they can be found in the context of what interests you most. #[[Literature Notes]]
 - :hiccup [:hr {:style {:border-top "3px solid black"}}]
 - About me:: I love creating tools that solve open, goal-directed problems
@@ -18,6 +18,11 @@
 - **Favourite books:** Wherever You Go, There You Are
     - [my Goodreads shelf](https://www.goodreads.com/user/show/5870412-chinarut-ruangchotvit) for what I’m actively reading & my reviews
 - **Link to something you find interesting:** [Maintenance & Care: Fixing a Broken World](https://placesjournal.org/article/maintenance-and-care/)
+- [[👋🏼]] Honor to be invited to be one of the #organizers of our book club! I hold [[a safe space to share what's working and not working for you]]. What popped out of RBC2 is a vision around [[How a Wellbeing Commons Works]] inspiring [[the design for a book club for collective wellbeing]]. As an [[engineer on the ship]], I look forward to exploring if conversations around a [[Zettel Map]] will (or will not!) help [[index and organize our community's expansive knowlege in way that creates relevance to what each and everyone is up to without the overwhelm]]. I believe our long-tail game is to #scout & [[enable the bookworms of the world to contribute to our conversation in such a way that it elevates our context and gives us challenging problems to be solved by Roam in conjunction with other platforms]].
+- #strengths  1. #futuristic 2. #input 3. #strategic 4. #learner 5. #activator
+    - in other words, i care about the future of book club taking in the MASSIVE input from society in a strategic way as a learning community and present to what we need to do NOW! :)
+- [my slipbox (RBC2)]([[Chinarut/Zettels]]) == zettel power!
+- ---
 - **Book Club 1 member? (y/n):** n
 - **Have you purchased the book?:** y
 - [[Goals for Book Club]] {{[[POMO]]: 15}} 
@@ -303,7 +308,7 @@
     - Process I use to create my literature notes
         - For each chapter (if it was short) or sub-chapter, I reviewed all my fleeting notes and Kindle highlights
             - #[[Question]]  So for now, you are reviewing fleeting notes and then creating literature notes when you are done with __each__ chapter, yes?
-            - #Reply-from [[Chinarut 🦥]] To be clear, each chapter is a distinct set of literature notes. I discovered my brain needed a break and was taxed if I attempted to do multiple chapters in one sitting (esp a multi-section chapter like 12 comes to mind!)
+            - #Reply-from [[Chinarut]] To be clear, each chapter is a distinct set of literature notes. I discovered my brain needed a break and was taxed if I attempted to do multiple chapters in one sitting (esp a multi-section chapter like 12 comes to mind!)
                 - cramming might not be so hot as exercise aids the learning process (by alleviating stress hormones that flood the brain) #[[Fleeting Notes]]
             - I am guilty of old habits and did the classic highlight the whole book.
                 - ^^Watching others reading books and doing nothing other than underlining some sentences or making unsystematic notes that will end up nowhere will soon be a painful sight.^^ [*](((4hIM0I_l_)))
@@ -313,7 +318,7 @@
             - Put some thought into the keywords that index your notes so they can be found in the context of what interests you most. #[[Literature Notes]]
         - The resultant set of concepts facilitated the summarization process. My goal was find words to connect all the concepts listed (in any order) and produce a concise literature note. [[progressive summarization]]
         - I repeated this process for the next sub-chapter.
-            - #Reply-from. [[Jason Kleinberg 🎻]] This is great. The concept breadcrumbs at the top almost feel like [[proto-permanent notes]] or seeds. Thanks [[Chinarut 🦥]] 🙏
+            - #Reply-from. [[Jason Kleinberg 🎻]] This is great. The concept breadcrumbs at the top almost feel like [[proto-permanent notes]] or seeds. Thanks [[Chinarut]] 🙏
     - Coaching Session summary with [[Beau Haan 📌]]
         - first attempt at writing a permanent note **prior** to session in fact created a tighter version of the same literature note (looking back, in retrospect!)
             - Context decides whether everything or nothing empowers the next step #[[Literature Notes]]
@@ -492,9 +497,9 @@
         - {{[[DONE]]}} what are fleeting notes? #question 
             - "highlighting things that appeal to you"
             - next: integrating highlights -> concepts
-        - {{[[DONE]]}}  curious who appended this list of block references to all the chapters of the book containing “Write your notes here” to [[Chinarut 🦥]]?  thanks to whoever did it :)
+        - {{[[DONE]]}}  curious who appended this list of block references to all the chapters of the book containing “Write your notes here” to [[Chinarut]]?  thanks to whoever did it :)
             - now that I see it as part of other people’s pages, I’m convinced it was part of the template
-        - #Chat [[Chinarut 🦥]] {{[[DONE]]}} I’m up to chapter 9 of the book and it sounds like any notes we take on the book should be in our Literature Notes sub-graph?  ~~Someone had pasted block references to the book in my page (or maybe it was erroneously~~ part of the template ~~when I copied it?) so I moved it into Fleeting Notes.~~  what is the difference between taking book notes around block references to chapter headings vs book notes around page references to chapter headings? #complete
+        - #Chat [[Chinarut]] {{[[DONE]]}} I’m up to chapter 9 of the book and it sounds like any notes we take on the book should be in our Literature Notes sub-graph?  ~~Someone had pasted block references to the book in my page (or maybe it was erroneously~~ part of the template ~~when I copied it?) so I moved it into Fleeting Notes.~~  what is the difference between taking book notes around block references to chapter headings vs book notes around page references to chapter headings? #complete
             - this got resolved by our 2nd call. Fleeting Notes are untethered for the most part and Literature Notes make specific references to the text (via block references in Roam) 
             - I decided to combine by fleeting and literature notes under one set of book block references
                 - I won’t be taking notes in the Literature Notes template
@@ -547,9 +552,9 @@
         - {{[[TODO]]}} ((4IQlB1oDm))!
         - ((PVzGYI8L6))
             - love seeing insight into what making Zettlekasten your own looks like!
-                - Understanding why a tool works empowers you to develop the tool rooted in its underlying principles and improve upon it. #[[Literature Notes]] [[Chinarut 🦥]]
+                - Understanding why a tool works empowers you to develop the tool rooted in its underlying principles and improve upon it. #[[Literature Notes]] [[Chinarut]]
         - {{[[TODO]]}} ((BPicdcG9X))
-            - It is important to know how to shift our focus. Play has a role maintaining floating attention which in turn, supports idea exploration which helps reduce cognitive bias. By establishing a flexible structure and **not** planning, it channels focused attention to concepts and makes writing easier. #[[Literature Notes]] [[Chinarut 🦥]]
+            - It is important to know how to shift our focus. Play has a role maintaining floating attention which in turn, supports idea exploration which helps reduce cognitive bias. By establishing a flexible structure and **not** planning, it channels focused attention to concepts and makes writing easier. #[[Literature Notes]] [[Chinarut]]
         - ((rSbNG5b-s))
             - I’m really glad to see you found a moment to participate and share - this is very much in alignment with where I believe the group is as of today.
     - [[December 5th, 2020]]
@@ -572,7 +577,7 @@
             - what happened:
                 - page came up blank and I freaked out 😳
                 - it looked like the db was rolled back to the previous day (or maybe a week)
-                    - another page, [[Chinarut 🦥]] was missing blocks referencing `[[Chinarut/Zettels]]`
+                    - another page, [[Chinarut]] was missing blocks referencing `[[Chinarut/Zettels]]`
                 - sync was green
                 - #workaround - refresh the page (others have updated). page comes back
             - impact
@@ -867,7 +872,7 @@
                         - 2nd person who shared during our group discussion around goals made a request for linking graphs and a permissions model for private/public blocks
                 - ((8abwn6Aeu))
                     - what is the analogy or relationship between [[open-ended problems]] and [[open-ended process]]? #inquiry
-                    - #Chat [[Chinarut 🦥]] love how he shares the pros & cons of #GTD! anyone else run also into walls attempting to tackle #open-ended problems and goals over the years using GTD?
+                    - #Chat [[Chinarut]] love how he shares the pros & cons of #GTD! anyone else run also into walls attempting to tackle #open-ended problems and goals over the years using GTD?
     - ((UH2V7XS50))
         - [[framing worldview as listening]] [[writing as core to ideation]] [[curiosity is the source of inquiry]] [[transformed process for idea generation]]
             - A transformed process for idea generation uses curiosity as the source of inquiry, frames one’s own worldview while listening/reading, and combines writing as core to this process. #[[Literature Notes]]
@@ -1333,4 +1338,3 @@
                         - yes, it seems absolutely crazy to pick up Zettlekasten when I feel I should just sit in front of a blank page and just write (which we know doesn’t work very well - old habits die hard!)
                     - ^^Change is possible when the solution appears to be simple.^^ [*](((SF8pUW-gw)))
                         - yes - this seems simple enough indeed!  I am wondering what it will take to learn what are mostly fleeting notes into literature notes...
-- 

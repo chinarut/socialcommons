@@ -1,4 +1,4 @@
-- Welcome to [[Chinarut 🦥]]’s idea generator! 🚀 
+- Welcome to [[Chinarut]]’s idea generator! 🚀 
 - 
 - short-term goal: [[Statement of Purpose]] (in the context of a [[wellbeing commons]], [[graduate school]], and [[Weave Your Legacy]])
     - Input with special thanks to [[Joel Chan]] 🙏🏼

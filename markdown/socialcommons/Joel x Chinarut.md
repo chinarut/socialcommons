@@ -30,7 +30,7 @@
     - [[Joel Chan]]’s goals
         - <insert here :)>
         - #roam-synthesis
-    - [[Chinarut 🦥]]’s goals
+    - [[Chinarut]]’s goals
         - reduce overhead
             - communicate priorities (particularly putting projects/outcomes down)
                 - GTD sweep to identify all the outcomes/projects I have my mind on and putting down 80% of the work -> [[GTD Projects]]
@@ -45,7 +45,7 @@
         - what role does “the crowd” play in such a system?
     - in particular, what it is going to take to enable a [[resource-based economy]]?
 - constraints
-    - [[Chinarut 🦥]]
+    - [[Chinarut]]
         - deprioritization of email, text, mobile
         - prioritization of landline
         - focus on public group context/shares on and offline
@@ -66,7 +66,7 @@
     - [[Joel Chan]] self-declared (Sept/Oct 2020) he doesn’t make a great career coach
         - ((Uhk6p2xwM))
         - ((e3126ZklC))
-    - [[Chinarut 🦥]] it took what feels like “extreme” measures to arrive at this page (Apr 2021) with an intent to synthesize our discussions in {{[[POMO]]: 25}}
+    - [[Chinarut]] it took what feels like “extreme” measures to arrive at this page (Apr 2021) with an intent to synthesize our discussions in {{[[POMO]]: 25}}
         - GTD sweep to identify all the outcomes/projects I have my mind on and putting down 80% of the work -> [[GTD Projects]]
             - ((e_azySqio))
             - #future [[collaborative GTD]]
@@ -92,19 +92,19 @@
 - conversations developed with mutual connections
     - [[Beau Haan 📌 ]]
         - [[How to Take Smart Notes]]
-            - [[Chinarut 🦥]] via [[roam book club]]
+            - [[Chinarut]] via [[roam book club]]
             - [[Joel Chan]] I assume around the nature of how synthesis unfolds
                 - [Knowledge synthesis: A conceptual model and practical guide](https://oasislab.pubpub.org/pub/54t0y9mk/release/2) [[Joel Chan]]
                     - ((xB_Jje76C))
     - [[Sonke]]
-        - [[How a Wellbeing Commons Works]] [[Chinarut 🦥]]
+        - [[How a Wellbeing Commons Works]] [[Chinarut]]
             - **(7) Soren**
     - [[Matt B]]
-        - [[roam book club]] [[The Culture Code]] [[Braiding Sweetgrass]] [[Chinarut 🦥]]
+        - [[roam book club]] [[The Culture Code]] [[Braiding Sweetgrass]] [[Chinarut]]
     - [[Henry F]]
-        - [[Chinarut 🦥]] [[social movement science]]
+        - [[Chinarut]] [[social movement science]]
     - [[Catherine Rickwood]]
-        - [[Chinarut 🦥]] synthetic form of [[roam book club]]
+        - [[Chinarut]] synthetic form of [[roam book club]]
             - {{[[TODO]]}} reword Catherine’s reflection in my own words
             - #roam-book-club [[the design for a book club for collective wellbeing]]
                 - #inquiry how do we track book references and synthesize bodies of knowledge together?
@@ -122,7 +122,7 @@
                     - element book clubs surround each of the 5 elements with an intent to synthesize works together
                     - all resultant conversations funnel back into parent book club to design next sprint for collective
 - relevant artifacts developed to date {{[[POMO]]: 25}}
-    - [[Chinarut 🦥]]
+    - [[Chinarut]]
         - ((iTf6dbCe5)) -> [key research influences](https://www.notion.so/communitygarden/Key-Research-Influences-c9e61171936c43919a40a3bfd5db70d3) #Notion
         - ((bV66p1aOx))
             - [[Statement of Purpose]]
@@ -243,16 +243,16 @@
         - I believe Roam public pages are **not** SEO optimized like Notion (yet)
     - {{[[TODO]]}} confirm [[partnership schema]] (above, maintained, group/partner memory) and decide what belongs in our journal (and how this is distinct from Daily NOtes)
         - #consideration ability to track change atomically at a single page level vs at the graph level (this page and daily notes)
-    - {{[[TODO]]}} how can [[Chinarut 🦥]] complement [[Joel Chan]] in leading the group?
+    - {{[[TODO]]}} how can [[Chinarut]] complement [[Joel Chan]] in leading the group?
         - what kinds of things is he good at explaining?
     - {{[[TODO]]}} how do I keep up with developments in your research was published since Aug 2020?
 - journal
     - [[April 28th, 2021]]
-        - [[Chinarut 🦥]]
+        - [[Chinarut]]
             - what I wake up excited about is the opportunity to see “diffs” (literally the way code monkeys do) and visualize changes in partnership exploration pages
             - I’m playing with the mindmap extension and started a discussion on Twitter in regards to where to take this visualization (such as using page filters to reduce scope - map exports are unreadable at this scale)
     - [[April 27th, 2021]]
-        - [[Chinarut 🦥]]
+        - [[Chinarut]]
             - key changes
                 - focus on enabling systemic change for [[global transformation]]
                     - in particular, what it is going to take to enable a [[resource-based economy]]?
@@ -271,7 +271,7 @@
                     - Facebook fan page(s) are a possibility
                     - LinkedIn is also a possibility
                 - co-facilitation with partner as primary lead and focusing on [[removing gaps]] in end-user experience
-                    - {{[[TODO]]}} how can [[Chinarut 🦥]] complement [[Joel Chan]] in leading the group?
+                    - {{[[TODO]]}} how can [[Chinarut]] complement [[Joel Chan]] in leading the group?
                         - what kinds of things is he good at explaining?
                 - ((1W2A4K4d3))
             - ((wQHvl1eZI)) {{[[POMO]]: 25}}

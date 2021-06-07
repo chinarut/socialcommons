@@ -89,7 +89,7 @@
     - be sensitive to post-pandemic reintegration “busy-ness”
         - effort is best supportive of whatever people are dealing with creating their “new normal”
     - directions Roam Research intends to bring the future of book club
-        - {{[[TODO]]}} checkin with [[Matt M]] re: roam book club organizer’s “toolkit” components [[Chinarut 🦥]]
+        - {{[[TODO]]}} checkin with [[Matt M]] re: roam book club organizer’s “toolkit” components [[Chinarut]]
 - outcomes
     - 20 participants cross the finish line (ie. last session) and feedback session
     - [[Wellbeing Commons]] prototype

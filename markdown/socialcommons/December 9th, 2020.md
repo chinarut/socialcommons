@@ -1,5 +1,5 @@
 - Import
-    - [[Chinarut 🦥]]
+    - [[Chinarut]]
         - From: Chinarut.json
 - Import
     - [[Chinarut/Zettels]]
