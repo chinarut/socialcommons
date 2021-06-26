@@ -63,8 +63,8 @@
   [1 :user/email "chinarut@alumni.cmu.edu" 536870913]
   [1
    :user/photo-url
-   "https://lh3.googleusercontent.com/a/AATXAJzIwv6VkMwMwY24oC9J75Fi7EaGCAnc6f2VffH_=s96-c"
-   536875016]
+   "https://lh3.googleusercontent.com/a-/AOh14Gj3gU7y0lD8vEi3MohTdiN2z-8_julgiVoEoFLd=s96-c"
+   536876546]
   [1
    :user/settings
    {:namespace-options [:none :partial :full],
@@ -50498,8 +50498,8 @@
   [4356 :version/id "0.8.6" 536876529]
   [4356
    :version/nonce
-   "uuid669a3221-268c-4193-8120-1d00068d2ec4"
-   536876545]
+   "uuidd863be01-3b30-44a1-8522-1eb2f5830432"
+   536876546]
   [4357 :block/uid "06-12-2021" 536876530]
   [4357 :create/time 1623457957663 536876530]
   [4357 :create/user 1 536876530]
