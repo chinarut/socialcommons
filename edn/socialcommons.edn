@@ -133,6 +133,7 @@
   [10 :create/time 1604140334652 536870934]
   [10 :create/user 1 536872979]
   [10 :edit/seen-by 1 536873132]
+  [10 :edit/seen-by 4372 536876555]
   [10 :edit/time 1604140334656 536870934]
   [10 :edit/user 1 536872979]
   [10 :node/title "Wellbeing Commons" 536870934]
@@ -50498,8 +50499,8 @@
   [4356 :version/id "0.8.6" 536876529]
   [4356
    :version/nonce
-   "uuid24458b03-e627-4b06-8c23-b9f42c8c7289"
-   536876554]
+   "uuid5e643cd3-6cfe-4554-833c-653cb27f8bf6"
+   536876555]
   [4357 :block/uid "06-12-2021" 536876530]
   [4357 :create/time 1623457957663 536876530]
   [4357 :create/user 1 536876530]
