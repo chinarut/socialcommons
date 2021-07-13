@@ -50506,8 +50506,8 @@
   [4356 :version/id "0.8.6" 536876529]
   [4356
    :version/nonce
-   "uuidfde6dc78-a320-4471-b539-c9a214f52c7a"
-   536877404]
+   "uuid10341652-b3f1-454d-b98b-707eaeedb039"
+   536877420]
   [4357 :block/uid "06-12-2021" 536876530]
   [4357 :create/time 1623457957663 536876530]
   [4357 :create/user 1 536876530]
@@ -52066,12 +52066,14 @@
   [4519 :block/page 4447 536877387]
   [4519 :block/parents 4447 536877387]
   [4519 :block/parents 4494 536877387]
+  [4519 :block/refs 1302 536877409]
+  [4519 :block/refs 4263 536877417]
   [4519
    :block/string
-   "failure to fund this project results in a d"
-   536877403]
+   "failure to fund this project results in a discussion with the [[Wellbeing 5 Advisory]] and the [[📜 Directory of Members]] as to the future of this graph and where the intelletural"
+   536877420]
   [4519 :block/uid "kENbeIVLH" 536877386]
   [4519 :create/time 1626207496337 536877386]
   [4519 :create/user 1 536877386]
-  [4519 :edit/time 1626207554659 536877403]
+  [4519 :edit/time 1626207626065 536877420]
   [4519 :edit/user 1 536877386]]}

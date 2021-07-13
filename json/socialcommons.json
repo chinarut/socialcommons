@@ -60583,14 +60583,20 @@
             }
           },
           {
-            "string": "failure to fund this project results in [[📜 Directory of Members]]",
+            "string": "failure to fund this project results in a discussion with the [[Wellbeing 5 Advisory]] and the [[📜 Directory of Members]] as to the future of this graph and where the intelletural",
             "create-time": 1626207496337,
             ":block/refs": [
+              {
+                ":block/uid": "zNeSZiguv"
+              },
               {
                 ":block/uid": "MudJSWLhb"
               }
             ],
             "refs": [
+              {
+                "uid": "zNeSZiguv"
+              },
               {
                 "uid": "MudJSWLhb"
               }
@@ -60599,7 +60605,7 @@
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
             "uid": "kENbeIVLH",
-            "edit-time": 1626207549026,
+            "edit-time": 1626207626065,
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             }
