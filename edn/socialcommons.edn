@@ -50506,8 +50506,8 @@
   [4356 :version/id "0.8.6" 536876529]
   [4356
    :version/nonce
-   "uuid2603a562-21da-4623-95d3-7991e370de45"
-   536877313]
+   "uuida178d595-18f1-4742-9dd2-11cb2fa5d72f"
+   536877329]
   [4357 :block/uid "06-12-2021" 536876530]
   [4357 :create/time 1623457957663 536876530]
   [4357 :create/user 1 536876530]
@@ -51723,7 +51723,6 @@
   [4490 :edit/time 1626205993313 536877108]
   [4490 :edit/user 1 536877108]
   [4492 :block/children 4495 536877139]
-  [4492 :block/children 4496 536877149]
   [4492 :block/children 4499 536877193]
   [4492 :block/open true 536877119]
   [4492 :block/order 2 536877119]
@@ -51773,21 +51772,6 @@
   [4495 :create/user 1 536877137]
   [4495 :edit/time 1626206268415 536877148]
   [4495 :edit/user 1 536877137]
-  [4496 :block/open true 536877149]
-  [4496 :block/order 1 536877204]
-  [4496 :block/page 4447 536877150]
-  [4496 :block/parents 4447 536877150]
-  [4496 :block/parents 4492 536877150]
-  [4496 :block/refs 4270 536877152]
-  [4496
-   :block/string
-   "[[Chinarut]] is volunteering to moderate this space until it is funded (see below)"
-   536877221]
-  [4496 :block/uid "yfWwF7Ono" 536877149]
-  [4496 :create/time 1626206272793 536877149]
-  [4496 :create/user 1 536877149]
-  [4496 :edit/time 1626206596017 536877221]
-  [4496 :edit/user 1 536877149]
   [4497 :block/open true 536877155]
   [4497 :block/order 0 536877157]
   [4497 :block/page 4447 536877156]
@@ -51821,7 +51805,7 @@
   [4499 :block/children 4506 536877280]
   [4499 :block/children 4508 536877302]
   [4499 :block/open true 536877193]
-  [4499 :block/order 2 536877204]
+  [4499 :block/order 1 536877315]
   [4499 :block/page 4447 536877194]
   [4499 :block/parents 4447 536877194]
   [4499 :block/parents 4492 536877194]
@@ -51845,12 +51829,12 @@
   [4500 :block/refs 4270 536877207]
   [4500
    :block/string
-   "[[Chinarut]] agrees to contribute 25 years of experience in knowledge engineering and digital garden formation and development"
-   536877219]
+   "[[Chinarut]] agrees to contribute 25 years of experience in knowledge engineering and digital garden formation and development to this graph"
+   536877314]
   [4500 :block/uid "3rIiimrr-" 536877202]
   [4500 :create/time 1626206512930 536877202]
   [4500 :create/user 1 536877202]
-  [4500 :edit/time 1626206582830 536877219]
+  [4500 :edit/time 1626207198538 536877314]
   [4500 :edit/user 1 536877202]
   [4501 :block/open true 536877222]
   [4501 :block/order 3 536877289]
@@ -51923,6 +51907,8 @@
   [4507 :create/user 1 536877289]
   [4507 :edit/time 1626207134979 536877300]
   [4507 :edit/user 1 536877289]
+  [4508 :block/children 4511 536877318]
+  [4508 :block/children 4512 536877326]
   [4508 :block/open true 536877302]
   [4508 :block/order 1 536877302]
   [4508 :block/page 4447 536877303]
@@ -51946,4 +51932,36 @@
   [4510 :create/user 1 536877310]
   [4510 :edit/time 1626207174343 536877310]
   [4510 :edit/user 1 536877310]
-  [4510 :node/title "acting director" 536877310]]}
+  [4510 :node/title "acting director" 536877310]
+  [4511 :block/open true 536877316]
+  [4511 :block/order 1 536877326]
+  [4511 :block/page 4447 536877317]
+  [4511 :block/parents 4447 536877317]
+  [4511 :block/parents 4492 536877317]
+  [4511 :block/parents 4499 536877317]
+  [4511 :block/parents 4508 536877319]
+  [4511
+   :block/string
+   "establishing funding to sustain our efforts"
+   536877329]
+  [4511 :block/uid "3F4XeimBF" 536877316]
+  [4511 :create/time 1626207224032 536877316]
+  [4511 :create/user 1 536877316]
+  [4511 :edit/time 1626207264225 536877329]
+  [4511 :edit/user 1 536877316]
+  [4512 :block/open true 536877326]
+  [4512 :block/order 0 536877326]
+  [4512 :block/page 4447 536877327]
+  [4512 :block/parents 4447 536877327]
+  [4512 :block/parents 4492 536877327]
+  [4512 :block/parents 4499 536877327]
+  [4512 :block/parents 4508 536877327]
+  [4512
+   :block/string
+   "moderating and overseeing the development of milestones"
+   536877326]
+  [4512 :block/uid "LKRB8HJUp" 536877326]
+  [4512 :create/time 1626207254843 536877326]
+  [4512 :create/user 1 536877326]
+  [4512 :edit/time 1626207254843 536877326]
+  [4512 :edit/user 1 536877326]]}

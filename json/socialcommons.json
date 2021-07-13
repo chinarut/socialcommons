@@ -60278,7 +60278,7 @@
             "edit-time": 1626206268415,
             "children": [
               {
-                "string": "[[Chinarut]] agrees to contribute 25 years of experience in knowledge engineering and digital garden formation and development",
+                "string": "[[Chinarut]] agrees to contribute 25 years of experience in knowledge engineering and digital garden formation and development to this graph",
                 "create-time": 1626206512930,
                 ":block/refs": [
                   {
@@ -60294,7 +60294,7 @@
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
                 "uid": "3rIiimrr-",
-                "edit-time": 1626206582830,
+                "edit-time": 1626207198538,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }
@@ -60321,28 +60321,6 @@
             }
           },
           {
-            "string": "[[Chinarut]] is volunteering to moderate this space until it is funded (see below)",
-            "create-time": 1626206272793,
-            ":block/refs": [
-              {
-                ":block/uid": "JcQS0E6hZ"
-              }
-            ],
-            "refs": [
-              {
-                "uid": "JcQS0E6hZ"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            },
-            "uid": "yfWwF7Ono",
-            "edit-time": 1626206596017,
-            ":edit/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            }
-          },
-          {
             "edit-time": 1626207150175,
             "children": [
               {
@@ -60358,17 +60336,31 @@
                 }
               },
               {
-                "string": "[[Chinarut]] agrees to be the [[acting director]] of the [[Wellbeing 5 Advisory]]",
-                "create-time": 1626207152174,
-                ":block/refs": [
+                "edit-time": 1626207183115,
+                "children": [
                   {
-                    ":block/uid": "zNeSZiguv"
+                    "string": "moderating and overseeing the development of milestones",
+                    "create-time": 1626207254843,
+                    "uid": "LKRB8HJUp",
+                    "edit-time": 1626207254843,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
                   },
                   {
-                    ":block/uid": "JcQS0E6hZ"
-                  },
-                  {
-                    ":block/uid": "gXTZCqja8"
+                    "string": "establishing funding",
+                    "create-time": 1626207224032,
+                    "uid": "3F4XeimBF",
+                    "edit-time": 1626207254852,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
                   }
                 ],
                 "refs": [
@@ -60382,11 +60374,23 @@
                     "uid": "gXTZCqja8"
                   }
                 ],
+                "uid": "axIXFv_fr",
+                ":block/refs": [
+                  {
+                    ":block/uid": "zNeSZiguv"
+                  },
+                  {
+                    ":block/uid": "JcQS0E6hZ"
+                  },
+                  {
+                    ":block/uid": "gXTZCqja8"
+                  }
+                ],
+                "string": "[[Chinarut]] agrees to be the [[acting director]] of the [[Wellbeing 5 Advisory]]",
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
-                "uid": "axIXFv_fr",
-                "edit-time": 1626207183115,
+                "create-time": 1626207152174,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }

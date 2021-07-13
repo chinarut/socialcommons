@@ -27,10 +27,12 @@
 - Resources
     - [[Chinarut]] is using 1 of his 3 graphs to host this effort under a Roam Scholar account
         - [[Chinarut]] agrees to contribute 25 years of experience in knowledge engineering and digital garden formation and development to this graph
-    - [[Chinarut]] is volunteering to moderate this space until it is funded (see below)
     - [[Chinarut]] has extensive experience experimenting with framing [[The 5 Essential Elements of Wellbeing]] into one’s life between 2014-2021
         - [Anchoring Your Wellbeing Advisory](https://www.notion.so/communitygarden/Anchoring-Your-Wellbeing-5-Advisory-b4cba9a9dc234fb2b2aabd0454cf19df)
         - [[Chinarut]] agrees to be the [[acting director]] of the [[Wellbeing 5 Advisory]]
+            1. establishing funding to sustain our efforts
+            2. moderating and overseeing the development of milestones
+            3. 
 - Accountability
     - asynchronous weekly check-in in Daily Notes
 - Consequences
