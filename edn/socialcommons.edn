@@ -50506,8 +50506,8 @@
   [4356 :version/id "0.8.6" 536876529]
   [4356
    :version/nonce
-   "uuid10341652-b3f1-454d-b98b-707eaeedb039"
-   536877420]
+   "uuidb31e37dc-5ee0-418e-a48a-7cf15429e7d7"
+   536877438]
   [4357 :block/uid "06-12-2021" 536876530]
   [4357 :create/time 1623457957663 536876530]
   [4357 :create/user 1 536876530]
@@ -51746,7 +51746,7 @@
   [4493 :edit/time 1626206024814 536877124]
   [4493 :edit/user 1 536877122]
   [4494 :block/children 4514 536877338]
-  [4494 :block/children 4519 536877388]
+  [4494 :block/children 4520 536877425]
   [4494 :block/open true 536877125]
   [4494 :block/order 4 536877157]
   [4494 :block/page 4447 536877126]
@@ -52062,18 +52062,51 @@
   [4518 :edit/time 1626207472421 536877381]
   [4518 :edit/user 1 536877364]
   [4519 :block/open true 536877386]
-  [4519 :block/order 1 536877388]
+  [4519 :block/order 1 536877433]
   [4519 :block/page 4447 536877387]
   [4519 :block/parents 4447 536877387]
   [4519 :block/parents 4494 536877387]
-  [4519 :block/refs 1302 536877409]
-  [4519 :block/refs 4263 536877417]
+  [4519 :block/parents 4520 536877431]
   [4519
    :block/string
-   "failure to fund this project results in a discussion with the [[Wellbeing 5 Advisory]] and the [[📜 Directory of Members]] as to the future of this graph and where the intelletural"
-   536877420]
+   "what will happen to the intellectual property developed (with an intent to maintain public domain access)"
+   536877438]
   [4519 :block/uid "kENbeIVLH" 536877386]
   [4519 :create/time 1626207496337 536877386]
   [4519 :create/user 1 536877386]
-  [4519 :edit/time 1626207626065 536877420]
-  [4519 :edit/user 1 536877386]]}
+  [4519 :edit/time 1626207689852 536877438]
+  [4519 :edit/user 1 536877386]
+  [4520 :block/children 4519 536877430]
+  [4520 :block/children 4521 536877433]
+  [4520 :block/open true 536877425]
+  [4520 :block/order 1 536877425]
+  [4520 :block/page 4447 536877427]
+  [4520 :block/parents 4447 536877427]
+  [4520 :block/parents 4494 536877427]
+  [4520 :block/refs 1302 536877426]
+  [4520 :block/refs 4263 536877426]
+  [4520
+   :block/string
+   "failure to fund this project results in a discussion with the [[Wellbeing 5 Advisory]] and the [[📜 Directory of Members]] as to"
+   536877425]
+  [4520 :block/uid "Eo96Re2Hh" 536877425]
+  [4520 :children/view-type :numbered 536877432]
+  [4520 :create/time 1626207650630 536877425]
+  [4520 :create/user 1 536877425]
+  [4520 :edit/time 1626207650630 536877425]
+  [4520 :edit/user 1 536877425]
+  [4521 :block/open true 536877433]
+  [4521 :block/order 0 536877433]
+  [4521 :block/page 4447 536877434]
+  [4521 :block/parents 4447 536877434]
+  [4521 :block/parents 4494 536877434]
+  [4521 :block/parents 4520 536877434]
+  [4521
+   :block/string
+   "the future of the existence of this graph"
+   536877433]
+  [4521 :block/uid "LHRkiwUHy" 536877433]
+  [4521 :create/time 1626207659175 536877433]
+  [4521 :create/user 1 536877433]
+  [4521 :edit/time 1626207659175 536877433]
+  [4521 :edit/user 1 536877433]]}

@@ -60583,14 +60583,31 @@
             }
           },
           {
-            "string": "failure to fund this project results in a discussion with the [[Wellbeing 5 Advisory]] and the [[📜 Directory of Members]] as to the future of this graph and where the intelletural",
-            "create-time": 1626207496337,
-            ":block/refs": [
+            "edit-time": 1626207650630,
+            "children": [
               {
-                ":block/uid": "zNeSZiguv"
+                "string": "the future of the existence of this graph",
+                "create-time": 1626207659175,
+                "uid": "LHRkiwUHy",
+                "edit-time": 1626207659175,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
               },
               {
-                ":block/uid": "MudJSWLhb"
+                "string": "what will happen to the intellectual property developed (with an intent to maintain public domain access)",
+                "create-time": 1626207496337,
+                "uid": "kENbeIVLH",
+                "edit-time": 1626207689852,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
               }
             ],
             "refs": [
@@ -60601,11 +60618,20 @@
                 "uid": "MudJSWLhb"
               }
             ],
+            "uid": "Eo96Re2Hh",
+            ":block/refs": [
+              {
+                ":block/uid": "zNeSZiguv"
+              },
+              {
+                ":block/uid": "MudJSWLhb"
+              }
+            ],
+            "string": "failure to fund this project results in a discussion with the [[Wellbeing 5 Advisory]] and the [[📜 Directory of Members]] as to",
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
-            "uid": "kENbeIVLH",
-            "edit-time": 1626207626065,
+            "create-time": 1626207650630,
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             }
