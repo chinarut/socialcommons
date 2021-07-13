@@ -59784,7 +59784,7 @@
             },
             "children": [
               {
-                "string": "[[Wellbeing 5 Advisory]] of 6 members",
+                "string": "[[Wellbeing 5 Advisory]] of 6 members (5 elements, 1 director)",
                 "create-time": 1626207061869,
                 ":block/refs": [
                   {
@@ -59800,7 +59800,7 @@
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
                 "uid": "KdmhUDyCw",
-                "edit-time": 1626207104111,
+                "edit-time": 1626207134979,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }
@@ -60343,7 +60343,7 @@
             }
           },
           {
-            "edit-time": 1626207040466,
+            "edit-time": 1626207150175,
             "children": [
               {
                 "string": "[Anchoring Your Wellbeing Advisory](https://www.notion.so/communitygarden/Anchoring-Your-Wellbeing-5-Advisory-b4cba9a9dc234fb2b2aabd0454cf19df)",
@@ -60353,6 +60353,40 @@
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "[[Chinarut]] agrees to be the [[acting director]] of the [[Wellbeing 5 Advisory]]",
+                "create-time": 1626207152174,
+                ":block/refs": [
+                  {
+                    ":block/uid": "zNeSZiguv"
+                  },
+                  {
+                    ":block/uid": "JcQS0E6hZ"
+                  },
+                  {
+                    ":block/uid": "gXTZCqja8"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "zNeSZiguv"
+                  },
+                  {
+                    "uid": "JcQS0E6hZ"
+                  },
+                  {
+                    "uid": "gXTZCqja8"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "axIXFv_fr",
+                "edit-time": 1626207183115,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }
@@ -60375,7 +60409,7 @@
                 ":block/uid": "JcQS0E6hZ"
               }
             ],
-            "string": "[[Chinarut]] has extensive experience experimenting with framing [[The 5 Essential Elements of Wellbeing]] into one’s life between 2014-2021 and has organically developed exercises to participate in",
+            "string": "[[Chinarut]] has extensive experience experimenting with framing [[The 5 Essential Elements of Wellbeing]] into one’s life between 2014-2021",
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
@@ -60555,6 +60589,18 @@
     "title": "market economy",
     "uid": "3I2OF_AQT",
     "edit-time": 1626206671530,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1626207174341,
+    "title": "acting director",
+    "uid": "gXTZCqja8",
+    "edit-time": 1626207174343,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },

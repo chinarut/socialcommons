@@ -50506,8 +50506,8 @@
   [4356 :version/id "0.8.6" 536876529]
   [4356
    :version/nonce
-   "uuid104e9cab-912f-4ca6-b180-198cdacfa88f"
-   536877297]
+   "uuid2603a562-21da-4623-95d3-7991e370de45"
+   536877313]
   [4357 :block/uid "06-12-2021" 536876530]
   [4357 :create/time 1623457957663 536876530]
   [4357 :create/user 1 536876530]
@@ -51819,6 +51819,7 @@
   [4498 :edit/time 1626206405031 536877176]
   [4498 :edit/user 1 536877161]
   [4499 :block/children 4506 536877280]
+  [4499 :block/children 4508 536877302]
   [4499 :block/open true 536877193]
   [4499 :block/order 2 536877204]
   [4499 :block/page 4447 536877194]
@@ -51828,12 +51829,12 @@
   [4499 :block/refs 4270 536877196]
   [4499
    :block/string
-   "[[Chinarut]] has extensive experience experimenting with framing [[The 5 Essential Elements of Wellbeing]] into one’s life between 2014-2021 and has organically developed exercises to participate in"
-   536877287]
+   "[[Chinarut]] has extensive experience experimenting with framing [[The 5 Essential Elements of Wellbeing]] into one’s life between 2014-2021"
+   536877301]
   [4499 :block/uid "DhbFqh_RV" 536877193]
   [4499 :create/time 1626206470915 536877193]
   [4499 :create/user 1 536877193]
-  [4499 :edit/time 1626207040466 536877287]
+  [4499 :edit/time 1626207150175 536877301]
   [4499 :edit/user 1 536877193]
   [4500 :block/open true 536877202]
   [4500 :block/order 0 536877204]
@@ -51915,10 +51916,34 @@
   [4507 :block/refs 1302 536877292]
   [4507
    :block/string
-   "[[Wellbeing 5 Advisory]] of 6 members"
-   536877296]
+   "[[Wellbeing 5 Advisory]] of 6 members (5 elements, 1 director)"
+   536877300]
   [4507 :block/uid "KdmhUDyCw" 536877289]
   [4507 :create/time 1626207061869 536877289]
   [4507 :create/user 1 536877289]
-  [4507 :edit/time 1626207104111 536877296]
-  [4507 :edit/user 1 536877289]]}
+  [4507 :edit/time 1626207134979 536877300]
+  [4507 :edit/user 1 536877289]
+  [4508 :block/open true 536877302]
+  [4508 :block/order 1 536877302]
+  [4508 :block/page 4447 536877303]
+  [4508 :block/parents 4447 536877303]
+  [4508 :block/parents 4492 536877303]
+  [4508 :block/parents 4499 536877303]
+  [4508 :block/refs 1302 536877312]
+  [4508 :block/refs 4270 536877305]
+  [4508 :block/refs 4510 536877310]
+  [4508
+   :block/string
+   "[[Chinarut]] agrees to be the [[acting director]] of the [[Wellbeing 5 Advisory]]"
+   536877311]
+  [4508 :block/uid "axIXFv_fr" 536877302]
+  [4508 :create/time 1626207152174 536877302]
+  [4508 :create/user 1 536877302]
+  [4508 :edit/time 1626207183115 536877311]
+  [4508 :edit/user 1 536877302]
+  [4510 :block/uid "gXTZCqja8" 536877310]
+  [4510 :create/time 1626207174341 536877310]
+  [4510 :create/user 1 536877310]
+  [4510 :edit/time 1626207174343 536877310]
+  [4510 :edit/user 1 536877310]
+  [4510 :node/title "acting director" 536877310]]}
