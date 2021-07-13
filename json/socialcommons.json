@@ -60482,7 +60482,57 @@
             },
             "children": [
               {
-                "string": "a PhD proposal [[Chinarut]] is willing to make to establish institutional and academic support for our over the course of 5 years [[November 1st, 2021]]",
+                "string": "a crowdfunding campaign championing the importance of this effort",
+                "create-time": 1626207391550,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "why it needs to exist",
+                    "create-time": 1626207398842,
+                    "uid": "twFhTW1UA",
+                    "edit-time": 1626207398842,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "build groundswell",
+                    "create-time": 1626207347674,
+                    "uid": "PgtEXe36l",
+                    "edit-time": 1626207398849,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "provide a form of ",
+                    "create-time": 1626207401856,
+                    "uid": "03sNFxQcH",
+                    "edit-time": 1626207406772,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "mzdUQ3zEr",
+                "edit-time": 1626207391550,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "a PhD proposal [[Chinarut]] is willing to make to establish institutional and academic support to expand our efforts over the course of 5 years [[November 1st, 2021]]",
                 "create-time": 1626206343924,
                 ":block/refs": [
                   {
@@ -60504,7 +60554,7 @@
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
                 "uid": "zwlmDBpcq",
-                "edit-time": 1626207332729,
+                "edit-time": 1626207338940,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }

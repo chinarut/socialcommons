@@ -37,5 +37,8 @@
     - asynchronous weekly check-in in Daily Notes
 - Consequences
     - a successful prototype is input into
-        1. a crowdfunding campaign
+        1. a crowdfunding campaign championing the importance of this effort
+            - why it needs to exist
+            - build groundswell
+            - serve as a form of [[Universal Basic Income (UBI)]] for core participants
         2. a PhD proposal [[Chinarut]] is willing to make to establish institutional and academic support to expand our efforts over the course of 5 years [[November 1st, 2021]]
