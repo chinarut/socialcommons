@@ -1,0 +1,39 @@
+- ”The tremendous and still accelerating development of science and technology has not been accompanied by an equal development in social, economic, and political patterns...We are now...only beginning to explore the potentialities which it offers for developments in our culture outside technology, particularly in the social, political and economic fields. It is safe to predict that...such social inventions as modern-type Capitalism, Fascism, and Communism will be regarded as primitive experiments directed toward the adjustment of modern society to modern technology” - Dr. Ralph Linton
+- ([download PDF of entire book](www.thezeitgeistmovement.com/education) at no charge)
+- Contents
+    - Preface
+    - Part I: Introduction
+        - Essay 1: Overview
+        - Essay 2: The Scientific Worldview
+        - Essay 3: Sourcing Solutions
+        - Essay 4: Logic vs. Psychology
+        - Essay 5: The Case for Human Unity
+        - Essay 6: The Final Argument – Human Nature
+    - Part II: Social Pathology
+        - Essay 7: Defining Public Health
+        - Essay 8: History of Economy
+        - Essay 9: Market Efficiency vs. Technical Efficiency
+        - Essay 10: Value System Disorder
+        - Essay 11: Structural Classism, The State and War
+    - Part III: A New Train of Thought
+        - Essay 12: Introduction to Sustainable Thought
+        - Essay 13: Post-Scarcity Trends, Capacity and Efficiency
+        - Essay 14: True Economic Factors
+        - Essay 15: The Industrial Government
+        - Essay 16: Lifestyle, Freedom and the Humanity Factor
+    - Part IV: The Zeitgeist Movement
+        - Essay 17: Social Destabilization and Transition
+        - Essay 18: Becoming The Zeitgeist Movement
+- Front Matter
+    - www.thezeitgeistmovement.com 
+    - 1st Edition, January, 2014 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) #license
+        - The content in this text may be reproduced only for non-commercial purposes and may not be resold in any form.
+        - Any other interests require direct approval by TZM Global. Contact: media@thezeitgeistmovement.com
+    - This is a 100% non-profit text.
+        - Any price paid is only for the physical publishing.
+        - Any exploitation of this work for profit will not be tolerated.
+    - Acknowledgments: The material authored here is a product of many forms of contribution, specifically the research of The Zeitgeist Movement's expanding lecture team. While not all figures relevant could be credited below (alphabetical order), an enormous thanks extends to all others not listed who have contributed news, sources, tips and other research.
+        - Compiled & Edited by Ben McLeish Matt Berkowitz [[Peter Joseph]]
+        - Thanks to: Andrés Delgado Gilbert Ismail Bakari Pace James Phillips Brandon Kristy Jason Lord Brandy Hume Jen Wilding Douglas Mallette Miguel Oliveira Eva Omori Sharleen Bazeghi Federico Pistono Tom Williams
+    - If you would like to help in translating this text, please contact TZM's linguistics team: LinguisticTeam@gmail.com
+    - ISBN-13: 978-1495303197 ISBN-10: 1495303195

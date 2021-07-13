@@ -32124,6 +32124,514 @@
   {
     "create-time": 1619568490305,
     "title": "The Zeitgeist Movement Defined",
+    "children": [
+      {
+        "string": "”The tremendous and still accelerating development of science and technology has not been accompanied by an equal development in social, economic, and political patterns...We are now...only beginning to explore the potentialities which it offers for developments in our culture outside technology, particularly in the social, political and economic fields. It is safe to predict that...such social inventions as modern-type Capitalism, Fascism, and Communism will be regarded as primitive experiments directed toward the adjustment of modern society to modern technology” - Dr. Ralph Linton",
+        "create-time": 1626197711635,
+        "uid": "nsxZ0IF43",
+        "edit-time": 1626197781257,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "([download PDF of entire book](www.thezeitgeistmovement.com/education) at no charge)",
+        "create-time": 1626197699659,
+        "uid": "WuGQntNaq",
+        "edit-time": 1626198493490,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "Contents",
+        "create-time": 1626198313739,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "Preface",
+            "create-time": 1626197950614,
+            "uid": "4XNEk5ztg",
+            "edit-time": 1626198313745,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Part I: Introduction",
+            "create-time": 1626197964048,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "Essay 1: Overview",
+                "create-time": 1626197969368,
+                "uid": "wXvMog21T",
+                "edit-time": 1626197969368,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Essay 2: The Scientific Worldview",
+                "create-time": 1626197977084,
+                "uid": "k4VrjuCO3",
+                "edit-time": 1626197977084,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Essay 3: Sourcing Solutions",
+                "create-time": 1626197988982,
+                "uid": "hCaUTi5x8",
+                "edit-time": 1626197988982,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Essay 4: Logic vs. Psychology",
+                "create-time": 1626197995249,
+                "uid": "UzGfhiLHM",
+                "edit-time": 1626197995249,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Essay 5: The Case for Human Unity",
+                "create-time": 1626198003783,
+                "uid": "3ZMSKoFa0",
+                "edit-time": 1626198003783,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Essay 6: The Final Argument – Human Nature",
+                "create-time": 1626198020845,
+                "uid": "H7nTkbLZt",
+                "edit-time": 1626198020845,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "TVyb3-Ax_",
+            "edit-time": 1626197964048,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Part II: Social Pathology",
+            "create-time": 1626198024333,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "Essay 7: Defining Public Health",
+                "create-time": 1626198028168,
+                "uid": "-OU4gbG2r",
+                "edit-time": 1626198028168,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Essay 8: History of Economy",
+                "create-time": 1626198036595,
+                "uid": "RLOFyoMFf",
+                "edit-time": 1626198036595,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Essay 9: Market Efficiency vs. Technical Efficiency",
+                "create-time": 1626198049175,
+                "uid": "VuTrOpgWM",
+                "edit-time": 1626198049175,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Essay 10: Value System Disorder",
+                "create-time": 1626198056112,
+                "uid": "WH4q5Xo0g",
+                "edit-time": 1626198056112,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Essay 11: Structural Classism, The State and War",
+                "create-time": 1626198065644,
+                "uid": "duMw5nutB",
+                "edit-time": 1626198065644,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "5NqiMUARb",
+            "edit-time": 1626198024333,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Part III: A New Train of Thought",
+            "create-time": 1626198071107,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "Essay 12: Introduction to Sustainable Thought",
+                "create-time": 1626198076429,
+                "uid": "CJoK1i0MX",
+                "edit-time": 1626198076429,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Essay 13: Post-Scarcity Trends, Capacity and Efficiency",
+                "create-time": 1626198087445,
+                "uid": "tgdNDkXl1",
+                "edit-time": 1626198087445,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Essay 14: True Economic Factors",
+                "create-time": 1626198095486,
+                "uid": "xqxrFZNC0",
+                "edit-time": 1626198095486,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Essay 15: The Industrial Government",
+                "create-time": 1626198102477,
+                "uid": "ppvSGzvI5",
+                "edit-time": 1626198102477,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Essay 16: Lifestyle, Freedom and the Humanity Factor",
+                "create-time": 1626198115870,
+                "uid": "fEG7aFtcY",
+                "edit-time": 1626198115870,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "ZhmVjDbk9",
+            "edit-time": 1626198071107,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Part IV: The Zeitgeist Movement",
+            "create-time": 1626198120037,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "Essay 17: Social Destabilization and Transition",
+                "create-time": 1626198124044,
+                "uid": "t0VqMZOsw",
+                "edit-time": 1626198124044,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Essay 18: Becoming The Zeitgeist Movement",
+                "create-time": 1626197961494,
+                "uid": "lrt2oBH2w",
+                "edit-time": 1626198124051,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "x-4Alj2yl",
+            "edit-time": 1626198120037,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "JnhCrzytA",
+        "edit-time": 1626198313739,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "Front Matter",
+        "create-time": 1626198157009,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "www.thezeitgeistmovement.com ",
+            "create-time": 1626198503944,
+            "uid": "BYZBeW-d-",
+            "edit-time": 1626198505646,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "edit-time": 1626198228741,
+            "children": [
+              {
+                "string": "The content in this text may be reproduced only for non-commercial purposes and may not be resold in any form.",
+                "create-time": 1626198208396,
+                "uid": "5OIhObCKG",
+                "edit-time": 1626198208396,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Any other interests require direct approval by TZM Global. Contact: media@thezeitgeistmovement.com",
+                "create-time": 1626197847278,
+                "uid": "I80WOLxHI",
+                "edit-time": 1626198208400,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Kn40grrbe"
+              }
+            ],
+            "uid": "_C0l3SM5x",
+            ":block/refs": [
+              {
+                ":block/uid": "Kn40grrbe"
+              }
+            ],
+            "string": "1st Edition, January, 2014 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) #license",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1626198201978,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "This is a 100% non-profit text.",
+            "create-time": 1626198214245,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "Any price paid is only for the physical publishing.",
+                "create-time": 1626198217432,
+                "uid": "5Hh17CdAE",
+                "edit-time": 1626198217432,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Any exploitation of this work for profit will not be tolerated.",
+                "create-time": 1626197877969,
+                "uid": "-dQLBsSKo",
+                "edit-time": 1626198217438,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "XFgyx-aGS",
+            "edit-time": 1626198214245,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Acknowledgments: The material authored here is a product of many forms of contribution, specifically the research of The Zeitgeist Movement's expanding lecture team. While not all figures relevant could be credited below (alphabetical order), an enormous thanks extends to all others not listed who have contributed news, sources, tips and other research.",
+            "create-time": 1626197893718,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "Compiled & Edited by Ben McLeish Matt Berkowitz [[Peter Joseph]]",
+                "create-time": 1626198259193,
+                ":block/refs": [
+                  {
+                    ":block/uid": "xIRbcmRt0"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "xIRbcmRt0"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "2NIN0w1bx",
+                "edit-time": 1626198259193,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Thanks to: Andrés Delgado Gilbert Ismail Bakari Pace James Phillips Brandon Kristy Jason Lord Brandy Hume Jen Wilding Douglas Mallette Miguel Oliveira Eva Omori Sharleen Bazeghi Federico Pistono Tom Williams",
+                "create-time": 1626198268424,
+                "uid": "7j8-EKvcO",
+                "edit-time": 1626198268424,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "RuoKbp2Jb",
+            "edit-time": 1626197893718,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "If you would like to help in translating this text, please contact TZM's linguistics team: LinguisticTeam@gmail.com",
+            "create-time": 1626197923120,
+            "uid": "-WsMfB9Lg",
+            "edit-time": 1626198268433,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "ISBN-13: 978-1495303197 ISBN-10: 1495303195",
+            "create-time": 1626197939426,
+            "uid": "umqi8YhGV",
+            "edit-time": 1626197939426,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "i8RdWi10P",
+        "edit-time": 1626198305707,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      }
+    ],
     "uid": "XqRDN324C",
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
@@ -59223,6 +59731,30 @@
     "title": "July 13th, 2021",
     "uid": "07-13-2021",
     "edit-time": 1626136797568,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1626198228743,
+    "title": "license",
+    "uid": "Kn40grrbe",
+    "edit-time": 1626198228750,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1626198256368,
+    "title": "Peter Joseph",
+    "uid": "xIRbcmRt0",
+    "edit-time": 1626198256377,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
