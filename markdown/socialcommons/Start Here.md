@@ -32,8 +32,10 @@
         - [[Chinarut]] agrees to be the [[acting director]] of the [[Wellbeing 5 Advisory]]
             1. establishing funding to sustain our efforts
             2. moderating and overseeing the development of milestones
-            3. 
+            3. enlisting strategic partnerships in support of our goals
 - Accountability
     - asynchronous weekly check-in in Daily Notes
 - Consequences
-    - a successful prototype is input into a PhD proposal [[Chinarut]] is willing to make and establish institutional and academic support for this community project over the course of 5 years [[November 1st, 2021]]
+    - a successful prototype is input into
+        1. a crowdfunding campaign
+        2. a PhD proposal [[Chinarut]] is willing to make to establish institutional and academic support to expand our efforts over the course of 5 years [[November 1st, 2021]]
