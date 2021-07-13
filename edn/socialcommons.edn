@@ -338,7 +338,7 @@
   [502 :block/children 505 536871063]
   [502 :block/children 506 536871063]
   [502 :block/children 512 536871063]
-  [502 :block/open false 536876475]
+  [502 :block/open true 536876843]
   [502 :block/order 0 536871063]
   [502 :block/page 4270 536876451]
   [502 :block/parents 4270 536876451]
@@ -49630,9 +49630,9 @@
   [4263 :create/time 1623026827412 536876218]
   [4263 :create/user 1 536876218]
   [4263 :edit/seen-by 1 536876225]
-  [4263 :edit/time 1623026827412 536876218]
+  [4263 :edit/time 1626201684438 536876842]
   [4263 :edit/user 1 536876218]
-  [4263 :node/title "📜 Directory of members" 536876218]
+  [4263 :node/title "📜 Directory of Members" 536876842]
   [4263 :page/sidebar 1 536876219]
   [4265 :block/children 4280 536876258]
   [4265 :block/open false 536876222]
@@ -49673,6 +49673,7 @@
    ":hiccup [:hr {:style {:border-top \"3px solid purple\"}}]"
    536876232]
   [4268 :block/uid "-8Yv0dMvy" 536876230]
+  [4268 :children/view-type :numbered 536876839]
   [4268 :create/time 1623026876592 536876230]
   [4268 :create/user 1 536876230]
   [4268 :edit/time 1623026888289 536876232]
@@ -49906,17 +49907,17 @@
   [4280 :block/page 4263 536876257]
   [4280 :block/parents 4263 536876257]
   [4280 :block/parents 4265 536876259]
-  [4280 :block/refs 577 536876261]
+  [4280 :block/refs 580 536876841]
   [4280 :block/refs 1071 536876266]
   [4280 :block/refs 4281 536876263]
   [4280
    :block/string
-   "{{[[TODO]]}} #howto make an outline a numbered list in Roam #support"
-   536876265]
+   "{{[[DONE]]}} #howto make an outline a numbered list in Roam #support"
+   536876840]
   [4280 :block/uid "pxdVnVmPc" 536876256]
   [4280 :create/time 1623026975465 536876256]
   [4280 :create/user 1 536876256]
-  [4280 :edit/time 1623026997472 536876265]
+  [4280 :edit/time 1626201606160 536876840]
   [4280 :edit/user 1 536876256]
   [4281 :block/uid "YZfiMbSCX" 536876263]
   [4281 :create/time 1623026984027 536876263]
@@ -50505,8 +50506,8 @@
   [4356 :version/id "0.8.6" 536876529]
   [4356
    :version/nonce
-   "uuid579d863b-d3a5-4356-a1d8-de252af805ec"
-   536876838]
+   "uuid8eeb2958-0f82-4212-b95e-15c0c4e93e9b"
+   536876843]
   [4357 :block/uid "06-12-2021" 536876530]
   [4357 :create/time 1623457957663 536876530]
   [4357 :create/user 1 536876530]

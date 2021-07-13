@@ -36436,7 +36436,7 @@
   },
   {
     "create-time": 1623026827412,
-    "title": "📜 Directory of members",
+    "title": "📜 Directory of Members",
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
@@ -36461,11 +36461,11 @@
         },
         "children": [
           {
-            "string": "{{[[TODO]]}} #howto make an outline a numbered list in Roam #support",
+            "string": "{{[[DONE]]}} #howto make an outline a numbered list in Roam #support",
             "create-time": 1623026975465,
             ":block/refs": [
               {
-                ":block/uid": "ZuxcbnfVv"
+                ":block/uid": "eM8fq0ISl"
               },
               {
                 ":block/uid": "7FymTvAXo"
@@ -36476,7 +36476,7 @@
             ],
             "refs": [
               {
-                "uid": "ZuxcbnfVv"
+                "uid": "eM8fq0ISl"
               },
               {
                 "uid": "7FymTvAXo"
@@ -36489,7 +36489,7 @@
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
             "uid": "pxdVnVmPc",
-            "edit-time": 1623026997472,
+            "edit-time": 1626201606160,
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             }
@@ -36557,7 +36557,7 @@
       }
     ],
     "uid": "MudJSWLhb",
-    "edit-time": 1623026827412,
+    "edit-time": 1626201684438,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
