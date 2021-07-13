@@ -50506,8 +50506,8 @@
   [4356 :version/id "0.8.6" 536876529]
   [4356
    :version/nonce
-   "uuid6820ccd9-58e2-4e64-9464-e43a8809ac95"
-   536877368]
+   "uuideaa75caf-d13d-492f-8b7e-7d63b8f7e365"
+   536877382]
   [4357 :block/uid "06-12-2021" 536876530]
   [4357 :create/time 1623457957663 536876530]
   [4357 :create/user 1 536876530]
@@ -51999,7 +51999,7 @@
   [4514 :edit/time 1626207312577 536877338]
   [4514 :edit/user 1 536877338]
   [4515 :block/open true 536877348]
-  [4515 :block/order 1 536877361]
+  [4515 :block/order 2 536877382]
   [4515 :block/page 4447 536877349]
   [4515 :block/parents 4447 536877349]
   [4515 :block/parents 4494 536877349]
@@ -52043,19 +52043,20 @@
   [4517 :edit/time 1626207398842 536877361]
   [4517 :edit/user 1 536877361]
   [4518 :block/open true 536877364]
-  [4518 :block/order 2 536877364]
+  [4518 :block/order 1 536877382]
   [4518 :block/page 4447 536877365]
   [4518 :block/parents 4447 536877365]
   [4518 :block/parents 4494 536877365]
   [4518 :block/parents 4514 536877365]
   [4518 :block/parents 4516 536877365]
+  [4518 :block/refs 1302 536877377]
   [4518 :block/refs 1996 536877368]
   [4518
    :block/string
-   "provide a form of [[Universal Basic Income (UBI)]]"
-   536877367]
+   "serve as a form of “simulated” [[Universal Basic Income (UBI)]] for the 6 members that constitute the [[Wellbeing 5 Advisory]] and its director"
+   536877381]
   [4518 :block/uid "03sNFxQcH" 536877364]
   [4518 :create/time 1626207401856 536877364]
   [4518 :create/user 1 536877364]
-  [4518 :edit/time 1626207413548 536877367]
+  [4518 :edit/time 1626207472421 536877381]
   [4518 :edit/user 1 536877364]]}

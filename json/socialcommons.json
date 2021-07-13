@@ -60513,13 +60513,29 @@
                     }
                   },
                   {
-                    "string": "provide a form of ",
+                    "string": "serve as a form of “simulated” [[Universal Basic Income (UBI)]] for the 6 members that constitute the [[Wellbeing 5 Advisory]] and its director",
                     "create-time": 1626207401856,
-                    "uid": "03sNFxQcH",
-                    "edit-time": 1626207406772,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "zNeSZiguv"
+                      },
+                      {
+                        ":block/uid": "_IkDKL_ld"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "zNeSZiguv"
+                      },
+                      {
+                        "uid": "_IkDKL_ld"
+                      }
+                    ],
                     ":create/user": {
                       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                     },
+                    "uid": "03sNFxQcH",
+                    "edit-time": 1626207472421,
                     ":edit/user": {
                       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                     }
