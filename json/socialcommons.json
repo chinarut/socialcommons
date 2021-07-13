@@ -59729,11 +59729,35 @@
   {
     "create-time": 1626136797568,
     "title": "July 13th, 2021",
-    "uid": "07-13-2021",
-    "edit-time": 1626136797568,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    "children": [
+      {
+        "string": "[[Start Here]]",
+        "create-time": 1626210275513,
+        ":block/refs": [
+          {
+            ":block/uid": "2aXzadfr6"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "2aXzadfr6"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "uid": "utqxxwONv",
+        "edit-time": 1626210280122,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      }
+    ],
+    "uid": "07-13-2021",
+    "edit-time": 1626136797568,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59776,6 +59800,90 @@
           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
         },
         "children": [
+          {
+            "string": "Purpose",
+            "create-time": 1626204521881,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "for you to have a breakthrough in your self-care such that it results in a breakthrough in the wellbeing of those around you and be present to the possibility of socio-economic transformation being alive and real",
+                "create-time": 1626208001880,
+                "uid": "sDdCshb0L",
+                "edit-time": 1626208336257,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "to clarify through exploration and discovery what is of value to you as it relates to a holistic, social impact centered conversation for wellbeing",
+                "create-time": 1626204675223,
+                "uid": "GBAai_hkR",
+                "edit-time": 1626208209126,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "to push the boundaries of what is possible with global collaboration hosting a public social commons in Roam Research",
+                "create-time": 1626205471579,
+                "uid": "gg75rxMv5",
+                "edit-time": 1626208260388,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "#[[long tail]] game: [[socio-economic transformation]] - a clear break from our [[market economy]] (as it exists in 2021)",
+                "create-time": 1626206613935,
+                ":block/refs": [
+                  {
+                    ":block/uid": "mirmzNSMx"
+                  },
+                  {
+                    ":block/uid": "3I2OF_AQT"
+                  },
+                  {
+                    ":block/uid": "5Nz_vljcH"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "mirmzNSMx"
+                  },
+                  {
+                    "uid": "3I2OF_AQT"
+                  },
+                  {
+                    "uid": "5Nz_vljcH"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "KviATtDvz",
+                "edit-time": 1626208841878,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "bZnhWo7tz",
+            "edit-time": 1626204526914,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
           {
             "string": "Outcomes",
             "create-time": 1626204526897,
@@ -59856,7 +59964,7 @@
                         }
                       },
                       {
-                        "string": "[[roam book club]] members interes",
+                        "string": "[[roam book club]] members interested in social impact",
                         "create-time": 1626204945808,
                         ":block/refs": [
                           {
@@ -59872,40 +59980,18 @@
                           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                         },
                         "uid": "ehhBoXtVQ",
-                        "edit-time": 1626204964552,
+                        "edit-time": 1626208645486,
                         ":edit/user": {
                           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                         }
                       },
                       {
-                        "string": "those committed to global transformation",
+                        "string": "those publicly committed to empowering leaders committed to transformation",
                         "create-time": 1626204964539,
                         ":create/user": {
                           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                         },
                         "children": [
-                          {
-                            "string": "[[Sutra]] community",
-                            "create-time": 1626204988467,
-                            ":block/refs": [
-                              {
-                                ":block/uid": "h-U5mcypp"
-                              }
-                            ],
-                            "refs": [
-                              {
-                                "uid": "h-U5mcypp"
-                              }
-                            ],
-                            ":create/user": {
-                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                            },
-                            "uid": "H-VUr2YbX",
-                            "edit-time": 1626204993058,
-                            ":edit/user": {
-                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                            }
-                          },
                           {
                             "string": "[[Landmark Worldwide]] graduates",
                             "create-time": 1626204993831,
@@ -59927,10 +60013,32 @@
                             ":edit/user": {
                               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                             }
+                          },
+                          {
+                            "string": "[[Sutra]] community",
+                            "create-time": 1626204988467,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "h-U5mcypp"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "h-U5mcypp"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            "uid": "H-VUr2YbX",
+                            "edit-time": 1626208674175,
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
                           }
                         ],
                         "uid": "DVuRJoLlz",
-                        "edit-time": 1626205018798,
+                        "edit-time": 1626208665066,
                         ":edit/user": {
                           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                         }
@@ -59978,11 +60086,29 @@
                 }
               },
               {
-                "string": "[[Wellbeing Commons]] prototype",
-                "create-time": 1626204572685,
-                ":block/refs": [
+                "edit-time": 1626208689015,
+                "children": [
                   {
-                    ":block/uid": "TBzCoGxjt"
+                    "string": "[[How a Wellbeing Commons Works]] (intent is to provide a POV, not to be attached to how or methods!)",
+                    "create-time": 1626204712608,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "m-N7WBBd3"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "m-N7WBBd3"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "uid": "N1KvfB7yn",
+                    "edit-time": 1626208479823,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
                   }
                 ],
                 "refs": [
@@ -59990,39 +60116,17 @@
                     "uid": "TBzCoGxjt"
                   }
                 ],
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
                 "uid": "78ygBbS7m",
-                "edit-time": 1626204748250,
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              },
-              {
-                "string": "long tail: [[socio-economic transformation]] - a clear break from our current [[market economy]]",
-                "create-time": 1626206613935,
                 ":block/refs": [
                   {
-                    ":block/uid": "mirmzNSMx"
-                  },
-                  {
-                    ":block/uid": "3I2OF_AQT"
+                    ":block/uid": "TBzCoGxjt"
                   }
                 ],
-                "refs": [
-                  {
-                    "uid": "mirmzNSMx"
-                  },
-                  {
-                    "uid": "3I2OF_AQT"
-                  }
-                ],
+                "string": "[[Wellbeing Commons]] prototype in Roam Research",
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
-                "uid": "KviATtDvz",
-                "edit-time": 1626206729914,
+                "create-time": 1626204572685,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }
@@ -60030,110 +60134,6 @@
             ],
             "uid": "1m2qrwtNS",
             "edit-time": 1626204528581,
-            ":edit/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            }
-          },
-          {
-            "string": "Purpose",
-            "create-time": 1626204521881,
-            ":create/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            },
-            "children": [
-              {
-                "string": "to host (and moderate) a public graph and source a social commons in Roam Research",
-                "create-time": 1626204543759,
-                "uid": "w8Lcn1OxQ",
-                "edit-time": 1626205216383,
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              },
-              {
-                "string": "to clarify through exploration and discovery what is of value to people as it relates to a holistic, social impact centered conversation for wellbeing",
-                "create-time": 1626204675223,
-                "uid": "GBAai_hkR",
-                "edit-time": 1626204704566,
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              },
-              {
-                "string": "to push the boundaries of what is possible with global collaboration",
-                "create-time": 1626205471579,
-                "uid": "gg75rxMv5",
-                "edit-time": 1626205494794,
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              }
-            ],
-            "uid": "bZnhWo7tz",
-            "edit-time": 1626204526914,
-            ":edit/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            }
-          },
-          {
-            "string": "Goals",
-            "create-time": 1626205193852,
-            ":create/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            },
-            "children": [
-              {
-                "string": "transform [[public health]] and [[human rights]]",
-                "create-time": 1626205143988,
-                ":block/refs": [
-                  {
-                    ":block/uid": "aC72vjV2q"
-                  },
-                  {
-                    ":block/uid": "E-mZF58MW"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "aC72vjV2q"
-                  },
-                  {
-                    "uid": "E-mZF58MW"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                "uid": "Uc8e3-u4g",
-                "edit-time": 1626205173282,
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              },
-              {
-                "string": "responsibility for your own self-care (empowered through open collaboration with your peers)",
-                "create-time": 1626205187039,
-                "uid": "T-PmSBZAK",
-                "edit-time": 1626206812003,
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              }
-            ],
-            "uid": "2OAZ_LvHb",
-            "edit-time": 1626205196357,
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             }
@@ -60153,14 +60153,14 @@
         },
         "children": [
           {
-            "string": "start with 2 existing frameworks (and communities) around wellbeing and socio-economic transformation",
+            "string": "start with 2 existing frameworks (and communities) around wellbeing (micro) and socio-economic transformation (macro)",
             "create-time": 1626205280127,
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
             "children": [
               {
-                "string": "[[The 5 Essential Elements of Wellbeing]]",
+                "string": "[[The 5 Essential Elements of Wellbeing]] - book focusing on grounding your relationship and experience of wellbeing in the context of 5 elements",
                 "create-time": 1626205304056,
                 ":block/refs": [
                   {
@@ -60176,86 +60176,90 @@
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
                 "uid": "zb-6J22k2",
-                "edit-time": 1626205307137,
+                "edit-time": 1626208587613,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }
               },
               {
-                "string": "[[The Zeitgeist Movement Defined]] - in public domain",
+                "string": "[[The Zeitgeist Movement Defined]] - book in public domain centered around transforming [[public health]] and [[human rights]]",
                 "create-time": 1626205299302,
                 ":block/refs": [
                   {
                     ":block/uid": "XqRDN324C"
+                  },
+                  {
+                    ":block/uid": "aC72vjV2q"
+                  },
+                  {
+                    ":block/uid": "E-mZF58MW"
                   }
                 ],
                 "refs": [
                   {
                     "uid": "XqRDN324C"
+                  },
+                  {
+                    "uid": "aC72vjV2q"
+                  },
+                  {
+                    "uid": "E-mZF58MW"
                   }
                 ],
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
                 "uid": "9AcRoW3U2",
-                "edit-time": 1626206898832,
+                "edit-time": 1626208507294,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }
               }
             ],
             "uid": "IIsQj3XYm",
-            "edit-time": 1626206462831,
+            "edit-time": 1626208620296,
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             }
           },
           {
-            "string": "focus on [[technical efficiency]] over [[market efficiency]]",
-            "create-time": 1626205129759,
-            ":block/refs": [
-              {
-                ":block/uid": "cxkfb_mqP"
-              },
-              {
-                ":block/uid": "54lvt0v2e"
-              }
-            ],
-            "refs": [
-              {
-                "uid": "cxkfb_mqP"
-              },
-              {
-                "uid": "54lvt0v2e"
-              }
-            ],
+            "string": "Best Practices",
+            "create-time": 1626207848122,
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
-            "uid": "L_Bn2Z3v8",
-            "edit-time": 1626205138629,
-            ":edit/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            }
-          },
-          {
-            "string": "hypothesis: [[How a Wellbeing Commons Works]] (intent is not to be attached to “how” or methods)",
-            "create-time": 1626204712608,
-            ":block/refs": [
+            "children": [
               {
-                ":block/uid": "m-N7WBBd3"
+                "string": "focus on [[technical efficiency]] over [[market efficiency]]",
+                "create-time": 1626205129759,
+                ":block/refs": [
+                  {
+                    ":block/uid": "cxkfb_mqP"
+                  },
+                  {
+                    ":block/uid": "54lvt0v2e"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "cxkfb_mqP"
+                  },
+                  {
+                    "uid": "54lvt0v2e"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "L_Bn2Z3v8",
+                "edit-time": 1626205138629,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
               }
             ],
-            "refs": [
-              {
-                "uid": "m-N7WBBd3"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            },
-            "uid": "N1KvfB7yn",
-            "edit-time": 1626206199949,
+            "uid": "9CZPTaEjd",
+            "edit-time": 1626207848122,
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             }
@@ -60336,7 +60340,7 @@
                 }
               },
               {
-                "edit-time": 1626207183115,
+                "edit-time": 1626208724465,
                 "children": [
                   {
                     "string": "establishing funding to sustain our efforts",
@@ -60398,7 +60402,7 @@
                     ":block/uid": "gXTZCqja8"
                   }
                 ],
-                "string": "[[Chinarut]] agrees to be the [[acting director]] of the [[Wellbeing 5 Advisory]]",
+                "string": "[[Chinarut]] agrees to be the [[acting director]] of the [[Wellbeing 5 Advisory]] and this social commons",
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
@@ -60449,13 +60453,65 @@
         },
         "children": [
           {
-            "string": "asynchronous weekly check-in in Daily Notes",
-            "create-time": 1626206303072,
-            "uid": "oe_VyCvfR",
-            "edit-time": 1626206887852,
+            "string": "Timelines",
+            "create-time": 1626207874536,
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
+            "children": [
+              {
+                "string": "check-in asynchronously at least once a week",
+                "create-time": 1626207918382,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "review, block reference comment, and/or react to daily notes other participants have written",
+                    "create-time": 1626206303072,
+                    "uid": "oe_VyCvfR",
+                    "edit-time": 1626207979816,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "write your own daily notes as they are present",
+                    "create-time": 1626207938340,
+                    "uid": "zdG3k8nen",
+                    "edit-time": 1626207946486,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "7d9DlyOLP",
+                "edit-time": 1626207974021,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "agree to iterate for 10 weeks and have a meta-discussion to acknowledge what is emerging and next steps",
+                "create-time": 1626208092407,
+                "uid": "Tchv1I-Sn",
+                "edit-time": 1626208763942,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "elbESXfQU",
+            "edit-time": 1626207876017,
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             }
@@ -60751,6 +60807,18 @@
     "title": "acting director",
     "uid": "gXTZCqja8",
     "edit-time": 1626207174343,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1626208834013,
+    "title": "long tail",
+    "uid": "5Nz_vljcH",
+    "edit-time": 1626208834015,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
