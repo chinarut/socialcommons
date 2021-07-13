@@ -60489,22 +60489,10 @@
                 },
                 "children": [
                   {
-                    "string": "why it needs to exist",
+                    "string": "why this resource must exist",
                     "create-time": 1626207398842,
                     "uid": "twFhTW1UA",
-                    "edit-time": 1626207398842,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "build groundswell",
-                    "create-time": 1626207347674,
-                    "uid": "PgtEXe36l",
-                    "edit-time": 1626207398849,
+                    "edit-time": 1626207492400,
                     ":create/user": {
                       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                     },
@@ -60536,6 +60524,18 @@
                     },
                     "uid": "03sNFxQcH",
                     "edit-time": 1626207472421,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "build groundswell",
+                    "create-time": 1626207347674,
+                    "uid": "PgtEXe36l",
+                    "edit-time": 1626207398849,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
                     ":edit/user": {
                       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                     }
@@ -60578,6 +60578,28 @@
             ],
             "uid": "KPfcIkU-b",
             "edit-time": 1626207312577,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "failure to fund this project results in [[📜 Directory of Members]]",
+            "create-time": 1626207496337,
+            ":block/refs": [
+              {
+                ":block/uid": "MudJSWLhb"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "MudJSWLhb"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "uid": "kENbeIVLH",
+            "edit-time": 1626207549026,
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             }

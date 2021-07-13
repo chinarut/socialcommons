@@ -50506,8 +50506,8 @@
   [4356 :version/id "0.8.6" 536876529]
   [4356
    :version/nonce
-   "uuideaa75caf-d13d-492f-8b7e-7d63b8f7e365"
-   536877382]
+   "uuidfde6dc78-a320-4471-b539-c9a214f52c7a"
+   536877404]
   [4357 :block/uid "06-12-2021" 536876530]
   [4357 :create/time 1623457957663 536876530]
   [4357 :create/user 1 536876530]
@@ -51746,6 +51746,7 @@
   [4493 :edit/time 1626206024814 536877124]
   [4493 :edit/user 1 536877122]
   [4494 :block/children 4514 536877338]
+  [4494 :block/children 4519 536877388]
   [4494 :block/open true 536877125]
   [4494 :block/order 4 536877157]
   [4494 :block/page 4447 536877126]
@@ -52036,11 +52037,11 @@
   [4517 :block/parents 4494 536877362]
   [4517 :block/parents 4514 536877362]
   [4517 :block/parents 4516 536877362]
-  [4517 :block/string "why it needs to exist" 536877361]
+  [4517 :block/string "why this resource must exist" 536877385]
   [4517 :block/uid "twFhTW1UA" 536877361]
   [4517 :create/time 1626207398842 536877361]
   [4517 :create/user 1 536877361]
-  [4517 :edit/time 1626207398842 536877361]
+  [4517 :edit/time 1626207492400 536877385]
   [4517 :edit/user 1 536877361]
   [4518 :block/open true 536877364]
   [4518 :block/order 1 536877382]
@@ -52059,4 +52060,18 @@
   [4518 :create/time 1626207401856 536877364]
   [4518 :create/user 1 536877364]
   [4518 :edit/time 1626207472421 536877381]
-  [4518 :edit/user 1 536877364]]}
+  [4518 :edit/user 1 536877364]
+  [4519 :block/open true 536877386]
+  [4519 :block/order 1 536877388]
+  [4519 :block/page 4447 536877387]
+  [4519 :block/parents 4447 536877387]
+  [4519 :block/parents 4494 536877387]
+  [4519
+   :block/string
+   "failure to fund this project results in a d"
+   536877403]
+  [4519 :block/uid "kENbeIVLH" 536877386]
+  [4519 :create/time 1626207496337 536877386]
+  [4519 :create/user 1 536877386]
+  [4519 :edit/time 1626207554659 536877403]
+  [4519 :edit/user 1 536877386]]}

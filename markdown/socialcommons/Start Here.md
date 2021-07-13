@@ -42,3 +42,4 @@
             - serve as a form of “simulated” [[Universal Basic Income (UBI)]] for the 6 members that constitute the [[Wellbeing 5 Advisory]] and its director
             - build groundswell
         2. a PhD proposal [[Chinarut]] is willing to make to establish institutional and academic support to expand our efforts over the course of 5 years [[November 1st, 2021]]
+    - failure to fund this project results in 
