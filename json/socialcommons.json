@@ -60042,6 +60042,18 @@
                         ":edit/user": {
                           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                         }
+                      },
+                      {
+                        "string": "academics in the field of information studies, social computing, and public policy",
+                        "create-time": 1626219322261,
+                        "uid": "lOXsLkXl-",
+                        "edit-time": 1626219356993,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
                       }
                     ],
                     "refs": [
@@ -60819,6 +60831,18 @@
     "title": "long tail",
     "uid": "5Nz_vljcH",
     "edit-time": 1626208834015,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1626222901969,
+    "title": "July 14th, 2021",
+    "uid": "07-14-2021",
+    "edit-time": 1626222901969,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },

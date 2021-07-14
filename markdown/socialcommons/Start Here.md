@@ -14,6 +14,7 @@
                 - those publicly committed to empowering leaders committed to transformation
                     - [[Landmark Worldwide]] graduates
                     - [[Sutra]] community
+                - academics in the field of information studies, social computing, and public policy
         3. [[Wellbeing Commons]] prototype in Roam Research
             - [[How a Wellbeing Commons Works]] (intent is to provide a POV, not to be attached to how or methods!)
 - Guidelines

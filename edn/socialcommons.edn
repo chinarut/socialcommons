@@ -137,7 +137,7 @@
   [10 :edit/time 1604140334656 536870934]
   [10 :edit/user 1 536872979]
   [10 :node/title "Wellbeing Commons" 536870934]
-  [10 :page/sidebar 0 536873446]
+  [10 :page/sidebar 3 536877608]
   [12 :block/open true 536870941]
   [12 :block/order 0 536870984]
   [12 :block/page 4 536872976]
@@ -41347,7 +41347,7 @@
   [3531 :create/time 1619568490305 536873806]
   [3531 :create/user 1 536873806]
   [3531 :node/title "The Zeitgeist Movement Defined" 536873806]
-  [3531 :page/sidebar 2 536876601]
+  [3531 :page/sidebar 2 536877608]
   [3532 :block/children 3533 536873806]
   [3532 :block/open false 536873819]
   [3532 :block/order 4 536873806]
@@ -47314,8 +47314,8 @@
   [4026 :version/id "0.8.5" 536875009]
   [4026
    :version/nonce
-   "uuid64a3f7bc-2e38-4332-9b63-07e24730ae7d"
-   536876528]
+   "uuid5ad949c7-5861-4b35-bcdc-6c2df0f5a203"
+   536877608]
   [4027 :block/uid "04-30-2021" 536875010]
   [4027 :create/time 1619743209057 536875010]
   [4027 :create/user 1 536875010]
@@ -49633,7 +49633,7 @@
   [4263 :edit/time 1626201684438 536876842]
   [4263 :edit/user 1 536876218]
   [4263 :node/title "📜 Directory of Members" 536876842]
-  [4263 :page/sidebar 1 536876219]
+  [4263 :page/sidebar 1 536877607]
   [4265 :block/children 4280 536876258]
   [4265 :block/open false 536876222]
   [4265 :block/order 1 536876228]
@@ -50506,8 +50506,8 @@
   [4356 :version/id "0.8.6" 536876529]
   [4356
    :version/nonce
-   "uuid44b8f433-507a-4518-b3de-129ab53794aa"
-   536877592]
+   "uuid62e0a87c-0e0f-4469-9067-0998059761f6"
+   536877609]
   [4357 :block/uid "06-12-2021" 536876530]
   [4357 :create/time 1623457957663 536876530]
   [4357 :create/user 1 536876530]
@@ -51320,7 +51320,7 @@
   [4447 :edit/time 1626204515561 536876844]
   [4447 :edit/user 1 536876844]
   [4447 :node/title "Start Here" 536876844]
-  [4447 :page/sidebar 3 536876845]
+  [4447 :page/sidebar 0 536877606]
   [4448 :block/children 4455 536876887]
   [4448 :block/children 4489 536877100]
   [4448 :block/children 4501 536877579]
@@ -51423,6 +51423,7 @@
   [4462 :block/children 4467 536876963]
   [4462 :block/children 4468 536876971]
   [4462 :block/children 4483 536877063]
+  [4462 :block/children 4530 536877595]
   [4462 :block/open true 536876934]
   [4462 :block/order 0 536877256]
   [4462 :block/page 4447 536876935]
@@ -52168,4 +52169,28 @@
   [4529 :create/time 1626210275513 536877589]
   [4529 :create/user 1 536877589]
   [4529 :edit/time 1626210280122 536877591]
-  [4529 :edit/user 1 536877589]]}
+  [4529 :edit/user 1 536877589]
+  [4530 :block/open true 536877593]
+  [4530 :block/order 4 536877595]
+  [4530 :block/page 4447 536877594]
+  [4530 :block/parents 4447 536877594]
+  [4530 :block/parents 4449 536877594]
+  [4530 :block/parents 4462 536877594]
+  [4530 :block/parents 4490 536877594]
+  [4530 :block/parents 4502 536877594]
+  [4530
+   :block/string
+   "academics in the field of information studies, social computing, and public policy"
+   536877605]
+  [4530 :block/uid "lOXsLkXl-" 536877593]
+  [4530 :create/time 1626219322261 536877593]
+  [4530 :create/user 1 536877593]
+  [4530 :edit/time 1626219356993 536877605]
+  [4530 :edit/user 1 536877593]
+  [4531 :block/uid "07-14-2021" 536877609]
+  [4531 :create/time 1626222901969 536877609]
+  [4531 :create/user 1 536877609]
+  [4531 :edit/time 1626222901969 536877609]
+  [4531 :edit/user 1 536877609]
+  [4531 :log/id 1626222901968 536877609]
+  [4531 :node/title "July 14th, 2021" 536877609]]}
