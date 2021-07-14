@@ -51,6 +51,8 @@
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
   :harc/e
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
+  :user/display-page
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
   :block/parents
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
   :graph/name {:db/unique :db.unique/identity},
