@@ -48615,7 +48615,7 @@
   [4157 :edit/user 1 536875091]
   [4158 :block/children 4159 536875091]
   [4158 :block/children 4166 536875091]
-  [4158 :block/open false 536876398]
+  [4158 :block/open false 536877613]
   [4158 :block/order 2 536875091]
   [4158 :block/page 4140 536875097]
   [4158 :block/parents 4140 536875097]
@@ -52206,8 +52206,8 @@
   [4533 :version/id "0.8.7" 536877610]
   [4533
    :version/nonce
-   "uuid3436c26c-c365-4154-a352-0642fa38e179"
-   536877611]
+   "uuid626106d5-a4d2-448f-b234-4ca827ea96ad"
+   536877613]
   [4534 :block/uid "07-16-2021" 536877611]
   [4534 :create/time 1626395895308 536877611]
   [4534 :create/user 1 536877611]
