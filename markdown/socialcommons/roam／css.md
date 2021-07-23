@@ -100,6 +100,51 @@ span.rm-page-ref[data-tag="social"]:before {
 .rm-block-ref{
     background-color: #ffffe3;
 }```
+- (from @roam-book-club)
+    - #Chat [[Your Name]]
+        - ```css
+span.rm-page-ref[data-tag="Chat"] {
+	background-image: linear-gradient(to right, #4c8dc9,#4c8dc9);
+	background-size: 100%;
+    color: #EEF2EE;
+    padding: 3px 2px 3px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    border-radius: 3px 0 0 3px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Chat"] + span[data-link-title] {
+     background: #e4ffe3 !important;
+     color: #F3F7F2 !important;
+     padding: 3px 5px 3px 15px;
+     font-size: 13px;
+     line-height: 1em;
+     font-weight: 400;
+     border-radius: 0 3px 3px 0;
+     margin-left: -5px;
+}
+
+
+span.rm-page-ref[data-tag="Chat"]:after, 
+span.rm-page-ref[data-tag="Chat"]:before {
+    left: 100%;
+    top: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+}
+
+span.rm-page-ref[data-tag="Chat"]:after {
+    border-color: rgba(255,255,255,0);
+    border-left-color: #4c8dc9;
+    border-width: 11px;
+    margin-top: -11px;
+}```
+- —— {{[[TODO]]}} why does tag CSS have to go above this line to work? ——
 - subset of the [[Roaman Agora]]) (from @joel-covid19)
     - Variables
         - Colors
@@ -155,47 +200,3 @@ span.rm-page-ref[data-tag="Change Log"]:before {
 
 .rm-alias--external:after {
   content: ' ↗';```
-- (from @roam-book-club)
-    - #Chat [[Your Name]] #not-working
-        - ```css
-span.rm-page-ref[data-tag="Chat"] {
-	background-image: linear-gradient(to right, #4c8dc9,#4c8dc9);
-	background-size: 100%;
-    color: #EEF2EE;
-    padding: 3px 2px 3px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    border-radius: 3px 0 0 3px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Chat"] + span[data-link-title] {
-     background: #e4ffe3 !important;
-     color: #F3F7F2 !important;
-     padding: 3px 5px 3px 15px;
-     font-size: 13px;
-     line-height: 1em;
-     font-weight: 400;
-     border-radius: 0 3px 3px 0;
-     margin-left: -5px;
-}
-
-
-span.rm-page-ref[data-tag="Chat"]:after, 
-span.rm-page-ref[data-tag="Chat"]:before {
-    left: 100%;
-    top: 50%;
-    border: solid transparent;
-    content: " ";
-    height: 0;
-    width: 0;
-    position: absolute;
-    pointer-events: none;
-}
-
-span.rm-page-ref[data-tag="Chat"]:after {
-    border-color: rgba(255,255,255,0);
-    border-left-color: #4c8dc9;
-    border-width: 11px;
-    margin-top: -11px;
-}```

@@ -35832,6 +35832,84 @@
         }
       },
       {
+        "string": "(from @roam-book-club)",
+        "create-time": 1623030322823,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "edit-time": 1627060400066,
+            "children": [
+              {
+                "string": "```css\nspan.rm-page-ref[data-tag=\"Chat\"] {\n\tbackground-image: linear-gradient(to right, #4c8dc9,#4c8dc9);\n\tbackground-size: 100%;\n    color: #EEF2EE;\n    padding: 3px 2px 3px 5px;\n    font-size: 13px;\n    line-height: 1em;\n    border-radius: 3px 0 0 3px;\n    position:relative;\n}\n\nspan.rm-page-ref[data-tag=\"Chat\"] + span[data-link-title] {\n     background: #e4ffe3 !important;\n     color: #F3F7F2 !important;\n     padding: 3px 5px 3px 15px;\n     font-size: 13px;\n     line-height: 1em;\n     font-weight: 400;\n     border-radius: 0 3px 3px 0;\n     margin-left: -5px;\n}\n\n\nspan.rm-page-ref[data-tag=\"Chat\"]:after, \nspan.rm-page-ref[data-tag=\"Chat\"]:before {\n    left: 100%;\n    top: 50%;\n    border: solid transparent;\n    content: \" \";\n    height: 0;\n    width: 0;\n    position: absolute;\n    pointer-events: none;\n}\n\nspan.rm-page-ref[data-tag=\"Chat\"]:after {\n    border-color: rgba(255,255,255,0);\n    border-left-color: #4c8dc9;\n    border-width: 11px;\n    margin-top: -11px;\n}```",
+                "create-time": 1623030334359,
+                "uid": "yjV5H82A7",
+                "edit-time": 1623030595900,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "En10VTbeW"
+              },
+              {
+                "uid": "ns5yY6Cbl"
+              }
+            ],
+            "uid": "GXQvcrhYq",
+            ":block/refs": [
+              {
+                ":block/uid": "En10VTbeW"
+              },
+              {
+                ":block/uid": "ns5yY6Cbl"
+              }
+            ],
+            "string": "#Chat [[Your Name]]",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1623030332199,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "524CKAmPN",
+        "edit-time": 1623030332217,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "—— {{[[TODO]]}} why does tag CSS have to go above this line to work? ——",
+        "create-time": 1627060517395,
+        ":block/refs": [
+          {
+            ":block/uid": "ZuxcbnfVv"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ZuxcbnfVv"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "uid": "Lu950h0ek",
+        "edit-time": 1627060537958,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
         "edit-time": 1622667849614,
         "children": [
           {
@@ -36043,68 +36121,6 @@
           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
         },
         "create-time": 1622306676579,
-        ":edit/user": {
-          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-        }
-      },
-      {
-        "string": "(from @roam-book-club)",
-        "create-time": 1623030322823,
-        ":create/user": {
-          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-        },
-        "children": [
-          {
-            "edit-time": 1623030632314,
-            "children": [
-              {
-                "string": "```css\nspan.rm-page-ref[data-tag=\"Chat\"] {\n\tbackground-image: linear-gradient(to right, #4c8dc9,#4c8dc9);\n\tbackground-size: 100%;\n    color: #EEF2EE;\n    padding: 3px 2px 3px 5px;\n    font-size: 13px;\n    line-height: 1em;\n    border-radius: 3px 0 0 3px;\n    position:relative;\n}\n\nspan.rm-page-ref[data-tag=\"Chat\"] + span[data-link-title] {\n     background: #e4ffe3 !important;\n     color: #F3F7F2 !important;\n     padding: 3px 5px 3px 15px;\n     font-size: 13px;\n     line-height: 1em;\n     font-weight: 400;\n     border-radius: 0 3px 3px 0;\n     margin-left: -5px;\n}\n\n\nspan.rm-page-ref[data-tag=\"Chat\"]:after, \nspan.rm-page-ref[data-tag=\"Chat\"]:before {\n    left: 100%;\n    top: 50%;\n    border: solid transparent;\n    content: \" \";\n    height: 0;\n    width: 0;\n    position: absolute;\n    pointer-events: none;\n}\n\nspan.rm-page-ref[data-tag=\"Chat\"]:after {\n    border-color: rgba(255,255,255,0);\n    border-left-color: #4c8dc9;\n    border-width: 11px;\n    margin-top: -11px;\n}```",
-                "create-time": 1623030334359,
-                "uid": "yjV5H82A7",
-                "edit-time": 1623030595900,
-                ":create/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                ":edit/user": {
-                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                }
-              }
-            ],
-            "refs": [
-              {
-                "uid": "En10VTbeW"
-              },
-              {
-                "uid": "ns5yY6Cbl"
-              },
-              {
-                "uid": "_fDEDjNd9"
-              }
-            ],
-            "uid": "GXQvcrhYq",
-            ":block/refs": [
-              {
-                ":block/uid": "En10VTbeW"
-              },
-              {
-                ":block/uid": "ns5yY6Cbl"
-              },
-              {
-                ":block/uid": "_fDEDjNd9"
-              }
-            ],
-            "string": "#Chat [[Your Name]] #not-working",
-            ":create/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            },
-            "create-time": 1623030332199,
-            ":edit/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            }
-          }
-        ],
-        "uid": "524CKAmPN",
-        "edit-time": 1623030332217,
         ":edit/user": {
           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
         }
@@ -59165,18 +59181,6 @@
     "title": "Your Name",
     "uid": "ns5yY6Cbl",
     "edit-time": 1623030334174,
-    ":create/user": {
-      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-    },
-    ":edit/user": {
-      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-    }
-  },
-  {
-    "create-time": 1623030632318,
-    "title": "not-working",
-    "uid": "_fDEDjNd9",
-    "edit-time": 1623030632325,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
