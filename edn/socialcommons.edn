@@ -62,6 +62,7 @@
  :datoms
  [[1 :block/uid "3qErfj-ej" 536870913]
   [1 :user/display-name "Chinarut" 536873141]
+  [1 :user/display-page 4270 536877706]
   [1 :user/email "chinarut@alumni.cmu.edu" 536870913]
   [1
    :user/photo-url
@@ -52200,8 +52201,8 @@
   [4533 :version/id "0.8.7" 536877610]
   [4533
    :version/nonce
-   "uuid5d34c524-9330-44bf-9919-dc66d5fa0099"
-   536877705]
+   "uuid4deee085-205e-40ed-924f-06738000052e"
+   536877707]
   [4534 :block/uid "07-16-2021" 536877611]
   [4534 :create/time 1626395895308 536877611]
   [4534 :create/user 1 536877611]
@@ -52341,4 +52342,11 @@
   [4561 :edit/time 1627864674705 536877705]
   [4561 :edit/user 1 536877705]
   [4561 :log/id 1627864674704 536877705]
-  [4561 :node/title "August 2nd, 2021" 536877705]]}
+  [4561 :node/title "August 2nd, 2021" 536877705]
+  [4562 :block/uid "08-03-2021" 536877707]
+  [4562 :create/time 1627951368106 536877707]
+  [4562 :create/user 1 536877707]
+  [4562 :edit/time 1627951368106 536877707]
+  [4562 :edit/user 1 536877707]
+  [4562 :log/id 1627951368105 536877707]
+  [4562 :node/title "August 3rd, 2021" 536877707]]}
