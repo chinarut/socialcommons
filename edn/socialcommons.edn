@@ -51000,11 +51000,14 @@
   [4423 :block/parents 3531 536876708]
   [4423 :block/parents 4421 536876708]
   [4423 :block/parents 4445 536876812]
-  [4423 :block/string "Essay 8: History of Economy" 536876707]
+  [4423
+   :block/string
+   "Essay 8: [History of Economy](https://rizzoma.com/topic/77ce69c594a9416b2365119ab7daea0c/0_b_c7a7_bm41u/)"
+   536877719]
   [4423 :block/uid "RLOFyoMFf" 536876707]
   [4423 :create/time 1626198036595 536876707]
   [4423 :create/user 1 536876707]
-  [4423 :edit/time 1626198036595 536876707]
+  [4423 :edit/time 1628791011342 536877719]
   [4423 :edit/user 1 536876707]
   [4424 :block/open true 536876710]
   [4424 :block/order 2 536876710]
@@ -52412,4 +52415,9 @@
   [4571 :edit/time 1628728679487 536877716]
   [4571 :edit/user 1 536877716]
   [4571 :log/id 1628728679486 536877716]
-  [4571 :node/title "August 12th, 2021" 536877716]]}
+  [4571 :node/title "August 12th, 2021" 536877716]
+  [4572 :version/id "0.8.8" 536877719]
+  [4572
+   :version/nonce
+   "uuid0d34a0e7-6699-428e-b698-b66e44e2f012" 
+   536877719]]}

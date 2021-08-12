@@ -11,7 +11,7 @@
         - Essay 6: The Final Argument – Human Nature
     - Part II: Social Pathology
         - Essay 7: Defining Public Health
-        - Essay 8: History of Economy
+        - Essay 8: [History of Economy](https://rizzoma.com/topic/77ce69c594a9416b2365119ab7daea0c/0_b_c7a7_bm41u/)
         - Essay 9: Market Efficiency vs. Technical Efficiency
         - Essay 10: Value System Disorder
         - Essay 11: Structural Classism, The State and War
