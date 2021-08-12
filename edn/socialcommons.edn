@@ -28897,7 +28897,7 @@
   [2434 :block/children 2436 536871087]
   [2434 :block/children 2439 536871087]
   [2434 :block/children 2441 536871087]
-  [2434 :block/open false 536871087]
+  [2434 :block/open false 536877718]
   [2434 :block/order 22 536873414]
   [2434 :block/page 902 536872976]
   [2434 :block/parents 902 536872976]
@@ -52201,8 +52201,8 @@
   [4533 :version/id "0.8.7" 536877610]
   [4533
    :version/nonce
-   "uuid602ee05e-33d6-4633-b095-442a781a08b2"
-   536877716]
+   "uuiddac157d4-3951-466c-af76-12520cc97835"
+   536877718]
   [4534 :block/uid "07-16-2021" 536877611]
   [4534 :create/time 1626395895308 536877611]
   [4534 :create/user 1 536877611]
