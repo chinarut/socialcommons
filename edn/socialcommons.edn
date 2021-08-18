@@ -52419,8 +52419,8 @@
   [4572 :version/id "0.8.8" 536877719]
   [4572
    :version/nonce
-   "uuidb8390502-a3a5-44c9-a718-9b5cb926c397"
-   536877725]
+   "uuid66381235-18c9-4c13-83dc-9d88e903278a"
+   536877727]
   [4573 :block/uid "08-13-2021" 536877720]
   [4573 :create/time 1628815164056 536877720]
   [4573 :create/user 1 536877720]
@@ -52462,4 +52462,18 @@
   [4578 :edit/time 1629247031095 536877725]
   [4578 :edit/user 1 536877725]
   [4578 :log/id 1629247031094 536877725]
-  [4578 :node/title "August 18th, 2021" 536877725]]}
+  [4578 :node/title "August 18th, 2021" 536877725]
+  [4579 :block/uid "puGGxIVCi" 536877726]
+  [4579 :user/display-name "Dancin Forever" 536877726]
+  [4579 :user/display-page 4580 536877726]
+  [4579
+   :user/photo-url
+   "https://lh3.googleusercontent.com/a-/AOh14Gj1nb98lJ46KXeJLRkqS6R71SG6zZNLg9Qpd6Oy=s96-c"
+   536877726]
+  [4579 :user/uid "op4uWnfdxbQJMzj0pk1ydeB8iTV2" 536877726]
+  [4580 :block/uid "F9j4wL80u" 536877726]
+  [4580 :create/time 1629316972773 536877727]
+  [4580 :create/user 4579 536877727]
+  [4580 :edit/time 1629316972773 536877727]
+  [4580 :edit/user 4579 536877727]
+  [4580 :node/title "Dancin Forever" 536877727]]}
