@@ -41349,6 +41349,7 @@
   [3531 :block/uid "XqRDN324C" 536873806]
   [3531 :create/time 1619568490305 536873806]
   [3531 :create/user 1 536873806]
+  [3531 :edit/seen-by 4588 536877737]
   [3531 :node/title "The Zeitgeist Movement Defined" 536873806]
   [3531 :page/sidebar 2 536877608]
   [3532 :block/children 3533 536873806]
@@ -50889,6 +50890,7 @@
   [4414 :block/uid "TVyb3-Ax_" 536876669]
   [4414 :create/time 1626197964048 536876669]
   [4414 :create/user 1 536876669]
+  [4414 :edit/seen-by 4588 536877737]
   [4414 :edit/time 1626197964048 536876669]
   [4414 :edit/user 1 536876669]
   [4415 :block/open true 536876672]
@@ -50913,6 +50915,7 @@
   [4416 :block/uid "k4VrjuCO3" 536876675]
   [4416 :create/time 1626197977084 536876675]
   [4416 :create/user 1 536876675]
+  [4416 :edit/seen-by 4588 536877737]
   [4416 :edit/time 1626197977084 536876675]
   [4416 :edit/user 1 536876675]
   [4417 :block/open true 536876678]
@@ -51296,6 +51299,7 @@
   [4445 :block/uid "JnhCrzytA" 536876806]
   [4445 :create/time 1626198313739 536876806]
   [4445 :create/user 1 536876806]
+  [4445 :edit/seen-by 4588 536877737]
   [4445 :edit/time 1626198313739 536876806]
   [4445 :edit/user 1 536876806]
   [4446 :block/open true 536876836]
@@ -52419,8 +52423,8 @@
   [4572 :version/id "0.8.8" 536877719]
   [4572
    :version/nonce
-   "uuidaf98697e-b86c-42f4-9af1-e7d90061f133"
-   536877734]
+   "uuid1da08f0d-83a9-4c5a-93e5-9ac82d854899"
+   536877737]
   [4573 :block/uid "08-13-2021" 536877720]
   [4573 :create/time 1628815164056 536877720]
   [4573 :create/user 1 536877720]
@@ -52520,4 +52524,13 @@
   [4587 :edit/time 1629678891621 536877734]
   [4587 :edit/user 1 536877734]
   [4587 :log/id 1629678891620 536877734]
-  [4587 :node/title "August 23rd, 2021" 536877734]]}
+  [4587 :node/title "August 23rd, 2021" 536877734]
+  [4588 :block/uid "sh7EybRen" 536877735]
+  [4588 :user/display-page 4589 536877735]
+  [4588 :user/uid "KNBVNn3Uone76fDATX7pHTOrllI3" 536877735]
+  [4589 :block/uid "I8tb7s7PZ" 536877735]
+  [4589 :create/time 1629694289348 536877736]
+  [4589 :create/user 4588 536877736]
+  [4589 :edit/time 1629694289348 536877736]
+  [4589 :edit/user 4588 536877736]
+  [4589 :node/title "Anonymous_1" 536877736]]}
