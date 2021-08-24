@@ -61369,5 +61369,17 @@
     ":edit/user": {
       ":user/uid": "KNBVNn3Uone76fDATX7pHTOrllI3"
     }
+  },
+  {
+    "create-time": 1629765357294,
+    "title": "August 24th, 2021",
+    "uid": "08-24-2021",
+    "edit-time": 1629765357294,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
   }
 ]
