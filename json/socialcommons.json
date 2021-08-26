@@ -61397,11 +61397,1605 @@
   {
     "create-time": 1629938130387,
     "title": "August 26th, 2021",
-    "uid": "08-26-2021",
-    "edit-time": 1629938130387,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    "children": [
+      {
+        "string": "Import",
+        "children": [
+          {
+            "string": "[[Roam Book Club for Wellbeing]]",
+            "refs": [
+              {
+                "uid": "Nx9Lpod3H"
+              }
+            ],
+            "children": [
+              {
+                "string": "From: Roam Book Club for Wellbeing.json",
+                "uid": "12-K18ZRU"
+              }
+            ],
+            "uid": "QFGaLQNPi",
+            ":block/refs": [
+              {
+                ":block/uid": "Nx9Lpod3H"
+              }
+            ]
+          }
+        ],
+        "uid": "lc6R4T7nr"
+      }
+    ],
+    "uid": "08-26-2021",
+    "edit-time": 1629938130387,
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1630011299754,
+    "title": "Roam Book Club for Wellbeing",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    "children": [
+      {
+        "string": "Art of Wellbeing design adapted with special thanks to [Bay Area micro fusion](http://bamf.dance) Icebreaker social in January 2021",
+        "create-time": 1630008903761,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "A New Year",
+            "create-time": 1630009992135,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "Design Notes",
+                "create-time": 1630009994193,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "the intent of this game is to be a \"warmup\" and stay in the confines of \"what is wellbeing?\"",
+                    "create-time": 1630010402009,
+                    "uid": "gIzWu9SGv",
+                    "edit-time": 1630010402009,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "Cr3TBbfz5",
+                "edit-time": 1630010397618,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Goals",
+                "create-time": 1630010406207,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "Presence a framework exists beyond “physical wellbeing”",
+                    "create-time": 1630010408346,
+                    "uid": "VXRJgg7gx",
+                    "edit-time": 1630010412113,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "TuSDOCxUa",
+                "edit-time": 1630010408355,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Questions / Prompts",
+                "create-time": 1630010009767,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "What brings you here today?",
+                    "create-time": 1630008922703,
+                    "uid": "agxRT36ye",
+                    "edit-time": 1630008922703,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "What comes to mind when you hear the word “wellbeing?”",
+                    "create-time": 1630008922703,
+                    "uid": "bHzKCU1TD",
+                    "edit-time": 1630008922703,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "Share 2 or 3 areas of life you are focused on (eg. friends, community, etc). Which area is most important to you and why?",
+                    "create-time": 1630009025085,
+                    "uid": "31nuY2LJ2",
+                    "edit-time": 1630009025085,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "What is something you want more of in your life right now?",
+                    "create-time": 1630008922703,
+                    "uid": "ji7IsZbSK",
+                    "edit-time": 1630008922703,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "What is something you look forward to in 2022?",
+                    "create-time": 1630009031101,
+                    "uid": "HMqgZnOwV",
+                    "edit-time": 1630009031101,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "If you had to celebrate something this week, what would it be?",
+                    "create-time": 1630008922703,
+                    "uid": "V6SaTiwQm",
+                    "edit-time": 1630008922703,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "You have a key to happiness that others may not know about. What’s your key?",
+                    "create-time": 1630009191744,
+                    "uid": "0kj2f_pEU",
+                    "edit-time": 1630009191744,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "dFdRdiimS",
+                "edit-time": 1630010051016,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Return",
+                "create-time": 1630010039302,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "What are some areas of life that came up for everyone?",
+                    "create-time": 1630010039307,
+                    "uid": "AC72oZwW5",
+                    "edit-time": 1630010039307,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "IPaYUbrOB",
+                "edit-time": 1630010039302,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "MPmaHLoLO",
+            "edit-time": 1630009992135,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "edit-time": 1630010112005,
+            "children": [
+              {
+                "string": "Design Notes",
+                "create-time": 1630010091492,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "this category could potentially explore the SOCIAL in “roam book club” deeply",
+                    "create-time": 1630010104202,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "children": [
+                      {
+                        "string": "ack a guiding principle for RBC is to **make a new friend**",
+                        "create-time": 1630010894690,
+                        "uid": "N24lMeUnS",
+                        "edit-time": 1630010917123,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "ack book club buddy system",
+                        "create-time": 1630010157613,
+                        "uid": "jZhBNevJH",
+                        "edit-time": 1630010421779,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      }
+                    ],
+                    "uid": "eacsXNOxT",
+                    "edit-time": 1630010148671,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "d3oaz42W6",
+                "edit-time": 1630010390981,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Goals",
+                "create-time": 1630009945111,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "be present to connection",
+                    "create-time": 1630009945111,
+                    "uid": "R69OGuZ2G",
+                    "edit-time": 1630009945111,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "make a new friend",
+                    "create-time": 1630010127154,
+                    "uid": "szo7ZIw-q",
+                    "edit-time": 1630010925212,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "YlBP1ivvG",
+                "edit-time": 1630009945111,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Questions / Prompts",
+                "create-time": 1630009954006,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "What is the value of friendship in Roam Book Club?",
+                    "create-time": 1630009914584,
+                    "uid": "TCMXEabKO",
+                    "edit-time": 1630009928793,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "What do you feel is unique about the way roamsters get to know each other?",
+                    "create-time": 1630009083695,
+                    "uid": "L2e3qMsB_",
+                    "edit-time": 1630009083695,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "What do you value in a roam book club buddy that makes a great friend outside of Roam?",
+                    "create-time": 1630009108566,
+                    "uid": "_HAd6Vo0s",
+                    "edit-time": 1630009108566,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "What part of connecting and/or talking to people at book club do you appreciate most? Why?",
+                    "create-time": 1630009130020,
+                    "uid": "Ap-hvHjWC",
+                    "edit-time": 1630009130020,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "What are some ways you’ve discovered to connect socially at home?",
+                    "create-time": 1630009139766,
+                    "uid": "v6ICD-iyk",
+                    "edit-time": 1630009139766,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "Share how a roamster supported you recently and how it made a difference",
+                    "create-time": 1630009168974,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "children": [
+                      {
+                        "string": "Or share somewhere you would love to get support right now.",
+                        "create-time": 1630009168980,
+                        "uid": "gSday1AC7",
+                        "edit-time": 1630009168980,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      }
+                    ],
+                    "uid": "DWwB5VJEx",
+                    "edit-time": 1630009168974,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "What is a fun way to share your appreciation with a friend?",
+                    "create-time": 1630009974710,
+                    "uid": "XpMLbzzg6",
+                    "edit-time": 1630009974710,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "kFASH1HSU",
+                "edit-time": 1630010064950,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Return",
+                "create-time": 1630009976979,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "What are some new ways you learned to be social at home?",
+                    "create-time": 1630009976983,
+                    "uid": "UBxNJwayb",
+                    "edit-time": 1630009976983,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "DxAjTh8P7",
+                "edit-time": 1630009976979,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "8YkkqLFH_"
+              }
+            ],
+            "uid": "JHwMWpvP8",
+            ":block/refs": [
+              {
+                ":block/uid": "8YkkqLFH_"
+              }
+            ],
+            "string": "#social",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1630010084554,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "edit-time": 1630010181539,
+            "children": [
+              {
+                "string": "Design Notes",
+                "create-time": 1630010182027,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "this category potentially explores everything “physical” roamsters do/need/think to take care of themselves.",
+                    "create-time": 1630011144495,
+                    "uid": "sNMISO3ik",
+                    "edit-time": 1630011144495,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "opportunity to do an exercise to ground ourselves.",
+                    "create-time": 1630010184642,
+                    "uid": "SjivPs-uC",
+                    "edit-time": 1630011146420,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "-0NOxu1z_",
+                "edit-time": 1630010431039,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Questions / Prompts",
+                "create-time": 1630010195351,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "**Take a deep, re-centering breath. Then, take 30 seconds to do a stretch or two – try to let go of your neck and shoulder tension.**",
+                    "create-time": 1630008922703,
+                    "uid": "Y1okPT8_S",
+                    "edit-time": 1630008922703,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "**Where are you on the stress scale of 1-10, with 1 being cool as a cucumber and 10 being burnt toast?**",
+                    "create-time": 1630008922703,
+                    "uid": "r89KGC7c6",
+                    "edit-time": 1630008922703,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "**How much alone time have you had recently? Did it feel like too much, too little, or just right?**",
+                    "create-time": 1630008922703,
+                    "uid": "Dbz8vsm65",
+                    "edit-time": 1630008922703,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "What are some ways you are moving your body during the pandemic? What are ways you feel you could be?",
+                    "create-time": 1630009290204,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "children": [
+                      {
+                        "string": "examples: dancing, cycling, yoga, meditation, firestaff",
+                        "create-time": 1630009303109,
+                        "uid": "wxYVMVP_t",
+                        "edit-time": 1630009303109,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      }
+                    ],
+                    "uid": "-HCKIMXvs",
+                    "edit-time": 1630009290204,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "Some of us slow down to read a book.  What are some other ways you’ve managed to slow down parts of your life?  What effect has this had?",
+                    "create-time": 1630009455224,
+                    "uid": "e-bNsK55v",
+                    "edit-time": 1630009455224,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "By end of the year, what is a skill, feat of strength or endurance you would like to have accomplished? (eg. workout goal or new skill)",
+                    "create-time": 1630009344313,
+                    "uid": "M7I-YGwxY",
+                    "edit-time": 1630009344313,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "What is a really important way to unplug and/or unwind as a book club lover?",
+                    "create-time": 1630009361580,
+                    "uid": "hfOfOabgt",
+                    "edit-time": 1630009361580,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "AeoJlCrdh",
+                "edit-time": 1630010195351,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Return",
+                "create-time": 1630010207976,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "What are some ways people have learned to slow down?",
+                    "create-time": 1630010209156,
+                    "uid": "6n5l6nFLM",
+                    "edit-time": 1630010209156,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "YFWNI16rb",
+                "edit-time": 1630010207976,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ROFRKm8nO"
+              }
+            ],
+            "uid": "ucWpgAxdr",
+            ":block/refs": [
+              {
+                ":block/uid": "ROFRKm8nO"
+              }
+            ],
+            "string": "#physical",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1630010181539,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "edit-time": 1630010215557,
+            "children": [
+              {
+                "string": "Design Notes",
+                "create-time": 1630010217360,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "this is a deep dive on the “purpose” of Roam Book Club and what has you be here",
+                    "create-time": 1630010219855,
+                    "uid": "qFPVaxCnP",
+                    "edit-time": 1630010225306,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "{{[[TODO]]}} ^^align with Maggie’s RBC6 Range vs Too Good They Can’t Ignore You^^",
+                    "create-time": 1630009795724,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ZuxcbnfVv"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "ZuxcbnfVv"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "uid": "3Q-gYODxE",
+                    "edit-time": 1630009852858,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "t7Qqa8EfD",
+                "edit-time": 1630010443469,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Questions",
+                "create-time": 1630009797519,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "Why Roam Book Club?",
+                    "create-time": 1630009490563,
+                    "uid": "xERcUeK0y",
+                    "edit-time": 1630009494221,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "Live to work or work to live?",
+                    "create-time": 1630008922703,
+                    "uid": "r6SnhkZ2N",
+                    "edit-time": 1630008922703,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "What are one or two reasons why you love books?",
+                    "create-time": 1630009503759,
+                    "uid": "RtTNWVd9Z",
+                    "edit-time": 1630009503759,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "Think about something you love to do. Do you explore it in an organized way or do you wing it and see what happens?  How would you describe the experience of what it’s like to go about exploring this way to someone who does it the opposite way?",
+                    "create-time": 1630008922703,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "children": [
+                      {
+                        "string": "**How would you describe your approach to your career — do you set specific career goals, leave your options open and see what unfolds, or something else?**",
+                        "create-time": 1630008922703,
+                        "uid": "NLq_xyY_u",
+                        "edit-time": 1630008922703,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      }
+                    ],
+                    "uid": "kJ1_q-TNA",
+                    "edit-time": 1630008922703,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "What is a “good” problem to have? What is a good problem you’d like to have?",
+                    "create-time": 1630008922703,
+                    "uid": "2lZKfG4Xb",
+                    "edit-time": 1630008922703,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "What could you give a 40-minute presentation on with no preparation?",
+                    "create-time": 1630008922703,
+                    "uid": "3_oLPIHRD",
+                    "edit-time": 1630008922703,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "What’s your take on the suggestion to “follow your passion”?",
+                    "create-time": 1630008922703,
+                    "uid": "xQF9WmqL4",
+                    "edit-time": 1630008922703,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "What is something you believe about your profession that a lot of people would disagree with?",
+                    "create-time": 1630008922703,
+                    "uid": "jxT4ptyNw",
+                    "edit-time": 1630008922703,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "_8uWNnZWj",
+                "edit-time": 1630010235787,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Return",
+                "create-time": 1630010254458,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "what are some “good problems to have?",
+                    "create-time": 1630010254462,
+                    "uid": "FUcMAQ8XC",
+                    "edit-time": 1630010254462,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "0SQgFcIhc",
+                "edit-time": 1630010254458,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "IVYyvJRQg"
+              }
+            ],
+            "uid": "AN5L9xYUx",
+            ":block/refs": [
+              {
+                ":block/uid": "IVYyvJRQg"
+              }
+            ],
+            "string": "#purpose",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1630010213051,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "edit-time": 1630010275702,
+            "children": [
+              {
+                "string": "Design Notes",
+                "create-time": 1630010284248,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "so this is not such a charged topic, I want this to focus on the gift economy (a la Burning Man) (one “money’ question is okay but the intent is to shift/reframe)",
+                    "create-time": 1630010293895,
+                    "uid": "zZ7RJOOL1",
+                    "edit-time": 1630010302031,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "^^this could frame a future book club around [[The Zeitgeist Movement Defined]]^^",
+                    "create-time": 1630010305050,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "XqRDN324C"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "XqRDN324C"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "uid": "VVLKGMB7L",
+                    "edit-time": 1630011172983,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "1gwEfU7Fg",
+                "edit-time": 1630010453891,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Pre-game scripting",
+                "create-time": 1630009683747,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "Money is potentially a charged topic for some of us.",
+                    "create-time": 1630009686993,
+                    "uid": "nAHNd68QP",
+                    "edit-time": 1630009686993,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "Our goal today is to think openly about what money is and maybe even the *function* of money.",
+                    "create-time": 1630009692330,
+                    "uid": "wpkEFa4tQ",
+                    "edit-time": 1630009692330,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "Nobody is obligated to say anything they are not comfortable with. We’re not going to ask what your income is.",
+                    "create-time": 1630009703204,
+                    "uid": "47-mDIKgn",
+                    "edit-time": 1630009703204,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "edit-time": 1630011221081,
+                    "refs": [
+                      {
+                        "uid": "57wO-ru2F"
+                      }
+                    ],
+                    "uid": "I_zyBYRK4",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "57wO-ru2F"
+                      }
+                    ],
+                    "string": "We’re here to create a safe space. ^^opportunity to borrow vulnerability of what made [[The Culture Code]] a safe safe^^",
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "create-time": 1630011221081,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "heading": 2
+                  }
+                ],
+                "uid": "m25adEimO",
+                "edit-time": 1630010567031,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Questions / Prompts",
+                "create-time": 1630010314344,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "Did you get anything (thing, experience, feeling) over the holidays that made you really happy? Why?",
+                    "create-time": 1630008922703,
+                    "uid": "yMGcasCwQ",
+                    "edit-time": 1630008922703,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "**If you had a year *all-expenses paid* to live anywhere you want and work on something?  What would you do and where would you go?**",
+                    "create-time": 1630008922703,
+                    "uid": "ek0q1kHF2",
+                    "edit-time": 1630008922703,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "What would life be like if we all had enough money to go around?",
+                    "create-time": 1630008922703,
+                    "uid": "WAIgIU_Uo",
+                    "edit-time": 1630008922703,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "In what ways has the pandemic changed your views of money?",
+                    "create-time": 1630008922703,
+                    "uid": "Tl3gaVBVq",
+                    "edit-time": 1630008922703,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "What’s the last thing you bought yourself? What was the experience like?",
+                    "create-time": 1630008922703,
+                    "uid": "vTWJ7VVyq",
+                    "edit-time": 1630008922703,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "In what ways do you feel our book club has a different relationship with money?",
+                    "create-time": 1630010784185,
+                    "uid": "YuzdSHYgo",
+                    "edit-time": 1630010784185,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "If you ran the world, what would we use instead of money?",
+                    "create-time": 1630009674525,
+                    "uid": "AzpDdDUCJ",
+                    "edit-time": 1630009674525,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "kXx8iIT7_",
+                "edit-time": 1630010320377,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Return",
+                "create-time": 1630010330719,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "What all-expense destinations and activities did everyone come up with?",
+                    "create-time": 1630010331833,
+                    "uid": "H9_PW2AsL",
+                    "edit-time": 1630010331833,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "Vv_Uj12Go",
+                "edit-time": 1630010330719,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "VDLLRhY8c"
+              }
+            ],
+            "uid": "JhWjRUsFz",
+            ":block/refs": [
+              {
+                ":block/uid": "VDLLRhY8c"
+              }
+            ],
+            "string": "#financial",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1630010275702,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "edit-time": 1630010472816,
+            "children": [
+              {
+                "string": "Design Notes",
+                "create-time": 1630010473270,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "{{[[TODO]]}} ^^align with [[The Culture Code]]^^ [[Matt B]]",
+                    "create-time": 1630010487945,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ZuxcbnfVv"
+                      },
+                      {
+                        ":block/uid": "57wO-ru2F"
+                      },
+                      {
+                        ":block/uid": "Iuv1OPPbr"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "ZuxcbnfVv"
+                      },
+                      {
+                        "uid": "57wO-ru2F"
+                      },
+                      {
+                        "uid": "Iuv1OPPbr"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "uid": "iIJfw7I4u",
+                    "edit-time": 1630011239952,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "TsnrT_SuX",
+                "edit-time": 1630010478255,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Pre Game scripting",
+                "create-time": 1630010550233,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "Social and Community wellbeing are distinct",
+                    "create-time": 1630010527532,
+                    "uid": "cIJrh7ar8",
+                    "edit-time": 1630011014762,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "#social wellbeing is more about being yourself and [one close friendship]",
+                    "create-time": 1630010536518,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "8YkkqLFH_"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "8YkkqLFH_"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "uid": "neandbz48",
+                    "edit-time": 1630011006009,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "#community wellbeing is more about a sense of belonging [social impact]",
+                    "create-time": 1630010986067,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "IsQfKNYKI"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "IsQfKNYKI"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "uid": "0nB0mWZhM",
+                    "edit-time": 1630011009897,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "Yes, they are related and we hope these questions will help highlight the difference in focus!",
+                    "create-time": 1630010545057,
+                    "uid": "CSE1ucRlR",
+                    "edit-time": 1630010986071,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "7kBUYLZNH",
+                "edit-time": 1630010562751,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Questions",
+                "create-time": 1630010575981,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "What’s special about the place you grew up?",
+                    "create-time": 1630008922703,
+                    "uid": "daF4XkdLj",
+                    "edit-time": 1630008922703,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "How would you describe your first impression of our book club community?",
+                    "create-time": 1630010970483,
+                    "uid": "PPdB6OwHD",
+                    "edit-time": 1630010970483,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "Share a favorite story you have about your experience with book club",
+                    "create-time": 1630010618324,
+                    "uid": "O4iyjD4Wz",
+                    "edit-time": 1630010618324,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "What is something you feel makes our community unique?",
+                    "create-time": 1630008922703,
+                    "uid": "RsVmxI604",
+                    "edit-time": 1630008922703,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "**What's one community you'd love to bring Roam to? Why? How would it change our experience of book club?**",
+                    "create-time": 1630010655451,
+                    "uid": "M4tpBAEoR",
+                    "edit-time": 1630010655451,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "What is your favorite way to give back to community?",
+                    "create-time": 1630008922703,
+                    "uid": "4z1bq9VbO",
+                    "edit-time": 1630008922703,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "**Think about a time you’ve travelled in the past. What are 2 or 3 go-to activities to get to know a new city and/or community? (besides book clubs :)**",
+                    "create-time": 1630010761540,
+                    "uid": "TLQsxH6d4",
+                    "edit-time": 1630010761540,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "6KDtsGnwR",
+                "edit-time": 1630010580070,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Return",
+                "create-time": 1630010669915,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "What are some favorite ways to give back to community?",
+                    "create-time": 1630010669919,
+                    "uid": "aKhUZV0OT",
+                    "edit-time": 1630010669919,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "pPf1Cdpx7",
+                "edit-time": 1630010669915,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "IsQfKNYKI"
+              }
+            ],
+            "uid": "r63BYa3Op",
+            ":block/refs": [
+              {
+                ":block/uid": "IsQfKNYKI"
+              }
+            ],
+            "string": "#community",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1630010468909,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Bringing it together",
+            "create-time": 1630008922703,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "Questions",
+                "create-time": 1630010695302,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "What’s one thing you want to take away from today?",
+                    "create-time": 1630008922703,
+                    "uid": "RZ4hHOSjh",
+                    "edit-time": 1630008922703,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "How has your perspective on wellbeing changed today?",
+                    "create-time": 1630008922703,
+                    "uid": "RhXjiiSrB",
+                    "edit-time": 1630008922703,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "Which of the five elements would you like to develop more of in the next month? (hint: social, physical, purpose, financial, community)  How might this look?",
+                    "create-time": 1630008922703,
+                    "uid": "TpIETEiul",
+                    "edit-time": 1630008922703,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "What is an element is your superpower that props up weaker elements? In what ways?",
+                    "create-time": 1630008922703,
+                    "uid": "kyyOQjhMj",
+                    "edit-time": 1630008922703,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "Any thoughts as to what element our book club should deep dive into?",
+                    "create-time": 1630010731080,
+                    "uid": "tXLkxDwuw",
+                    "edit-time": 1630010731080,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "Anything else you'd like to say before we finish up?",
+                    "create-time": 1630008922703,
+                    "uid": "VpYVjQRxP",
+                    "edit-time": 1630008922703,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "rs1FZKqhd",
+                "edit-time": 1630010697668,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Return",
+                "create-time": 1630010708932,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "What are some things people got out of today?",
+                    "create-time": 1630010708936,
+                    "uid": "eoNpTY6ln",
+                    "edit-time": 1630010708936,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "a4UruPTOS",
+                "edit-time": 1630010708932,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "v5baAAtZf",
+            "edit-time": 1630008922703,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "GTaAMQyBk",
+        "edit-time": 1630011106277,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      }
+    ],
+    "uid": "Nx9Lpod3H",
+    "edit-time": 1629658907731,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }

@@ -1,0 +1,113 @@
+- Art of Wellbeing design adapted with special thanks to [Bay Area micro fusion](http://bamf.dance) Icebreaker social in January 2021
+    - A New Year
+        - Design Notes
+            - the intent of this game is to be a "warmup" and stay in the confines of "what is wellbeing?"
+        - Goals
+            - Presence a framework exists beyond “physical wellbeing”
+        - Questions / Prompts
+            - What brings you here today?
+            - What comes to mind when you hear the word “wellbeing?”
+            - Share 2 or 3 areas of life you are focused on (eg. friends, community, etc). Which area is most important to you and why?
+            - What is something you want more of in your life right now?
+            - What is something you look forward to in 2022?
+            - If you had to celebrate something this week, what would it be?
+            - You have a key to happiness that others may not know about. What’s your key?
+        - Return
+            - What are some areas of life that came up for everyone?
+    - #social
+        - Design Notes
+            - this category could potentially explore the SOCIAL in “roam book club” deeply
+                - ack a guiding principle for RBC is to **make a new friend**
+                - ack book club buddy system
+        - Goals
+            - be present to connection
+            - make a new friend
+        - Questions / Prompts
+            - What is the value of friendship in Roam Book Club?
+            - What do you feel is unique about the way roamsters get to know each other?
+            - What do you value in a roam book club buddy that makes a great friend outside of Roam?
+            - What part of connecting and/or talking to people at book club do you appreciate most? Why?
+            - What are some ways you’ve discovered to connect socially at home?
+            - Share how a roamster supported you recently and how it made a difference
+                - Or share somewhere you would love to get support right now.
+            - What is a fun way to share your appreciation with a friend?
+        - Return
+            - What are some new ways you learned to be social at home?
+    - #physical
+        - Design Notes
+            - this category potentially explores everything “physical” roamsters do/need/think to take care of themselves.
+            - opportunity to do an exercise to ground ourselves.
+        - Questions / Prompts
+            - **Take a deep, re-centering breath. Then, take 30 seconds to do a stretch or two – try to let go of your neck and shoulder tension.**
+            - **Where are you on the stress scale of 1-10, with 1 being cool as a cucumber and 10 being burnt toast?**
+            - **How much alone time have you had recently? Did it feel like too much, too little, or just right?**
+            - What are some ways you are moving your body during the pandemic? What are ways you feel you could be?
+                - examples: dancing, cycling, yoga, meditation, firestaff
+            - Some of us slow down to read a book.  What are some other ways you’ve managed to slow down parts of your life?  What effect has this had?
+            - By end of the year, what is a skill, feat of strength or endurance you would like to have accomplished? (eg. workout goal or new skill)
+            - What is a really important way to unplug and/or unwind as a book club lover?
+        - Return
+            - What are some ways people have learned to slow down?
+    - #purpose
+        - Design Notes
+            - this is a deep dive on the “purpose” of Roam Book Club and what has you be here
+            - {{[[TODO]]}} ^^align with Maggie’s RBC6 Range vs Too Good They Can’t Ignore You^^
+        - Questions
+            - Why Roam Book Club?
+            - Live to work or work to live?
+            - What are one or two reasons why you love books?
+            - Think about something you love to do. Do you explore it in an organized way or do you wing it and see what happens?  How would you describe the experience of what it’s like to go about exploring this way to someone who does it the opposite way?
+                - **How would you describe your approach to your career — do you set specific career goals, leave your options open and see what unfolds, or something else?**
+            - What is a “good” problem to have? What is a good problem you’d like to have?
+            - What could you give a 40-minute presentation on with no preparation?
+            - What’s your take on the suggestion to “follow your passion”?
+            - What is something you believe about your profession that a lot of people would disagree with?
+        - Return
+            - what are some “good problems to have?
+    - #financial
+        - Design Notes
+            - so this is not such a charged topic, I want this to focus on the gift economy (a la Burning Man) (one “money’ question is okay but the intent is to shift/reframe)
+            - ^^this could frame a future book club around [[The Zeitgeist Movement Defined]]^^
+        - Pre-game scripting
+            - Money is potentially a charged topic for some of us.
+            - Our goal today is to think openly about what money is and maybe even the *function* of money.
+            - Nobody is obligated to say anything they are not comfortable with. We’re not going to ask what your income is.
+            - ## We’re here to create a safe space. ^^opportunity to borrow vulnerability of what made [[The Culture Code]] a safe safe^^
+        - Questions / Prompts
+            - Did you get anything (thing, experience, feeling) over the holidays that made you really happy? Why?
+            - **If you had a year *all-expenses paid* to live anywhere you want and work on something?  What would you do and where would you go?**
+            - What would life be like if we all had enough money to go around?
+            - In what ways has the pandemic changed your views of money?
+            - What’s the last thing you bought yourself? What was the experience like?
+            - In what ways do you feel our book club has a different relationship with money?
+            - If you ran the world, what would we use instead of money?
+        - Return
+            - What all-expense destinations and activities did everyone come up with?
+    - #community
+        - Design Notes
+            - {{[[TODO]]}} ^^align with [[The Culture Code]]^^ [[Matt B]]
+        - Pre Game scripting
+            - Social and Community wellbeing are distinct
+            - #social wellbeing is more about being yourself and [one close friendship]
+            - #community wellbeing is more about a sense of belonging [social impact]
+            - Yes, they are related and we hope these questions will help highlight the difference in focus!
+        - Questions
+            - What’s special about the place you grew up?
+            - How would you describe your first impression of our book club community?
+            - Share a favorite story you have about your experience with book club
+            - What is something you feel makes our community unique?
+            - **What's one community you'd love to bring Roam to? Why? How would it change our experience of book club?**
+            - What is your favorite way to give back to community?
+            - **Think about a time you’ve travelled in the past. What are 2 or 3 go-to activities to get to know a new city and/or community? (besides book clubs :)**
+        - Return
+            - What are some favorite ways to give back to community?
+    - ## Bringing it together
+        - Questions
+            - What’s one thing you want to take away from today?
+            - How has your perspective on wellbeing changed today?
+            - Which of the five elements would you like to develop more of in the next month? (hint: social, physical, purpose, financial, community)  How might this look?
+            - What is an element is your superpower that props up weaker elements? In what ways?
+            - Any thoughts as to what element our book club should deep dive into?
+            - Anything else you'd like to say before we finish up?
+        - Return
+            - What are some things people got out of today?
