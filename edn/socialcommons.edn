@@ -52423,8 +52423,8 @@
   [4572 :version/id "0.8.8" 536877719]
   [4572
    :version/nonce
-   "uuidd63fd526-b4d8-4c50-8554-3929cbfbce99"
-   536877764]
+   "uuidd8274d0c-bcbd-433d-a573-c3ef3cf2f5da"
+   536877765]
   [4573 :block/uid "08-13-2021" 536877720]
   [4573 :create/time 1628815164056 536877720]
   [4573 :create/user 1 536877720]
@@ -53839,5 +53839,12 @@
   [4709
    :block/string
    "From: Roam Book Club for Wellbeing.json"
-   536877742] 
-  [4709 :block/uid "12-K18ZRU" 536877742]]}
+   536877742]
+  [4709 :block/uid "12-K18ZRU" 536877742]
+  [4710 :block/uid "08-27-2021" 536877765]
+  [4710 :create/time 1630024882188 536877765]
+  [4710 :create/user 1 536877765]
+  [4710 :edit/time 1630024882188 536877765]
+  [4710 :edit/user 1 536877765]
+  [4710 :log/id 1630024882188 536877765]
+  [4710 :node/title "August 27th, 2021" 536877765]]}
