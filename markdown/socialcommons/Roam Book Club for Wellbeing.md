@@ -1,3 +1,4 @@
+- see [[Start Here]] for initial thoughts
 - Art of Wellbeing design adapted with special thanks to [Bay Area micro fusion](http://bamf.dance) Icebreaker social in January 2021
     - A New Year
         - Design Notes

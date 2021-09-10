@@ -61442,6 +61442,28 @@
     },
     "children": [
       {
+        "string": "see [[Start Here]] for initial thoughts",
+        "create-time": 1631229602673,
+        ":block/refs": [
+          {
+            ":block/uid": "2aXzadfr6"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "2aXzadfr6"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "uid": "F4n1au6cQ",
+        "edit-time": 1631229664232,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
         "string": "Art of Wellbeing design adapted with special thanks to [Bay Area micro fusion](http://bamf.dance) Icebreaker social in January 2021",
         "create-time": 1630008903761,
         ":create/user": {
@@ -63161,6 +63183,18 @@
     "title": "September 9th, 2021",
     "uid": "09-09-2021",
     "edit-time": 1631148037041,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1631234597112,
+    "title": "September 10th, 2021",
+    "uid": "09-10-2021",
+    "edit-time": 1631234597112,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },

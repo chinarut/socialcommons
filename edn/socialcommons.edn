@@ -52423,8 +52423,8 @@
   [4572 :version/id "0.8.8" 536877719]
   [4572
    :version/nonce
-   "uuid3a90222d-7115-4d82-b8b5-a6152073a70b"
-   536877778]
+   "uuid59e3ee05-940a-4aa3-9356-ba101f085153"
+   536877786]
   [4573 :block/uid "08-13-2021" 536877720]
   [4573 :create/time 1628815164056 536877720]
   [4573 :create/user 1 536877720]
@@ -52557,6 +52557,7 @@
   [4592 :log/id 1629938130386 536877740]
   [4592 :node/title "August 26th, 2021" 536877740]
   [4593 :block/children 4594 536877741]
+  [4593 :block/children 4724 536877779]
   [4593 :block/open true 536877741]
   [4593 :block/uid "Nx9Lpod3H" 536877742]
   [4593 :create/time 1630011299754 536877742]
@@ -52572,7 +52573,7 @@
   [4594 :block/children 4679 536877741]
   [4594 :block/children 4697 536877741]
   [4594 :block/open true 536877743]
-  [4594 :block/order 0 536877741]
+  [4594 :block/order 1 536877779]
   [4594
    :block/string
    "Art of Wellbeing design adapted with special thanks to [Bay Area micro fusion](http://bamf.dance) Icebreaker social in January 2021"
@@ -53938,4 +53939,25 @@
   [4723 :edit/time 1631148037041 536877778]
   [4723 :edit/user 1 536877778]
   [4723 :log/id 1631148037040 536877778]
-  [4723 :node/title "September 9th, 2021" 536877778]]}
+  [4723 :node/title "September 9th, 2021" 536877778]
+  [4724 :block/open true 536877779]
+  [4724 :block/order 0 536877779]
+  [4724 :block/page 4593 536877780]
+  [4724 :block/parents 4593 536877780]
+  [4724 :block/refs 4447 536877784]
+  [4724
+   :block/string
+   "see [[Start Here]] for initial thoughts"
+   536877785]
+  [4724 :block/uid "F4n1au6cQ" 536877779]
+  [4724 :create/time 1631229602673 536877779]
+  [4724 :create/user 1 536877779]
+  [4724 :edit/time 1631229664232 536877785]
+  [4724 :edit/user 1 536877779]
+  [4725 :block/uid "09-10-2021" 536877786]
+  [4725 :create/time 1631234597112 536877786]
+  [4725 :create/user 1 536877786]
+  [4725 :edit/time 1631234597112 536877786]
+  [4725 :edit/user 1 536877786]
+  [4725 :log/id 1631234597111 536877786]
+  [4725 :node/title "September 10th, 2021" 536877786]]}
