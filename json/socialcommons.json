@@ -63265,11 +63265,25 @@
   {
     "create-time": 1631752846120,
     "title": "September 16th, 2021",
-    "uid": "09-16-2021",
-    "edit-time": 1631752846120,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    "children": [
+      {
+        "string": "dafads",
+        "create-time": 1631999720040,
+        "uid": "YADPmCJgw",
+        "edit-time": 1631999721967,
+        ":create/user": {
+          ":user/uid": "2rYShYj8eBfs0CFGPOBkPpDvZ5T2"
+        },
+        ":edit/user": {
+          ":user/uid": "2rYShYj8eBfs0CFGPOBkPpDvZ5T2"
+        }
+      }
+    ],
+    "uid": "09-16-2021",
+    "edit-time": 1631752846120,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63289,13 +63303,39 @@
   {
     "create-time": 1631925503341,
     "title": "September 18th, 2021",
-    "uid": "09-18-2021",
-    "edit-time": 1631925503341,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1631999716797,
+        "uid": "7bR3Mj1KI",
+        "edit-time": 1631999716797,
+        ":create/user": {
+          ":user/uid": "2rYShYj8eBfs0CFGPOBkPpDvZ5T2"
+        },
+        ":edit/user": {
+          ":user/uid": "2rYShYj8eBfs0CFGPOBkPpDvZ5T2"
+        }
+      }
+    ],
+    "uid": "09-18-2021",
+    "edit-time": 1631925503341,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1631999713954,
+    "title": "Martin Safrin",
+    "uid": "YskJ9AEaV",
+    "edit-time": 1631999713954,
+    ":create/user": {
+      ":user/uid": "2rYShYj8eBfs0CFGPOBkPpDvZ5T2"
+    },
+    ":edit/user": {
+      ":user/uid": "2rYShYj8eBfs0CFGPOBkPpDvZ5T2"
     }
   }
 ]
