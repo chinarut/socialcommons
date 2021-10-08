@@ -39440,6 +39440,7 @@
   [3341 :node/title "March 28th, 2021" 536873681]
   [3342 :block/uid "uOc9-zcOY" 536873682]
   [3342 :user/display-name "Matt Brockwell" 536873682]
+  [3342 :user/display-page 793 536877824]
   [3342
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiyIFniRyCfK72j7CsUpaFCxnivsjn7UC4zxqDLlOs=s96-c"
@@ -52424,8 +52425,8 @@
   [4572 :version/id "0.8.8" 536877719]
   [4572
    :version/nonce
-   "uuid22c059b0-6f6c-45bf-a097-49f749f20336"
-   536877823]
+   "uuidd36e13c4-c2f2-4741-bc5d-7d961c069a75"
+   536877824]
   [4573 :block/uid "08-13-2021" 536877720]
   [4573 :create/time 1628815164056 536877720]
   [4573 :create/user 1 536877720]
