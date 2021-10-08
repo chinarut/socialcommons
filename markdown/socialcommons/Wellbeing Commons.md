@@ -30,12 +30,12 @@
     - [[opportunities for coaching]] naturally emerge
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsocialcommons%2FX02OmXDM64.png?alt=media&token=32c6d69b-aad2-4ee3-8791-487433c391f8)
 - meta structures / possible partners
-    - [[Weave Your Legacy]] - key ideas: [[weaving elements of life together]] [[weaving elements together]]
+    1. [[Weave Your Legacy]] - key ideas: [[weaving elements of life together]] [[weaving elements together]]
         - [[commons-driven community development]] influenced by [[Business Model You]], a derivative of [[Business Model Canvas]]
-    - [[Roam Research]] - one of many platforms/components with a very active #multiplayer conversation that can still be shaped by the specific use cases of a Wellbeing Commons
+    2. [[Roam Research]] - one of many platforms/components with a very active #multiplayer conversation that can still be shaped by the specific use cases of a Wellbeing Commons
         - [The Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora/page/wujSyfjAu) #multiplayer (suggested exploration by [[Joel Chan]])
-    - [[Landmark Worldwide]] - professional training/development company providing coaching based on [[transformative learning]]. A [[social commons]] is a key #inquiry in the [[Wisdom Area]] of the organization/community
-    - [[Gallup]] - management consultancy best known for its StrengthsFinder platform (now CliftonStrengths) - operates under a similar premise there is value focusing on 5 primary lines of thought for a set period of time
+    3. [[Landmark Worldwide]] - professional training/development company providing coaching based on [[transformative learning]]. A [[social commons]] is a key #inquiry in the [[Wisdom Area]] of the organization/community
+    4. [[Gallup]] - management consultancy best known for its StrengthsFinder platform (now CliftonStrengths) - operates under a similar premise there is value focusing on 5 primary lines of thought for a set period of time
 - unknowns
     - the role of dance/movement communities [[BAmF]]
     - the role of communities that bring the benefits of dance out to the masses [[Dance Labs]]

@@ -39008,6 +39008,7 @@
   [3293 :block/parents 10 536873292]
   [3293 :block/string "meta structures / possible partners" 536873590]
   [3293 :block/uid "kEGpyS6GJ" 536873291]
+  [3293 :children/view-type :numbered 536877823]
   [3293 :create/time 1616363968778 536873291]
   [3293 :create/user 1 536873291]
   [3293 :edit/time 1616370155448 536873590]
@@ -39121,7 +39122,7 @@
   [3305 :edit/time 1616364938552 536873381]
   [3305 :edit/user 1 536873377]
   [3306 :block/children 3307 536873388]
-  [3306 :block/open true 536873641]
+  [3306 :block/open false 536877822]
   [3306 :block/order 2 536873599]
   [3306 :block/page 10 536873383]
   [3306 :block/parents 10 536873383]
@@ -52423,8 +52424,8 @@
   [4572 :version/id "0.8.8" 536877719]
   [4572
    :version/nonce
-   "uuid2cb315e8-e9e5-4d49-9214-fc81e3362187"
-   536877821]
+   "uuid22c059b0-6f6c-45bf-a097-49f749f20336"
+   536877823]
   [4573 :block/uid "08-13-2021" 536877720]
   [4573 :create/time 1628815164056 536877720]
   [4573 :create/user 1 536877720]
