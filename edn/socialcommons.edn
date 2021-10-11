@@ -49637,6 +49637,7 @@
   [4263 :create/time 1623026827412 536876218]
   [4263 :create/user 1 536876218]
   [4263 :edit/seen-by 1 536876225]
+  [4263 :edit/seen-by 4767 536877836]
   [4263 :edit/time 1626201684438 536876842]
   [4263 :edit/user 1 536876218]
   [4263 :node/title "📜 Directory of Members" 536876842]
@@ -49683,6 +49684,7 @@
   [4268 :children/view-type :numbered 536876839]
   [4268 :create/time 1623026876592 536876230]
   [4268 :create/user 1 536876230]
+  [4268 :edit/seen-by 4767 536877836]
   [4268 :edit/time 1623026888289 536876232]
   [4268 :edit/user 1 536876230]
   [4269 :block/open true 536876233]
@@ -49702,6 +49704,7 @@
   [4269 :children/view-type :bullet 536876255]
   [4269 :create/time 1623026888684 536876233]
   [4269 :create/user 1 536876233]
+  [4269 :edit/seen-by 4767 536877836]
   [4269 :edit/time 1623026913842 536876239]
   [4269 :edit/user 1 536876233]
   [4270 :attrs/lookup 520 536876448]
@@ -52425,8 +52428,8 @@
   [4572 :version/id "0.8.8" 536877719]
   [4572
    :version/nonce
-   "uuidc9d26d75-6d78-4078-84f0-0ad0685c0643"
-   536877835]
+   "uuidb03f1a6e-1210-4541-9d2d-809acf5e1656"
+   536877837]
   [4573 :block/uid "08-13-2021" 536877720]
   [4573 :create/time 1628815164056 536877720]
   [4573 :create/user 1 536877720]
@@ -54250,6 +54253,11 @@
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GgggOh3woauT1Hdj-XHG8lu7T9RMPTgrrDxKsAbXw=s96-c"
    536877834]
+  [4767
+   :user/settings
+   {:namespace-options [:none :partial :full],
+    :right-sidebar-pinned {}}
+   536877837]
   [4767 :user/uid "2aJtiBNG78QyBjU61FsinU2GgCg2" 536877834]
   [4768 :block/uid "_H-HzyBRS" 536877834]
   [4768 :create/time 1633907762969 536877835]
