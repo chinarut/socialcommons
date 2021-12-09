@@ -54657,6 +54657,7 @@
   [4824 :edit/user 1 536877893]
   [4824 :log/id 1638924253909 536877893]
   [4824 :node/title "December 8th, 2021" 536877893]
+  [4825 :block/children 4828 536877897]
   [4825 :block/uid "12-09-2021" 536877894]
   [4825 :create/time 1639010544474 536877894]
   [4825 :create/user 1 536877894]
@@ -54672,4 +54673,17 @@
   [4827 :create/user 4826 536877896]
   [4827 :edit/time 1639027872496 536877896]
   [4827 :edit/user 4826 536877896]
-  [4827 :node/title "Anonymous_5" 536877896]]}
+  [4827 :node/title "Anonymous_5" 536877896]
+  [4828 :block/open true 536877897]
+  [4828 :block/order 0 536877897]
+  [4828 :block/page 4825 536877898]
+  [4828 :block/parents 4825 536877898]
+  [4828 :block/string "" 536877897]
+  [4828 :block/uid "qAViCne5f" 536877897]
+  [4828 :create/time 1639037684407 536877897]
+  [4828 :edit/time 1639037684407 536877897]
+  [4829 :version/id "0.9.0" 536877897]
+  [4829
+   :version/nonce
+   "uuidb97d7e4a-7c95-4296-8920-01b3241cff7d" 
+   536877898]]}
