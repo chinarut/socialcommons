@@ -52567,9 +52567,9 @@
   [4593 :block/uid "Nx9Lpod3H" 536877742]
   [4593 :create/time 1630011299754 536877742]
   [4593 :create/user 1 536877741]
-  [4593 :edit/time 1629658907731 536877741]
+  [4593 :edit/time 1639073093961 536877899]
   [4593 :edit/user 1 536877741]
-  [4593 :node/title "Roam Book Club for Wellbeing" 536877741]
+  [4593 :node/title "Wellbeing Book Club" 536877899]
   [4594 :block/children 4595 536877741]
   [4594 :block/children 4610 536877741]
   [4594 :block/children 4629 536877741]
@@ -53838,8 +53838,9 @@
   [4708 :block/open true 536877742]
   [4708 :block/order 0 536877742]
   [4708 :block/refs 4593 536877742]
-  [4708 :block/string "[[Roam Book Club for Wellbeing]]" 536877742]
+  [4708 :block/string "[[Wellbeing Book Club]]" 536877899]
   [4708 :block/uid "QFGaLQNPi" 536877742]
+  [4708 :edit/time 1639073093961 536877899]
   [4709 :block/open true 536877742]
   [4709 :block/order 0 536877742]
   [4709
@@ -54685,5 +54686,5 @@
   [4829 :version/id "0.9.0" 536877897]
   [4829
    :version/nonce
-   "uuidb97d7e4a-7c95-4296-8920-01b3241cff7d" 
-   536877898]]}
+   "uuid7736b160-7342-465e-addd-28e46ee7d1bc" 
+   536877899]]}

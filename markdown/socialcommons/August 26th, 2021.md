@@ -1,3 +1,3 @@
 - Import
-    - [[Roam Book Club for Wellbeing]]
+    - [[Wellbeing Book Club]]
         - From: Roam Book Club for Wellbeing.json

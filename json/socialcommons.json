@@ -61405,7 +61405,7 @@
         "string": "Import",
         "children": [
           {
-            "string": "[[Roam Book Club for Wellbeing]]",
+            "string": "[[Wellbeing Book Club]]",
             "refs": [
               {
                 "uid": "Nx9Lpod3H"
@@ -61418,6 +61418,7 @@
               }
             ],
             "uid": "QFGaLQNPi",
+            "edit-time": 1639073093961,
             ":block/refs": [
               {
                 ":block/uid": "Nx9Lpod3H"
@@ -61436,7 +61437,7 @@
   },
   {
     "create-time": 1630011299754,
-    "title": "Roam Book Club for Wellbeing",
+    "title": "Wellbeing Book Club",
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
@@ -63017,7 +63018,7 @@
       }
     ],
     "uid": "Nx9Lpod3H",
-    "edit-time": 1629658907731,
+    "edit-time": 1639073093961,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
