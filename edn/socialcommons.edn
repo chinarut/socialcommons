@@ -54689,8 +54689,8 @@
   [4829 :version/id "0.9.0" 536877897]
   [4829
    :version/nonce
-   "uuid85478a5e-6e39-46d7-ace7-0712980e826a"
-   536878339]
+   "uuid93b83101-8ba7-4274-b975-73201cdda4dc"
+   536878342]
   [4830 :block/uid "12-10-2021" 536877900]
   [4830 :create/time 1639097007972 536877900]
   [4830 :create/user 1 536877900]
@@ -55731,10 +55731,10 @@
   [4934 :block/parents 4903 536878328]
   [4934
    :block/string
-   "Newsletter reactions & emoji reactions in general"
-   536878339]
+   "How to use Newsletter reactions (Andy's suggestions) & emoji reactions in general"
+   536878342]
   [4934 :block/uid "mkRg8o0bq" 536878327]
   [4934 :create/time 1642774357399 536878327]
   [4934 :create/user 4872 536878327]
-  [4934 :edit/time 1642774386509 536878339]
+  [4934 :edit/time 1642777854868 536878342]
   [4934 :edit/user 4872 536878327]]}
