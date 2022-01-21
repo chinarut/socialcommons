@@ -65262,10 +65262,36 @@
             }
           },
           {
-            "string": "willing ambigitous",
+            "string": "tolerance for ambiguity",
             "create-time": 1642725565558,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "discover how Roam supports community building",
+                "create-time": 1642725807051,
+                "uid": "Vg-ZXPtar",
+                "edit-time": 1642725819454,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
             "uid": "Zl4LDIYbi",
-            "edit-time": 1642725775815,
+            "edit-time": 1642725803324,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "",
+            "create-time": 1642725819451,
+            "uid": "H-mYndqW4",
+            "edit-time": 1642725819451,
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
