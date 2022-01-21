@@ -29,6 +29,7 @@
             - don't delete something that someone else has added
             - Approach the graph with kindness toward yourself and others
             - Confidentiality on the graph? This is about who has the right of disclosure. So you can disclose what you contributed but cannot disclose what others contribute
+        - News
     - tolerance for ambiguity
         - discover how Roam supports community building
     - Vincent StrengthFinder is recognizable
