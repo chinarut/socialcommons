@@ -28,4 +28,15 @@
             - don’t edit someone personal page
     - tolerance for ambiguity
         - discover how Roam supports community building
-    - 
+    - Vincent StrengthFinder is recognizable
+        - story of Gallup (without pitching Gallup!)
+    - 5 buckets (akin to why top 5 strengths)
+        - helps in face of breakdown
+        - {{[[TODO]]}} chunking it down
+    - filter graph based on the elements
+    - facilitator guide
+        - what do we do?
+    - type in chat, answer in the newsletter
+    - [[Q/What is Wellbeing?]]
+    - Survey of interaction >> for newsletter
+    - {{[[TODO]]}} Calendar subscription

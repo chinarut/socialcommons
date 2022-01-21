@@ -65288,13 +65288,181 @@
             }
           },
           {
-            "string": "",
-            "create-time": 1642725819451,
-            "uid": "H-mYndqW4",
-            "edit-time": 1642725819451,
+            "string": "Vincent StrengthFinder is recognizable",
+            "create-time": 1642729455427,
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
+            "children": [
+              {
+                "string": "story of Gallup (without pitching Gallup!)",
+                "create-time": 1642729455427,
+                "uid": "hAUh0ueLh",
+                "edit-time": 1642729455427,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "H3TTGmK7U",
+            "edit-time": 1642729455427,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "5 buckets (akin to why top 5 strengths)",
+            "create-time": 1642729455427,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "helps in face of breakdown",
+                "create-time": 1642729455427,
+                "uid": "TlXvhiun_",
+                "edit-time": 1642729455427,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "{{[[TODO]]}} chunking it down",
+                "create-time": 1642729455427,
+                ":block/refs": [
+                  {
+                    ":block/uid": "ZuxcbnfVv"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "ZuxcbnfVv"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "kMHDvts4r",
+                "edit-time": 1642729455427,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "R0N85p9hK",
+            "edit-time": 1642729455427,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "filter graph based on the elements",
+            "create-time": 1642726216714,
+            "uid": "W1yTF1iNk",
+            "edit-time": 1642726228316,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "facilitator guide",
+            "create-time": 1642726624988,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "what do we do?",
+                "create-time": 1642726628613,
+                "uid": "KYPBsYnRW",
+                "edit-time": 1642726631131,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "PPp3rLPdH",
+            "edit-time": 1642726628552,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "type in chat, answer in the newsletter",
+            "create-time": 1642726631125,
+            "uid": "Wj7KkqvlH",
+            "edit-time": 1642726873321,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "[[Q/What is Wellbeing?]]",
+            "create-time": 1642727071550,
+            ":block/refs": [
+              {
+                ":block/uid": "ZmUUJFq8z"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ZmUUJFq8z"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "uid": "0msoEsslk",
+            "edit-time": 1642727091766,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Survey of interaction >> for newsletter",
+            "create-time": 1642727091913,
+            "uid": "H-44P6fI4",
+            "edit-time": 1642727919898,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "ZV9diFLk3MY6YNuIbP5fPQOIG9h1"
+            }
+          },
+          {
+            "string": "{{[[TODO]]}} Calendar subscription",
+            "create-time": 1642728009309,
+            ":block/refs": [
+              {
+                ":block/uid": "ZuxcbnfVv"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ZuxcbnfVv"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "uid": "cnhxdatVZ",
+            "edit-time": 1642728016995,
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             }
@@ -65362,6 +65530,18 @@
     "title": "January 21st, 2022",
     "uid": "01-21-2022",
     "edit-time": 1642725700673,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1642727091776,
+    "title": "Q/What is Wellbeing?",
+    "uid": "ZmUUJFq8z",
+    "edit-time": 1642727091778,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
