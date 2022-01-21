@@ -26,4 +26,4 @@
     - graph conventions and where there is leeway
         - you can’t go wrong
             - don’t edit someone personal page
-    - 
+    - tolerance ambiguity
