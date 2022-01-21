@@ -26,6 +26,9 @@
     - graph conventions and where there is leeway
         - you can’t go wrong
             - don’t edit someone personal page
+            - don't delete something that someone else has added
+            - Approach the graph with kindness toward yourself and others
+            - Confidentiality on the graph? This is about who has the right of disclosure. So you can disclose what you contributed but cannot disclose what others contribute
     - tolerance for ambiguity
         - discover how Roam supports community building
     - Vincent StrengthFinder is recognizable
@@ -33,7 +36,9 @@
     - 5 buckets (akin to why top 5 strengths)
         - helps in face of breakdown
         - {{[[TODO]]}} chunking it down
-    - filter graph based on the elements
+        - Also the 5 buckets are integrated and work together
+        - Or said another way: your overall well-being comes from the balance of the 5 perspectives represented by the buckets
+    - filter graph based on the elements << ^^YES!!!!^^
     - facilitator guide
         - what do we do?
     - type in chat, answer in the newsletter
