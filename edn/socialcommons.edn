@@ -54689,8 +54689,8 @@
   [4829 :version/id "0.9.0" 536877897]
   [4829
    :version/nonce
-   "uuid01cbf485-6aa0-486c-95cb-f6029a29fd1f"
-   536878326]
+   "uuid85478a5e-6e39-46d7-ace7-0712980e826a"
+   536878339]
   [4830 :block/uid "12-10-2021" 536877900]
   [4830 :create/time 1639097007972 536877900]
   [4830 :create/user 1 536877900]
@@ -55391,6 +55391,9 @@
   [4902 :edit/time 1642725523990 536878163]
   [4902 :edit/user 1 536878156]
   [4903 :block/children 4904 536878169]
+  [4903 :block/children 4932 536878334]
+  [4903 :block/children 4933 536878332]
+  [4903 :block/children 4934 536878330]
   [4903 :block/open true 536878164]
   [4903 :block/order 11 536878164]
   [4903 :block/page 4871 536878165]
@@ -55408,8 +55411,6 @@
   [4903 :edit/user 1 536878164]
   [4904 :block/children 4905 536878175]
   [4904 :block/children 4931 536878308]
-  [4904 :block/children 4932 536878311]
-  [4904 :block/children 4933 536878314]
   [4904 :block/open true 536878167]
   [4904 :block/order 0 536878169]
   [4904 :block/page 4871 536878168]
@@ -55693,12 +55694,11 @@
   [4931 :edit/time 1642774095486 536878310]
   [4931 :edit/user 4872 536878308]
   [4932 :block/open true 536878311]
-  [4932 :block/order 2 536878311]
+  [4932 :block/order 1 536878334]
   [4932 :block/page 4871 536878312]
   [4932 :block/parents 4871 536878312]
   [4932 :block/parents 4875 536878312]
   [4932 :block/parents 4903 536878312]
-  [4932 :block/parents 4904 536878312]
   [4932
    :block/string
    "Approach the graph with kindness toward yourself and others"
@@ -55709,12 +55709,11 @@
   [4932 :edit/time 1642774116143 536878313]
   [4932 :edit/user 4872 536878311]
   [4933 :block/open true 536878314]
-  [4933 :block/order 3 536878314]
+  [4933 :block/order 2 536878334]
   [4933 :block/page 4871 536878315]
   [4933 :block/parents 4871 536878315]
   [4933 :block/parents 4875 536878315]
   [4933 :block/parents 4903 536878315]
-  [4933 :block/parents 4904 536878315]
   [4933
    :block/string
    "Confidentiality on the graph? This is about who has the right of disclosure. So you can disclose what you contributed but cannot disclose what others contribute"
@@ -55723,4 +55722,19 @@
   [4933 :create/time 1642774121690 536878314]
   [4933 :create/user 4872 536878314]
   [4933 :edit/time 1642774255343 536878326]
-  [4933 :edit/user 4872 536878314]]}
+  [4933 :edit/user 4872 536878314]
+  [4934 :block/open true 536878327]
+  [4934 :block/order 3 536878334]
+  [4934 :block/page 4871 536878328]
+  [4934 :block/parents 4871 536878328]
+  [4934 :block/parents 4875 536878328]
+  [4934 :block/parents 4903 536878328]
+  [4934
+   :block/string
+   "Newsletter reactions & emoji reactions in general"
+   536878339]
+  [4934 :block/uid "mkRg8o0bq" 536878327]
+  [4934 :create/time 1642774357399 536878327]
+  [4934 :create/user 4872 536878327]
+  [4934 :edit/time 1642774386509 536878339]
+  [4934 :edit/user 4872 536878327]]}
