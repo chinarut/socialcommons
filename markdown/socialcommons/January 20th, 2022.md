@@ -1,0 +1,29 @@
+- [[Cheryl x Chinarut]] [[Wellbeing Book Club]]
+    - Gigantic Mindmap with nodes and no timeline connection
+    - Whatever your superpower -- how do you want to contribute?
+    - Record a video of putting together a profile
+    - filling in personal page
+        - show how to use template
+        - how much experience do you have?
+        - share more context the purpose of these questions 
+            - heart of the book club
+                - working together to answer these questions
+            - each week refining your questions
+                - daily prompts, reading, supplemental material, exercises to support
+                - find 10 questions in the graph
+                    - demo interacting w question
+    - what’s similar and what’s different w this book club
+        - ack we ack continuous innovation and try new things
+    - explore/discovering how a commons is built and how to interact as a community
+    - [[Wellbeing Commons]]
+        - ack [[How a Wellbeing Commons Works]]
+        - ack PhD
+        - real-world, hands-on application
+    - nobody can validate you except the people who show up and learn
+    - connections [[Braiding Sweetgrass]]
+    - {{[[TODO]]}} Hivemind queries questions (smartblocks)
+    - {{[[TODO]]}} visual Hivemind
+    - graph conventions and where there is leeway
+        - you can’t go wrong
+            - don’t edit someone personal page
+    - 

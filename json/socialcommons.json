@@ -64862,8 +64862,480 @@
   {
     "create-time": 1642639868526,
     "title": "January 20th, 2022",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    "children": [
+      {
+        "edit-time": 1642724156935,
+        "children": [
+          {
+            "string": "Gigantic Mindmap with nodes and no timeline connection",
+            "create-time": 1642722981102,
+            "uid": "vPrlWIyBe",
+            "edit-time": 1642723216622,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "ZV9diFLk3MY6YNuIbP5fPQOIG9h1"
+            }
+          },
+          {
+            "string": "Whatever your superpower -- how do you want to contribute?",
+            "create-time": 1642723218841,
+            "uid": "PH0u3Lx8y",
+            "edit-time": 1642723526212,
+            ":create/user": {
+              ":user/uid": "ZV9diFLk3MY6YNuIbP5fPQOIG9h1"
+            },
+            ":edit/user": {
+              ":user/uid": "ZV9diFLk3MY6YNuIbP5fPQOIG9h1"
+            }
+          },
+          {
+            "string": "Record a video of putting together a profile",
+            "create-time": 1642723527896,
+            "uid": "nugbwNQlW",
+            "edit-time": 1642723567756,
+            ":create/user": {
+              ":user/uid": "ZV9diFLk3MY6YNuIbP5fPQOIG9h1"
+            },
+            ":edit/user": {
+              ":user/uid": "ZV9diFLk3MY6YNuIbP5fPQOIG9h1"
+            }
+          },
+          {
+            "string": "filling in personal page",
+            "create-time": 1642723568883,
+            ":create/user": {
+              ":user/uid": "ZV9diFLk3MY6YNuIbP5fPQOIG9h1"
+            },
+            "children": [
+              {
+                "string": "show how to use template",
+                "create-time": 1642723918887,
+                "uid": "1GKw6AhLo",
+                "edit-time": 1642723927972,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "how much experience do you have?",
+                "create-time": 1642723877099,
+                "uid": "lEC8fsRBj",
+                "edit-time": 1642723882640,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "share more context the purpose of these questions ",
+                "create-time": 1642723882835,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "heart of the book club",
+                    "create-time": 1642724011742,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "children": [
+                      {
+                        "string": "working together to answer these questions",
+                        "create-time": 1642724015797,
+                        "uid": "qtzzIGppT",
+                        "edit-time": 1642724021826,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      }
+                    ],
+                    "uid": "juYsF1UuU",
+                    "edit-time": 1642724015250,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "each week refining your questions",
+                    "create-time": 1642724078411,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "children": [
+                      {
+                        "string": "daily prompts, reading, supplemental material, exercises to support",
+                        "create-time": 1642724107384,
+                        "uid": "bBANRcZhP",
+                        "edit-time": 1642724270041,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "find 10 questions in the graph",
+                        "create-time": 1642725491780,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "children": [
+                          {
+                            "string": "demo interacting w question",
+                            "create-time": 1642725507814,
+                            "uid": "08OS40tsI",
+                            "edit-time": 1642725523990,
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          }
+                        ],
+                        "uid": "j3wzBYFiW",
+                        "edit-time": 1642725511766,
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      }
+                    ],
+                    "uid": "JberA9-Gk",
+                    "edit-time": 1642724107389,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "AjIBONOLw",
+                "edit-time": 1642724045931,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "ukPmD9SM0",
+            "edit-time": 1642723877116,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "what’s similar and what’s different w this book club",
+            "create-time": 1642724124034,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "ack we ack continuous innovation and try new things",
+                "create-time": 1642724138559,
+                "uid": "o8x0Zi3tW",
+                "edit-time": 1642724184838,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "shezh1gLa",
+            "edit-time": 1642724138565,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "explore/discovering how a commons is built and how to interact as a community",
+            "create-time": 1642724185020,
+            "uid": "y6bOAT2P5",
+            "edit-time": 1642724217854,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "edit-time": 1642724484537,
+            "children": [
+              {
+                "string": "ack [[How a Wellbeing Commons Works]]",
+                "create-time": 1642724420203,
+                ":block/refs": [
+                  {
+                    ":block/uid": "m-N7WBBd3"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "m-N7WBBd3"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "2ZfwDeuxW",
+                "edit-time": 1642724454805,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "ack PhD",
+                "create-time": 1642724454943,
+                "uid": "fhcCuOdMW",
+                "edit-time": 1642724498055,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "real-world, hands-on application",
+                "create-time": 1642724498050,
+                "uid": "XZuMnE7PO",
+                "edit-time": 1642724575176,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "TBzCoGxjt"
+              }
+            ],
+            "uid": "qRX7be3E_",
+            ":block/refs": [
+              {
+                ":block/uid": "TBzCoGxjt"
+              }
+            ],
+            "string": "[[Wellbeing Commons]]",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1642724484537,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "nobody can validate you except the people who show up and learn",
+            "create-time": 1642724602082,
+            "uid": "DLSU_PuVw",
+            "edit-time": 1642724618765,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "connections [[Braiding Sweetgrass]]",
+            "create-time": 1642724955914,
+            ":block/refs": [
+              {
+                ":block/uid": "mITJLw5pP"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "mITJLw5pP"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "uid": "YhyWAt0T6",
+            "edit-time": 1642724965755,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "{{[[TODO]]}} Hivemind queries questions (smartblocks)",
+            "create-time": 1642724961819,
+            ":block/refs": [
+              {
+                ":block/uid": "ZuxcbnfVv"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ZuxcbnfVv"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "uid": "8fuVYlSzf",
+            "edit-time": 1642725277256,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "{{[[TODO]]}} visual Hivemind",
+            "create-time": 1642725277424,
+            ":block/refs": [
+              {
+                ":block/uid": "ZuxcbnfVv"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ZuxcbnfVv"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "uid": "ADkcf4PyC",
+            "edit-time": 1642725363393,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "graph conventions and where there is leeway",
+            "create-time": 1642725538272,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "you can’t go wrong",
+                "create-time": 1642725551122,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "don’t edit someone personal page",
+                    "create-time": 1642725555424,
+                    "uid": "2IVCLgOjw",
+                    "edit-time": 1642725565564,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "XYUD5NQ21",
+                "edit-time": 1642725555429,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "TXXpjOl-f",
+            "edit-time": 1642725548978,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "",
+            "create-time": 1642725565558,
+            "uid": "Zl4LDIYbi",
+            "edit-time": 1642725565558,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Nx9Lpod3H"
+          },
+          {
+            "uid": "o5Ur3VYMg"
+          }
+        ],
+        "uid": "66HWsbhBT",
+        ":block/refs": [
+          {
+            ":block/uid": "Nx9Lpod3H"
+          },
+          {
+            ":block/uid": "o5Ur3VYMg"
+          }
+        ],
+        "string": "[[Cheryl x Chinarut]] [[Wellbeing Book Club]]",
+        ":create/user": {
+          ":user/uid": "ZV9diFLk3MY6YNuIbP5fPQOIG9h1"
+        },
+        "create-time": 1642722964650,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      }
+    ],
     "uid": "01-20-2022",
     "edit-time": 1642639868526,
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1642722660287,
+    "title": "Cheryl Marlene",
+    "uid": "a7HM19O-n",
+    "edit-time": 1642722660287,
+    ":create/user": {
+      ":user/uid": "ZV9diFLk3MY6YNuIbP5fPQOIG9h1"
+    },
+    ":edit/user": {
+      ":user/uid": "ZV9diFLk3MY6YNuIbP5fPQOIG9h1"
+    }
+  },
+  {
+    "create-time": 1642722981109,
+    "title": "Cheryl x Chinarut",
+    "uid": "o5Ur3VYMg",
+    "edit-time": 1642722981109,
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1642725700672,
+    "title": "January 21st, 2022",
+    "uid": "01-21-2022",
+    "edit-time": 1642725700673,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
