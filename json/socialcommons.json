@@ -41,7 +41,8 @@
     "edit-time": 1604139671816,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-    }
+    },
+    ":log/id": 1604139671814
   },
   {
     "create-time": 1604139700554,
@@ -1156,11 +1157,12 @@
   {
     "create-time": 1605661273121,
     "title": "November 17th, 2020",
-    "uid": "11-17-2020",
-    "edit-time": 1605661273121,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1605661273120,
+    "uid": "11-17-2020",
+    "edit-time": 1605661273121,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -1171,6 +1173,7 @@
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1606725963292,
     "children": [
       {
         "string": "publicly edited",
@@ -1199,6 +1202,7 @@
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1607073245475,
     "children": [
       {
         "string": "Import",
@@ -1263,6 +1267,7 @@
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1607518206716,
     "children": [
       {
         "string": "Import",
@@ -1400,11 +1405,12 @@
   {
     "create-time": 1607518315488,
     "title": "November 29th, 2020",
-    "uid": "11-29-2020",
-    "edit-time": 1607518315856,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1606636800000,
+    "uid": "11-29-2020",
+    "edit-time": 1607518315856,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -15894,11 +15900,12 @@
   {
     "create-time": 1607518315557,
     "title": "November 15th, 2020",
-    "uid": "11-15-2020",
-    "edit-time": 1607518315870,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1605427200000,
+    "uid": "11-15-2020",
+    "edit-time": 1607518315870,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -16182,11 +16189,12 @@
   {
     "create-time": 1607518315562,
     "title": "November 16th, 2020",
-    "uid": "11-16-2020",
-    "edit-time": 1607518315871,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1605513600000,
+    "uid": "11-16-2020",
+    "edit-time": 1607518315871,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -16218,11 +16226,12 @@
   {
     "create-time": 1607518315572,
     "title": "December 5th, 2020",
-    "uid": "12-05-2020",
-    "edit-time": 1607518315873,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1607155200000,
+    "uid": "12-05-2020",
+    "edit-time": 1607518315873,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -16278,11 +16287,12 @@
   {
     "create-time": 1607518315565,
     "title": "December 6th, 2020",
-    "uid": "12-06-2020",
-    "edit-time": 1607518315872,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1607241600000,
+    "uid": "12-06-2020",
+    "edit-time": 1607518315872,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -16350,11 +16360,12 @@
   {
     "create-time": 1607518315567,
     "title": "November 26th, 2020",
-    "uid": "11-26-2020",
-    "edit-time": 1607518315872,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1606377600000,
+    "uid": "11-26-2020",
+    "edit-time": 1607518315872,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -23228,11 +23239,12 @@
   {
     "create-time": 1607587208578,
     "title": "December 10th, 2020",
-    "uid": "12-10-2020",
-    "edit-time": 1607587208608,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1607587208532,
+    "uid": "12-10-2020",
+    "edit-time": 1607587208608,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -23240,11 +23252,12 @@
   {
     "create-time": 1607715403094,
     "title": "December 11th, 2020",
-    "uid": "12-11-2020",
-    "edit-time": 1607715403095,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1607715403092,
+    "uid": "12-11-2020",
+    "edit-time": 1607715403095,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -23252,11 +23265,12 @@
   {
     "create-time": 1607760334373,
     "title": "December 12th, 2020",
-    "uid": "12-12-2020",
-    "edit-time": 1607760334374,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1607760334373,
+    "uid": "12-12-2020",
+    "edit-time": 1607760334374,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -23267,6 +23281,7 @@
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1607891888715,
     "children": [
       {
         "edit-time": 1607891879272,
@@ -23350,11 +23365,12 @@
   {
     "create-time": 1607918405405,
     "title": "December 14th, 2020",
-    "uid": "12-14-2020",
-    "edit-time": 1607918405408,
     ":create/user": {
       ":user/uid": "nzxyZ2dBVCTIVa9QVTiOsoTrPkI2"
     },
+    ":log/id": 1607918405385,
+    "uid": "12-14-2020",
+    "edit-time": 1607918405408,
     ":edit/user": {
       ":user/uid": "nzxyZ2dBVCTIVa9QVTiOsoTrPkI2"
     }
@@ -23362,11 +23378,12 @@
   {
     "create-time": 1608004801386,
     "title": "December 15th, 2020",
-    "uid": "12-15-2020",
-    "edit-time": 1608004801389,
     ":create/user": {
       ":user/uid": "nzxyZ2dBVCTIVa9QVTiOsoTrPkI2"
     },
+    ":log/id": 1608004801367,
+    "uid": "12-15-2020",
+    "edit-time": 1608004801389,
     ":edit/user": {
       ":user/uid": "nzxyZ2dBVCTIVa9QVTiOsoTrPkI2"
     }
@@ -23374,11 +23391,12 @@
   {
     "create-time": 1608554848124,
     "title": "December 21st, 2020",
-    "uid": "12-21-2020",
-    "edit-time": 1608554848125,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1608554848122,
+    "uid": "12-21-2020",
+    "edit-time": 1608554848125,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -23387,16 +23405,18 @@
     "create-time": 1612045087325,
     "title": "January 30th, 2021",
     "uid": "01-30-2021",
-    "edit-time": 1612045087325
+    "edit-time": 1612045087325,
+    ":log/id": 1612045087324
   },
   {
     "create-time": 1616362422314,
     "title": "March 21st, 2021",
-    "uid": "03-21-2021",
-    "edit-time": 1616362422314,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1616362422312,
+    "uid": "03-21-2021",
+    "edit-time": 1616362422314,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -23632,16 +23652,18 @@
       }
     ],
     "uid": "03-24-2021",
-    "edit-time": 1616624377084
+    "edit-time": 1616624377084,
+    ":log/id": 1616624377081
   },
   {
     "create-time": 1616969666080,
     "title": "March 28th, 2021",
-    "uid": "03-28-2021",
-    "edit-time": 1616969666080,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1616969666078,
+    "uid": "03-28-2021",
+    "edit-time": 1616969666080,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -23649,11 +23671,12 @@
   {
     "create-time": 1617161814796,
     "title": "March 30th, 2021",
-    "uid": "03-30-2021",
-    "edit-time": 1617161814796,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1617161814791,
+    "uid": "03-30-2021",
+    "edit-time": 1617161814796,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -23661,11 +23684,12 @@
   {
     "create-time": 1617232665551,
     "title": "March 31st, 2021",
-    "uid": "03-31-2021",
-    "edit-time": 1617232665551,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1617232665550,
+    "uid": "03-31-2021",
+    "edit-time": 1617232665551,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -23688,6 +23712,7 @@
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1617381991774,
     "children": [
       {
         "string": "",
@@ -25600,11 +25625,12 @@
   {
     "create-time": 1618709893754,
     "title": "April 18th, 2021",
-    "uid": "04-18-2021",
-    "edit-time": 1618709893754,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1618709893753,
+    "uid": "04-18-2021",
+    "edit-time": 1618709893754,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -25624,11 +25650,12 @@
   {
     "create-time": 1618792977330,
     "title": "April 19th, 2021",
-    "uid": "04-19-2021",
-    "edit-time": 1618792977330,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1618792977329,
+    "uid": "04-19-2021",
+    "edit-time": 1618792977330,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -25636,11 +25663,12 @@
   {
     "create-time": 1619322805382,
     "title": "April 25th, 2021",
-    "uid": "04-25-2021",
-    "edit-time": 1619322805382,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1619322805381,
+    "uid": "04-25-2021",
+    "edit-time": 1619322805382,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -25648,11 +25676,12 @@
   {
     "create-time": 1619398492828,
     "title": "April 26th, 2021",
-    "uid": "04-26-2021",
-    "edit-time": 1619398492828,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1619398492827,
+    "uid": "04-26-2021",
+    "edit-time": 1619398492828,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -25663,6 +25692,7 @@
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1619484747149,
     "children": [
       {
         "string": "Import",
@@ -32907,7 +32937,8 @@
     "uid": "05-04-2021",
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-    }
+    },
+    ":log/id": 1620111600000
   },
   {
     "create-time": 1619568490361,
@@ -33099,7 +33130,8 @@
     "uid": "11-15-2021",
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-    }
+    },
+    ":log/id": 1636963200000
   },
   {
     "create-time": 1619568490373,
@@ -33131,6 +33163,7 @@
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1619571710219,
     "children": [
       {
         "edit-time": 1619634836369,
@@ -33398,11 +33431,12 @@
   {
     "create-time": 1619657112224,
     "title": "April 29th, 2021",
-    "uid": "04-29-2021",
-    "edit-time": 1619657112224,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1619657112223,
+    "uid": "04-29-2021",
+    "edit-time": 1619657112224,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33410,11 +33444,12 @@
   {
     "create-time": 1619743209057,
     "title": "April 30th, 2021",
-    "uid": "04-30-2021",
-    "edit-time": 1619743209057,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1619743209056,
+    "uid": "04-30-2021",
+    "edit-time": 1619743209057,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33422,11 +33457,12 @@
   {
     "create-time": 1619829722632,
     "title": "May 1st, 2021",
-    "uid": "05-01-2021",
-    "edit-time": 1619829722632,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1619829722631,
+    "uid": "05-01-2021",
+    "edit-time": 1619829722632,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33434,11 +33470,12 @@
   {
     "create-time": 1619916385042,
     "title": "May 2nd, 2021",
-    "uid": "05-02-2021",
-    "edit-time": 1619916385042,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1619916385041,
+    "uid": "05-02-2021",
+    "edit-time": 1619916385042,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33446,11 +33483,12 @@
   {
     "create-time": 1620002517576,
     "title": "May 3rd, 2021",
-    "uid": "05-03-2021",
-    "edit-time": 1620002517576,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1620002517575,
+    "uid": "05-03-2021",
+    "edit-time": 1620002517576,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33458,11 +33496,12 @@
   {
     "create-time": 1620174756889,
     "title": "May 5th, 2021",
-    "uid": "05-05-2021",
-    "edit-time": 1620174756889,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1620174756888,
+    "uid": "05-05-2021",
+    "edit-time": 1620174756889,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33470,11 +33509,12 @@
   {
     "create-time": 1620261125418,
     "title": "May 6th, 2021",
-    "uid": "05-06-2021",
-    "edit-time": 1620261125418,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1620261125417,
+    "uid": "05-06-2021",
+    "edit-time": 1620261125418,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33482,11 +33522,12 @@
   {
     "create-time": 1620347604597,
     "title": "May 7th, 2021",
-    "uid": "05-07-2021",
-    "edit-time": 1620347604598,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1620347604597,
+    "uid": "05-07-2021",
+    "edit-time": 1620347604598,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33494,11 +33535,12 @@
   {
     "create-time": 1620433998416,
     "title": "May 8th, 2021",
-    "uid": "05-08-2021",
-    "edit-time": 1620433998416,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1620433998415,
+    "uid": "05-08-2021",
+    "edit-time": 1620433998416,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33506,11 +33548,12 @@
   {
     "create-time": 1620520582260,
     "title": "May 9th, 2021",
-    "uid": "05-09-2021",
-    "edit-time": 1620520582260,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1620520582259,
+    "uid": "05-09-2021",
+    "edit-time": 1620520582260,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33518,11 +33561,12 @@
   {
     "create-time": 1620606895557,
     "title": "May 10th, 2021",
-    "uid": "05-10-2021",
-    "edit-time": 1620606895557,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1620606895556,
+    "uid": "05-10-2021",
+    "edit-time": 1620606895557,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33530,11 +33574,12 @@
   {
     "create-time": 1620693281666,
     "title": "May 11th, 2021",
-    "uid": "05-11-2021",
-    "edit-time": 1620693281666,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1620693281665,
+    "uid": "05-11-2021",
+    "edit-time": 1620693281666,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33542,11 +33587,12 @@
   {
     "create-time": 1620779755222,
     "title": "May 12th, 2021",
-    "uid": "05-12-2021",
-    "edit-time": 1620779755223,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1620779755222,
+    "uid": "05-12-2021",
+    "edit-time": 1620779755223,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33554,11 +33600,12 @@
   {
     "create-time": 1620866641744,
     "title": "May 13th, 2021",
-    "uid": "05-13-2021",
-    "edit-time": 1620866641744,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1620866641743,
+    "uid": "05-13-2021",
+    "edit-time": 1620866641744,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33566,11 +33613,12 @@
   {
     "create-time": 1620953139874,
     "title": "May 14th, 2021",
-    "uid": "05-14-2021",
-    "edit-time": 1620953139874,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1620953139873,
+    "uid": "05-14-2021",
+    "edit-time": 1620953139874,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33578,11 +33626,12 @@
   {
     "create-time": 1621039377726,
     "title": "May 15th, 2021",
-    "uid": "05-15-2021",
-    "edit-time": 1621039377726,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1621039377725,
+    "uid": "05-15-2021",
+    "edit-time": 1621039377726,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33590,11 +33639,12 @@
   {
     "create-time": 1621126041715,
     "title": "May 16th, 2021",
-    "uid": "05-16-2021",
-    "edit-time": 1621126041715,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1621126041714,
+    "uid": "05-16-2021",
+    "edit-time": 1621126041715,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33602,11 +33652,12 @@
   {
     "create-time": 1621212181443,
     "title": "May 17th, 2021",
-    "uid": "05-17-2021",
-    "edit-time": 1621212181443,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1621212181442,
+    "uid": "05-17-2021",
+    "edit-time": 1621212181443,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33614,11 +33665,12 @@
   {
     "create-time": 1621298841504,
     "title": "May 18th, 2021",
-    "uid": "05-18-2021",
-    "edit-time": 1621298841504,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1621298841503,
+    "uid": "05-18-2021",
+    "edit-time": 1621298841504,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33626,11 +33678,12 @@
   {
     "create-time": 1621384978504,
     "title": "May 19th, 2021",
-    "uid": "05-19-2021",
-    "edit-time": 1621384978504,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1621384978503,
+    "uid": "05-19-2021",
+    "edit-time": 1621384978504,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33638,11 +33691,12 @@
   {
     "create-time": 1621471201337,
     "title": "May 20th, 2021",
-    "uid": "05-20-2021",
-    "edit-time": 1621471201337,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1621471201336,
+    "uid": "05-20-2021",
+    "edit-time": 1621471201337,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33650,11 +33704,12 @@
   {
     "create-time": 1621557847212,
     "title": "May 21st, 2021",
-    "uid": "05-21-2021",
-    "edit-time": 1621557847212,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1621557847211,
+    "uid": "05-21-2021",
+    "edit-time": 1621557847212,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33662,11 +33717,12 @@
   {
     "create-time": 1621644225015,
     "title": "May 22nd, 2021",
-    "uid": "05-22-2021",
-    "edit-time": 1621644225015,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1621644225014,
+    "uid": "05-22-2021",
+    "edit-time": 1621644225015,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33674,11 +33730,12 @@
   {
     "create-time": 1621730990083,
     "title": "May 23rd, 2021",
-    "uid": "05-23-2021",
-    "edit-time": 1621730990083,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1621730990081,
+    "uid": "05-23-2021",
+    "edit-time": 1621730990083,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33686,11 +33743,12 @@
   {
     "create-time": 1621817229914,
     "title": "May 24th, 2021",
-    "uid": "05-24-2021",
-    "edit-time": 1621817229914,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1621817229913,
+    "uid": "05-24-2021",
+    "edit-time": 1621817229914,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33698,11 +33756,12 @@
   {
     "create-time": 1621903561239,
     "title": "May 25th, 2021",
-    "uid": "05-25-2021",
-    "edit-time": 1621903561239,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1621903561238,
+    "uid": "05-25-2021",
+    "edit-time": 1621903561239,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33710,11 +33769,12 @@
   {
     "create-time": 1621990568163,
     "title": "May 26th, 2021",
-    "uid": "05-26-2021",
-    "edit-time": 1621990568163,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1621990568162,
+    "uid": "05-26-2021",
+    "edit-time": 1621990568163,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33722,11 +33782,12 @@
   {
     "create-time": 1622077166492,
     "title": "May 27th, 2021",
-    "uid": "05-27-2021",
-    "edit-time": 1622077166492,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1622077166491,
+    "uid": "05-27-2021",
+    "edit-time": 1622077166492,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33734,11 +33795,12 @@
   {
     "create-time": 1622163958095,
     "title": "May 28th, 2021",
-    "uid": "05-28-2021",
-    "edit-time": 1622163958095,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1622163958094,
+    "uid": "05-28-2021",
+    "edit-time": 1622163958095,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33746,11 +33808,12 @@
   {
     "create-time": 1622251088872,
     "title": "May 29th, 2021",
-    "uid": "05-29-2021",
-    "edit-time": 1622251088872,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1622251088872,
+    "uid": "05-29-2021",
+    "edit-time": 1622251088872,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33758,11 +33821,12 @@
   {
     "create-time": 1622338017733,
     "title": "May 30th, 2021",
-    "uid": "05-30-2021",
-    "edit-time": 1622338017733,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1622338017732,
+    "uid": "05-30-2021",
+    "edit-time": 1622338017733,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33770,11 +33834,12 @@
   {
     "create-time": 1622425173271,
     "title": "May 31st, 2021",
-    "uid": "05-31-2021",
-    "edit-time": 1622425173271,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1622425173270,
+    "uid": "05-31-2021",
+    "edit-time": 1622425173271,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33782,11 +33847,12 @@
   {
     "create-time": 1622512685722,
     "title": "June 1st, 2021",
-    "uid": "06-01-2021",
-    "edit-time": 1622512685722,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1622512685721,
+    "uid": "06-01-2021",
+    "edit-time": 1622512685722,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -33797,6 +33863,7 @@
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1622599561774,
     "children": [
       {
         "string": "Import",
@@ -36327,11 +36394,12 @@
   {
     "create-time": 1622684650022,
     "title": "June 3rd, 2021",
-    "uid": "06-03-2021",
-    "edit-time": 1622684650022,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1622684650021,
+    "uid": "06-03-2021",
+    "edit-time": 1622684650022,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -36351,11 +36419,12 @@
   {
     "create-time": 1622770050106,
     "title": "June 4th, 2021",
-    "uid": "06-04-2021",
-    "edit-time": 1622770050106,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1622770050105,
+    "uid": "06-04-2021",
+    "edit-time": 1622770050106,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -36363,11 +36432,12 @@
   {
     "create-time": 1622855270020,
     "title": "June 5th, 2021",
-    "uid": "06-05-2021",
-    "edit-time": 1622855270020,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1622855270019,
+    "uid": "06-05-2021",
+    "edit-time": 1622855270020,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -36378,6 +36448,7 @@
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1622941251145,
     "children": [
       {
         "string": "Import",
@@ -59167,11 +59238,12 @@
   {
     "create-time": 1623027728849,
     "title": "June 7th, 2021",
-    "uid": "06-07-2021",
-    "edit-time": 1623027728849,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1623027728848,
+    "uid": "06-07-2021",
+    "edit-time": 1623027728849,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59299,11 +59371,12 @@
   {
     "create-time": 1623114010198,
     "title": "June 8th, 2021",
-    "uid": "06-08-2021",
-    "edit-time": 1623114010198,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1623114010197,
+    "uid": "06-08-2021",
+    "edit-time": 1623114010198,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59311,11 +59384,12 @@
   {
     "create-time": 1623199321870,
     "title": "June 9th, 2021",
-    "uid": "06-09-2021",
-    "edit-time": 1623199321871,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1623199321870,
+    "uid": "06-09-2021",
+    "edit-time": 1623199321871,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59323,11 +59397,12 @@
   {
     "create-time": 1623285601736,
     "title": "June 10th, 2021",
-    "uid": "06-10-2021",
-    "edit-time": 1623285601737,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1623285601735,
+    "uid": "06-10-2021",
+    "edit-time": 1623285601737,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59335,11 +59410,12 @@
   {
     "create-time": 1623371834698,
     "title": "June 11th, 2021",
-    "uid": "06-11-2021",
-    "edit-time": 1623371834698,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1623371834698,
+    "uid": "06-11-2021",
+    "edit-time": 1623371834698,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59347,11 +59423,12 @@
   {
     "create-time": 1623457957663,
     "title": "June 12th, 2021",
-    "uid": "06-12-2021",
-    "edit-time": 1623457957663,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1623457957662,
+    "uid": "06-12-2021",
+    "edit-time": 1623457957663,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59359,11 +59436,12 @@
   {
     "create-time": 1623544733495,
     "title": "June 13th, 2021",
-    "uid": "06-13-2021",
-    "edit-time": 1623544733495,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1623544733494,
+    "uid": "06-13-2021",
+    "edit-time": 1623544733495,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59371,11 +59449,12 @@
   {
     "create-time": 1623630912706,
     "title": "June 14th, 2021",
-    "uid": "06-14-2021",
-    "edit-time": 1623630912706,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1623630912705,
+    "uid": "06-14-2021",
+    "edit-time": 1623630912706,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59383,11 +59462,12 @@
   {
     "create-time": 1623717410501,
     "title": "June 15th, 2021",
-    "uid": "06-15-2021",
-    "edit-time": 1623717410501,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1623717410500,
+    "uid": "06-15-2021",
+    "edit-time": 1623717410501,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59395,11 +59475,12 @@
   {
     "create-time": 1623803854832,
     "title": "June 16th, 2021",
-    "uid": "06-16-2021",
-    "edit-time": 1623803854832,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1623803854831,
+    "uid": "06-16-2021",
+    "edit-time": 1623803854832,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59407,11 +59488,12 @@
   {
     "create-time": 1623890156108,
     "title": "June 17th, 2021",
-    "uid": "06-17-2021",
-    "edit-time": 1623890156108,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1623890156108,
+    "uid": "06-17-2021",
+    "edit-time": 1623890156108,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59419,11 +59501,12 @@
   {
     "create-time": 1623976580844,
     "title": "June 18th, 2021",
-    "uid": "06-18-2021",
-    "edit-time": 1623976580844,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1623976580843,
+    "uid": "06-18-2021",
+    "edit-time": 1623976580844,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59431,11 +59514,12 @@
   {
     "create-time": 1624062995013,
     "title": "June 19th, 2021",
-    "uid": "06-19-2021",
-    "edit-time": 1624062995013,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1624062995013,
+    "uid": "06-19-2021",
+    "edit-time": 1624062995013,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59443,11 +59527,12 @@
   {
     "create-time": 1624149520976,
     "title": "June 20th, 2021",
-    "uid": "06-20-2021",
-    "edit-time": 1624149520976,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1624149520975,
+    "uid": "06-20-2021",
+    "edit-time": 1624149520976,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59455,11 +59540,12 @@
   {
     "create-time": 1624235897503,
     "title": "June 21st, 2021",
-    "uid": "06-21-2021",
-    "edit-time": 1624235897503,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1624235897503,
+    "uid": "06-21-2021",
+    "edit-time": 1624235897503,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59467,11 +59553,12 @@
   {
     "create-time": 1624322106083,
     "title": "June 22nd, 2021",
-    "uid": "06-22-2021",
-    "edit-time": 1624322106083,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1624322106082,
+    "uid": "06-22-2021",
+    "edit-time": 1624322106083,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59479,11 +59566,12 @@
   {
     "create-time": 1624408493893,
     "title": "June 23rd, 2021",
-    "uid": "06-23-2021",
-    "edit-time": 1624408493893,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1624408493893,
+    "uid": "06-23-2021",
+    "edit-time": 1624408493893,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59491,11 +59579,12 @@
   {
     "create-time": 1624495895872,
     "title": "June 24th, 2021",
-    "uid": "06-24-2021",
-    "edit-time": 1624495895872,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1624495895871,
+    "uid": "06-24-2021",
+    "edit-time": 1624495895872,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59503,11 +59592,12 @@
   {
     "create-time": 1624581645861,
     "title": "June 25th, 2021",
-    "uid": "06-25-2021",
-    "edit-time": 1624581645861,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1624581645860,
+    "uid": "06-25-2021",
+    "edit-time": 1624581645861,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59515,11 +59605,12 @@
   {
     "create-time": 1624667718623,
     "title": "June 26th, 2021",
-    "uid": "06-26-2021",
-    "edit-time": 1624667718623,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1624667718623,
+    "uid": "06-26-2021",
+    "edit-time": 1624667718623,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59527,11 +59618,12 @@
   {
     "create-time": 1624754524528,
     "title": "June 27th, 2021",
-    "uid": "06-27-2021",
-    "edit-time": 1624754524528,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1624754524528,
+    "uid": "06-27-2021",
+    "edit-time": 1624754524528,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59539,11 +59631,12 @@
   {
     "create-time": 1624840756988,
     "title": "June 28th, 2021",
-    "uid": "06-28-2021",
-    "edit-time": 1624840756988,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1624840756987,
+    "uid": "06-28-2021",
+    "edit-time": 1624840756988,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59551,11 +59644,12 @@
   {
     "create-time": 1624927009319,
     "title": "June 29th, 2021",
-    "uid": "06-29-2021",
-    "edit-time": 1624927009319,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1624927009318,
+    "uid": "06-29-2021",
+    "edit-time": 1624927009319,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59563,11 +59657,12 @@
   {
     "create-time": 1625013625118,
     "title": "June 30th, 2021",
-    "uid": "06-30-2021",
-    "edit-time": 1625013625118,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1625013625117,
+    "uid": "06-30-2021",
+    "edit-time": 1625013625118,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59575,11 +59670,12 @@
   {
     "create-time": 1625100108733,
     "title": "July 1st, 2021",
-    "uid": "07-01-2021",
-    "edit-time": 1625100108733,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1625100108732,
+    "uid": "07-01-2021",
+    "edit-time": 1625100108733,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59587,11 +59683,12 @@
   {
     "create-time": 1625186211549,
     "title": "July 2nd, 2021",
-    "uid": "07-02-2021",
-    "edit-time": 1625186211549,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1625186211548,
+    "uid": "07-02-2021",
+    "edit-time": 1625186211549,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59599,11 +59696,12 @@
   {
     "create-time": 1625272608713,
     "title": "July 3rd, 2021",
-    "uid": "07-03-2021",
-    "edit-time": 1625272608713,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1625272608713,
+    "uid": "07-03-2021",
+    "edit-time": 1625272608713,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59611,11 +59709,12 @@
   {
     "create-time": 1625359081782,
     "title": "July 4th, 2021",
-    "uid": "07-04-2021",
-    "edit-time": 1625359081782,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1625359081781,
+    "uid": "07-04-2021",
+    "edit-time": 1625359081782,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59623,11 +59722,12 @@
   {
     "create-time": 1625445285160,
     "title": "July 5th, 2021",
-    "uid": "07-05-2021",
-    "edit-time": 1625445285160,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1625445285159,
+    "uid": "07-05-2021",
+    "edit-time": 1625445285160,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59635,11 +59735,12 @@
   {
     "create-time": 1625531930457,
     "title": "July 6th, 2021",
-    "uid": "07-06-2021",
-    "edit-time": 1625531930457,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1625531930457,
+    "uid": "07-06-2021",
+    "edit-time": 1625531930457,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59647,11 +59748,12 @@
   {
     "create-time": 1625618307291,
     "title": "July 7th, 2021",
-    "uid": "07-07-2021",
-    "edit-time": 1625618307291,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1625618307290,
+    "uid": "07-07-2021",
+    "edit-time": 1625618307291,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59659,11 +59761,12 @@
   {
     "create-time": 1625704612497,
     "title": "July 8th, 2021",
-    "uid": "07-08-2021",
-    "edit-time": 1625704612497,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1625704612495,
+    "uid": "07-08-2021",
+    "edit-time": 1625704612497,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59671,11 +59774,12 @@
   {
     "create-time": 1625791127793,
     "title": "July 9th, 2021",
-    "uid": "07-09-2021",
-    "edit-time": 1625791127793,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1625791127793,
+    "uid": "07-09-2021",
+    "edit-time": 1625791127793,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59683,11 +59787,12 @@
   {
     "create-time": 1625877390126,
     "title": "July 10th, 2021",
-    "uid": "07-10-2021",
-    "edit-time": 1625877390126,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1625877390126,
+    "uid": "07-10-2021",
+    "edit-time": 1625877390126,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59695,11 +59800,12 @@
   {
     "create-time": 1625964087056,
     "title": "July 11th, 2021",
-    "uid": "07-11-2021",
-    "edit-time": 1625964087056,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1625964087056,
+    "uid": "07-11-2021",
+    "edit-time": 1625964087056,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -59710,6 +59816,7 @@
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1626050200214,
     "children": [
       {
         "string": "",
@@ -59736,6 +59843,7 @@
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1626136797567,
     "children": [
       {
         "string": "[[Start Here]]",
@@ -60725,11 +60833,12 @@
   {
     "create-time": 1626204754882,
     "title": "November 1st, 2021",
-    "uid": "11-01-2021",
-    "edit-time": 1626204754888,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1635750000000,
+    "uid": "11-01-2021",
+    "edit-time": 1626204754888,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -60845,11 +60954,12 @@
   {
     "create-time": 1626222901969,
     "title": "July 14th, 2021",
-    "uid": "07-14-2021",
-    "edit-time": 1626222901969,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1626222901968,
+    "uid": "07-14-2021",
+    "edit-time": 1626222901969,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -60857,11 +60967,12 @@
   {
     "create-time": 1626309480854,
     "title": "July 15th, 2021",
-    "uid": "07-15-2021",
-    "edit-time": 1626309480854,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1626309480853,
+    "uid": "07-15-2021",
+    "edit-time": 1626309480854,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -60869,11 +60980,12 @@
   {
     "create-time": 1626395895308,
     "title": "July 16th, 2021",
-    "uid": "07-16-2021",
-    "edit-time": 1626395895308,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1626395895307,
+    "uid": "07-16-2021",
+    "edit-time": 1626395895308,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -60881,11 +60993,12 @@
   {
     "create-time": 1626482235157,
     "title": "July 17th, 2021",
-    "uid": "07-17-2021",
-    "edit-time": 1626482235157,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1626482235156,
+    "uid": "07-17-2021",
+    "edit-time": 1626482235157,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -60893,11 +61006,12 @@
   {
     "create-time": 1626568707027,
     "title": "July 18th, 2021",
-    "uid": "07-18-2021",
-    "edit-time": 1626568707027,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1626568707026,
+    "uid": "07-18-2021",
+    "edit-time": 1626568707027,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -60905,11 +61019,12 @@
   {
     "create-time": 1626655149254,
     "title": "July 19th, 2021",
-    "uid": "07-19-2021",
-    "edit-time": 1626655149254,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1626655149253,
+    "uid": "07-19-2021",
+    "edit-time": 1626655149254,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -60917,11 +61032,12 @@
   {
     "create-time": 1626741598023,
     "title": "July 20th, 2021",
-    "uid": "07-20-2021",
-    "edit-time": 1626741598023,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1626741598022,
+    "uid": "07-20-2021",
+    "edit-time": 1626741598023,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -60929,11 +61045,12 @@
   {
     "create-time": 1626827981925,
     "title": "July 21st, 2021",
-    "uid": "07-21-2021",
-    "edit-time": 1626827981925,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1626827981924,
+    "uid": "07-21-2021",
+    "edit-time": 1626827981925,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -60941,11 +61058,12 @@
   {
     "create-time": 1626914328537,
     "title": "July 22nd, 2021",
-    "uid": "07-22-2021",
-    "edit-time": 1626914328537,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1626914328537,
+    "uid": "07-22-2021",
+    "edit-time": 1626914328537,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -60953,11 +61071,12 @@
   {
     "create-time": 1627000706409,
     "title": "July 23rd, 2021",
-    "uid": "07-23-2021",
-    "edit-time": 1627000706409,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1627000706409,
+    "uid": "07-23-2021",
+    "edit-time": 1627000706409,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -60965,11 +61084,12 @@
   {
     "create-time": 1627087030835,
     "title": "July 24th, 2021",
-    "uid": "07-24-2021",
-    "edit-time": 1627087030835,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1627087030834,
+    "uid": "07-24-2021",
+    "edit-time": 1627087030835,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -60977,11 +61097,12 @@
   {
     "create-time": 1627173567204,
     "title": "July 25th, 2021",
-    "uid": "07-25-2021",
-    "edit-time": 1627173567204,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1627173567203,
+    "uid": "07-25-2021",
+    "edit-time": 1627173567204,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -60989,11 +61110,12 @@
   {
     "create-time": 1627259827205,
     "title": "July 26th, 2021",
-    "uid": "07-26-2021",
-    "edit-time": 1627259827205,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1627259827204,
+    "uid": "07-26-2021",
+    "edit-time": 1627259827205,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61001,11 +61123,12 @@
   {
     "create-time": 1627346380494,
     "title": "July 27th, 2021",
-    "uid": "07-27-2021",
-    "edit-time": 1627346380494,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1627346380493,
+    "uid": "07-27-2021",
+    "edit-time": 1627346380494,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61013,11 +61136,12 @@
   {
     "create-time": 1627432751094,
     "title": "July 28th, 2021",
-    "uid": "07-28-2021",
-    "edit-time": 1627432751094,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1627432751092,
+    "uid": "07-28-2021",
+    "edit-time": 1627432751094,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61025,11 +61149,12 @@
   {
     "create-time": 1627519006560,
     "title": "July 29th, 2021",
-    "uid": "07-29-2021",
-    "edit-time": 1627519006560,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1627519006559,
+    "uid": "07-29-2021",
+    "edit-time": 1627519006560,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61037,11 +61162,12 @@
   {
     "create-time": 1627605498343,
     "title": "July 30th, 2021",
-    "uid": "07-30-2021",
-    "edit-time": 1627605498343,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1627605498342,
+    "uid": "07-30-2021",
+    "edit-time": 1627605498343,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61049,11 +61175,12 @@
   {
     "create-time": 1627691973162,
     "title": "July 31st, 2021",
-    "uid": "07-31-2021",
-    "edit-time": 1627691973162,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1627691973161,
+    "uid": "07-31-2021",
+    "edit-time": 1627691973162,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61061,11 +61188,12 @@
   {
     "create-time": 1627778620497,
     "title": "August 1st, 2021",
-    "uid": "08-01-2021",
-    "edit-time": 1627778620497,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1627778620496,
+    "uid": "08-01-2021",
+    "edit-time": 1627778620497,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61073,11 +61201,12 @@
   {
     "create-time": 1627864674705,
     "title": "August 2nd, 2021",
-    "uid": "08-02-2021",
-    "edit-time": 1627864674705,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1627864674704,
+    "uid": "08-02-2021",
+    "edit-time": 1627864674705,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61085,11 +61214,12 @@
   {
     "create-time": 1627951368106,
     "title": "August 3rd, 2021",
-    "uid": "08-03-2021",
-    "edit-time": 1627951368106,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1627951368105,
+    "uid": "08-03-2021",
+    "edit-time": 1627951368106,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61097,11 +61227,12 @@
   {
     "create-time": 1628037387732,
     "title": "August 4th, 2021",
-    "uid": "08-04-2021",
-    "edit-time": 1628037387733,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1628037387732,
+    "uid": "08-04-2021",
+    "edit-time": 1628037387733,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61109,11 +61240,12 @@
   {
     "create-time": 1628123923622,
     "title": "August 5th, 2021",
-    "uid": "08-05-2021",
-    "edit-time": 1628123923622,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1628123923621,
+    "uid": "08-05-2021",
+    "edit-time": 1628123923622,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61121,11 +61253,12 @@
   {
     "create-time": 1628210402199,
     "title": "August 6th, 2021",
-    "uid": "08-06-2021",
-    "edit-time": 1628210402199,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1628210402198,
+    "uid": "08-06-2021",
+    "edit-time": 1628210402199,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61133,11 +61266,12 @@
   {
     "create-time": 1628296487496,
     "title": "August 7th, 2021",
-    "uid": "08-07-2021",
-    "edit-time": 1628296487496,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1628296487495,
+    "uid": "08-07-2021",
+    "edit-time": 1628296487496,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61145,11 +61279,12 @@
   {
     "create-time": 1628383107608,
     "title": "August 8th, 2021",
-    "uid": "08-08-2021",
-    "edit-time": 1628383107608,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1628383107608,
+    "uid": "08-08-2021",
+    "edit-time": 1628383107608,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61157,11 +61292,12 @@
   {
     "create-time": 1628469598714,
     "title": "August 9th, 2021",
-    "uid": "08-09-2021",
-    "edit-time": 1628469598714,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1628469598713,
+    "uid": "08-09-2021",
+    "edit-time": 1628469598714,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61169,11 +61305,12 @@
   {
     "create-time": 1628556034985,
     "title": "August 10th, 2021",
-    "uid": "08-10-2021",
-    "edit-time": 1628556034985,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1628556034984,
+    "uid": "08-10-2021",
+    "edit-time": 1628556034985,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61181,11 +61318,12 @@
   {
     "create-time": 1628642505690,
     "title": "August 11th, 2021",
-    "uid": "08-11-2021",
-    "edit-time": 1628642505690,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1628642505689,
+    "uid": "08-11-2021",
+    "edit-time": 1628642505690,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61193,11 +61331,12 @@
   {
     "create-time": 1628728679487,
     "title": "August 12th, 2021",
-    "uid": "08-12-2021",
-    "edit-time": 1628728679487,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1628728679486,
+    "uid": "08-12-2021",
+    "edit-time": 1628728679487,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61205,11 +61344,12 @@
   {
     "create-time": 1628815164056,
     "title": "August 13th, 2021",
-    "uid": "08-13-2021",
-    "edit-time": 1628815164056,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1628815164055,
+    "uid": "08-13-2021",
+    "edit-time": 1628815164056,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61217,11 +61357,12 @@
   {
     "create-time": 1628901313862,
     "title": "August 14th, 2021",
-    "uid": "08-14-2021",
-    "edit-time": 1628901313863,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1628901313862,
+    "uid": "08-14-2021",
+    "edit-time": 1628901313863,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61229,11 +61370,12 @@
   {
     "create-time": 1628987890546,
     "title": "August 15th, 2021",
-    "uid": "08-15-2021",
-    "edit-time": 1628987890546,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1628987890545,
+    "uid": "08-15-2021",
+    "edit-time": 1628987890546,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61241,11 +61383,12 @@
   {
     "create-time": 1629074273740,
     "title": "August 16th, 2021",
-    "uid": "08-16-2021",
-    "edit-time": 1629074273740,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1629074273739,
+    "uid": "08-16-2021",
+    "edit-time": 1629074273740,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61253,11 +61396,12 @@
   {
     "create-time": 1629160681496,
     "title": "August 17th, 2021",
-    "uid": "08-17-2021",
-    "edit-time": 1629160681496,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1629160681495,
+    "uid": "08-17-2021",
+    "edit-time": 1629160681496,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61265,11 +61409,12 @@
   {
     "create-time": 1629247031095,
     "title": "August 18th, 2021",
-    "uid": "08-18-2021",
-    "edit-time": 1629247031095,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1629247031094,
+    "uid": "08-18-2021",
+    "edit-time": 1629247031095,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61289,11 +61434,12 @@
   {
     "create-time": 1629333170010,
     "title": "August 19th, 2021",
-    "uid": "08-19-2021",
-    "edit-time": 1629333170010,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1629333170009,
+    "uid": "08-19-2021",
+    "edit-time": 1629333170010,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61301,11 +61447,12 @@
   {
     "create-time": 1629419843450,
     "title": "August 20th, 2021",
-    "uid": "08-20-2021",
-    "edit-time": 1629419843450,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1629419843448,
+    "uid": "08-20-2021",
+    "edit-time": 1629419843450,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61313,11 +61460,12 @@
   {
     "create-time": 1629506220526,
     "title": "August 21st, 2021",
-    "uid": "08-21-2021",
-    "edit-time": 1629506220526,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1629506220525,
+    "uid": "08-21-2021",
+    "edit-time": 1629506220526,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61337,11 +61485,12 @@
   {
     "create-time": 1629592618811,
     "title": "August 22nd, 2021",
-    "uid": "08-22-2021",
-    "edit-time": 1629592618811,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1629592618811,
+    "uid": "08-22-2021",
+    "edit-time": 1629592618811,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61349,11 +61498,12 @@
   {
     "create-time": 1629678891621,
     "title": "August 23rd, 2021",
-    "uid": "08-23-2021",
-    "edit-time": 1629678891621,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1629678891620,
+    "uid": "08-23-2021",
+    "edit-time": 1629678891621,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61373,11 +61523,12 @@
   {
     "create-time": 1629765357294,
     "title": "August 24th, 2021",
-    "uid": "08-24-2021",
-    "edit-time": 1629765357294,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1629765357293,
+    "uid": "08-24-2021",
+    "edit-time": 1629765357294,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61385,11 +61536,12 @@
   {
     "create-time": 1629851849682,
     "title": "August 25th, 2021",
-    "uid": "08-25-2021",
-    "edit-time": 1629851849682,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1629851849681,
+    "uid": "08-25-2021",
+    "edit-time": 1629851849682,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -61400,6 +61552,7 @@
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1629938130386,
     "children": [
       {
         "string": "Import",
@@ -63026,11 +63179,12 @@
   {
     "create-time": 1630024882188,
     "title": "August 27th, 2021",
-    "uid": "08-27-2021",
-    "edit-time": 1630024882188,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1630024882188,
+    "uid": "08-27-2021",
+    "edit-time": 1630024882188,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63038,11 +63192,12 @@
   {
     "create-time": 1630110954228,
     "title": "August 28th, 2021",
-    "uid": "08-28-2021",
-    "edit-time": 1630110954228,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1630110954227,
+    "uid": "08-28-2021",
+    "edit-time": 1630110954228,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63050,11 +63205,12 @@
   {
     "create-time": 1630197589498,
     "title": "August 29th, 2021",
-    "uid": "08-29-2021",
-    "edit-time": 1630197589498,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1630197589497,
+    "uid": "08-29-2021",
+    "edit-time": 1630197589498,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63062,11 +63218,12 @@
   {
     "create-time": 1630283863243,
     "title": "August 30th, 2021",
-    "uid": "08-30-2021",
-    "edit-time": 1630283863243,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1630283863243,
+    "uid": "08-30-2021",
+    "edit-time": 1630283863243,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63074,11 +63231,12 @@
   {
     "create-time": 1630370390317,
     "title": "August 31st, 2021",
-    "uid": "08-31-2021",
-    "edit-time": 1630370390317,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1630370390316,
+    "uid": "08-31-2021",
+    "edit-time": 1630370390317,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63086,11 +63244,12 @@
   {
     "create-time": 1630456902993,
     "title": "September 1st, 2021",
-    "uid": "09-01-2021",
-    "edit-time": 1630456902993,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1630456902992,
+    "uid": "09-01-2021",
+    "edit-time": 1630456902993,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63098,11 +63257,12 @@
   {
     "create-time": 1630543113842,
     "title": "September 2nd, 2021",
-    "uid": "09-02-2021",
-    "edit-time": 1630543113842,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1630543113841,
+    "uid": "09-02-2021",
+    "edit-time": 1630543113842,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63110,11 +63270,12 @@
   {
     "create-time": 1630629516504,
     "title": "September 3rd, 2021",
-    "uid": "09-03-2021",
-    "edit-time": 1630629516504,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1630629516503,
+    "uid": "09-03-2021",
+    "edit-time": 1630629516504,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63122,11 +63283,12 @@
   {
     "create-time": 1630715888555,
     "title": "September 4th, 2021",
-    "uid": "09-04-2021",
-    "edit-time": 1630715888556,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1630715888554,
+    "uid": "09-04-2021",
+    "edit-time": 1630715888556,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63134,11 +63296,12 @@
   {
     "create-time": 1630802467808,
     "title": "September 5th, 2021",
-    "uid": "09-05-2021",
-    "edit-time": 1630802467808,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1630802467807,
+    "uid": "09-05-2021",
+    "edit-time": 1630802467808,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63146,11 +63309,12 @@
   {
     "create-time": 1630888942719,
     "title": "September 6th, 2021",
-    "uid": "09-06-2021",
-    "edit-time": 1630888942719,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1630888942718,
+    "uid": "09-06-2021",
+    "edit-time": 1630888942719,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63158,11 +63322,12 @@
   {
     "create-time": 1630975049804,
     "title": "September 7th, 2021",
-    "uid": "09-07-2021",
-    "edit-time": 1630975049804,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1630975049803,
+    "uid": "09-07-2021",
+    "edit-time": 1630975049804,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63170,11 +63335,12 @@
   {
     "create-time": 1631061427157,
     "title": "September 8th, 2021",
-    "uid": "09-08-2021",
-    "edit-time": 1631061427157,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1631061427156,
+    "uid": "09-08-2021",
+    "edit-time": 1631061427157,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63182,11 +63348,12 @@
   {
     "create-time": 1631148037041,
     "title": "September 9th, 2021",
-    "uid": "09-09-2021",
-    "edit-time": 1631148037041,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1631148037040,
+    "uid": "09-09-2021",
+    "edit-time": 1631148037041,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63194,11 +63361,12 @@
   {
     "create-time": 1631234597112,
     "title": "September 10th, 2021",
-    "uid": "09-10-2021",
-    "edit-time": 1631234597112,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1631234597111,
+    "uid": "09-10-2021",
+    "edit-time": 1631234597112,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63206,11 +63374,12 @@
   {
     "create-time": 1631320690972,
     "title": "September 11th, 2021",
-    "uid": "09-11-2021",
-    "edit-time": 1631320690972,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1631320690972,
+    "uid": "09-11-2021",
+    "edit-time": 1631320690972,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63218,11 +63387,12 @@
   {
     "create-time": 1631407269988,
     "title": "September 12th, 2021",
-    "uid": "09-12-2021",
-    "edit-time": 1631407269988,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1631407269987,
+    "uid": "09-12-2021",
+    "edit-time": 1631407269988,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63230,11 +63400,12 @@
   {
     "create-time": 1631493706587,
     "title": "September 13th, 2021",
-    "uid": "09-13-2021",
-    "edit-time": 1631493706587,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1631493706586,
+    "uid": "09-13-2021",
+    "edit-time": 1631493706587,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63242,11 +63413,12 @@
   {
     "create-time": 1631580127390,
     "title": "September 14th, 2021",
-    "uid": "09-14-2021",
-    "edit-time": 1631580127390,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1631580127389,
+    "uid": "09-14-2021",
+    "edit-time": 1631580127390,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63254,11 +63426,12 @@
   {
     "create-time": 1631666376017,
     "title": "September 15th, 2021",
-    "uid": "09-15-2021",
-    "edit-time": 1631666376017,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1631666376016,
+    "uid": "09-15-2021",
+    "edit-time": 1631666376017,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63269,6 +63442,7 @@
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1631752846119,
     "children": [
       {
         "string": "dafads",
@@ -63292,11 +63466,12 @@
   {
     "create-time": 1631839394597,
     "title": "September 17th, 2021",
-    "uid": "09-17-2021",
-    "edit-time": 1631839394597,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1631839394596,
+    "uid": "09-17-2021",
+    "edit-time": 1631839394597,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63307,6 +63482,7 @@
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1631925503340,
     "children": [
       {
         "string": "",
@@ -63342,11 +63518,12 @@
   {
     "create-time": 1632012003401,
     "title": "September 19th, 2021",
-    "uid": "09-19-2021",
-    "edit-time": 1632012003401,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1632012003401,
+    "uid": "09-19-2021",
+    "edit-time": 1632012003401,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63354,11 +63531,12 @@
   {
     "create-time": 1632098610573,
     "title": "September 20th, 2021",
-    "uid": "09-20-2021",
-    "edit-time": 1632098610573,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1632098610573,
+    "uid": "09-20-2021",
+    "edit-time": 1632098610573,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63366,11 +63544,12 @@
   {
     "create-time": 1632184843186,
     "title": "September 21st, 2021",
-    "uid": "09-21-2021",
-    "edit-time": 1632184843186,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1632184843185,
+    "uid": "09-21-2021",
+    "edit-time": 1632184843186,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63378,11 +63557,12 @@
   {
     "create-time": 1632271191761,
     "title": "September 22nd, 2021",
-    "uid": "09-22-2021",
-    "edit-time": 1632271191762,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1632271191760,
+    "uid": "09-22-2021",
+    "edit-time": 1632271191762,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63390,11 +63570,12 @@
   {
     "create-time": 1632357722567,
     "title": "September 23rd, 2021",
-    "uid": "09-23-2021",
-    "edit-time": 1632357722567,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1632357722567,
+    "uid": "09-23-2021",
+    "edit-time": 1632357722567,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63402,11 +63583,12 @@
   {
     "create-time": 1632443959175,
     "title": "September 24th, 2021",
-    "uid": "09-24-2021",
-    "edit-time": 1632443959175,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1632443959174,
+    "uid": "09-24-2021",
+    "edit-time": 1632443959175,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63414,11 +63596,12 @@
   {
     "create-time": 1632530325976,
     "title": "September 25th, 2021",
-    "uid": "09-25-2021",
-    "edit-time": 1632530325976,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1632530325975,
+    "uid": "09-25-2021",
+    "edit-time": 1632530325976,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63426,11 +63609,12 @@
   {
     "create-time": 1632616925969,
     "title": "September 26th, 2021",
-    "uid": "09-26-2021",
-    "edit-time": 1632616925969,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1632616925968,
+    "uid": "09-26-2021",
+    "edit-time": 1632616925969,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63438,11 +63622,12 @@
   {
     "create-time": 1632703157712,
     "title": "September 27th, 2021",
-    "uid": "09-27-2021",
-    "edit-time": 1632703157712,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1632703157712,
+    "uid": "09-27-2021",
+    "edit-time": 1632703157712,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63450,11 +63635,12 @@
   {
     "create-time": 1632789636741,
     "title": "September 28th, 2021",
-    "uid": "09-28-2021",
-    "edit-time": 1632789636741,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1632789636740,
+    "uid": "09-28-2021",
+    "edit-time": 1632789636741,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63462,11 +63648,12 @@
   {
     "create-time": 1632875949863,
     "title": "September 29th, 2021",
-    "uid": "09-29-2021",
-    "edit-time": 1632875949863,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1632875949862,
+    "uid": "09-29-2021",
+    "edit-time": 1632875949863,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63474,11 +63661,12 @@
   {
     "create-time": 1632962680080,
     "title": "September 30th, 2021",
-    "uid": "09-30-2021",
-    "edit-time": 1632962680080,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1632962680079,
+    "uid": "09-30-2021",
+    "edit-time": 1632962680080,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63486,11 +63674,12 @@
   {
     "create-time": 1633049017371,
     "title": "October 1st, 2021",
-    "uid": "10-01-2021",
-    "edit-time": 1633049017371,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1633049017370,
+    "uid": "10-01-2021",
+    "edit-time": 1633049017371,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63498,11 +63687,12 @@
   {
     "create-time": 1633135188019,
     "title": "October 2nd, 2021",
-    "uid": "10-02-2021",
-    "edit-time": 1633135188019,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1633135188018,
+    "uid": "10-02-2021",
+    "edit-time": 1633135188019,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63510,11 +63700,12 @@
   {
     "create-time": 1633221874566,
     "title": "October 3rd, 2021",
-    "uid": "10-03-2021",
-    "edit-time": 1633221874566,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1633221874566,
+    "uid": "10-03-2021",
+    "edit-time": 1633221874566,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63522,11 +63713,12 @@
   {
     "create-time": 1633308356972,
     "title": "October 4th, 2021",
-    "uid": "10-04-2021",
-    "edit-time": 1633308356972,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1633308356971,
+    "uid": "10-04-2021",
+    "edit-time": 1633308356972,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63534,11 +63726,12 @@
   {
     "create-time": 1633394445603,
     "title": "October 5th, 2021",
-    "uid": "10-05-2021",
-    "edit-time": 1633394445603,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1633394445603,
+    "uid": "10-05-2021",
+    "edit-time": 1633394445603,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63546,11 +63739,12 @@
   {
     "create-time": 1633481017136,
     "title": "October 6th, 2021",
-    "uid": "10-06-2021",
-    "edit-time": 1633481017136,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1633481017135,
+    "uid": "10-06-2021",
+    "edit-time": 1633481017136,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63558,11 +63752,12 @@
   {
     "create-time": 1633567361829,
     "title": "October 7th, 2021",
-    "uid": "10-07-2021",
-    "edit-time": 1633567361829,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1633567361828,
+    "uid": "10-07-2021",
+    "edit-time": 1633567361829,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63570,11 +63765,12 @@
   {
     "create-time": 1633653838062,
     "title": "October 8th, 2021",
-    "uid": "10-08-2021",
-    "edit-time": 1633653838062,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1633653838061,
+    "uid": "10-08-2021",
+    "edit-time": 1633653838062,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63582,11 +63778,12 @@
   {
     "create-time": 1633739950672,
     "title": "October 9th, 2021",
-    "uid": "10-09-2021",
-    "edit-time": 1633739950672,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1633739950671,
+    "uid": "10-09-2021",
+    "edit-time": 1633739950672,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63594,11 +63791,12 @@
   {
     "create-time": 1633826556893,
     "title": "October 10th, 2021",
-    "uid": "10-10-2021",
-    "edit-time": 1633826556893,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1633826556892,
+    "uid": "10-10-2021",
+    "edit-time": 1633826556893,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63630,11 +63828,12 @@
   {
     "create-time": 1633907784744,
     "title": "October 11th, 2021",
-    "uid": "10-11-2021",
-    "edit-time": 1633907784744,
     ":create/user": {
       ":user/uid": "s6AoPhvQzxeMWX186atWMK3oYG52"
     },
+    ":log/id": 1633907784743,
+    "uid": "10-11-2021",
+    "edit-time": 1633907784744,
     ":edit/user": {
       ":user/uid": "s6AoPhvQzxeMWX186atWMK3oYG52"
     }
@@ -63666,11 +63865,12 @@
   {
     "create-time": 1633999471612,
     "title": "October 12th, 2021",
-    "uid": "10-12-2021",
-    "edit-time": 1633999471612,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1633999471611,
+    "uid": "10-12-2021",
+    "edit-time": 1633999471612,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63678,11 +63878,12 @@
   {
     "create-time": 1634085695093,
     "title": "October 13th, 2021",
-    "uid": "10-13-2021",
-    "edit-time": 1634085695093,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1634085695093,
+    "uid": "10-13-2021",
+    "edit-time": 1634085695093,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63690,11 +63891,12 @@
   {
     "create-time": 1634171959692,
     "title": "October 14th, 2021",
-    "uid": "10-14-2021",
-    "edit-time": 1634171959692,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1634171959691,
+    "uid": "10-14-2021",
+    "edit-time": 1634171959692,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63702,11 +63904,12 @@
   {
     "create-time": 1634258625718,
     "title": "October 15th, 2021",
-    "uid": "10-15-2021",
-    "edit-time": 1634258625718,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1634258625718,
+    "uid": "10-15-2021",
+    "edit-time": 1634258625718,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63714,11 +63917,12 @@
   {
     "create-time": 1634345132272,
     "title": "October 16th, 2021",
-    "uid": "10-16-2021",
-    "edit-time": 1634345132272,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1634345132271,
+    "uid": "10-16-2021",
+    "edit-time": 1634345132272,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63726,11 +63930,12 @@
   {
     "create-time": 1634431269628,
     "title": "October 17th, 2021",
-    "uid": "10-17-2021",
-    "edit-time": 1634431269628,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1634431269627,
+    "uid": "10-17-2021",
+    "edit-time": 1634431269628,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63738,11 +63943,12 @@
   {
     "create-time": 1634517832786,
     "title": "October 18th, 2021",
-    "uid": "10-18-2021",
-    "edit-time": 1634517832786,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1634517832785,
+    "uid": "10-18-2021",
+    "edit-time": 1634517832786,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63750,11 +63956,12 @@
   {
     "create-time": 1634604171200,
     "title": "October 19th, 2021",
-    "uid": "10-19-2021",
-    "edit-time": 1634604171200,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1634604171199,
+    "uid": "10-19-2021",
+    "edit-time": 1634604171200,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63762,11 +63969,12 @@
   {
     "create-time": 1634690550689,
     "title": "October 20th, 2021",
-    "uid": "10-20-2021",
-    "edit-time": 1634690550689,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1634690550688,
+    "uid": "10-20-2021",
+    "edit-time": 1634690550689,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63774,11 +63982,12 @@
   {
     "create-time": 1634777239396,
     "title": "October 21st, 2021",
-    "uid": "10-21-2021",
-    "edit-time": 1634777239396,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1634777239395,
+    "uid": "10-21-2021",
+    "edit-time": 1634777239396,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63786,11 +63995,12 @@
   {
     "create-time": 1634863585185,
     "title": "October 22nd, 2021",
-    "uid": "10-22-2021",
-    "edit-time": 1634863585185,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1634863585184,
+    "uid": "10-22-2021",
+    "edit-time": 1634863585185,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63798,11 +64008,12 @@
   {
     "create-time": 1634949859876,
     "title": "October 23rd, 2021",
-    "uid": "10-23-2021",
-    "edit-time": 1634949859876,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1634949859876,
+    "uid": "10-23-2021",
+    "edit-time": 1634949859876,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63810,11 +64021,12 @@
   {
     "create-time": 1635036104374,
     "title": "October 24th, 2021",
-    "uid": "10-24-2021",
-    "edit-time": 1635036104374,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1635036104373,
+    "uid": "10-24-2021",
+    "edit-time": 1635036104374,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63822,11 +64034,12 @@
   {
     "create-time": 1635122608852,
     "title": "October 25th, 2021",
-    "uid": "10-25-2021",
-    "edit-time": 1635122608852,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1635122608852,
+    "uid": "10-25-2021",
+    "edit-time": 1635122608852,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63834,11 +64047,12 @@
   {
     "create-time": 1635208783965,
     "title": "October 26th, 2021",
-    "uid": "10-26-2021",
-    "edit-time": 1635208783965,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1635208783965,
+    "uid": "10-26-2021",
+    "edit-time": 1635208783965,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63846,11 +64060,12 @@
   {
     "create-time": 1635295182500,
     "title": "October 27th, 2021",
-    "uid": "10-27-2021",
-    "edit-time": 1635295182500,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1635295182499,
+    "uid": "10-27-2021",
+    "edit-time": 1635295182500,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63858,11 +64073,12 @@
   {
     "create-time": 1635381603446,
     "title": "October 28th, 2021",
-    "uid": "10-28-2021",
-    "edit-time": 1635381603446,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1635381603445,
+    "uid": "10-28-2021",
+    "edit-time": 1635381603446,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63870,11 +64086,12 @@
   {
     "create-time": 1635467916449,
     "title": "October 29th, 2021",
-    "uid": "10-29-2021",
-    "edit-time": 1635467916449,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1635467916448,
+    "uid": "10-29-2021",
+    "edit-time": 1635467916449,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63882,11 +64099,12 @@
   {
     "create-time": 1635554353083,
     "title": "October 30th, 2021",
-    "uid": "10-30-2021",
-    "edit-time": 1635554353083,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1635554353082,
+    "uid": "10-30-2021",
+    "edit-time": 1635554353083,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63894,11 +64112,12 @@
   {
     "create-time": 1635640916964,
     "title": "October 31st, 2021",
-    "uid": "10-31-2021",
-    "edit-time": 1635640916964,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1635640916963,
+    "uid": "10-31-2021",
+    "edit-time": 1635640916964,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63906,11 +64125,12 @@
   {
     "create-time": 1635813843970,
     "title": "November 2nd, 2021",
-    "uid": "11-02-2021",
-    "edit-time": 1635813843970,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1635813843969,
+    "uid": "11-02-2021",
+    "edit-time": 1635813843970,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63918,11 +64138,12 @@
   {
     "create-time": 1635900005609,
     "title": "November 3rd, 2021",
-    "uid": "11-03-2021",
-    "edit-time": 1635900005609,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1635900005608,
+    "uid": "11-03-2021",
+    "edit-time": 1635900005609,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63930,11 +64151,12 @@
   {
     "create-time": 1635986430686,
     "title": "November 4th, 2021",
-    "uid": "11-04-2021",
-    "edit-time": 1635986430686,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1635986430685,
+    "uid": "11-04-2021",
+    "edit-time": 1635986430686,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63942,11 +64164,12 @@
   {
     "create-time": 1636072806809,
     "title": "November 5th, 2021",
-    "uid": "11-05-2021",
-    "edit-time": 1636072806809,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1636072806808,
+    "uid": "11-05-2021",
+    "edit-time": 1636072806809,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63954,11 +64177,12 @@
   {
     "create-time": 1636159144108,
     "title": "November 6th, 2021",
-    "uid": "11-06-2021",
-    "edit-time": 1636159144108,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1636159144107,
+    "uid": "11-06-2021",
+    "edit-time": 1636159144108,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63966,11 +64190,12 @@
   {
     "create-time": 1636245701524,
     "title": "November 7th, 2021",
-    "uid": "11-07-2021",
-    "edit-time": 1636245701524,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1636245701524,
+    "uid": "11-07-2021",
+    "edit-time": 1636245701524,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63978,11 +64203,12 @@
   {
     "create-time": 1636332067211,
     "title": "November 8th, 2021",
-    "uid": "11-08-2021",
-    "edit-time": 1636332067211,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1636332067211,
+    "uid": "11-08-2021",
+    "edit-time": 1636332067211,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -63990,11 +64216,12 @@
   {
     "create-time": 1636418468983,
     "title": "November 9th, 2021",
-    "uid": "11-09-2021",
-    "edit-time": 1636418468983,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1636418468982,
+    "uid": "11-09-2021",
+    "edit-time": 1636418468983,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64002,11 +64229,12 @@
   {
     "create-time": 1636504842412,
     "title": "November 10th, 2021",
-    "uid": "11-10-2021",
-    "edit-time": 1636504842412,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1636504842411,
+    "uid": "11-10-2021",
+    "edit-time": 1636504842412,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64014,11 +64242,12 @@
   {
     "create-time": 1636591276694,
     "title": "November 11th, 2021",
-    "uid": "11-11-2021",
-    "edit-time": 1636591276694,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1636591276693,
+    "uid": "11-11-2021",
+    "edit-time": 1636591276694,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64026,11 +64255,12 @@
   {
     "create-time": 1636677722111,
     "title": "November 12th, 2021",
-    "uid": "11-12-2021",
-    "edit-time": 1636677722111,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1636677722109,
+    "uid": "11-12-2021",
+    "edit-time": 1636677722111,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64038,11 +64268,12 @@
   {
     "create-time": 1636763969322,
     "title": "November 13th, 2021",
-    "uid": "11-13-2021",
-    "edit-time": 1636763969322,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1636763969322,
+    "uid": "11-13-2021",
+    "edit-time": 1636763969322,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64050,11 +64281,12 @@
   {
     "create-time": 1636850515887,
     "title": "November 14th, 2021",
-    "uid": "11-14-2021",
-    "edit-time": 1636850515887,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1636850515886,
+    "uid": "11-14-2021",
+    "edit-time": 1636850515887,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64062,11 +64294,12 @@
   {
     "create-time": 1637023262431,
     "title": "November 16th, 2021",
-    "uid": "11-16-2021",
-    "edit-time": 1637023262431,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1637023262430,
+    "uid": "11-16-2021",
+    "edit-time": 1637023262431,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64074,11 +64307,12 @@
   {
     "create-time": 1637109641794,
     "title": "November 17th, 2021",
-    "uid": "11-17-2021",
-    "edit-time": 1637109641794,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1637109641793,
+    "uid": "11-17-2021",
+    "edit-time": 1637109641794,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64086,11 +64320,12 @@
   {
     "create-time": 1637196099829,
     "title": "November 18th, 2021",
-    "uid": "11-18-2021",
-    "edit-time": 1637196099829,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1637196099828,
+    "uid": "11-18-2021",
+    "edit-time": 1637196099829,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64098,11 +64333,12 @@
   {
     "create-time": 1637282440622,
     "title": "November 19th, 2021",
-    "uid": "11-19-2021",
-    "edit-time": 1637282440622,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1637282440621,
+    "uid": "11-19-2021",
+    "edit-time": 1637282440622,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64110,11 +64346,12 @@
   {
     "create-time": 1637368817064,
     "title": "November 20th, 2021",
-    "uid": "11-20-2021",
-    "edit-time": 1637368817064,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1637368817063,
+    "uid": "11-20-2021",
+    "edit-time": 1637368817064,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64122,11 +64359,12 @@
   {
     "create-time": 1637455353084,
     "title": "November 21st, 2021",
-    "uid": "11-21-2021",
-    "edit-time": 1637455353084,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1637455353082,
+    "uid": "11-21-2021",
+    "edit-time": 1637455353084,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64134,11 +64372,12 @@
   {
     "create-time": 1637541676464,
     "title": "November 22nd, 2021",
-    "uid": "11-22-2021",
-    "edit-time": 1637541676464,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1637541676463,
+    "uid": "11-22-2021",
+    "edit-time": 1637541676464,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64146,11 +64385,12 @@
   {
     "create-time": 1637628043017,
     "title": "November 23rd, 2021",
-    "uid": "11-23-2021",
-    "edit-time": 1637628043017,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1637628043016,
+    "uid": "11-23-2021",
+    "edit-time": 1637628043017,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64158,11 +64398,12 @@
   {
     "create-time": 1637714469175,
     "title": "November 24th, 2021",
-    "uid": "11-24-2021",
-    "edit-time": 1637714469175,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1637714469174,
+    "uid": "11-24-2021",
+    "edit-time": 1637714469175,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64170,11 +64411,12 @@
   {
     "create-time": 1637800928416,
     "title": "November 25th, 2021",
-    "uid": "11-25-2021",
-    "edit-time": 1637800928416,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1637800928415,
+    "uid": "11-25-2021",
+    "edit-time": 1637800928416,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64182,11 +64424,12 @@
   {
     "create-time": 1637887226592,
     "title": "November 26th, 2021",
-    "uid": "11-26-2021",
-    "edit-time": 1637887226592,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1637887226591,
+    "uid": "11-26-2021",
+    "edit-time": 1637887226592,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64194,11 +64437,12 @@
   {
     "create-time": 1637973592740,
     "title": "November 27th, 2021",
-    "uid": "11-27-2021",
-    "edit-time": 1637973592740,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1637973592739,
+    "uid": "11-27-2021",
+    "edit-time": 1637973592740,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64206,11 +64450,12 @@
   {
     "create-time": 1638060146379,
     "title": "November 28th, 2021",
-    "uid": "11-28-2021",
-    "edit-time": 1638060146379,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1638060146377,
+    "uid": "11-28-2021",
+    "edit-time": 1638060146379,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64218,11 +64463,12 @@
   {
     "create-time": 1638146481557,
     "title": "November 29th, 2021",
-    "uid": "11-29-2021",
-    "edit-time": 1638146481557,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1638146481556,
+    "uid": "11-29-2021",
+    "edit-time": 1638146481557,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64230,11 +64476,12 @@
   {
     "create-time": 1638232978400,
     "title": "November 30th, 2021",
-    "uid": "11-30-2021",
-    "edit-time": 1638232978400,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1638232978399,
+    "uid": "11-30-2021",
+    "edit-time": 1638232978400,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64242,11 +64489,12 @@
   {
     "create-time": 1638319447232,
     "title": "December 1st, 2021",
-    "uid": "12-01-2021",
-    "edit-time": 1638319447232,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1638319447231,
+    "uid": "12-01-2021",
+    "edit-time": 1638319447232,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64254,11 +64502,12 @@
   {
     "create-time": 1638405680101,
     "title": "December 2nd, 2021",
-    "uid": "12-02-2021",
-    "edit-time": 1638405680101,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1638405680100,
+    "uid": "12-02-2021",
+    "edit-time": 1638405680101,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64266,11 +64515,12 @@
   {
     "create-time": 1638492096929,
     "title": "December 3rd, 2021",
-    "uid": "12-03-2021",
-    "edit-time": 1638492096929,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1638492096928,
+    "uid": "12-03-2021",
+    "edit-time": 1638492096929,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64278,11 +64528,12 @@
   {
     "create-time": 1638578494178,
     "title": "December 4th, 2021",
-    "uid": "12-04-2021",
-    "edit-time": 1638578494178,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1638578494177,
+    "uid": "12-04-2021",
+    "edit-time": 1638578494178,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64290,11 +64541,12 @@
   {
     "create-time": 1638665127049,
     "title": "December 5th, 2021",
-    "uid": "12-05-2021",
-    "edit-time": 1638665127049,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1638665127048,
+    "uid": "12-05-2021",
+    "edit-time": 1638665127049,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64302,11 +64554,12 @@
   {
     "create-time": 1638751426360,
     "title": "December 6th, 2021",
-    "uid": "12-06-2021",
-    "edit-time": 1638751426360,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1638751426358,
+    "uid": "12-06-2021",
+    "edit-time": 1638751426360,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64314,11 +64567,12 @@
   {
     "create-time": 1638837848789,
     "title": "December 7th, 2021",
-    "uid": "12-07-2021",
-    "edit-time": 1638837848789,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1638837848788,
+    "uid": "12-07-2021",
+    "edit-time": 1638837848789,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64326,11 +64580,12 @@
   {
     "create-time": 1638924253910,
     "title": "December 8th, 2021",
-    "uid": "12-08-2021",
-    "edit-time": 1638924253910,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1638924253909,
+    "uid": "12-08-2021",
+    "edit-time": 1638924253910,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64341,6 +64596,7 @@
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1639010544473,
     "children": [
       {
         "string": "",
@@ -64370,11 +64626,12 @@
   {
     "create-time": 1639097007972,
     "title": "December 10th, 2021",
-    "uid": "12-10-2021",
-    "edit-time": 1639097007972,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1639097007971,
+    "uid": "12-10-2021",
+    "edit-time": 1639097007972,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64382,11 +64639,12 @@
   {
     "create-time": 1639183289501,
     "title": "December 11th, 2021",
-    "uid": "12-11-2021",
-    "edit-time": 1639183289501,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1639183289500,
+    "uid": "12-11-2021",
+    "edit-time": 1639183289501,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64394,11 +64652,12 @@
   {
     "create-time": 1639269911203,
     "title": "December 12th, 2021",
-    "uid": "12-12-2021",
-    "edit-time": 1639269911204,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1639269911203,
+    "uid": "12-12-2021",
+    "edit-time": 1639269911204,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64406,11 +64665,12 @@
   {
     "create-time": 1639356180043,
     "title": "December 13th, 2021",
-    "uid": "12-13-2021",
-    "edit-time": 1639356180043,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1639356180042,
+    "uid": "12-13-2021",
+    "edit-time": 1639356180043,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64418,11 +64678,12 @@
   {
     "create-time": 1639442752007,
     "title": "December 14th, 2021",
-    "uid": "12-14-2021",
-    "edit-time": 1639442752007,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1639442752006,
+    "uid": "12-14-2021",
+    "edit-time": 1639442752007,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64430,11 +64691,12 @@
   {
     "create-time": 1639528960161,
     "title": "December 15th, 2021",
-    "uid": "12-15-2021",
-    "edit-time": 1639528960161,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1639528960160,
+    "uid": "12-15-2021",
+    "edit-time": 1639528960161,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64442,11 +64704,12 @@
   {
     "create-time": 1639615359091,
     "title": "December 16th, 2021",
-    "uid": "12-16-2021",
-    "edit-time": 1639615359091,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1639615359090,
+    "uid": "12-16-2021",
+    "edit-time": 1639615359091,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64454,11 +64717,12 @@
   {
     "create-time": 1639701924471,
     "title": "December 17th, 2021",
-    "uid": "12-17-2021",
-    "edit-time": 1639701924471,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1639701924470,
+    "uid": "12-17-2021",
+    "edit-time": 1639701924471,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64466,11 +64730,12 @@
   {
     "create-time": 1639788345038,
     "title": "December 18th, 2021",
-    "uid": "12-18-2021",
-    "edit-time": 1639788345038,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1639788345037,
+    "uid": "12-18-2021",
+    "edit-time": 1639788345038,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64478,11 +64743,12 @@
   {
     "create-time": 1639874820761,
     "title": "December 19th, 2021",
-    "uid": "12-19-2021",
-    "edit-time": 1639874820761,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1639874820760,
+    "uid": "12-19-2021",
+    "edit-time": 1639874820761,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64490,11 +64756,12 @@
   {
     "create-time": 1639961084107,
     "title": "December 20th, 2021",
-    "uid": "12-20-2021",
-    "edit-time": 1639961084107,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1639961084106,
+    "uid": "12-20-2021",
+    "edit-time": 1639961084107,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64502,11 +64769,12 @@
   {
     "create-time": 1640047606163,
     "title": "December 21st, 2021",
-    "uid": "12-21-2021",
-    "edit-time": 1640047606163,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1640047606161,
+    "uid": "12-21-2021",
+    "edit-time": 1640047606163,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64514,11 +64782,12 @@
   {
     "create-time": 1640133923452,
     "title": "December 22nd, 2021",
-    "uid": "12-22-2021",
-    "edit-time": 1640133923453,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1640133923452,
+    "uid": "12-22-2021",
+    "edit-time": 1640133923453,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64526,11 +64795,12 @@
   {
     "create-time": 1640220258034,
     "title": "December 23rd, 2021",
-    "uid": "12-23-2021",
-    "edit-time": 1640220258034,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1640220258033,
+    "uid": "12-23-2021",
+    "edit-time": 1640220258034,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64538,11 +64808,12 @@
   {
     "create-time": 1640306592978,
     "title": "December 24th, 2021",
-    "uid": "12-24-2021",
-    "edit-time": 1640306592978,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1640306592977,
+    "uid": "12-24-2021",
+    "edit-time": 1640306592978,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64550,11 +64821,12 @@
   {
     "create-time": 1640392953789,
     "title": "December 25th, 2021",
-    "uid": "12-25-2021",
-    "edit-time": 1640392953789,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1640392953788,
+    "uid": "12-25-2021",
+    "edit-time": 1640392953789,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64562,11 +64834,12 @@
   {
     "create-time": 1640479630062,
     "title": "December 26th, 2021",
-    "uid": "12-26-2021",
-    "edit-time": 1640479630062,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1640479630061,
+    "uid": "12-26-2021",
+    "edit-time": 1640479630062,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64574,11 +64847,12 @@
   {
     "create-time": 1640565861749,
     "title": "December 27th, 2021",
-    "uid": "12-27-2021",
-    "edit-time": 1640565861750,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1640565861748,
+    "uid": "12-27-2021",
+    "edit-time": 1640565861750,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64586,11 +64860,12 @@
   {
     "create-time": 1640652230556,
     "title": "December 28th, 2021",
-    "uid": "12-28-2021",
-    "edit-time": 1640652230556,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1640652230555,
+    "uid": "12-28-2021",
+    "edit-time": 1640652230556,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64598,11 +64873,12 @@
   {
     "create-time": 1640738611876,
     "title": "December 29th, 2021",
-    "uid": "12-29-2021",
-    "edit-time": 1640738611876,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1640738611875,
+    "uid": "12-29-2021",
+    "edit-time": 1640738611876,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64610,11 +64886,12 @@
   {
     "create-time": 1640825014376,
     "title": "December 30th, 2021",
-    "uid": "12-30-2021",
-    "edit-time": 1640825014376,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1640825014375,
+    "uid": "12-30-2021",
+    "edit-time": 1640825014376,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64622,11 +64899,12 @@
   {
     "create-time": 1640911540353,
     "title": "December 31st, 2021",
-    "uid": "12-31-2021",
-    "edit-time": 1640911540353,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1640911540352,
+    "uid": "12-31-2021",
+    "edit-time": 1640911540353,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64634,11 +64912,12 @@
   {
     "create-time": 1640997950600,
     "title": "January 1st, 2022",
-    "uid": "01-01-2022",
-    "edit-time": 1640997950600,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1640997950600,
+    "uid": "01-01-2022",
+    "edit-time": 1640997950600,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64646,11 +64925,12 @@
   {
     "create-time": 1641084398445,
     "title": "January 2nd, 2022",
-    "uid": "01-02-2022",
-    "edit-time": 1641084398445,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1641084398444,
+    "uid": "01-02-2022",
+    "edit-time": 1641084398445,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64658,11 +64938,12 @@
   {
     "create-time": 1641170635508,
     "title": "January 3rd, 2022",
-    "uid": "01-03-2022",
-    "edit-time": 1641170635508,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1641170635507,
+    "uid": "01-03-2022",
+    "edit-time": 1641170635508,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64670,11 +64951,12 @@
   {
     "create-time": 1641257135463,
     "title": "January 4th, 2022",
-    "uid": "01-04-2022",
-    "edit-time": 1641257135464,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1641257135462,
+    "uid": "01-04-2022",
+    "edit-time": 1641257135464,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64682,11 +64964,12 @@
   {
     "create-time": 1641343651792,
     "title": "January 5th, 2022",
-    "uid": "01-05-2022",
-    "edit-time": 1641343651792,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1641343651790,
+    "uid": "01-05-2022",
+    "edit-time": 1641343651792,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64694,11 +64977,12 @@
   {
     "create-time": 1641430244666,
     "title": "January 6th, 2022",
-    "uid": "01-06-2022",
-    "edit-time": 1641430244666,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1641430244657,
+    "uid": "01-06-2022",
+    "edit-time": 1641430244666,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64706,11 +64990,12 @@
   {
     "create-time": 1641516628951,
     "title": "January 7th, 2022",
-    "uid": "01-07-2022",
-    "edit-time": 1641516628951,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1641516628950,
+    "uid": "01-07-2022",
+    "edit-time": 1641516628951,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64718,11 +65003,12 @@
   {
     "create-time": 1641602717932,
     "title": "January 8th, 2022",
-    "uid": "01-08-2022",
-    "edit-time": 1641602717932,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1641602717930,
+    "uid": "01-08-2022",
+    "edit-time": 1641602717932,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64730,11 +65016,12 @@
   {
     "create-time": 1641689261226,
     "title": "January 9th, 2022",
-    "uid": "01-09-2022",
-    "edit-time": 1641689261226,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1641689261225,
+    "uid": "01-09-2022",
+    "edit-time": 1641689261226,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64742,11 +65029,12 @@
   {
     "create-time": 1641775431493,
     "title": "January 10th, 2022",
-    "uid": "01-10-2022",
-    "edit-time": 1641775431493,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1641775431492,
+    "uid": "01-10-2022",
+    "edit-time": 1641775431493,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64754,11 +65042,12 @@
   {
     "create-time": 1641862061629,
     "title": "January 11th, 2022",
-    "uid": "01-11-2022",
-    "edit-time": 1641862061629,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1641862061628,
+    "uid": "01-11-2022",
+    "edit-time": 1641862061629,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64766,11 +65055,12 @@
   {
     "create-time": 1641948367029,
     "title": "January 12th, 2022",
-    "uid": "01-12-2022",
-    "edit-time": 1641948367029,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1641948367028,
+    "uid": "01-12-2022",
+    "edit-time": 1641948367029,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64778,11 +65068,12 @@
   {
     "create-time": 1642034914456,
     "title": "January 13th, 2022",
-    "uid": "01-13-2022",
-    "edit-time": 1642034914456,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1642034914455,
+    "uid": "01-13-2022",
+    "edit-time": 1642034914456,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64790,11 +65081,12 @@
   {
     "create-time": 1642121257385,
     "title": "January 14th, 2022",
-    "uid": "01-14-2022",
-    "edit-time": 1642121257385,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1642121257384,
+    "uid": "01-14-2022",
+    "edit-time": 1642121257385,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64802,11 +65094,12 @@
   {
     "create-time": 1642207501354,
     "title": "January 15th, 2022",
-    "uid": "01-15-2022",
-    "edit-time": 1642207501354,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1642207501352,
+    "uid": "01-15-2022",
+    "edit-time": 1642207501354,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64814,11 +65107,12 @@
   {
     "create-time": 1642294120660,
     "title": "January 16th, 2022",
-    "uid": "01-16-2022",
-    "edit-time": 1642294120660,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1642294120659,
+    "uid": "01-16-2022",
+    "edit-time": 1642294120660,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64826,11 +65120,12 @@
   {
     "create-time": 1642380391969,
     "title": "January 17th, 2022",
-    "uid": "01-17-2022",
-    "edit-time": 1642380391969,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1642380391968,
+    "uid": "01-17-2022",
+    "edit-time": 1642380391969,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64838,11 +65133,12 @@
   {
     "create-time": 1642466885104,
     "title": "January 18th, 2022",
-    "uid": "01-18-2022",
-    "edit-time": 1642466885104,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1642466885103,
+    "uid": "01-18-2022",
+    "edit-time": 1642466885104,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64850,11 +65146,12 @@
   {
     "create-time": 1642552887026,
     "title": "January 19th, 2022",
-    "uid": "01-19-2022",
-    "edit-time": 1642552887026,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1642552887025,
+    "uid": "01-19-2022",
+    "edit-time": 1642552887026,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -64865,6 +65162,7 @@
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1642639868525,
     "children": [
       {
         "edit-time": 1642724156935,
@@ -65600,11 +65898,12 @@
   {
     "create-time": 1642725700672,
     "title": "January 21st, 2022",
-    "uid": "01-21-2022",
-    "edit-time": 1642725700673,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1642725700671,
+    "uid": "01-21-2022",
+    "edit-time": 1642725700673,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -65624,11 +65923,12 @@
   {
     "create-time": 1642812107405,
     "title": "January 22nd, 2022",
-    "uid": "01-22-2022",
-    "edit-time": 1642812107405,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1642812107403,
+    "uid": "01-22-2022",
+    "edit-time": 1642812107405,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -65636,11 +65936,12 @@
   {
     "create-time": 1642898549204,
     "title": "January 23rd, 2022",
-    "uid": "01-23-2022",
-    "edit-time": 1642898549204,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1642898549203,
+    "uid": "01-23-2022",
+    "edit-time": 1642898549204,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -65648,11 +65949,12 @@
   {
     "create-time": 1642984942755,
     "title": "January 24th, 2022",
-    "uid": "01-24-2022",
-    "edit-time": 1642984942755,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1642984942754,
+    "uid": "01-24-2022",
+    "edit-time": 1642984942755,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -65660,11 +65962,12 @@
   {
     "create-time": 1643071672154,
     "title": "January 25th, 2022",
-    "uid": "01-25-2022",
-    "edit-time": 1643071672154,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1643071672153,
+    "uid": "01-25-2022",
+    "edit-time": 1643071672154,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -65672,11 +65975,12 @@
   {
     "create-time": 1643158145251,
     "title": "January 26th, 2022",
-    "uid": "01-26-2022",
-    "edit-time": 1643158145251,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1643158145250,
+    "uid": "01-26-2022",
+    "edit-time": 1643158145251,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -65684,11 +65988,12 @@
   {
     "create-time": 1643244207125,
     "title": "January 27th, 2022",
-    "uid": "01-27-2022",
-    "edit-time": 1643244207125,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1643244207124,
+    "uid": "01-27-2022",
+    "edit-time": 1643244207125,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -65696,11 +66001,12 @@
   {
     "create-time": 1643330582967,
     "title": "January 28th, 2022",
-    "uid": "01-28-2022",
-    "edit-time": 1643330582967,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1643330582966,
+    "uid": "01-28-2022",
+    "edit-time": 1643330582967,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -65708,11 +66014,12 @@
   {
     "create-time": 1643416814465,
     "title": "January 29th, 2022",
-    "uid": "01-29-2022",
-    "edit-time": 1643416814465,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1643416814463,
+    "uid": "01-29-2022",
+    "edit-time": 1643416814465,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -65720,11 +66027,12 @@
   {
     "create-time": 1643503409259,
     "title": "January 30th, 2022",
-    "uid": "01-30-2022",
-    "edit-time": 1643503409260,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1643503409258,
+    "uid": "01-30-2022",
+    "edit-time": 1643503409260,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -65732,11 +66040,12 @@
   {
     "create-time": 1643589743103,
     "title": "January 31st, 2022",
-    "uid": "01-31-2022",
-    "edit-time": 1643589743103,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1643589743101,
+    "uid": "01-31-2022",
+    "edit-time": 1643589743103,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -65744,11 +66053,12 @@
   {
     "create-time": 1643676315211,
     "title": "February 1st, 2022",
-    "uid": "02-01-2022",
-    "edit-time": 1643676315211,
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    ":log/id": 1643676315210,
+    "uid": "02-01-2022",
+    "edit-time": 1643676315211,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
