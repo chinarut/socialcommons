@@ -66178,5 +66178,18 @@
     ":edit/user": {
       ":user/uid": "gAZURpbxivcfirP4GcBc3sjh26p2"
     }
+  },
+  {
+    "create-time": 1644454003875,
+    "title": "February 10th, 2022",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":log/id": 1644454003874,
+    "uid": "02-10-2022",
+    "edit-time": 1644454003875,
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
   }
 ]
