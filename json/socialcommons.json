@@ -66346,5 +66346,18 @@
     ":edit/user": {
       ":user/uid": "HSIuu2JYFSghOSyglU2zMZnuFyu2"
     }
+  },
+  {
+    "create-time": 1645490861840,
+    "title": "February 22nd, 2022",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":log/id": 1645490861839,
+    "uid": "02-22-2022",
+    "edit-time": 1645490861840,
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
   }
 ]
