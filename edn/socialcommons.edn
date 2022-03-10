@@ -50785,11 +50785,11 @@
   [4400
    :block/string
    "”The tremendous and still accelerating development of science and technology has not been accompanied by an equal development in social, economic, and political patterns...We are now...only beginning to explore the potentialities which it offers for developments in our culture outside technology, particularly in the social, political and economic fields. It is safe to predict that...such social inventions as modern-type Capitalism, Fascism, and Communism will be regarded as primitive experiments directed toward the adjustment of modern society to modern technology” - Dr. Ralph Linton"
-   536876603]
+   536878401]
   [4400 :block/uid "nsxZ0IF43" 536876595]
   [4400 :create/time 1626197711635 536876595]
   [4400 :create/user 1 536876595]
-  [4400 :edit/time 1626197781257 536876603]
+  [4400 :edit/time 1646930403731 536878401]
   [4400 :edit/user 1 536876595]
   [4404 :block/open true 536876623]
   [4404 :block/order 1 536876777]
@@ -55947,8 +55947,8 @@
   [4961 :version/id "0.9.3" 536878367]
   [4961
    :version/nonce
-   "uuid52d37e5e-d041-4528-9d84-c7c063ee256f"
-   536878399]
+   "uuid1c368375-6bf4-44e4-8b18-be0f1075f7ef"
+   536878401]
   [4962 :block/uid "02-13-2022" 536878368]
   [4962 :create/time 1644713337026 536878368]
   [4962 :create/user 1 536878368]
