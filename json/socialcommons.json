@@ -66773,5 +66773,95 @@
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
+  },
+  {
+    "create-time": 1648145361045,
+    "title": "roamjs/extensions",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    "children": [
+      {
+        "edit-time": 1648145385797,
+        "children": [
+          {
+            "string": "```javascript\nvar existing = document.getElementById(\"roamjs-multiplayer-main\");\nif (!existing) {\n  var extension = document.createElement(\"script\");\n  extension.src = \"https://roamjs.com/multiplayer/main.js\";\n  extension.id = \"roamjs-multiplayer-main\";\n  extension.async = true;\n  extension.type = \"text/javascript\";\n  document.getElementsByTagName(\"head\")[0].appendChild(extension);\n}```",
+            "uid": "YBIBu792L",
+            "create-time": 1648145386751,
+            "edit-time": 1648145391796,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "s8VDDYc6x"
+          }
+        ],
+        "uid": "1j38Ewjqi",
+        ":block/refs": [
+          {
+            ":block/uid": "s8VDDYc6x"
+          }
+        ],
+        "string": "{{[[roam/js]]}}",
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "create-time": 1648145384850,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      }
+    ],
+    "uid": "278_q2a8U",
+    "edit-time": 1648145376175,
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1648145394285,
+    "title": "roam/js/multiplayer",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    "children": [
+      {
+        "string": "Synchronous",
+        "create-time": 1648145394296,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "Connected Graphs",
+            "uid": "o87haDN5d",
+            "create-time": 1648145409694,
+            "edit-time": 1648145409694,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "-12BQY1-6",
+        "edit-time": 1648145394296,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      }
+    ],
+    "uid": "HiXM9jAaW",
+    "edit-time": 1648145394286,
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
   }
 ]
