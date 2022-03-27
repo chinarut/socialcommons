@@ -66979,6 +66979,32 @@
         ":edit/user": {
           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
         }
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "string": "From: admins-smartblocks 2.json",
+                "uid": "XyGKh4sQT"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "nfNbAnqWS"
+              }
+            ],
+            "string": "[[admins/smartblocks]]",
+            "uid": "dkItqMHlV",
+            ":block/refs": [
+              {
+                ":block/uid": "nfNbAnqWS"
+              }
+            ]
+          }
+        ],
+        "string": "Import",
+        "uid": "QgQmQJK3v"
       }
     ],
     "uid": "03-27-2022",
@@ -67986,6 +68012,208 @@
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
     ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1640127645184,
+    "title": "admins/smartblocks",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    "children": [
+      {
+        "edit-time": 1642735515432,
+        "children": [
+          {
+            "string": "```javascript\nvar existing = document.getElementById(\"roamjs-smartblocks-main\");\nif (!existing) {\n  var extension = document.createElement(\"script\");\n  extension.src = \"https://roamjs.com/smartblocks/main.js\";\n  extension.id = \"roamjs-smartblocks-main\";\n  extension.async = true;\n  extension.type = \"text/javascript\";\n  document.getElementsByTagName(\"head\")[0].appendChild(extension);\n}\n```",
+            "uid": "IZ0jHKfLw",
+            "create-time": 1642735516006,
+            "edit-time": 1642735522745,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "s8VDDYc6x"
+          }
+        ],
+        "uid": "_OWf-hEpr",
+        ":block/refs": [
+          {
+            ":block/uid": "s8VDDYc6x"
+          }
+        ],
+        "string": "{{[[roam/js]]}}",
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "create-time": 1642735488097,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "edit-time": 1642736058184,
+        "children": [
+          {
+            "string": "<%J:```javascript\n// finds notes missing from an index based on their starting prefix e.g. [[Evergreen]]/\n\nreturn getMissingNotes(\"Q/\",\"Questions\");\n\nfunction getMissingNotes(pagePrefix, indexPage){\n  let ancestor = `[ \n  [(ancestor ?child ?parent)\n   [?parent :block/children ?child]]\n  [(ancestor ?child ?ancestor)\n   [?parent :block/children ?child]\n   (ancestor ?parent ?ancestor)]\n]`;\n\nvar allPages = window.roamAlphaAPI.q(`\n[:find ?name\n  :in $ % ?tag\n  :where\n    [_ :node/title ?name]\n    [(clojure.string/starts-with? ^String ?name ?tag)]]\n]`, ancestor,pagePrefix);\n  \nvar missingPages = window.roamAlphaAPI.q(`\n[:find ?pages\n  :in $ % ?container_title [?pages ...]\n  :where\n    [?container_page :node/title ?container_title]\n    [?page :node/title ?pages]\n    (not (ancestor ?container_block ?container_page)\n         [?container_block :block/refs ?page])\n]`, ancestor, indexPage,allPages.map((data, index) => {return `${data[0]}`}));\n  \nreturn missingPages.map((data, index) => {return `[[${data[0]}]]`});\n}``` %>",
+            "uid": "mZdxwPNeP",
+            "create-time": 1634676623631,
+            "edit-time": 1642736058184,
+            ":create/user": {
+              ":user/uid": "2didgYjql9PA7QKUOsQOD9n84ms1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ghRhqhWf2"
+          }
+        ],
+        "uid": "PMspUIUUZ",
+        ":block/refs": [
+          {
+            ":block/uid": "ghRhqhWf2"
+          }
+        ],
+        "string": "#SmartBlock question index",
+        ":create/user": {
+          ":user/uid": "2didgYjql9PA7QKUOsQOD9n84ms1"
+        },
+        "create-time": 1634676585786,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "edit-time": 1642736058184,
+        "children": [
+          {
+            "string": "<%J:```javascript\n// finds notes missing from an index based on their starting prefix e.g. [[Evergreen]]/\n\nreturn getMissingNotes(\"P/\",\"Propositions\");\n\nfunction getMissingNotes(pagePrefix, indexPage){\n  let ancestor = `[ \n  [(ancestor ?child ?parent)\n   [?parent :block/children ?child]]\n  [(ancestor ?child ?ancestor)\n   [?parent :block/children ?child]\n   (ancestor ?parent ?ancestor)]\n]`;\n\nvar allPages = window.roamAlphaAPI.q(`\n[:find ?name\n  :in $ % ?tag\n  :where\n    [_ :node/title ?name]\n    [(clojure.string/starts-with? ^String ?name ?tag)]]\n]`, ancestor,pagePrefix);\n  \nvar missingPages = window.roamAlphaAPI.q(`\n[:find ?pages\n  :in $ % ?container_title [?pages ...]\n  :where\n    [?container_page :node/title ?container_title]\n    [?page :node/title ?pages]\n    (not (ancestor ?container_block ?container_page)\n         [?container_block :block/refs ?page])\n]`, ancestor, indexPage,allPages.map((data, index) => {return `${data[0]}`}));\n  \nreturn missingPages.map((data, index) => {return `[[${data[0]}]]`});\n}``` %>",
+            "uid": "9eeeHo-D4",
+            "create-time": 1634677784583,
+            "edit-time": 1642736058184,
+            ":create/user": {
+              ":user/uid": "2didgYjql9PA7QKUOsQOD9n84ms1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ghRhqhWf2"
+          }
+        ],
+        "uid": "Z5MVHTk6-",
+        ":block/refs": [
+          {
+            ":block/uid": "ghRhqhWf2"
+          }
+        ],
+        "string": "#SmartBlock proposition index",
+        ":create/user": {
+          ":user/uid": "2didgYjql9PA7QKUOsQOD9n84ms1"
+        },
+        "create-time": 1634677742908,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "edit-time": 1642736058184,
+        "children": [
+          {
+            "string": "<%J:```javascript\n// finds notes missing from an index based on their starting prefix e.g. [[Evergreen]]/\n\nreturn getMissingNotes(\"T/\",\"Terms\");\n\nfunction getMissingNotes(pagePrefix, indexPage){\n  let ancestor = `[ \n  [(ancestor ?child ?parent)\n   [?parent :block/children ?child]]\n  [(ancestor ?child ?ancestor)\n   [?parent :block/children ?child]\n   (ancestor ?parent ?ancestor)]\n]`;\n\nvar allPages = window.roamAlphaAPI.q(`\n[:find ?name\n  :in $ % ?tag\n  :where\n    [_ :node/title ?name]\n    [(clojure.string/starts-with? ^String ?name ?tag)]]\n]`, ancestor,pagePrefix);\n  \nvar missingPages = window.roamAlphaAPI.q(`\n[:find ?pages\n  :in $ % ?container_title [?pages ...]\n  :where\n    [?container_page :node/title ?container_title]\n    [?page :node/title ?pages]\n    (not (ancestor ?container_block ?container_page)\n         [?container_block :block/refs ?page])\n]`, ancestor, indexPage,allPages.map((data, index) => {return `${data[0]}`}));\n  \nreturn missingPages.map((data, index) => {return `[[${data[0]}]]`});\n}``` %>",
+            "uid": "WZgq7hGXB",
+            "create-time": 1634677765454,
+            "edit-time": 1642736058184,
+            ":create/user": {
+              ":user/uid": "2didgYjql9PA7QKUOsQOD9n84ms1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ghRhqhWf2"
+          }
+        ],
+        "uid": "I3YDI1wwq",
+        ":block/refs": [
+          {
+            ":block/uid": "ghRhqhWf2"
+          }
+        ],
+        "string": "#SmartBlock term index",
+        ":create/user": {
+          ":user/uid": "2didgYjql9PA7QKUOsQOD9n84ms1"
+        },
+        "create-time": 1634677749069,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "edit-time": 1646539313223,
+        "children": [
+          {
+            "string": "<%J:```javascript\n// finds notes missing from an index based on their starting prefix e.g. [[Evergreen]]/\n\nreturn getMissingNotes(\"S/\",\"Sources\");\n\nfunction getMissingNotes(pagePrefix, indexPage){\n  let ancestor = `[ \n  [(ancestor ?child ?parent)\n   [?parent :block/children ?child]]\n  [(ancestor ?child ?ancestor)\n   [?parent :block/children ?child]\n   (ancestor ?parent ?ancestor)]\n]`;\n\nvar allPages = window.roamAlphaAPI.q(`\n[:find ?name\n  :in $ % ?tag\n  :where\n    [_ :node/title ?name]\n    [(clojure.string/starts-with? ^String ?name ?tag)]]\n]`, ancestor,pagePrefix);\n  \nvar missingPages = window.roamAlphaAPI.q(`\n[:find ?pages\n  :in $ % ?container_title [?pages ...]\n  :where\n    [?container_page :node/title ?container_title]\n    [?page :node/title ?pages]\n    (not (ancestor ?container_block ?container_page)\n         [?container_block :block/refs ?page])\n]`, ancestor, indexPage,allPages.map((data, index) => {return `${data[0]}`}));\n  \nreturn missingPages.map((data, index) => {return `[[${data[0]}]]`});\n}``` %>",
+            "uid": "JssVjvXQE",
+            "create-time": 1646539322614,
+            "edit-time": 1646539338578,
+            ":create/user": {
+              ":user/uid": "2didgYjql9PA7QKUOsQOD9n84ms1"
+            },
+            ":edit/user": {
+              ":user/uid": "2didgYjql9PA7QKUOsQOD9n84ms1"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ghRhqhWf2"
+          }
+        ],
+        "uid": "JqV27o0nb",
+        ":block/refs": [
+          {
+            ":block/uid": "ghRhqhWf2"
+          }
+        ],
+        "string": "#SmartBlock source index",
+        ":create/user": {
+          ":user/uid": "2didgYjql9PA7QKUOsQOD9n84ms1"
+        },
+        "create-time": 1646539306974,
+        ":edit/user": {
+          ":user/uid": "2didgYjql9PA7QKUOsQOD9n84ms1"
+        }
+      }
+    ],
+    "uid": "nfNbAnqWS",
+    "edit-time": 1640127645184,
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "ghRhqhWf2",
+    "create-time": 1648414915710,
+    "title": "SmartBlock",
+    ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
   }
