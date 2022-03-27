@@ -66951,8 +66951,668 @@
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
     ":log/id": 1648342760822,
+    "children": [
+      {
+        "string": "[[RBC-homebase-prototype]] sent over page [[Q/Can we use RoamJS multiplayer to allow others to engage with pointed questions? 📚]]",
+        "create-time": 1648403416771,
+        ":block/refs": [
+          {
+            ":block/uid": "l1WwE3EqN"
+          },
+          {
+            ":block/uid": "N3oxy4jlU"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "l1WwE3EqN"
+          },
+          {
+            "uid": "N3oxy4jlU"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "uid": "aKfqeyy5F",
+        "edit-time": 1648403416771,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      }
+    ],
     "uid": "03-27-2022",
     "edit-time": 1648342760823,
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1648403416396,
+    "title": "Q/Can we use RoamJS multiplayer to allow others to engage with pointed questions? 📚",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    "children": [
+      {
+        "edit-time": 1648403416410,
+        "children": [
+          {
+            "edit-time": 1648403416419,
+            "text-align": "left",
+            "refs": [
+              {
+                "uid": "JcQS0E6hZ"
+              },
+              {
+                "uid": "WsiyYs6J_"
+              }
+            ],
+            "uid": "DRorCTxY_",
+            ":block/refs": [
+              {
+                ":block/uid": "JcQS0E6hZ"
+              },
+              {
+                ":block/uid": "WsiyYs6J_"
+              }
+            ],
+            "string": "First added by:: [[Chinarut]]",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1648403416419,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "heading": 0
+          },
+          {
+            "edit-time": 1648403416425,
+            "text-align": "left",
+            "refs": [
+              {
+                "uid": "03-24-2022"
+              },
+              {
+                "uid": "mxGIBf4Sq"
+              }
+            ],
+            "uid": "fSB5qbXc8",
+            ":block/refs": [
+              {
+                ":block/uid": "03-24-2022"
+              },
+              {
+                ":block/uid": "mxGIBf4Sq"
+              }
+            ],
+            "string": "First added on:: [[March 24th, 2022]]",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1648403416425,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "heading": 0
+          },
+          {
+            "edit-time": 1648403416429,
+            "children": [
+              {
+                "edit-time": 1648403416433,
+                "children": [
+                  {
+                    "string": "<name 1's passages related to this question>",
+                    "create-time": 1648403416438,
+                    "heading": 0,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "uid": "umWgo7d_T",
+                    "edit-time": 1648403416438,
+                    "text-align": "left",
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "text-align": "left",
+                "uid": "aQ796BSOX",
+                "string": "<name 1>",
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "create-time": 1648403416433,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "heading": 0
+              }
+            ],
+            "text-align": "left",
+            "refs": [
+              {
+                "uid": "taWHQxq9w"
+              }
+            ],
+            "uid": "g7LcWLOta",
+            ":block/refs": [
+              {
+                ":block/uid": "taWHQxq9w"
+              }
+            ],
+            "string": "Passages::",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1648403416429,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "heading": 0
+          },
+          {
+            "edit-time": 1648403416443,
+            "text-align": "left",
+            "refs": [
+              {
+                "uid": "JcQS0E6hZ"
+              },
+              {
+                "uid": "d0q_PZpmD"
+              }
+            ],
+            "uid": "P9TuyJx12",
+            ":block/refs": [
+              {
+                ":block/uid": "JcQS0E6hZ"
+              },
+              {
+                ":block/uid": "d0q_PZpmD"
+              }
+            ],
+            "string": "Source:: [[Chinarut]] discussion w in Shana’s co-working space",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1648403416443,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "heading": 0
+          },
+          {
+            "edit-time": 1648403416449,
+            "text-align": "left",
+            "refs": [
+              {
+                "uid": "fK5F-Ol3O"
+              },
+              {
+                "uid": "qZsn2NjWl"
+              }
+            ],
+            "uid": "uDjydMZWR",
+            ":block/refs": [
+              {
+                ":block/uid": "fK5F-Ol3O"
+              },
+              {
+                ":block/uid": "qZsn2NjWl"
+              }
+            ],
+            "string": "Related:: [[T/Wellbeing Advisory ✅]]",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1648403416449,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "heading": 0
+          }
+        ],
+        "text-align": "left",
+        "refs": [
+          {
+            "uid": "esKPXXOda"
+          },
+          {
+            "uid": "q8WJf-181"
+          }
+        ],
+        "uid": "ueOa2tlxj",
+        ":block/refs": [
+          {
+            ":block/uid": "esKPXXOda"
+          },
+          {
+            ":block/uid": "q8WJf-181"
+          }
+        ],
+        "string": "Tags:: #Questions",
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "create-time": 1648403416410,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "heading": 0
+      },
+      {
+        "string": "---",
+        "create-time": 1648403416571,
+        "heading": 0,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "uid": "hcoCn45Ut",
+        "edit-time": 1648403416571,
+        "text-align": "left",
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "edit-time": 1648403416584,
+        "children": [
+          {
+            "edit-time": 1648403494601,
+            "children": [
+              {
+                "edit-time": 1648403520401,
+                "children": [
+                  {
+                    "string": "this is a response from @socialcommons",
+                    "uid": "J0QLluUPL",
+                    "create-time": 1648403509066,
+                    "edit-time": 1648403557688,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "text-align": "left",
+                "refs": [
+                  {
+                    "uid": "JcQS0E6hZ"
+                  }
+                ],
+                "uid": "aO82jSn5T",
+                ":block/refs": [
+                  {
+                    ":block/uid": "JcQS0E6hZ"
+                  }
+                ],
+                "string": "Chinarut:: this is a comment in @RBC-homebase-prototype",
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "create-time": 1648403494605,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "heading": 0
+              },
+              {
+                "edit-time": 1648403621500,
+                "text-align": "left",
+                "refs": [
+                  {
+                    "uid": "JcQS0E6hZ"
+                  }
+                ],
+                "uid": "ZLYpxpxAs",
+                ":block/refs": [
+                  {
+                    ":block/uid": "JcQS0E6hZ"
+                  }
+                ],
+                "string": "Chinarut:: this is a 2nd comment in @RBC-home-base-protorype",
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "create-time": 1648403621500,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "heading": 0
+              }
+            ],
+            "text-align": "left",
+            "refs": [
+              {
+                "uid": "03-27-2022"
+              }
+            ],
+            "uid": "DacK1gxLu",
+            ":block/refs": [
+              {
+                ":block/uid": "03-27-2022"
+              }
+            ],
+            "string": "[[March 27th, 2022]]",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1648403494601,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "heading": 0
+          },
+          {
+            "edit-time": 1648403416588,
+            "children": [
+              {
+                "edit-time": 1648403416592,
+                "children": [
+                  {
+                    "string": "to be clear, for the privacy of everyone here, I am **not** enabling this extension in this graph until fully discussed with organizing team",
+                    "create-time": 1648403416596,
+                    "heading": 0,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "uid": "Em_WuUc5_",
+                    "edit-time": 1648403416596,
+                    "text-align": "left",
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "contact me if you’d like to experiment with me in 2 sandbox graphs to implement [roamjs/multiplayer](https://roamjs.com/extensions/multiplayer)",
+                    "create-time": 1648403416600,
+                    "heading": 0,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "uid": "w2GaajmB8",
+                    "edit-time": 1648403416600,
+                    "text-align": "left",
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "edit-time": 1648403416603,
+                    "children": [
+                      {
+                        "edit-time": 1648403416612,
+                        "text-align": "left",
+                        "refs": [
+                          {
+                            "uid": "IsQfKNYKI"
+                          }
+                        ],
+                        "uid": "79UhLKgIY",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "IsQfKNYKI"
+                          }
+                        ],
+                        "string": "one could argue these are potential #community wellbeing advisors at the level of group/collective (defined by RBC7)",
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "create-time": 1648403416612,
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "heading": 0
+                      }
+                    ],
+                    "text-align": "left",
+                    "refs": [
+                      {
+                        "uid": "5qmEnqIzB"
+                      }
+                    ],
+                    "uid": "zM3OYVd69",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "5qmEnqIzB"
+                      }
+                    ],
+                    "string": "something I’m experimenting with is how to best engage with experts/advisors/colleagues/community members who were not part of RBC7 (for whatever reason) that can potentially share additional perspective to answer the question: [[Q/How do we sustain the development of a Wellbeing Commons? 📚]]",
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "create-time": 1648403416603,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "heading": 0
+                  }
+                ],
+                "text-align": "left",
+                "refs": [
+                  {
+                    "uid": "JcQS0E6hZ"
+                  },
+                  {
+                    "uid": "x39eF4O_0"
+                  }
+                ],
+                "uid": "Q5qnkt_IL",
+                ":block/refs": [
+                  {
+                    ":block/uid": "JcQS0E6hZ"
+                  },
+                  {
+                    ":block/uid": "x39eF4O_0"
+                  }
+                ],
+                "string": "Chinarut:: goal is the possibility of cross-syncing [[🐝 Hivemind]] across graphs ",
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "create-time": 1648403416592,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "heading": 0
+              }
+            ],
+            "text-align": "left",
+            "refs": [
+              {
+                "uid": "03-24-2022"
+              }
+            ],
+            "uid": "Ox2S1IbnP",
+            ":block/refs": [
+              {
+                ":block/uid": "03-24-2022"
+              }
+            ],
+            "string": "[[March 24th, 2022]]",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1648403416588,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "heading": 0
+          }
+        ],
+        "text-align": "left",
+        "refs": [
+          {
+            "uid": "WpWtRk5qy"
+          }
+        ],
+        "uid": "jXtgwEIB2",
+        ":block/refs": [
+          {
+            ":block/uid": "WpWtRk5qy"
+          }
+        ],
+        "string": "Discussion:: (tag w/ date please!)",
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "create-time": 1648403416584,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "heading": 1
+      }
+    ],
+    "uid": "l1WwE3EqN",
+    "edit-time": 1648403416396,
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "esKPXXOda",
+    "create-time": 1648403416453,
+    "edit-time": 1648403416455,
+    "title": "Questions",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "q8WJf-181",
+    "create-time": 1648403416453,
+    "edit-time": 1648403416455,
+    "title": "Tags",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "WsiyYs6J_",
+    "create-time": 1648403416485,
+    "edit-time": 1648403416486,
+    "title": "First added by",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "mxGIBf4Sq",
+    "create-time": 1648403416497,
+    "edit-time": 1648403416498,
+    "title": "First added on",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "taWHQxq9w",
+    "create-time": 1648403416520,
+    "edit-time": 1648403416520,
+    "title": "Passages",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "d0q_PZpmD",
+    "create-time": 1648403416539,
+    "edit-time": 1648403416539,
+    "title": "Source",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "fK5F-Ol3O",
+    "create-time": 1648403416553,
+    "edit-time": 1648403416554,
+    "title": "T/Wellbeing Advisory ✅",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "qZsn2NjWl",
+    "create-time": 1648403416553,
+    "edit-time": 1648403416554,
+    "title": "Related",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "WpWtRk5qy",
+    "create-time": 1648403416615,
+    "edit-time": 1648403416616,
+    "title": "Discussion",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "x39eF4O_0",
+    "create-time": 1648403416668,
+    "edit-time": 1648403416669,
+    "title": "🐝 Hivemind",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "5qmEnqIzB",
+    "create-time": 1648403416704,
+    "edit-time": 1648403416705,
+    "title": "Q/How do we sustain the development of a Wellbeing Commons? 📚",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "N3oxy4jlU",
+    "create-time": 1648403416775,
+    "edit-time": 1648403416777,
+    "title": "RBC-homebase-prototype",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }

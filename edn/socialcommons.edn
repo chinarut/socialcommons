@@ -56180,8 +56180,8 @@
   [4996 :version/id "0.9.4" 536878403]
   [4996
    :version/nonce
-   "uuidcd8038ef-311b-43f3-98cc-a50e180c68df"
-   536878461]
+   "uuida0a6090d-88db-49c4-a456-97a359a395b4"
+   536878533]
   [4997 :block/uid "03-13-2022" 536878404]
   [4997 :create/time 1647132684571 536878404]
   [4997 :create/user 1 536878404]
@@ -56263,6 +56263,8 @@
   [5008 :attrs/lookup 5008 536878449]
   [5008 :attrs/lookup 5009 536878449]
   [5008 :attrs/lookup 5016 536878449]
+  [5008 :attrs/lookup 5041 536878498]
+  [5008 :attrs/lookup 5042 536878498]
   [5008 :block/children 5016 536878439]
   [5008 :block/uid "03-24-2022" 536878415]
   [5008 :create/time 1648083425056 536878415]
@@ -56271,13 +56273,20 @@
   [5008 :edit/user 1 536878415]
   [5008
    :entity/attrs
-   #{[{:source [:block/uid "03-24-2022"],
+   #{[{:source [:block/uid "Ox2S1IbnP"],
+       :value [:block/uid "03-24-2022"]}
+      {:source [:block/uid "Q5qnkt_IL"],
+       :value [:block/uid "JcQS0E6hZ"]}
+      {:source [:block/uid "Q5qnkt_IL"],
+       :value
+       " goal is the possibility of cross-syncing [[🐝 Hivemind]] across graphs "}]
+     [{:source [:block/uid "03-24-2022"],
        :value [:block/uid "03-24-2022"]}
       {:source [:block/uid "Xn9vnrhjQ"],
        :value [:block/uid "JcQS0E6hZ"]}
       {:source [:block/uid "Xn9vnrhjQ"],
        :value [:block/uid "278_q2a8U"]}]}
-   536878449]
+   536878498]
   [5008 :log/id 1648083425055 536878415]
   [5008 :node/title "March 24th, 2022" 536878415]
   [5009 :block/children 5011 536878422]
@@ -56381,10 +56390,564 @@
   [5020 :edit/user 1 536878460]
   [5020 :log/id 1648256089861 536878460]
   [5020 :node/title "March 26th, 2022" 536878460]
+  [5021 :attrs/lookup 4270 536878509]
+  [5021 :attrs/lookup 5021 536878509]
+  [5021 :attrs/lookup 5052 536878509]
+  [5021 :attrs/lookup 5053 536878509]
+  [5021 :attrs/lookup 5056 536878532]
+  [5021 :block/children 5050 536878501]
   [5021 :block/uid "03-27-2022" 536878461]
   [5021 :create/time 1648342760823 536878461]
   [5021 :create/user 1 536878461]
   [5021 :edit/time 1648342760823 536878461]
   [5021 :edit/user 1 536878461]
+  [5021
+   :entity/attrs
+   #{[{:source [:block/uid "DacK1gxLu"],
+       :value [:block/uid "03-27-2022"]}
+      {:source [:block/uid "ZLYpxpxAs"],
+       :value [:block/uid "JcQS0E6hZ"]}
+      {:source [:block/uid "ZLYpxpxAs"],
+       :value " this is a 2nd comment in @RBC-home-base-protorype"}]
+     [{:source [:block/uid "DacK1gxLu"],
+       :value [:block/uid "03-27-2022"]}
+      {:source [:block/uid "aO82jSn5T"],
+       :value [:block/uid "JcQS0E6hZ"]}
+      {:source [:block/uid "aO82jSn5T"],
+       :value " this is a comment in @RBC-homebase-prototype"}]}
+   536878532]
   [5021 :log/id 1648342760822 536878461]
-  [5021 :node/title "March 27th, 2022" 536878461]]}
+  [5021 :node/title "March 27th, 2022" 536878461]
+  [5022 :attrs/lookup 5022 536878472]
+  [5022 :attrs/lookup 5023 536878472]
+  [5022 :attrs/lookup 5031 536878472]
+  [5022 :attrs/lookup 5032 536878472]
+  [5022 :attrs/lookup 5040 536878494]
+  [5022 :attrs/lookup 5047 536878494]
+  [5022 :block/children 5023 536878463]
+  [5022 :block/children 5039 536878484]
+  [5022 :block/children 5040 536878486]
+  [5022 :block/uid "l1WwE3EqN" 536878462]
+  [5022 :create/time 1648403416396 536878462]
+  [5022 :create/user 1 536878462]
+  [5022 :edit/time 1648403416396 536878462]
+  [5022 :edit/user 1 536878462]
+  [5022
+   :entity/attrs
+   #{[{:source [:block/uid "l1WwE3EqN"],
+       :value [:block/uid "l1WwE3EqN"]}
+      {:source [:block/uid "jXtgwEIB2"],
+       :value [:block/uid "WpWtRk5qy"]}
+      {:source [:block/uid "jXtgwEIB2"],
+       :value " (tag w/ date please!)"}]
+     [{:source [:block/uid "l1WwE3EqN"],
+       :value [:block/uid "l1WwE3EqN"]}
+      {:source [:block/uid "ueOa2tlxj"],
+       :value [:block/uid "q8WJf-181"]}
+      {:source [:block/uid "ueOa2tlxj"],
+       :value [:block/uid "esKPXXOda"]}]}
+   536878494]
+  [5022
+   :node/title
+   "Q/Can we use RoamJS multiplayer to allow others to engage with pointed questions? 📚"
+   536878462]
+  [5023 :attrs/lookup 4270 536878475]
+  [5023 :attrs/lookup 5008 536878477]
+  [5023 :attrs/lookup 5023 536878475]
+  [5023 :attrs/lookup 5024 536878475]
+  [5023 :attrs/lookup 5025 536878477]
+  [5023 :attrs/lookup 5026 536878479]
+  [5023 :attrs/lookup 5027 536878479]
+  [5023 :attrs/lookup 5029 536878481]
+  [5023 :attrs/lookup 5030 536878483]
+  [5023 :attrs/lookup 5033 536878475]
+  [5023 :attrs/lookup 5034 536878477]
+  [5023 :attrs/lookup 5035 536878479]
+  [5023 :attrs/lookup 5036 536878481]
+  [5023 :attrs/lookup 5037 536878483]
+  [5023 :attrs/lookup 5038 536878483]
+  [5023 :block/children 5024 536878464]
+  [5023 :block/children 5025 536878465]
+  [5023 :block/children 5026 536878466]
+  [5023 :block/children 5029 536878469]
+  [5023 :block/children 5030 536878470]
+  [5023 :block/heading 0 536878463]
+  [5023 :block/open true 536878463]
+  [5023 :block/order 0 536878463]
+  [5023 :block/page 5022 536878473]
+  [5023 :block/parents 5022 536878473]
+  [5023 :block/refs 5031 536878471]
+  [5023 :block/refs 5032 536878471]
+  [5023 :block/string "Tags:: #Questions" 536878463]
+  [5023 :block/text-align "left" 536878463]
+  [5023 :block/uid "ueOa2tlxj" 536878463]
+  [5023 :children/view-type :bullet 536878463]
+  [5023 :create/time 1648403416410 536878463]
+  [5023 :create/user 1 536878463]
+  [5023 :edit/time 1648403416410 536878463]
+  [5023 :edit/user 1 536878463]
+  [5023
+   :entity/attrs
+   #{[{:source [:block/uid "ueOa2tlxj"],
+       :value [:block/uid "ueOa2tlxj"]}
+      {:source [:block/uid "fSB5qbXc8"],
+       :value [:block/uid "mxGIBf4Sq"]}
+      {:source [:block/uid "fSB5qbXc8"],
+       :value [:block/uid "03-24-2022"]}]
+     [{:source [:block/uid "ueOa2tlxj"],
+       :value [:block/uid "ueOa2tlxj"]}
+      {:source [:block/uid "DRorCTxY_"],
+       :value [:block/uid "WsiyYs6J_"]}
+      {:source [:block/uid "DRorCTxY_"],
+       :value [:block/uid "JcQS0E6hZ"]}]
+     [{:source [:block/uid "ueOa2tlxj"],
+       :value [:block/uid "ueOa2tlxj"]}
+      {:source [:block/uid "g7LcWLOta"],
+       :value [:block/uid "taWHQxq9w"]}
+      {:source [:block/uid "aQ796BSOX"],
+       :value [:block/uid "aQ796BSOX"]}]
+     [{:source [:block/uid "ueOa2tlxj"],
+       :value [:block/uid "ueOa2tlxj"]}
+      {:source [:block/uid "P9TuyJx12"],
+       :value [:block/uid "d0q_PZpmD"]}
+      {:source [:block/uid "P9TuyJx12"],
+       :value
+       " [[Chinarut]] discussion w in Shana’s co-working space"}]
+     [{:source [:block/uid "ueOa2tlxj"],
+       :value [:block/uid "ueOa2tlxj"]}
+      {:source [:block/uid "uDjydMZWR"],
+       :value [:block/uid "qZsn2NjWl"]}
+      {:source [:block/uid "uDjydMZWR"],
+       :value [:block/uid "fK5F-Ol3O"]}]}
+   536878483]
+  [5024 :block/heading 0 536878464]
+  [5024 :block/open true 536878464]
+  [5024 :block/order 0 536878464]
+  [5024 :block/page 5022 536878473]
+  [5024 :block/parents 5022 536878473]
+  [5024 :block/parents 5023 536878473]
+  [5024 :block/refs 4270 536878474]
+  [5024 :block/refs 5033 536878474]
+  [5024 :block/string "First added by:: [[Chinarut]]" 536878464]
+  [5024 :block/text-align "left" 536878464]
+  [5024 :block/uid "DRorCTxY_" 536878464]
+  [5024 :children/view-type :bullet 536878464]
+  [5024 :create/time 1648403416419 536878464]
+  [5024 :create/user 1 536878464]
+  [5024 :edit/time 1648403416419 536878464]
+  [5024 :edit/user 1 536878464]
+  [5025 :block/heading 0 536878465]
+  [5025 :block/open true 536878465]
+  [5025 :block/order 1 536878465]
+  [5025 :block/page 5022 536878473]
+  [5025 :block/parents 5022 536878473]
+  [5025 :block/parents 5023 536878473]
+  [5025 :block/refs 5008 536878476]
+  [5025 :block/refs 5034 536878476]
+  [5025
+   :block/string
+   "First added on:: [[March 24th, 2022]]"
+   536878465]
+  [5025 :block/text-align "left" 536878465]
+  [5025 :block/uid "fSB5qbXc8" 536878465]
+  [5025 :children/view-type :bullet 536878465]
+  [5025 :create/time 1648403416425 536878465]
+  [5025 :create/user 1 536878465]
+  [5025 :edit/time 1648403416425 536878465]
+  [5025 :edit/user 1 536878465]
+  [5026 :block/children 5027 536878467]
+  [5026 :block/heading 0 536878466]
+  [5026 :block/open true 536878466]
+  [5026 :block/order 2 536878466]
+  [5026 :block/page 5022 536878473]
+  [5026 :block/parents 5022 536878473]
+  [5026 :block/parents 5023 536878473]
+  [5026 :block/refs 5035 536878478]
+  [5026 :block/string "Passages::" 536878466]
+  [5026 :block/text-align "left" 536878466]
+  [5026 :block/uid "g7LcWLOta" 536878466]
+  [5026 :children/view-type :bullet 536878466]
+  [5026 :create/time 1648403416429 536878466]
+  [5026 :create/user 1 536878466]
+  [5026 :edit/time 1648403416429 536878466]
+  [5026 :edit/user 1 536878466]
+  [5027 :block/children 5028 536878468]
+  [5027 :block/heading 0 536878467]
+  [5027 :block/open true 536878467]
+  [5027 :block/order 0 536878467]
+  [5027 :block/page 5022 536878473]
+  [5027 :block/parents 5022 536878473]
+  [5027 :block/parents 5023 536878473]
+  [5027 :block/parents 5026 536878473]
+  [5027 :block/string "<name 1>" 536878467]
+  [5027 :block/text-align "left" 536878467]
+  [5027 :block/uid "aQ796BSOX" 536878467]
+  [5027 :children/view-type :bullet 536878467]
+  [5027 :create/time 1648403416433 536878467]
+  [5027 :create/user 1 536878467]
+  [5027 :edit/time 1648403416433 536878467]
+  [5027 :edit/user 1 536878467]
+  [5028 :block/heading 0 536878468]
+  [5028 :block/open true 536878468]
+  [5028 :block/order 0 536878468]
+  [5028 :block/page 5022 536878473]
+  [5028 :block/parents 5022 536878473]
+  [5028 :block/parents 5023 536878473]
+  [5028 :block/parents 5026 536878473]
+  [5028 :block/parents 5027 536878473]
+  [5028
+   :block/string
+   "<name 1's passages related to this question>"
+   536878468]
+  [5028 :block/text-align "left" 536878468]
+  [5028 :block/uid "umWgo7d_T" 536878468]
+  [5028 :children/view-type :bullet 536878468]
+  [5028 :create/time 1648403416438 536878468]
+  [5028 :create/user 1 536878468]
+  [5028 :edit/time 1648403416438 536878468]
+  [5028 :edit/user 1 536878468]
+  [5029 :block/heading 0 536878469]
+  [5029 :block/open true 536878469]
+  [5029 :block/order 3 536878469]
+  [5029 :block/page 5022 536878473]
+  [5029 :block/parents 5022 536878473]
+  [5029 :block/parents 5023 536878473]
+  [5029 :block/refs 4270 536878480]
+  [5029 :block/refs 5036 536878480]
+  [5029
+   :block/string
+   "Source:: [[Chinarut]] discussion w in Shana’s co-working space"
+   536878469]
+  [5029 :block/text-align "left" 536878469]
+  [5029 :block/uid "P9TuyJx12" 536878469]
+  [5029 :children/view-type :bullet 536878469]
+  [5029 :create/time 1648403416443 536878469]
+  [5029 :create/user 1 536878469]
+  [5029 :edit/time 1648403416443 536878469]
+  [5029 :edit/user 1 536878469]
+  [5030 :block/heading 0 536878470]
+  [5030 :block/open true 536878470]
+  [5030 :block/order 4 536878470]
+  [5030 :block/page 5022 536878473]
+  [5030 :block/parents 5022 536878473]
+  [5030 :block/parents 5023 536878473]
+  [5030 :block/refs 5037 536878482]
+  [5030 :block/refs 5038 536878482]
+  [5030 :block/string "Related:: [[T/Wellbeing Advisory ✅]]" 536878470]
+  [5030 :block/text-align "left" 536878470]
+  [5030 :block/uid "uDjydMZWR" 536878470]
+  [5030 :children/view-type :bullet 536878470]
+  [5030 :create/time 1648403416449 536878470]
+  [5030 :create/user 1 536878470]
+  [5030 :edit/time 1648403416449 536878470]
+  [5030 :edit/user 1 536878470]
+  [5031 :block/uid "esKPXXOda" 536878471]
+  [5031 :create/time 1648403416453 536878471]
+  [5031 :create/user 1 536878471]
+  [5031 :edit/time 1648403416455 536878471]
+  [5031 :edit/user 1 536878471]
+  [5031 :node/title "Questions" 536878471]
+  [5032 :block/uid "q8WJf-181" 536878471]
+  [5032 :create/time 1648403416453 536878471]
+  [5032 :create/user 1 536878471]
+  [5032 :edit/time 1648403416455 536878471]
+  [5032 :edit/user 1 536878471]
+  [5032 :node/title "Tags" 536878471]
+  [5033 :block/uid "WsiyYs6J_" 536878474]
+  [5033 :create/time 1648403416485 536878474]
+  [5033 :create/user 1 536878474]
+  [5033 :edit/time 1648403416486 536878474]
+  [5033 :edit/user 1 536878474]
+  [5033 :node/title "First added by" 536878474]
+  [5034 :block/uid "mxGIBf4Sq" 536878476]
+  [5034 :create/time 1648403416497 536878476]
+  [5034 :create/user 1 536878476]
+  [5034 :edit/time 1648403416498 536878476]
+  [5034 :edit/user 1 536878476]
+  [5034 :node/title "First added on" 536878476]
+  [5035 :block/uid "taWHQxq9w" 536878478]
+  [5035 :create/time 1648403416520 536878478]
+  [5035 :create/user 1 536878478]
+  [5035 :edit/time 1648403416520 536878478]
+  [5035 :edit/user 1 536878478]
+  [5035 :node/title "Passages" 536878478]
+  [5036 :block/uid "d0q_PZpmD" 536878480]
+  [5036 :create/time 1648403416539 536878480]
+  [5036 :create/user 1 536878480]
+  [5036 :edit/time 1648403416539 536878480]
+  [5036 :edit/user 1 536878480]
+  [5036 :node/title "Source" 536878480]
+  [5037 :block/uid "fK5F-Ol3O" 536878482]
+  [5037 :create/time 1648403416553 536878482]
+  [5037 :create/user 1 536878482]
+  [5037 :edit/time 1648403416554 536878482]
+  [5037 :edit/user 1 536878482]
+  [5037 :node/title "T/Wellbeing Advisory ✅" 536878482]
+  [5038 :block/uid "qZsn2NjWl" 536878482]
+  [5038 :create/time 1648403416553 536878482]
+  [5038 :create/user 1 536878482]
+  [5038 :edit/time 1648403416554 536878482]
+  [5038 :edit/user 1 536878482]
+  [5038 :node/title "Related" 536878482]
+  [5039 :block/heading 0 536878484]
+  [5039 :block/open true 536878484]
+  [5039 :block/order 1 536878484]
+  [5039 :block/page 5022 536878485]
+  [5039 :block/parents 5022 536878485]
+  [5039 :block/string "---" 536878484]
+  [5039 :block/text-align "left" 536878484]
+  [5039 :block/uid "hcoCn45Ut" 536878484]
+  [5039 :children/view-type :bullet 536878484]
+  [5039 :create/time 1648403416571 536878484]
+  [5039 :create/user 1 536878484]
+  [5039 :edit/time 1648403416571 536878484]
+  [5039 :edit/user 1 536878484]
+  [5040 :block/children 5041 536878487]
+  [5040 :block/children 5052 536878504]
+  [5040 :block/heading 1 536878486]
+  [5040 :block/open true 536878486]
+  [5040 :block/order 2 536878486]
+  [5040 :block/page 5022 536878495]
+  [5040 :block/parents 5022 536878495]
+  [5040 :block/refs 5047 536878493]
+  [5040 :block/string "Discussion:: (tag w/ date please!)" 536878486]
+  [5040 :block/text-align "left" 536878486]
+  [5040 :block/uid "jXtgwEIB2" 536878486]
+  [5040 :children/view-type :bullet 536878486]
+  [5040 :create/time 1648403416584 536878486]
+  [5040 :create/user 1 536878486]
+  [5040 :edit/time 1648403416584 536878486]
+  [5040 :edit/user 1 536878486]
+  [5041 :block/children 5042 536878488]
+  [5041 :block/heading 0 536878487]
+  [5041 :block/open true 536878487]
+  [5041 :block/order 1 536878504]
+  [5041 :block/page 5022 536878495]
+  [5041 :block/parents 5022 536878495]
+  [5041 :block/parents 5040 536878495]
+  [5041 :block/refs 5008 536878496]
+  [5041 :block/string "[[March 24th, 2022]]" 536878487]
+  [5041 :block/text-align "left" 536878487]
+  [5041 :block/uid "Ox2S1IbnP" 536878487]
+  [5041 :children/view-type :bullet 536878487]
+  [5041 :create/time 1648403416588 536878487]
+  [5041 :create/user 1 536878487]
+  [5041 :edit/time 1648403416588 536878487]
+  [5041 :edit/user 1 536878487]
+  [5042 :block/children 5043 536878489]
+  [5042 :block/children 5044 536878490]
+  [5042 :block/children 5045 536878491]
+  [5042 :block/heading 0 536878488]
+  [5042 :block/open true 536878488]
+  [5042 :block/order 0 536878488]
+  [5042 :block/page 5022 536878495]
+  [5042 :block/parents 5022 536878495]
+  [5042 :block/parents 5040 536878495]
+  [5042 :block/parents 5041 536878495]
+  [5042 :block/refs 4270 536878497]
+  [5042 :block/refs 5048 536878497]
+  [5042
+   :block/string
+   "Chinarut:: goal is the possibility of cross-syncing [[🐝 Hivemind]] across graphs "
+   536878488]
+  [5042 :block/text-align "left" 536878488]
+  [5042 :block/uid "Q5qnkt_IL" 536878488]
+  [5042 :children/view-type :bullet 536878488]
+  [5042 :create/time 1648403416592 536878488]
+  [5042 :create/user 1 536878488]
+  [5042 :edit/time 1648403416592 536878488]
+  [5042 :edit/user 1 536878488]
+  [5043 :block/heading 0 536878489]
+  [5043 :block/open true 536878489]
+  [5043 :block/order 0 536878489]
+  [5043 :block/page 5022 536878495]
+  [5043 :block/parents 5022 536878495]
+  [5043 :block/parents 5040 536878495]
+  [5043 :block/parents 5041 536878495]
+  [5043 :block/parents 5042 536878495]
+  [5043
+   :block/string
+   "to be clear, for the privacy of everyone here, I am **not** enabling this extension in this graph until fully discussed with organizing team"
+   536878489]
+  [5043 :block/text-align "left" 536878489]
+  [5043 :block/uid "Em_WuUc5_" 536878489]
+  [5043 :children/view-type :bullet 536878489]
+  [5043 :create/time 1648403416596 536878489]
+  [5043 :create/user 1 536878489]
+  [5043 :edit/time 1648403416596 536878489]
+  [5043 :edit/user 1 536878489]
+  [5044 :block/heading 0 536878490]
+  [5044 :block/open true 536878490]
+  [5044 :block/order 1 536878490]
+  [5044 :block/page 5022 536878495]
+  [5044 :block/parents 5022 536878495]
+  [5044 :block/parents 5040 536878495]
+  [5044 :block/parents 5041 536878495]
+  [5044 :block/parents 5042 536878495]
+  [5044
+   :block/string
+   "contact me if you’d like to experiment with me in 2 sandbox graphs to implement [roamjs/multiplayer](https://roamjs.com/extensions/multiplayer)"
+   536878490]
+  [5044 :block/text-align "left" 536878490]
+  [5044 :block/uid "w2GaajmB8" 536878490]
+  [5044 :children/view-type :bullet 536878490]
+  [5044 :create/time 1648403416600 536878490]
+  [5044 :create/user 1 536878490]
+  [5044 :edit/time 1648403416600 536878490]
+  [5044 :edit/user 1 536878490]
+  [5045 :block/children 5046 536878492]
+  [5045 :block/heading 0 536878491]
+  [5045 :block/open true 536878491]
+  [5045 :block/order 2 536878491]
+  [5045 :block/page 5022 536878495]
+  [5045 :block/parents 5022 536878495]
+  [5045 :block/parents 5040 536878495]
+  [5045 :block/parents 5041 536878495]
+  [5045 :block/parents 5042 536878495]
+  [5045 :block/refs 5049 536878499]
+  [5045
+   :block/string
+   "something I’m experimenting with is how to best engage with experts/advisors/colleagues/community members who were not part of RBC7 (for whatever reason) that can potentially share additional perspective to answer the question: [[Q/How do we sustain the development of a Wellbeing Commons? 📚]]"
+   536878491]
+  [5045 :block/text-align "left" 536878491]
+  [5045 :block/uid "zM3OYVd69" 536878491]
+  [5045 :children/view-type :bullet 536878491]
+  [5045 :create/time 1648403416603 536878491]
+  [5045 :create/user 1 536878491]
+  [5045 :edit/time 1648403416603 536878491]
+  [5045 :edit/user 1 536878491]
+  [5046 :block/heading 0 536878492]
+  [5046 :block/open true 536878492]
+  [5046 :block/order 0 536878492]
+  [5046 :block/page 5022 536878495]
+  [5046 :block/parents 5022 536878495]
+  [5046 :block/parents 5040 536878495]
+  [5046 :block/parents 5041 536878495]
+  [5046 :block/parents 5042 536878495]
+  [5046 :block/parents 5045 536878495]
+  [5046 :block/refs 4096 536878500]
+  [5046
+   :block/string
+   "one could argue these are potential #community wellbeing advisors at the level of group/collective (defined by RBC7)"
+   536878492]
+  [5046 :block/text-align "left" 536878492]
+  [5046 :block/uid "79UhLKgIY" 536878492]
+  [5046 :children/view-type :bullet 536878492]
+  [5046 :create/time 1648403416612 536878492]
+  [5046 :create/user 1 536878492]
+  [5046 :edit/time 1648403416612 536878492]
+  [5046 :edit/user 1 536878492]
+  [5047 :block/uid "WpWtRk5qy" 536878493]
+  [5047 :create/time 1648403416615 536878493]
+  [5047 :create/user 1 536878493]
+  [5047 :edit/time 1648403416616 536878493]
+  [5047 :edit/user 1 536878493]
+  [5047 :node/title "Discussion" 536878493]
+  [5048 :block/uid "x39eF4O_0" 536878497]
+  [5048 :create/time 1648403416668 536878497]
+  [5048 :create/user 1 536878497]
+  [5048 :edit/time 1648403416669 536878497]
+  [5048 :edit/user 1 536878497]
+  [5048 :node/title "🐝 Hivemind" 536878497]
+  [5049 :block/uid "5qmEnqIzB" 536878499]
+  [5049 :create/time 1648403416704 536878499]
+  [5049 :create/user 1 536878499]
+  [5049 :edit/time 1648403416705 536878499]
+  [5049 :edit/user 1 536878499]
+  [5049
+   :node/title
+   "Q/How do we sustain the development of a Wellbeing Commons? 📚"
+   536878499]
+  [5050 :block/open true 536878501]
+  [5050 :block/order 0 536878501]
+  [5050 :block/page 5021 536878503]
+  [5050 :block/parents 5021 536878503]
+  [5050 :block/refs 5022 536878502]
+  [5050 :block/refs 5051 536878502]
+  [5050
+   :block/string
+   "[[RBC-homebase-prototype]] sent over page [[Q/Can we use RoamJS multiplayer to allow others to engage with pointed questions? 📚]]"
+   536878501]
+  [5050 :block/uid "aKfqeyy5F" 536878501]
+  [5050 :create/time 1648403416771 536878501]
+  [5050 :create/user 1 536878501]
+  [5050 :edit/time 1648403416771 536878501]
+  [5050 :edit/user 1 536878501]
+  [5051 :block/uid "N3oxy4jlU" 536878502]
+  [5051 :create/time 1648403416775 536878502]
+  [5051 :create/user 1 536878502]
+  [5051 :edit/time 1648403416777 536878502]
+  [5051 :edit/user 1 536878502]
+  [5051 :node/title "RBC-homebase-prototype" 536878502]
+  [5052 :block/children 5053 536878505]
+  [5052 :block/children 5056 536878530]
+  [5052 :block/heading 0 536878504]
+  [5052 :block/open true 536878504]
+  [5052 :block/order 0 536878504]
+  [5052 :block/page 5022 536878507]
+  [5052 :block/parents 5022 536878507]
+  [5052 :block/parents 5040 536878507]
+  [5052 :block/refs 5021 536878506]
+  [5052 :block/string "[[March 27th, 2022]]" 536878504]
+  [5052 :block/text-align "left" 536878504]
+  [5052 :block/uid "DacK1gxLu" 536878504]
+  [5052 :children/view-type :bullet 536878504]
+  [5052 :create/time 1648403494601 536878504]
+  [5052 :create/user 1 536878504]
+  [5052 :edit/time 1648403494601 536878504]
+  [5052 :edit/user 1 536878504]
+  [5053 :block/children 5054 536878519]
+  [5053 :block/heading 0 536878505]
+  [5053 :block/open true 536878505]
+  [5053 :block/order 0 536878529]
+  [5053 :block/page 5022 536878507]
+  [5053 :block/parents 5022 536878507]
+  [5053 :block/parents 5040 536878507]
+  [5053 :block/parents 5052 536878507]
+  [5053 :block/refs 4270 536878508]
+  [5053
+   :block/string
+   "Chinarut:: this is a comment in @RBC-homebase-prototype"
+   536878515]
+  [5053 :block/text-align "left" 536878505]
+  [5053 :block/uid "aO82jSn5T" 536878505]
+  [5053 :children/view-type :bullet 536878505]
+  [5053 :create/time 1648403494605 536878505]
+  [5053 :create/user 1 536878505]
+  [5053 :edit/time 1648403520401 536878515]
+  [5053 :edit/user 1 536878505]
+  [5054 :block/open true 536878510]
+  [5054 :block/order 0 536878519]
+  [5054 :block/page 5022 536878511]
+  [5054 :block/parents 5022 536878511]
+  [5054 :block/parents 5040 536878511]
+  [5054 :block/parents 5052 536878511]
+  [5054 :block/parents 5053 536878523]
+  [5054
+   :block/string
+   "this is a response from @socialcommons"
+   536878524]
+  [5054 :block/uid "J0QLluUPL" 536878510]
+  [5054 :create/time 1648403509066 536878510]
+  [5054 :create/user 1 536878510]
+  [5054 :edit/time 1648403557688 536878524]
+  [5054 :edit/user 1 536878510]
+  [5056 :block/heading 0 536878530]
+  [5056 :block/open true 536878530]
+  [5056 :block/order 1 536878530]
+  [5056 :block/page 5022 536878533]
+  [5056 :block/parents 5022 536878533]
+  [5056 :block/parents 5040 536878533]
+  [5056 :block/parents 5052 536878533]
+  [5056 :block/refs 4270 536878531]
+  [5056
+   :block/string
+   "Chinarut:: this is a 2nd comment in @RBC-home-base-protorype"
+   536878530]
+  [5056 :block/text-align "left" 536878530]
+  [5056 :block/uid "ZLYpxpxAs" 536878530]
+  [5056 :children/view-type :bullet 536878530]
+  [5056 :create/time 1648403621500 536878530]
+  [5056 :create/user 1 536878530]
+  [5056 :edit/time 1648403621500 536878530]
+  [5056 :edit/user 1 536878530]]}

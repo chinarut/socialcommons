@@ -1,0 +1,20 @@
+- Tags:: #Questions
+    - First added by:: [[Chinarut]]
+    - First added on:: [[March 24th, 2022]]
+    - Passages::
+        - <name 1>
+            - <name 1's passages related to this question>
+    - Source:: [[Chinarut]] discussion w in Shana’s co-working space
+    - Related:: [[T/Wellbeing Advisory ✅]]
+- ---
+- # Discussion:: (tag w/ date please!)
+    - [[March 27th, 2022]]
+        - Chinarut:: this is a comment in @RBC-homebase-prototype
+            - this is a response from @socialcommons
+        - Chinarut:: this is a 2nd comment in @RBC-home-base-protorype
+    - [[March 24th, 2022]]
+        - Chinarut:: goal is the possibility of cross-syncing [[🐝 Hivemind]] across graphs 
+            - to be clear, for the privacy of everyone here, I am **not** enabling this extension in this graph until fully discussed with organizing team
+            - contact me if you’d like to experiment with me in 2 sandbox graphs to implement [roamjs/multiplayer](https://roamjs.com/extensions/multiplayer)
+            - something I’m experimenting with is how to best engage with experts/advisors/colleagues/community members who were not part of RBC7 (for whatever reason) that can potentially share additional perspective to answer the question: [[Q/How do we sustain the development of a Wellbeing Commons? 📚]]
+                - one could argue these are potential #community wellbeing advisors at the level of group/collective (defined by RBC7)
