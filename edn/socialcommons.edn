@@ -56180,8 +56180,8 @@
   [4996 :version/id "0.9.4" 536878403]
   [4996
    :version/nonce
-   "uuida0a6090d-88db-49c4-a456-97a359a395b4"
-   536878533]
+   "uuid1b5c2ec6-646f-46c2-be52-1758e049b6d3"
+   536878612]
   [4997 :block/uid "03-13-2022" 536878404]
   [4997 :create/time 1647132684571 536878404]
   [4997 :create/user 1 536878404]
@@ -56393,8 +56393,8 @@
   [5021 :attrs/lookup 4270 536878509]
   [5021 :attrs/lookup 5021 536878509]
   [5021 :attrs/lookup 5052 536878509]
-  [5021 :attrs/lookup 5053 536878509]
-  [5021 :attrs/lookup 5056 536878532]
+  [5021 :attrs/lookup 5057 536878540]
+  [5021 :attrs/lookup 5058 536878543]
   [5021 :block/children 5050 536878501]
   [5021 :block/uid "03-27-2022" 536878461]
   [5021 :create/time 1648342760823 536878461]
@@ -56405,17 +56405,19 @@
    :entity/attrs
    #{[{:source [:block/uid "DacK1gxLu"],
        :value [:block/uid "03-27-2022"]}
-      {:source [:block/uid "ZLYpxpxAs"],
+      {:source [:block/uid "Q5JB1HJM6"],
        :value [:block/uid "JcQS0E6hZ"]}
-      {:source [:block/uid "ZLYpxpxAs"],
-       :value " this is a 2nd comment in @RBC-home-base-protorype"}]
+      {:source [:block/uid "Q5JB1HJM6"],
+       :value
+       " in RBC6, we invented a construct called a [[🐝 Hivemind]]  RBC7 extended this construct and it is now a set of [[Questions]] (Q/ prefix), [[Terms]] (T/), [[Propositions]] (P/) and now [[Sources]] (S/) - what is the easiest way to keep a set of pages (including new pages that show up with these 4 prefixes) in sync between 2 graphs? [[David Vargas]]"}]
      [{:source [:block/uid "DacK1gxLu"],
        :value [:block/uid "03-27-2022"]}
-      {:source [:block/uid "aO82jSn5T"],
+      {:source [:block/uid "FOCPOqhSK"],
        :value [:block/uid "JcQS0E6hZ"]}
-      {:source [:block/uid "aO82jSn5T"],
-       :value " this is a comment in @RBC-homebase-prototype"}]}
-   536878532]
+      {:source [:block/uid "FOCPOqhSK"],
+       :value
+       " I am curious what happens when more complex changes happen in 2 different graphs?"}]}
+   536878588]
   [5021 :log/id 1648342760822 536878461]
   [5021 :node/title "March 27th, 2022" 536878461]
   [5022 :attrs/lookup 5022 536878472]
@@ -56879,8 +56881,9 @@
   [5051 :edit/time 1648403416777 536878502]
   [5051 :edit/user 1 536878502]
   [5051 :node/title "RBC-homebase-prototype" 536878502]
-  [5052 :block/children 5053 536878505]
-  [5052 :block/children 5056 536878530]
+  [5052 :block/children 5057 536878534]
+  [5052 :block/children 5058 536878535]
+  [5052 :block/children 5062 536878545]
   [5052 :block/heading 0 536878504]
   [5052 :block/open true 536878504]
   [5052 :block/order 0 536878504]
@@ -56899,11 +56902,12 @@
   [5053 :block/children 5054 536878519]
   [5053 :block/heading 0 536878505]
   [5053 :block/open true 536878505]
-  [5053 :block/order 0 536878529]
+  [5053 :block/order 0 536878549]
   [5053 :block/page 5022 536878507]
   [5053 :block/parents 5022 536878507]
   [5053 :block/parents 5040 536878507]
   [5053 :block/parents 5052 536878507]
+  [5053 :block/parents 5062 536878552]
   [5053 :block/refs 4270 536878508]
   [5053
    :block/string
@@ -56923,6 +56927,7 @@
   [5054 :block/parents 5040 536878511]
   [5054 :block/parents 5052 536878511]
   [5054 :block/parents 5053 536878523]
+  [5054 :block/parents 5062 536878552]
   [5054
    :block/string
    "this is a response from @socialcommons"
@@ -56934,11 +56939,12 @@
   [5054 :edit/user 1 536878510]
   [5056 :block/heading 0 536878530]
   [5056 :block/open true 536878530]
-  [5056 :block/order 1 536878530]
+  [5056 :block/order 1 536878549]
   [5056 :block/page 5022 536878533]
   [5056 :block/parents 5022 536878533]
   [5056 :block/parents 5040 536878533]
   [5056 :block/parents 5052 536878533]
+  [5056 :block/parents 5062 536878553]
   [5056 :block/refs 4270 536878531]
   [5056
    :block/string
@@ -56950,4 +56956,255 @@
   [5056 :create/time 1648403621500 536878530]
   [5056 :create/user 1 536878530]
   [5056 :edit/time 1648403621500 536878530]
-  [5056 :edit/user 1 536878530]]}
+  [5056 :edit/user 1 536878530]
+  [5057 :block/heading 0 536878534]
+  [5057 :block/open true 536878534]
+  [5057 :block/order 1 536878549]
+  [5057 :block/page 5022 536878541]
+  [5057 :block/parents 5022 536878541]
+  [5057 :block/parents 5040 536878541]
+  [5057 :block/parents 5052 536878541]
+  [5057 :block/refs 4270 536878539]
+  [5057 :block/refs 5031 536878587]
+  [5057 :block/refs 5048 536878587]
+  [5057 :block/refs 5066 536878587]
+  [5057 :block/refs 5068 536878587]
+  [5057 :block/refs 5069 536878587]
+  [5057 :block/refs 5070 536878587]
+  [5057
+   :block/string
+   "Chinarut:: in RBC6, we invented a construct called a [[🐝 Hivemind]]  RBC7 extended this construct and it is now a set of [[Questions]] (Q/ prefix), [[Terms]] (T/), [[Propositions]] (P/) and now [[Sources]] (S/) - what is the easiest way to keep a set of pages (including new pages that show up with these 4 prefixes) in sync between 2 graphs? [[David Vargas]]"
+   536878586]
+  [5057 :block/text-align "left" 536878534]
+  [5057 :block/uid "Q5JB1HJM6" 536878534]
+  [5057 :children/view-type :bullet 536878534]
+  [5057 :create/time 1648411008810 536878534]
+  [5057 :create/user 1 536878534]
+  [5057 :edit/time 1648411586346 536878586]
+  [5057 :edit/user 1 536878534]
+  [5058 :attrs/lookup 4270 536878591]
+  [5058 :attrs/lookup 5058 536878591]
+  [5058 :attrs/lookup 5061 536878591]
+  [5058 :block/children 5059 536878536]
+  [5058 :block/children 5061 536878538]
+  [5058 :block/children 5063 536878546]
+  [5058 :block/heading 0 536878535]
+  [5058 :block/open true 536878535]
+  [5058 :block/order 2 536878576]
+  [5058 :block/page 5022 536878544]
+  [5058 :block/parents 5022 536878544]
+  [5058 :block/parents 5040 536878544]
+  [5058 :block/parents 5052 536878544]
+  [5058 :block/refs 4270 536878542]
+  [5058
+   :block/string
+   "Chinarut:: I am curious what happens when more complex changes happen in 2 different graphs?"
+   536878535]
+  [5058 :block/text-align "left" 536878535]
+  [5058 :block/uid "FOCPOqhSK" 536878535]
+  [5058 :children/view-type :bullet 536878535]
+  [5058 :create/time 1648411008924 536878535]
+  [5058 :create/user 1 536878535]
+  [5058 :edit/time 1648411008924 536878535]
+  [5058 :edit/user 1 536878535]
+  [5058
+   :entity/attrs
+   #{[{:source [:block/uid "FOCPOqhSK"],
+       :value [:block/uid "FOCPOqhSK"]}
+      {:source [:block/uid "PfufhnxBO"],
+       :value [:block/uid "JcQS0E6hZ"]}
+      {:source [:block/uid "PfufhnxBO"],
+       :value
+       " the first iteration of a commons graph will **not** be public initially - it’s primary purpose will be to invite others in our Roam community (eg. [[Shana Pote]] or [[Joel Chan]]) and other experts in the commons (eg. [[Natalie Pang]]), wellbeing (eg. Jim Harter or Tom Rath), or perhaps future elemental deep dive leaders to participate with us and fulfill on a vision its all connected!"}]}
+   536878591]
+  [5059 :block/children 5060 536878537]
+  [5059 :block/heading 0 536878536]
+  [5059 :block/open true 536878536]
+  [5059 :block/order 1 536878546]
+  [5059 :block/page 5022 536878544]
+  [5059 :block/parents 5022 536878544]
+  [5059 :block/parents 5040 536878544]
+  [5059 :block/parents 5052 536878544]
+  [5059 :block/parents 5058 536878544]
+  [5059
+   :block/string
+   "short-term, because I don’t see our use case editing in 2 different Hiveminds at the same time (yet), I’m not concerned at this point in the game"
+   536878610]
+  [5059 :block/text-align "left" 536878536]
+  [5059 :block/uid "1zbH3Z-eR" 536878536]
+  [5059 :children/view-type :bullet 536878536]
+  [5059 :create/time 1648411008966 536878536]
+  [5059 :create/user 1 536878536]
+  [5059 :edit/time 1648411725949 536878610]
+  [5059 :edit/user 1 536878536]
+  [5060 :block/children 5073 536878603]
+  [5060 :block/heading 0 536878537]
+  [5060 :block/open true 536878537]
+  [5060 :block/order 0 536878537]
+  [5060 :block/page 5022 536878544]
+  [5060 :block/parents 5022 536878544]
+  [5060 :block/parents 5040 536878544]
+  [5060 :block/parents 5052 536878544]
+  [5060 :block/parents 5058 536878544]
+  [5060 :block/parents 5059 536878544]
+  [5060
+   :block/string
+   "the lionshare of the activity of the Hivemind is likely to move to a “wellbeing” graph (or more abstractly, a “commons” graph) and evaluate our hypothesis a Hivemind can stand on its own (without RBC scaffolding) and generate discussion/discourse"
+   536878602]
+  [5060 :block/text-align "left" 536878537]
+  [5060 :block/uid "O0Koe4Itl" 536878537]
+  [5060 :children/view-type :bullet 536878537]
+  [5060 :create/time 1648411009000 536878537]
+  [5060 :create/user 1 536878537]
+  [5060 :edit/time 1648411648104 536878602]
+  [5060 :edit/user 1 536878537]
+  [5061 :block/heading 0 536878538]
+  [5061 :block/open true 536878538]
+  [5061 :block/order 2 536878546]
+  [5061 :block/page 5022 536878544]
+  [5061 :block/parents 5022 536878544]
+  [5061 :block/parents 5040 536878544]
+  [5061 :block/parents 5052 536878544]
+  [5061 :block/parents 5058 536878544]
+  [5061 :block/refs 2204 536878590]
+  [5061 :block/refs 4270 536878590]
+  [5061 :block/refs 5071 536878590]
+  [5061 :block/refs 5072 536878590]
+  [5061
+   :block/string
+   "Chinarut:: the first iteration of a commons graph will **not** be public initially - it’s primary purpose will be to invite others in our Roam community (eg. [[Shana Pote]] or [[Joel Chan]]) and other experts in the commons (eg. [[Natalie Pang]]), wellbeing (eg. Jim Harter or Tom Rath), or perhaps future elemental deep dive leaders to participate with us and fulfill on a vision its all connected!"
+   536878589]
+  [5061 :block/text-align "left" 536878538]
+  [5061 :block/uid "PfufhnxBO" 536878538]
+  [5061 :children/view-type :bullet 536878538]
+  [5061 :create/time 1648411009034 536878538]
+  [5061 :create/user 1 536878538]
+  [5061 :edit/time 1648411616442 536878589]
+  [5061 :edit/user 1 536878538]
+  [5062 :attrs/lookup 4270 536878550]
+  [5062 :attrs/lookup 5053 536878550]
+  [5062 :attrs/lookup 5056 536878551]
+  [5062 :attrs/lookup 5062 536878550]
+  [5062 :block/children 5053 536878549]
+  [5062 :block/children 5056 536878549]
+  [5062 :block/children 5064 536878554]
+  [5062 :block/heading 0 536878545]
+  [5062 :block/open true 536878545]
+  [5062 :block/order 0 536878545]
+  [5062 :block/page 5022 536878547]
+  [5062 :block/parents 5022 536878547]
+  [5062 :block/parents 5040 536878547]
+  [5062 :block/parents 5052 536878547]
+  [5062 :block/string "evaluating cross-graph conversation" 536878545]
+  [5062 :block/text-align "left" 536878545]
+  [5062 :block/uid "GbOSE8vAI" 536878545]
+  [5062 :children/view-type :bullet 536878545]
+  [5062 :create/time 1648411437421 536878545]
+  [5062 :create/user 1 536878545]
+  [5062 :edit/time 1648411437421 536878545]
+  [5062 :edit/user 1 536878545]
+  [5062
+   :entity/attrs
+   #{[{:source [:block/uid "GbOSE8vAI"],
+       :value [:block/uid "GbOSE8vAI"]}
+      {:source [:block/uid "ZLYpxpxAs"],
+       :value [:block/uid "JcQS0E6hZ"]}
+      {:source [:block/uid "ZLYpxpxAs"],
+       :value " this is a 2nd comment in @RBC-home-base-protorype"}]
+     [{:source [:block/uid "GbOSE8vAI"],
+       :value [:block/uid "GbOSE8vAI"]}
+      {:source [:block/uid "aO82jSn5T"],
+       :value [:block/uid "JcQS0E6hZ"]}
+      {:source [:block/uid "aO82jSn5T"],
+       :value " this is a comment in @RBC-homebase-prototype"}]}
+   536878570]
+  [5063 :block/heading 0 536878546]
+  [5063 :block/open true 536878546]
+  [5063 :block/order 0 536878546]
+  [5063 :block/page 5022 536878548]
+  [5063 :block/parents 5022 536878548]
+  [5063 :block/parents 5040 536878548]
+  [5063 :block/parents 5052 536878548]
+  [5063 :block/parents 5058 536878548]
+  [5063 :block/string "will we need a merge manager?" 536878546]
+  [5063 :block/text-align "left" 536878546]
+  [5063 :block/uid "-WNQ_B7K8" 536878546]
+  [5063 :children/view-type :bullet 536878546]
+  [5063 :create/time 1648411437691 536878546]
+  [5063 :create/user 1 536878546]
+  [5063 :edit/time 1648411437691 536878546]
+  [5063 :edit/user 1 536878546]
+  [5064 :block/open true 536878554]
+  [5064 :block/order 2 536878554]
+  [5064 :block/page 5022 536878555]
+  [5064 :block/parents 5022 536878555]
+  [5064 :block/parents 5040 536878555]
+  [5064 :block/parents 5052 536878555]
+  [5064 :block/parents 5062 536878555]
+  [5064 :block/refs 577 536878608]
+  [5064 :block/refs 5066 536878608]
+  [5064
+   :block/string
+   "{{[[TODO]]}} moving children underneath a new parent does not propagate parent-child relationshp [[David Vargas]]"
+   536878611]
+  [5064 :block/uid "mxLuQYBkp" 536878554]
+  [5064 :create/time 1648411452315 536878554]
+  [5064 :create/user 1 536878554]
+  [5064 :edit/time 1648412077449 536878611]
+  [5064 :edit/user 1 536878554]
+  [5066 :block/uid "ijujkVFln" 536878572]
+  [5066 :create/time 1648411494579 536878572]
+  [5066 :create/user 1 536878572]
+  [5066 :edit/time 1648411494580 536878572]
+  [5066 :edit/user 1 536878572]
+  [5066 :node/title "David Vargas" 536878572]
+  [5068 :block/uid "JmtQmbm8L" 536878587]
+  [5068 :create/time 1648411586369 536878587]
+  [5068 :create/user 1 536878587]
+  [5068 :edit/time 1648411586374 536878587]
+  [5068 :edit/user 1 536878587]
+  [5068 :node/title "Terms" 536878587]
+  [5069 :block/uid "do6Us521s" 536878587]
+  [5069 :create/time 1648411586369 536878587]
+  [5069 :create/user 1 536878587]
+  [5069 :edit/time 1648411586374 536878587]
+  [5069 :edit/user 1 536878587]
+  [5069 :node/title "Propositions" 536878587]
+  [5070 :block/uid "a7e8sliT2" 536878587]
+  [5070 :create/time 1648411586369 536878587]
+  [5070 :create/user 1 536878587]
+  [5070 :edit/time 1648411586374 536878587]
+  [5070 :edit/user 1 536878587]
+  [5070 :node/title "Sources" 536878587]
+  [5071 :block/uid "w451LFyYY" 536878590]
+  [5071 :create/time 1648411616477 536878590]
+  [5071 :create/user 1 536878590]
+  [5071 :edit/time 1648411616481 536878590]
+  [5071 :edit/user 1 536878590]
+  [5071 :node/title "Shana Pote" 536878590]
+  [5072 :block/uid "uWQlx_1xn" 536878590]
+  [5072 :create/time 1648411616477 536878590]
+  [5072 :create/user 1 536878590]
+  [5072 :edit/time 1648411616481 536878590]
+  [5072 :edit/user 1 536878590]
+  [5072 :node/title "Natalie Pang" 536878590]
+  [5073 :block/open true 536878595]
+  [5073 :block/order 0 536878597]
+  [5073 :block/page 5022 536878596]
+  [5073 :block/parents 5022 536878596]
+  [5073 :block/parents 5040 536878596]
+  [5073 :block/parents 5052 536878596]
+  [5073 :block/parents 5058 536878596]
+  [5073 :block/parents 5059 536878604]
+  [5073 :block/parents 5060 536878604]
+  [5073 :block/refs 577 536878600]
+  [5073 :block/refs 5066 536878600]
+  [5073
+   :block/string
+   "{{[[TODO]]}} changes to a block do not propagate (once initial version is sent) [[David Vargas]]"
+   536878599]
+  [5073 :block/uid "xNxh7WyWL" 536878595]
+  [5073 :create/time 1648411635892 536878595]
+  [5073 :create/user 1 536878595]
+  [5073 :edit/time 1648411637189 536878599]
+  [5073 :edit/user 1 536878595]]}

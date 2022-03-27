@@ -67223,62 +67223,308 @@
             "edit-time": 1648403494601,
             "children": [
               {
-                "edit-time": 1648403520401,
+                "edit-time": 1648411437421,
                 "children": [
                   {
-                    "string": "this is a response from @socialcommons",
-                    "uid": "J0QLluUPL",
-                    "create-time": 1648403509066,
-                    "edit-time": 1648403557688,
+                    "edit-time": 1648403520401,
+                    "children": [
+                      {
+                        "string": "this is a response from @socialcommons",
+                        "uid": "J0QLluUPL",
+                        "create-time": 1648403509066,
+                        "edit-time": 1648403557688,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      }
+                    ],
+                    "text-align": "left",
+                    "refs": [
+                      {
+                        "uid": "JcQS0E6hZ"
+                      }
+                    ],
+                    "uid": "aO82jSn5T",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "JcQS0E6hZ"
+                      }
+                    ],
+                    "string": "Chinarut:: this is a comment in @RBC-homebase-prototype",
                     ":create/user": {
                       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                     },
+                    "create-time": 1648403494605,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "heading": 0
+                  },
+                  {
+                    "edit-time": 1648403621500,
+                    "text-align": "left",
+                    "refs": [
+                      {
+                        "uid": "JcQS0E6hZ"
+                      }
+                    ],
+                    "uid": "ZLYpxpxAs",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "JcQS0E6hZ"
+                      }
+                    ],
+                    "string": "Chinarut:: this is a 2nd comment in @RBC-home-base-protorype",
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "create-time": 1648403621500,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "heading": 0
+                  },
+                  {
+                    "string": "{{[[TODO]]}} moving children underneath a new parent does not propagate parent-child relationshp [[David Vargas]]",
+                    "create-time": 1648411452315,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ZuxcbnfVv"
+                      },
+                      {
+                        ":block/uid": "ijujkVFln"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "ZuxcbnfVv"
+                      },
+                      {
+                        "uid": "ijujkVFln"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "uid": "mxLuQYBkp",
+                    "edit-time": 1648412077449,
                     ":edit/user": {
                       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                     }
                   }
                 ],
                 "text-align": "left",
-                "refs": [
-                  {
-                    "uid": "JcQS0E6hZ"
-                  }
-                ],
-                "uid": "aO82jSn5T",
-                ":block/refs": [
-                  {
-                    ":block/uid": "JcQS0E6hZ"
-                  }
-                ],
-                "string": "Chinarut:: this is a comment in @RBC-homebase-prototype",
+                "uid": "GbOSE8vAI",
+                "string": "evaluating cross-graph conversation",
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
-                "create-time": 1648403494605,
+                "create-time": 1648411437421,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
                 "heading": 0
               },
               {
-                "edit-time": 1648403621500,
+                "edit-time": 1648411586346,
+                "text-align": "left",
+                "refs": [
+                  {
+                    "uid": "JcQS0E6hZ"
+                  },
+                  {
+                    "uid": "esKPXXOda"
+                  },
+                  {
+                    "uid": "x39eF4O_0"
+                  },
+                  {
+                    "uid": "ijujkVFln"
+                  },
+                  {
+                    "uid": "JmtQmbm8L"
+                  },
+                  {
+                    "uid": "do6Us521s"
+                  },
+                  {
+                    "uid": "a7e8sliT2"
+                  }
+                ],
+                "uid": "Q5JB1HJM6",
+                ":block/refs": [
+                  {
+                    ":block/uid": "JcQS0E6hZ"
+                  },
+                  {
+                    ":block/uid": "esKPXXOda"
+                  },
+                  {
+                    ":block/uid": "x39eF4O_0"
+                  },
+                  {
+                    ":block/uid": "ijujkVFln"
+                  },
+                  {
+                    ":block/uid": "JmtQmbm8L"
+                  },
+                  {
+                    ":block/uid": "do6Us521s"
+                  },
+                  {
+                    ":block/uid": "a7e8sliT2"
+                  }
+                ],
+                "string": "Chinarut:: in RBC6, we invented a construct called a [[🐝 Hivemind]]  RBC7 extended this construct and it is now a set of [[Questions]] (Q/ prefix), [[Terms]] (T/), [[Propositions]] (P/) and now [[Sources]] (S/) - what is the easiest way to keep a set of pages (including new pages that show up with these 4 prefixes) in sync between 2 graphs? [[David Vargas]]",
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "create-time": 1648411008810,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "heading": 0
+              },
+              {
+                "edit-time": 1648411008924,
+                "children": [
+                  {
+                    "string": "will we need a merge manager?",
+                    "create-time": 1648411437691,
+                    "heading": 0,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "uid": "-WNQ_B7K8",
+                    "edit-time": 1648411437691,
+                    "text-align": "left",
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "edit-time": 1648411725949,
+                    "children": [
+                      {
+                        "edit-time": 1648411648104,
+                        "children": [
+                          {
+                            "string": "{{[[TODO]]}} changes to a block do not propagate (once initial version is sent) [[David Vargas]]",
+                            "create-time": 1648411635892,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "ZuxcbnfVv"
+                              },
+                              {
+                                ":block/uid": "ijujkVFln"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "ZuxcbnfVv"
+                              },
+                              {
+                                "uid": "ijujkVFln"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            },
+                            "uid": "xNxh7WyWL",
+                            "edit-time": 1648411637189,
+                            ":edit/user": {
+                              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                            }
+                          }
+                        ],
+                        "text-align": "left",
+                        "uid": "O0Koe4Itl",
+                        "string": "the lionshare of the activity of the Hivemind is likely to move to a “wellbeing” graph (or more abstractly, a “commons” graph) and evaluate our hypothesis a Hivemind can stand on its own (without RBC scaffolding) and generate discussion/discourse",
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "create-time": 1648411009000,
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "heading": 0
+                      }
+                    ],
+                    "text-align": "left",
+                    "uid": "1zbH3Z-eR",
+                    "string": "short-term, because I don’t see our use case editing in 2 different Hiveminds at the same time (yet), I’m not concerned at this point in the game",
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "create-time": 1648411008966,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "heading": 0
+                  },
+                  {
+                    "edit-time": 1648411616442,
+                    "text-align": "left",
+                    "refs": [
+                      {
+                        "uid": "puB_wMYIa"
+                      },
+                      {
+                        "uid": "JcQS0E6hZ"
+                      },
+                      {
+                        "uid": "w451LFyYY"
+                      },
+                      {
+                        "uid": "uWQlx_1xn"
+                      }
+                    ],
+                    "uid": "PfufhnxBO",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "puB_wMYIa"
+                      },
+                      {
+                        ":block/uid": "JcQS0E6hZ"
+                      },
+                      {
+                        ":block/uid": "w451LFyYY"
+                      },
+                      {
+                        ":block/uid": "uWQlx_1xn"
+                      }
+                    ],
+                    "string": "Chinarut:: the first iteration of a commons graph will **not** be public initially - it’s primary purpose will be to invite others in our Roam community (eg. [[Shana Pote]] or [[Joel Chan]]) and other experts in the commons (eg. [[Natalie Pang]]), wellbeing (eg. Jim Harter or Tom Rath), or perhaps future elemental deep dive leaders to participate with us and fulfill on a vision its all connected!",
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "create-time": 1648411009034,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "heading": 0
+                  }
+                ],
                 "text-align": "left",
                 "refs": [
                   {
                     "uid": "JcQS0E6hZ"
                   }
                 ],
-                "uid": "ZLYpxpxAs",
+                "uid": "FOCPOqhSK",
                 ":block/refs": [
                   {
                     ":block/uid": "JcQS0E6hZ"
                   }
                 ],
-                "string": "Chinarut:: this is a 2nd comment in @RBC-home-base-protorype",
+                "string": "Chinarut:: I am curious what happens when more complex changes happen in 2 different graphs?",
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
-                "create-time": 1648403621500,
+                "create-time": 1648411008924,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
@@ -67610,6 +67856,78 @@
     "create-time": 1648403416775,
     "edit-time": 1648403416777,
     "title": "RBC-homebase-prototype",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "ijujkVFln",
+    "create-time": 1648411494579,
+    "edit-time": 1648411494580,
+    "title": "David Vargas",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "JmtQmbm8L",
+    "create-time": 1648411586369,
+    "edit-time": 1648411586374,
+    "title": "Terms",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "do6Us521s",
+    "create-time": 1648411586369,
+    "edit-time": 1648411586374,
+    "title": "Propositions",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "a7e8sliT2",
+    "create-time": 1648411586369,
+    "edit-time": 1648411586374,
+    "title": "Sources",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "w451LFyYY",
+    "create-time": 1648411616477,
+    "edit-time": 1648411616481,
+    "title": "Shana Pote",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "uWQlx_1xn",
+    "create-time": 1648411616477,
+    "edit-time": 1648411616481,
+    "title": "Natalie Pang",
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
