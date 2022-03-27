@@ -67466,42 +67466,54 @@
                     "heading": 0
                   },
                   {
-                    "edit-time": 1648411616442,
+                    "edit-time": 1648412177051,
+                    "children": [
+                      {
+                        "string": "this happens when we add/remove emojis during beekeeping",
+                        "create-time": 1648412177140,
+                        "heading": 0,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "uid": "f1J79oXb-",
+                        "edit-time": 1648412177140,
+                        "text-align": "left",
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "are pages just names or page IDs?",
+                        "create-time": 1648412177170,
+                        "heading": 0,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "uid": "q2Nz7W23Q",
+                        "edit-time": 1648412177170,
+                        "text-align": "left",
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      }
+                    ],
                     "text-align": "left",
                     "refs": [
                       {
-                        "uid": "puB_wMYIa"
-                      },
-                      {
-                        "uid": "JcQS0E6hZ"
-                      },
-                      {
-                        "uid": "w451LFyYY"
-                      },
-                      {
-                        "uid": "uWQlx_1xn"
+                        "uid": "ZuxcbnfVv"
                       }
                     ],
-                    "uid": "PfufhnxBO",
+                    "uid": "cLpsxbC7P",
                     ":block/refs": [
                       {
-                        ":block/uid": "puB_wMYIa"
-                      },
-                      {
-                        ":block/uid": "JcQS0E6hZ"
-                      },
-                      {
-                        ":block/uid": "w451LFyYY"
-                      },
-                      {
-                        ":block/uid": "uWQlx_1xn"
+                        ":block/uid": "ZuxcbnfVv"
                       }
                     ],
-                    "string": "Chinarut:: the first iteration of a commons graph will **not** be public initially - it’s primary purpose will be to invite others in our Roam community (eg. [[Shana Pote]] or [[Joel Chan]]) and other experts in the commons (eg. [[Natalie Pang]]), wellbeing (eg. Jim Harter or Tom Rath), or perhaps future elemental deep dive leaders to participate with us and fulfill on a vision its all connected!",
+                    "string": "{{[[TODO]]}} test what happens if page names change",
                     ":create/user": {
                       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                     },
-                    "create-time": 1648411009034,
+                    "create-time": 1648412177051,
                     ":edit/user": {
                       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                     },
@@ -67525,6 +67537,48 @@
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
                 "create-time": 1648411008924,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "heading": 0
+              },
+              {
+                "edit-time": 1648411616442,
+                "text-align": "left",
+                "refs": [
+                  {
+                    "uid": "puB_wMYIa"
+                  },
+                  {
+                    "uid": "JcQS0E6hZ"
+                  },
+                  {
+                    "uid": "w451LFyYY"
+                  },
+                  {
+                    "uid": "uWQlx_1xn"
+                  }
+                ],
+                "uid": "PfufhnxBO",
+                ":block/refs": [
+                  {
+                    ":block/uid": "puB_wMYIa"
+                  },
+                  {
+                    ":block/uid": "JcQS0E6hZ"
+                  },
+                  {
+                    ":block/uid": "w451LFyYY"
+                  },
+                  {
+                    ":block/uid": "uWQlx_1xn"
+                  }
+                ],
+                "string": "Chinarut:: the first iteration of a commons graph will **not** be public initially - it’s primary purpose will be to invite others in our Roam community (eg. [[Shana Pote]] or [[Joel Chan]]) and other experts in the commons (eg. [[Natalie Pang]]), wellbeing (eg. Jim Harter or Tom Rath), or perhaps future elemental deep dive leaders to participate with us and fulfill on a vision its all connected!",
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "create-time": 1648411009034,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },

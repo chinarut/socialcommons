@@ -20,7 +20,10 @@
             - short-term, because I don’t see our use case editing in 2 different Hiveminds at the same time (yet), I’m not concerned at this point in the game
                 - the lionshare of the activity of the Hivemind is likely to move to a “wellbeing” graph (or more abstractly, a “commons” graph) and evaluate our hypothesis a Hivemind can stand on its own (without RBC scaffolding) and generate discussion/discourse
                     - {{[[TODO]]}} changes to a block do not propagate (once initial version is sent) [[David Vargas]]
-            - Chinarut:: the first iteration of a commons graph will **not** be public initially - it’s primary purpose will be to invite others in our Roam community (eg. [[Shana Pote]] or [[Joel Chan]]) and other experts in the commons (eg. [[Natalie Pang]]), wellbeing (eg. Jim Harter or Tom Rath), or perhaps future elemental deep dive leaders to participate with us and fulfill on a vision its all connected!
+            - {{[[TODO]]}} test what happens if page names change
+                - this happens when we add/remove emojis during beekeeping
+                - are pages just names or page IDs?
+        - Chinarut:: the first iteration of a commons graph will **not** be public initially - it’s primary purpose will be to invite others in our Roam community (eg. [[Shana Pote]] or [[Joel Chan]]) and other experts in the commons (eg. [[Natalie Pang]]), wellbeing (eg. Jim Harter or Tom Rath), or perhaps future elemental deep dive leaders to participate with us and fulfill on a vision its all connected!
     - [[March 24th, 2022]]
         - Chinarut:: goal is the possibility of cross-syncing [[🐝 Hivemind]] across graphs 
             - to be clear, for the privacy of everyone here, I am **not** enabling this extension in this graph until fully discussed with organizing team

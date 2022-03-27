@@ -56180,8 +56180,8 @@
   [4996 :version/id "0.9.4" 536878403]
   [4996
    :version/nonce
-   "uuid1b5c2ec6-646f-46c2-be52-1758e049b6d3"
-   536878612]
+   "uuidc35823ca-605b-41e2-93c6-d2b4d89893f2"
+   536878620]
   [4997 :block/uid "03-13-2022" 536878404]
   [4997 :create/time 1647132684571 536878404]
   [4997 :create/user 1 536878404]
@@ -56395,6 +56395,7 @@
   [5021 :attrs/lookup 5052 536878509]
   [5021 :attrs/lookup 5057 536878540]
   [5021 :attrs/lookup 5058 536878543]
+  [5021 :attrs/lookup 5061 536878619]
   [5021 :block/children 5050 536878501]
   [5021 :block/uid "03-27-2022" 536878461]
   [5021 :create/time 1648342760823 536878461]
@@ -56416,8 +56417,15 @@
        :value [:block/uid "JcQS0E6hZ"]}
       {:source [:block/uid "FOCPOqhSK"],
        :value
-       " I am curious what happens when more complex changes happen in 2 different graphs?"}]}
-   536878588]
+       " I am curious what happens when more complex changes happen in 2 different graphs?"}]
+     [{:source [:block/uid "DacK1gxLu"],
+       :value [:block/uid "03-27-2022"]}
+      {:source [:block/uid "PfufhnxBO"],
+       :value [:block/uid "JcQS0E6hZ"]}
+      {:source [:block/uid "PfufhnxBO"],
+       :value
+       " the first iteration of a commons graph will **not** be public initially - it’s primary purpose will be to invite others in our Roam community (eg. [[Shana Pote]] or [[Joel Chan]]) and other experts in the commons (eg. [[Natalie Pang]]), wellbeing (eg. Jim Harter or Tom Rath), or perhaps future elemental deep dive leaders to participate with us and fulfill on a vision its all connected!"}]}
+   536878619]
   [5021 :log/id 1648342760822 536878461]
   [5021 :node/title "March 27th, 2022" 536878461]
   [5022 :attrs/lookup 5022 536878472]
@@ -56883,6 +56891,7 @@
   [5051 :node/title "RBC-homebase-prototype" 536878502]
   [5052 :block/children 5057 536878534]
   [5052 :block/children 5058 536878535]
+  [5052 :block/children 5061 536878618]
   [5052 :block/children 5062 536878545]
   [5052 :block/heading 0 536878504]
   [5052 :block/open true 536878504]
@@ -56982,12 +56991,9 @@
   [5057 :create/user 1 536878534]
   [5057 :edit/time 1648411586346 536878586]
   [5057 :edit/user 1 536878534]
-  [5058 :attrs/lookup 4270 536878591]
-  [5058 :attrs/lookup 5058 536878591]
-  [5058 :attrs/lookup 5061 536878591]
   [5058 :block/children 5059 536878536]
-  [5058 :block/children 5061 536878538]
   [5058 :block/children 5063 536878546]
+  [5058 :block/children 5074 536878613]
   [5058 :block/heading 0 536878535]
   [5058 :block/open true 536878535]
   [5058 :block/order 2 536878576]
@@ -57007,16 +57013,7 @@
   [5058 :create/user 1 536878535]
   [5058 :edit/time 1648411008924 536878535]
   [5058 :edit/user 1 536878535]
-  [5058
-   :entity/attrs
-   #{[{:source [:block/uid "FOCPOqhSK"],
-       :value [:block/uid "FOCPOqhSK"]}
-      {:source [:block/uid "PfufhnxBO"],
-       :value [:block/uid "JcQS0E6hZ"]}
-      {:source [:block/uid "PfufhnxBO"],
-       :value
-       " the first iteration of a commons graph will **not** be public initially - it’s primary purpose will be to invite others in our Roam community (eg. [[Shana Pote]] or [[Joel Chan]]) and other experts in the commons (eg. [[Natalie Pang]]), wellbeing (eg. Jim Harter or Tom Rath), or perhaps future elemental deep dive leaders to participate with us and fulfill on a vision its all connected!"}]}
-   536878591]
+  [5058 :entity/attrs #{} 536878619]
   [5059 :block/children 5060 536878537]
   [5059 :block/heading 0 536878536]
   [5059 :block/open true 536878536]
@@ -57060,12 +57057,11 @@
   [5060 :edit/user 1 536878537]
   [5061 :block/heading 0 536878538]
   [5061 :block/open true 536878538]
-  [5061 :block/order 2 536878546]
+  [5061 :block/order 3 536878613]
   [5061 :block/page 5022 536878544]
   [5061 :block/parents 5022 536878544]
   [5061 :block/parents 5040 536878544]
   [5061 :block/parents 5052 536878544]
-  [5061 :block/parents 5058 536878544]
   [5061 :block/refs 2204 536878590]
   [5061 :block/refs 4270 536878590]
   [5061 :block/refs 5071 536878590]
@@ -57207,4 +57203,63 @@
   [5073 :create/time 1648411635892 536878595]
   [5073 :create/user 1 536878595]
   [5073 :edit/time 1648411637189 536878599]
-  [5073 :edit/user 1 536878595]]}
+  [5073 :edit/user 1 536878595]
+  [5074 :block/children 5075 536878614]
+  [5074 :block/children 5076 536878615]
+  [5074 :block/heading 0 536878613]
+  [5074 :block/open true 536878613]
+  [5074 :block/order 2 536878613]
+  [5074 :block/page 5022 536878617]
+  [5074 :block/parents 5022 536878617]
+  [5074 :block/parents 5040 536878617]
+  [5074 :block/parents 5052 536878617]
+  [5074 :block/parents 5058 536878617]
+  [5074 :block/refs 577 536878616]
+  [5074
+   :block/string
+   "{{[[TODO]]}} test what happens if page names change"
+   536878613]
+  [5074 :block/text-align "left" 536878613]
+  [5074 :block/uid "cLpsxbC7P" 536878613]
+  [5074 :children/view-type :bullet 536878613]
+  [5074 :create/time 1648412177051 536878613]
+  [5074 :create/user 1 536878613]
+  [5074 :edit/time 1648412177051 536878613]
+  [5074 :edit/user 1 536878613]
+  [5075 :block/heading 0 536878614]
+  [5075 :block/open true 536878614]
+  [5075 :block/order 0 536878614]
+  [5075 :block/page 5022 536878617]
+  [5075 :block/parents 5022 536878617]
+  [5075 :block/parents 5040 536878617]
+  [5075 :block/parents 5052 536878617]
+  [5075 :block/parents 5058 536878617]
+  [5075 :block/parents 5074 536878617]
+  [5075
+   :block/string
+   "this happens when we add/remove emojis during beekeeping"
+   536878614]
+  [5075 :block/text-align "left" 536878614]
+  [5075 :block/uid "f1J79oXb-" 536878614]
+  [5075 :children/view-type :bullet 536878614]
+  [5075 :create/time 1648412177140 536878614]
+  [5075 :create/user 1 536878614]
+  [5075 :edit/time 1648412177140 536878614]
+  [5075 :edit/user 1 536878614]
+  [5076 :block/heading 0 536878615]
+  [5076 :block/open true 536878615]
+  [5076 :block/order 1 536878615]
+  [5076 :block/page 5022 536878617]
+  [5076 :block/parents 5022 536878617]
+  [5076 :block/parents 5040 536878617]
+  [5076 :block/parents 5052 536878617]
+  [5076 :block/parents 5058 536878617]
+  [5076 :block/parents 5074 536878617]
+  [5076 :block/string "are pages just names or page IDs?" 536878615]
+  [5076 :block/text-align "left" 536878615]
+  [5076 :block/uid "q2Nz7W23Q" 536878615]
+  [5076 :children/view-type :bullet 536878615]
+  [5076 :create/time 1648412177170 536878615]
+  [5076 :create/user 1 536878615]
+  [5076 :edit/time 1648412177170 536878615]
+  [5076 :edit/user 1 536878615]]}
