@@ -66985,8 +66985,12 @@
           {
             "children": [
               {
-                "string": "From: admins-smartblocks 2.json",
-                "uid": "XyGKh4sQT"
+                "string": "From: admins-smartblocks.json",
+                "uid": "XyGKh4sQT",
+                "edit-time": 1648424423710,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
               }
             ],
             "refs": [
@@ -67355,8 +67359,33 @@
                 "heading": 0
               },
               {
-                "edit-time": 1648411586346,
-                "text-align": "left",
+                "edit-time": 1648424444613,
+                "children": [
+                  {
+                    "edit-time": 1648424444640,
+                    "text-align": "left",
+                    "refs": [
+                      {
+                        "uid": "ijujkVFln"
+                      }
+                    ],
+                    "uid": "Q5JB1HJM6",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ijujkVFln"
+                      }
+                    ],
+                    "string": "what is the easiest way to keep a set of pages (including new pages that show up with these 4 prefixes) in sync between 2 graphs? [[David Vargas]]",
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "create-time": 1648411008810,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "heading": 0
+                  }
+                ],
                 "refs": [
                   {
                     "uid": "JcQS0E6hZ"
@@ -67368,9 +67397,6 @@
                     "uid": "x39eF4O_0"
                   },
                   {
-                    "uid": "ijujkVFln"
-                  },
-                  {
                     "uid": "JmtQmbm8L"
                   },
                   {
@@ -67380,7 +67406,7 @@
                     "uid": "a7e8sliT2"
                   }
                 ],
-                "uid": "Q5JB1HJM6",
+                "uid": "pihtSKCAP",
                 ":block/refs": [
                   {
                     ":block/uid": "JcQS0E6hZ"
@@ -67392,9 +67418,6 @@
                     ":block/uid": "x39eF4O_0"
                   },
                   {
-                    ":block/uid": "ijujkVFln"
-                  },
-                  {
                     ":block/uid": "JmtQmbm8L"
                   },
                   {
@@ -67404,15 +67427,14 @@
                     ":block/uid": "a7e8sliT2"
                   }
                 ],
-                "string": "Chinarut:: in RBC6, we invented a construct called a [[🐝 Hivemind]]  RBC7 extended this construct and it is now a set of [[Questions]] (Q/ prefix), [[Terms]] (T/), [[Propositions]] (P/) and now [[Sources]] (S/) - what is the easiest way to keep a set of pages (including new pages that show up with these 4 prefixes) in sync between 2 graphs? [[David Vargas]]",
+                "string": "Chinarut:: in RBC6, we invented a construct called a [[🐝 Hivemind]]  RBC7 extended this construct and it is now a set of [[Questions]] (Q/ prefix), [[Terms]] (T/), [[Propositions]] (P/) and now [[Sources]] (S/)",
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
-                "create-time": 1648411008810,
+                "create-time": 1648424444613,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                },
-                "heading": 0
+                }
               },
               {
                 "edit-time": 1648411008924,
@@ -68214,6 +68236,19 @@
     "create-time": 1648414915710,
     "title": "SmartBlock",
     ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1648429337114,
+    "title": "March 28th, 2022",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":log/id": 1648429337113,
+    "uid": "03-28-2022",
+    "edit-time": 1648429337114,
+    ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
   }

@@ -14,7 +14,8 @@
                 - this is a response from @socialcommons
             - Chinarut:: this is a 2nd comment in @RBC-home-base-protorype
             - {{[[TODO]]}} moving children underneath a new parent does not propagate parent-child relationshp [[David Vargas]]
-        - Chinarut:: in RBC6, we invented a construct called a [[🐝 Hivemind]]  RBC7 extended this construct and it is now a set of [[Questions]] (Q/ prefix), [[Terms]] (T/), [[Propositions]] (P/) and now [[Sources]] (S/) - what is the easiest way to keep a set of pages (including new pages that show up with these 4 prefixes) in sync between 2 graphs? [[David Vargas]]
+        - Chinarut:: in RBC6, we invented a construct called a [[🐝 Hivemind]]  RBC7 extended this construct and it is now a set of [[Questions]] (Q/ prefix), [[Terms]] (T/), [[Propositions]] (P/) and now [[Sources]] (S/)
+            - what is the easiest way to keep a set of pages (including new pages that show up with these 4 prefixes) in sync between 2 graphs? [[David Vargas]]
         - Chinarut:: I am curious what happens when more complex changes happen in 2 different graphs?
             - will we need a merge manager?
             - short-term, because I don’t see our use case editing in 2 different Hiveminds at the same time (yet), I’m not concerned at this point in the game

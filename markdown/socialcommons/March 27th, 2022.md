@@ -1,4 +1,4 @@
 - [[RBC-homebase-prototype]] sent over page [[Q/Can we use RoamJS multiplayer to allow others to engage with pointed questions? 📚]]
 - Import
     - [[admins/smartblocks]]
-        - From: admins-smartblocks 2.json
+        - From: admins-smartblocks.json

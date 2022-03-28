@@ -56180,8 +56180,8 @@
   [4996 :version/id "0.9.4" 536878403]
   [4996
    :version/nonce
-   "uuidc35823ca-605b-41e2-93c6-d2b4d89893f2"
-   536878620]
+   "uuid72b8b41b-c41d-42d9-8ac8-8303868b896e"
+   536878636]
   [4997 :block/uid "03-13-2022" 536878404]
   [4997 :create/time 1647132684571 536878404]
   [4997 :create/user 1 536878404]
@@ -56393,26 +56393,20 @@
   [5021 :attrs/lookup 4270 536878509]
   [5021 :attrs/lookup 5021 536878509]
   [5021 :attrs/lookup 5052 536878509]
-  [5021 :attrs/lookup 5057 536878540]
   [5021 :attrs/lookup 5058 536878543]
   [5021 :attrs/lookup 5061 536878619]
+  [5021 :attrs/lookup 5093 536878632]
   [5021 :block/children 5050 536878501]
   [5021 :block/children 5089 536878622]
   [5021 :block/uid "03-27-2022" 536878461]
   [5021 :create/time 1648342760823 536878461]
   [5021 :create/user 1 536878461]
+  [5021 :edit/seen-by 1 536878625]
   [5021 :edit/time 1648342760823 536878461]
   [5021 :edit/user 1 536878461]
   [5021
    :entity/attrs
    #{[{:source [:block/uid "DacK1gxLu"],
-       :value [:block/uid "03-27-2022"]}
-      {:source [:block/uid "Q5JB1HJM6"],
-       :value [:block/uid "JcQS0E6hZ"]}
-      {:source [:block/uid "Q5JB1HJM6"],
-       :value
-       " in RBC6, we invented a construct called a [[🐝 Hivemind]]  RBC7 extended this construct and it is now a set of [[Questions]] (Q/ prefix), [[Terms]] (T/), [[Propositions]] (P/) and now [[Sources]] (S/) - what is the easiest way to keep a set of pages (including new pages that show up with these 4 prefixes) in sync between 2 graphs? [[David Vargas]]"}]
-     [{:source [:block/uid "DacK1gxLu"],
        :value [:block/uid "03-27-2022"]}
       {:source [:block/uid "FOCPOqhSK"],
        :value [:block/uid "JcQS0E6hZ"]}
@@ -56425,8 +56419,15 @@
        :value [:block/uid "JcQS0E6hZ"]}
       {:source [:block/uid "PfufhnxBO"],
        :value
-       " the first iteration of a commons graph will **not** be public initially - it’s primary purpose will be to invite others in our Roam community (eg. [[Shana Pote]] or [[Joel Chan]]) and other experts in the commons (eg. [[Natalie Pang]]), wellbeing (eg. Jim Harter or Tom Rath), or perhaps future elemental deep dive leaders to participate with us and fulfill on a vision its all connected!"}]}
-   536878619]
+       " the first iteration of a commons graph will **not** be public initially - it’s primary purpose will be to invite others in our Roam community (eg. [[Shana Pote]] or [[Joel Chan]]) and other experts in the commons (eg. [[Natalie Pang]]), wellbeing (eg. Jim Harter or Tom Rath), or perhaps future elemental deep dive leaders to participate with us and fulfill on a vision its all connected!"}]
+     [{:source [:block/uid "DacK1gxLu"],
+       :value [:block/uid "03-27-2022"]}
+      {:source [:block/uid "pihtSKCAP"],
+       :value [:block/uid "JcQS0E6hZ"]}
+      {:source [:block/uid "pihtSKCAP"],
+       :value
+       " in RBC6, we invented a construct called a [[🐝 Hivemind]]  RBC7 extended this construct and it is now a set of [[Questions]] (Q/ prefix), [[Terms]] (T/), [[Propositions]] (P/) and now [[Sources]] (S/)"}]}
+   536878632]
   [5021 :log/id 1648342760822 536878461]
   [5021 :node/title "March 27th, 2022" 536878461]
   [5022 :attrs/lookup 5022 536878472]
@@ -56890,10 +56891,10 @@
   [5051 :edit/time 1648403416777 536878502]
   [5051 :edit/user 1 536878502]
   [5051 :node/title "RBC-homebase-prototype" 536878502]
-  [5052 :block/children 5057 536878534]
   [5052 :block/children 5058 536878535]
   [5052 :block/children 5061 536878618]
   [5052 :block/children 5062 536878545]
+  [5052 :block/children 5093 536878627]
   [5052 :block/heading 0 536878504]
   [5052 :block/open true 536878504]
   [5052 :block/order 0 536878504]
@@ -56969,35 +56970,30 @@
   [5056 :edit/user 1 536878530]
   [5057 :block/heading 0 536878534]
   [5057 :block/open true 536878534]
-  [5057 :block/order 1 536878549]
+  [5057 :block/order 0 536878634]
   [5057 :block/page 5022 536878541]
   [5057 :block/parents 5022 536878541]
   [5057 :block/parents 5040 536878541]
   [5057 :block/parents 5052 536878541]
-  [5057 :block/refs 4270 536878539]
-  [5057 :block/refs 5031 536878587]
-  [5057 :block/refs 5048 536878587]
+  [5057 :block/parents 5093 536878635]
   [5057 :block/refs 5066 536878587]
-  [5057 :block/refs 5068 536878587]
-  [5057 :block/refs 5069 536878587]
-  [5057 :block/refs 5070 536878587]
   [5057
    :block/string
-   "Chinarut:: in RBC6, we invented a construct called a [[🐝 Hivemind]]  RBC7 extended this construct and it is now a set of [[Questions]] (Q/ prefix), [[Terms]] (T/), [[Propositions]] (P/) and now [[Sources]] (S/) - what is the easiest way to keep a set of pages (including new pages that show up with these 4 prefixes) in sync between 2 graphs? [[David Vargas]]"
-   536878586]
+   "what is the easiest way to keep a set of pages (including new pages that show up with these 4 prefixes) in sync between 2 graphs? [[David Vargas]]"
+   536878628]
   [5057 :block/text-align "left" 536878534]
   [5057 :block/uid "Q5JB1HJM6" 536878534]
   [5057 :children/view-type :bullet 536878534]
   [5057 :create/time 1648411008810 536878534]
   [5057 :create/user 1 536878534]
-  [5057 :edit/time 1648411586346 536878586]
+  [5057 :edit/time 1648424444640 536878628]
   [5057 :edit/user 1 536878534]
   [5058 :block/children 5059 536878536]
   [5058 :block/children 5063 536878546]
   [5058 :block/children 5074 536878613]
   [5058 :block/heading 0 536878535]
   [5058 :block/open true 536878535]
-  [5058 :block/order 2 536878576]
+  [5058 :block/order 2 536878634]
   [5058 :block/page 5022 536878544]
   [5058 :block/parents 5022 536878544]
   [5058 :block/parents 5040 536878544]
@@ -57058,7 +57054,7 @@
   [5060 :edit/user 1 536878537]
   [5061 :block/heading 0 536878538]
   [5061 :block/open true 536878538]
-  [5061 :block/order 3 536878613]
+  [5061 :block/order 3 536878634]
   [5061 :block/page 5022 536878544]
   [5061 :block/parents 5022 536878544]
   [5061 :block/parents 5040 536878544]
@@ -57414,6 +57410,7 @@
   [5089 :block/parents 5021 536878624]
   [5089 :block/string "Import" 536878622]
   [5089 :block/uid "QgQmQJK3v" 536878622]
+  [5089 :edit/seen-by 1 536878625]
   [5090 :block/children 5091 536878623]
   [5090 :block/open true 536878623]
   [5090 :block/order 0 536878623]
@@ -57423,15 +57420,48 @@
   [5090 :block/refs 5077 536878624]
   [5090 :block/string "[[admins/smartblocks]]" 536878623]
   [5090 :block/uid "dkItqMHlV" 536878623]
+  [5090 :edit/seen-by 1 536878625]
   [5091 :block/open true 536878623]
   [5091 :block/order 0 536878623]
   [5091 :block/page 5021 536878624]
   [5091 :block/parents 5021 536878624]
   [5091 :block/parents 5089 536878624]
   [5091 :block/parents 5090 536878624]
-  [5091 :block/string "From: admins-smartblocks 2.json" 536878623]
+  [5091 :block/string "From: admins-smartblocks.json" 536878626]
   [5091 :block/uid "XyGKh4sQT" 536878623]
+  [5091 :edit/seen-by 1 536878625]
+  [5091 :edit/time 1648424423710 536878626]
+  [5091 :edit/user 1 536878626]
   [5092 :block/uid "ghRhqhWf2" 536878624]
   [5092 :create/time 1648414915710 536878624]
   [5092 :create/user 1 536878624]
-  [5092 :node/title "SmartBlock" 536878624]]}
+  [5092 :node/title "SmartBlock" 536878624]
+  [5093 :block/children 5057 536878634]
+  [5093 :block/open true 536878627]
+  [5093 :block/order 1 536878627]
+  [5093 :block/page 5022 536878633]
+  [5093 :block/parents 5022 536878633]
+  [5093 :block/parents 5040 536878633]
+  [5093 :block/parents 5052 536878633]
+  [5093 :block/refs 4270 536878631]
+  [5093 :block/refs 5031 536878631]
+  [5093 :block/refs 5048 536878631]
+  [5093 :block/refs 5068 536878631]
+  [5093 :block/refs 5069 536878631]
+  [5093 :block/refs 5070 536878631]
+  [5093
+   :block/string
+   "Chinarut:: in RBC6, we invented a construct called a [[🐝 Hivemind]]  RBC7 extended this construct and it is now a set of [[Questions]] (Q/ prefix), [[Terms]] (T/), [[Propositions]] (P/) and now [[Sources]] (S/)"
+   536878627]
+  [5093 :block/uid "pihtSKCAP" 536878627]
+  [5093 :create/time 1648424444613 536878627]
+  [5093 :create/user 1 536878627]
+  [5093 :edit/time 1648424444613 536878627]
+  [5093 :edit/user 1 536878627]
+  [5094 :block/uid "03-28-2022" 536878636]
+  [5094 :create/time 1648429337114 536878636]
+  [5094 :create/user 1 536878636]
+  [5094 :edit/time 1648429337114 536878636]
+  [5094 :edit/user 1 536878636]
+  [5094 :log/id 1648429337113 536878636]
+  [5094 :node/title "March 28th, 2022" 536878636]]}
