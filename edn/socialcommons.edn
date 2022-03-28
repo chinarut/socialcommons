@@ -70,11 +70,11 @@
    536876546]
   [1
    :user/settings
-   {:namespace-options [:none :partial :full],
+   {:namespace-options [:full :none :partial],
     :showing-own-icons? true,
     :showing-user-icons? true,
     :right-sidebar-pinned {}}
-   536872128]
+   536878637]
   [1 :user/uid "SqzDwyhdnDbh073KhswfNyOzgVm1" 536870913]
   [2 :block/children 3 536870915]
   [2 :block/children 5 536870924]
@@ -56180,8 +56180,8 @@
   [4996 :version/id "0.9.4" 536878403]
   [4996
    :version/nonce
-   "uuid72b8b41b-c41d-42d9-8ac8-8303868b896e"
-   536878636]
+   "uuiddd4f27a7-c3a5-4f34-8075-cce4b46eb870"
+   536878637]
   [4997 :block/uid "03-13-2022" 536878404]
   [4997 :create/time 1647132684571 536878404]
   [4997 :create/user 1 536878404]
