@@ -4,30 +4,43 @@
     - Passages::
         - <name 1>
             - <name 1's passages related to this question>
-    - Source:: [[Chinarut]] discussion w in Shana’s co-working space
+    - Source:: [[Chinarut]] discussion w in [[Shana Pote]]’s co-working space
     - Related:: [[T/Wellbeing Advisory ✅]]
 - ---
 - # Discussion:: (tag w/ date please!)
+    - [[March 28th, 2022]]
+        - {{[[DONE]]}} moving children underneath a new parent does not propagate parent-child relationship [[David Vargas]]
+            - Chinarut:: I’ll record a Loom next I run into the situation again. I am quite certain it is an artifact of sending vs syncing a page.
+        - {{[[DONE]]}} test what happens if page names change
+        - This is actually intended behavior. You are "sending" a block in its current state. What should be used instead:
+            - this also means that reactions to existing blocks are not propagated until sync pages/blocks is available
     - [[March 27th, 2022]]
         - evaluating cross-graph conversation
             - Chinarut:: this is a comment in @RBC-homebase-prototype
                 - this is a response from @socialcommons
             - Chinarut:: this is a 2nd comment in @RBC-home-base-protorype
-            - {{[[TODO]]}} moving children underneath a new parent does not propagate parent-child relationshp [[David Vargas]]
+            - {{[[DONE]]}} moving children underneath a new parent does not propagate parent-child relationship [[David Vargas]]
+                - Could you expand on more
         - Chinarut:: in RBC6, we invented a construct called a [[🐝 Hivemind]]  RBC7 extended this construct and it is now a set of [[Questions]] (Q/ prefix), [[Terms]] (T/), [[Propositions]] (P/) and now [[Sources]] (S/)
-            - what is the easiest way to keep a set of pages (including new pages that show up with these 4 prefixes) in sync between 2 graphs? [[David Vargas]]
+            - {{[[DONE]]}} what is the easiest way to keep a set of pages (including new pages that show up with these 4 prefixes) in sync between 2 graphs? [[David Vargas]]
+                - This is one of the first New Messages™️ that will be worked on in April
         - Chinarut:: I am curious what happens when more complex changes happen in 2 different graphs?
             - will we need a merge manager?
             - short-term, because I don’t see our use case editing in 2 different Hiveminds at the same time (yet), I’m not concerned at this point in the game
                 - the lionshare of the activity of the Hivemind is likely to move to a “wellbeing” graph (or more abstractly, a “commons” graph) and evaluate our hypothesis a Hivemind can stand on its own (without RBC scaffolding) and generate discussion/discourse
                     - {{[[TODO]]}} changes to a block do not propagate (once initial version is sent) [[David Vargas]]
-            - {{[[TODO]]}} test what happens if page names change
+                        - This is actually intended behavior. You are "sending" a block in its current state. What should be used instead:
+                            - Cross Graph references
+                            - Syncing Pages (not implemented)
+                            - Syncing blocks (not implemented)
+            - {{[[DONE]]}} test what happens if page names change
                 - this happens when we add/remove emojis during beekeeping
                 - are pages just names or page IDs?
+                - Chinarut:: sweet! it must be ID based as updating the page name propagates when resent! 👍
         - Chinarut:: the first iteration of a commons graph will **not** be public initially - it’s primary purpose will be to invite others in our Roam community (eg. [[Shana Pote]] or [[Joel Chan]]) and other experts in the commons (eg. [[Natalie Pang]]), wellbeing (eg. Jim Harter or Tom Rath), or perhaps future elemental deep dive leaders to participate with us and fulfill on a vision its all connected!
     - [[March 24th, 2022]]
         - Chinarut:: goal is the possibility of cross-syncing [[🐝 Hivemind]] across graphs 
-            - to be clear, for the privacy of everyone here, I am **not** enabling this extension in this graph until fully discussed with organizing team
+            - to be clear, for the privacy of everyone here, I am **not** enabling this extension in ~~this~~ RBC7 graph until fully discussed with organizing team
             - contact me if you’d like to experiment with me in 2 sandbox graphs to implement [roamjs/multiplayer](https://roamjs.com/extensions/multiplayer)
-            - something I’m experimenting with is how to best engage with experts/advisors/colleagues/community members who were not part of RBC7 (for whatever reason) that can potentially share additional perspective to answer the question: [[Q/How do we sustain the development of a Wellbeing Commons? 📚]]
+            - something I’m experimenting with is how to best engage with experts/advisors/colleagues/community members who were not part of RBC7 (for whatever reason) that can potentially share additional perspective to answer the question: Q/How do we sustain the development of a Wellbeing Commons? 📚
                 - one could argue these are potential #community wellbeing advisors at the level of group/collective (defined by RBC7)

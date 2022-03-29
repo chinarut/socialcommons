@@ -1,4 +1,4 @@
-- [[RBC-homebase-prototype]] sent over page [[Q/Can we use RoamJS multiplayer to allow others to engage with pointed questions? 📚]]
+- [[RBC-homebase-prototype]] sent over page [[Q/Can we use RoamJS multiplayer to allow others to engage with pointed questions in our Hivemind? 📚]]
 - Import
     - [[admins/smartblocks]]
         - From: admins-smartblocks.json

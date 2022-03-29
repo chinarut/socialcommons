@@ -1,0 +1,109 @@
+- Tags: [[🐇 Optional Resources]]
+- # Overview
+    - The hivemind is a collected view of all the [[Sources]], [[Questions]], [[Terms]], and [[Propositions]] created and shared by members of the book club. The goal of the hivemind is to allow RBC members to quickly see what other members are interested in and working on for their syntopical reading. 
+    - The hivemind uses pages with namespaces `[[S/]]`, `[[Q/]]`, `[[T/]]`, and `[[P/]]` to denote that the pages are special sources, question, term or proposition pages. Each page optionally has a template applied using the `[[roam/templates]]` `;;` menu. The pages for [[Sources]] [[Questions]], [[Terms]], and [[Propositions]] are manually indexed on each of their respective pages using Smartblocks written by [[Maggie Delano]] ([code](https://github.com/maggiedelano/roambookclub/blob/main/getMissingNotes.js)).
+    - This page has embeds of the [[Sources]], [[Questions]], [[Terms]], and [[Propositions]] pages for quick viewing of the contents of the pages. Feel free to also access each of these pages individually.
+        - If the page appears closed when you open the top level bullet, click the button that opens when you hover over the bullet for the embedded page to open it.
+        - You can also shift+click the links at the top of the page embeds to open that page in the sidebar.
+    - For information on how to contribute, see [here](((h5mPgoz85))).
+- # Questions
+    - {{embed: [[Questions]]}}
+- # Terms
+    - {{embed: [[Terms]]}}
+- # Propositions
+    - {{embed: [[Propositions]]}}
+- # Sources
+    - {{embed: [[Sources]]}}
+- # [[🧰 Graph Conventions]]
+    - ## General
+        - Any page in the hivemind should be preceded by a namespace:
+            - `[[Q/]]` for questions
+            - `[[T/]]` for terms
+            - `[[P/]]` for propositions
+            - `[[S/]]` for sources
+        - Do not put any spaces between the namespace and the title of the page.
+        - All related terms, questions and propositions should be indented under the Related block.
+        - If a page requires a merge or edit, please tag #organizers .
+    - ## Questions
+        - Questions represent an inquiry within the hivemind.
+        - Questions should be open questions, i.e. it can be answered by a proposition, not a yes/no.
+            - A rule of thumb is to frame your question around 'how', 'why' and 'what (kinds)'.
+        - Questions should begin with a capital letter and end with a question mark.
+            - e.g. Q/Why Roam? 📚🤔
+    - ## Terms
+        - Terms represent a concept which we need to 'come to terms' about.
+        - Terms should be in lowercase and not be followed by punctuation.
+            - e.g. [[T/mental health ✍️📖]]
+        - Terms which are proper nouns should be capitalised.
+            - e.g. [[T/Stoicism✍️🤔]]
+    - ## Propositions
+        - Propositions represent a statement which can be debated.
+            - These statements should be declarative, i.e. not a question or an exclamation.
+            - They are formed from a subject (=thing you are talking about) and a predicate (=what you're saying about it).
+        - Propositions are one possible answer to a question.
+        - Propositions should represent one single idea.
+            - A good rule of thumb is to see how many verbs are in your proposition. If you have multiple verbs, you may want to make multiple propositions.
+        - Propositions should begin with a capital letter and not be followed by punctuation.
+            - e.g. [[P/Not all wealth is monetary✅]]
+    - ## Sources
+        - Sources represent a substantial resource (book, article, video, podcast) related to associated terms, propositions, and questions which, in turn, relate to the areas of interest investigated by each RBC.
+            - Sources are designed to serve as a Hive Mind repository or growing syntopicon of related resources for ongoing iterations of RBC.
+            - Sources are added by using a template. See "Creating and editing a page" below.
+    - ## Creating and editing a page
+        - When creating a source, question, term or proposition, you should add the respective template to the page.
+            - You can do this by typing in `;;` then selecting the relevant template.
+        - Try to fill out as much as you can above the line, such as the author and the date of the creation of the page.
+        - If you wish to add to a page later on, go for it!
+            - Anyone can add to the related, source and passages sections 'above the line' at any time.
+            - You are welcome to start a discussion on any page in the hivemind by creating a block with today's date and indenting your conversation underneath.
+                - You can insert today's date by using the code `/today`.
+    - ## Maintaining the hivemind
+        - If you notice that any information 'above the line' in a Hivemind page is missing, you can flag a page for editing by adding emoji to the page name after the question/term/proposition.
+            - Please make sure that you edit the page name on the page directly, rather than a link on another page!
+                - When you edit a link, rather than the page itself, you create a new page.
+        - The emoji for flagging pages are as follows:
+            - all emoji in one line
+                - ✅🚧📑💃📅✍️📖🤔📚📡🔌🧓🏢🌐📜
+            - {{[[table]]}} 
+                - complete
+                    - ✅
+                - no template: 
+                    - (leave blank)
+                - needs to be broken down further
+                    - 🚧
+                - empty template:
+                    - 📑
+                - first added by: 
+                    - 💃
+                - first added on: 
+                    - 📅
+                - definition (terms only): 
+                    - ✍️
+                - source: 
+                    - 📖
+                - related: 
+                    - 🤔
+                - passages (questions only): 
+                    - 📚
+
+                - author/creator/presenter (sources only):
+                    - 📡
+                - kind (sources only):
+                    - 🔌
+                - year (sources only):
+                    - 🧓
+                - publisher (sources only):
+                    - 🏢
+                - URL (sources only):
+                    - 🌐
+                - summary (sources only):
+                    - 📜
+        - If an issue on a page is fixed, please adjust the emoji as needed. 
+            - Example
+                - A term had no template 
+                - Now it has everything except related and definition
+                - T/term📑 -> T/term🤔✍️ 
+            - Again, please make sure that you edit the page name on the page itself, rather than a link on another page!
+        - If there are two pages which only differ by a single detail (capitalisation, extra space), then it may be okay to merge these pages through editing the page names.
+            - Please talk to the #admins or #organizers if you find any pages like this.
+        - Please do not delete any pages.

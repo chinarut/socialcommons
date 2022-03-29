@@ -1,0 +1,10 @@
+- Tags: [[🐇 Optional Resources]]
+- > Be patient toward all that is unsolved in your heart and try to love the questions themselves. . . . Live the questions now. Perhaps you will gradually, without noticing it, live along some distant day into the answer. —**Rainer Maria Rilke, Letters to a Young Poet**
+- # Overview
+    - Questions are structured queries of our own creation used in syntopical reading with the namespace `[[Q/]]` (see [[🧰 Graph Conventions]]).
+    - See also [[Terms]], [[Propositions]] and [[Sources]].
+- # Index
+- # Updating the Index
+    - The button below can be clicked to automatically collect `[[Q/]]` pages that are not referenced ANYWHERE on this page. You can use this to populate the index above. If an empty block shows up after you have waited a while, there are no questions to add.
+    - {{CLICK TO UPDATE INDEX:SmartBlock:question index:42RemoveButton=false}} (must have admins/smartblocks enabled)
+        - [[Q/Can we use RoamJS multiplayer to allow others to engage with pointed questions in our Hivemind? 📚]]
