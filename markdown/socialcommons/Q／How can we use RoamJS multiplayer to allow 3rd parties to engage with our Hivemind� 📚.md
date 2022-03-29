@@ -15,9 +15,10 @@
             - Chinarut:: sweet! it must be ID based as updating the page name propagates when resent! 👍
         - This is actually intended behavior. You are "sending" a block in its current state. What should be used instead:
             - this also means that reactions to existing blocks are not propagated until sync pages/blocks is available
-                1. reactions to blocks
-                2. completed TODOs
-                3. bullet/numbering state of children
+                1. changes to block content
+                2. reactions to blocks
+                3. completed TODOs (ie. to DONE)
+                4. bullet/numbering state of children (like this list)
     - [[March 27th, 2022]]
         - evaluating cross-graph conversation
             - Chinarut:: this is a comment in @RBC-homebase-prototype

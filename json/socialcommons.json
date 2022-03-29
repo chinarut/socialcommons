@@ -67365,6 +67365,20 @@
                     "edit-time": 1648521679729,
                     "children": [
                       {
+                        "string": "changes to block content",
+                        "create-time": 1648521865543,
+                        "heading": 0,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "uid": "4nJBiENwM",
+                        "edit-time": 1648521865543,
+                        "text-align": "left",
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
                         "string": "reactions to blocks",
                         "create-time": 1648521735049,
                         "heading": 0,
@@ -67379,29 +67393,25 @@
                         }
                       },
                       {
-                        "string": "completed TODOs",
-                        "create-time": 1648521735083,
-                        "heading": 0,
+                        "string": "completed TODOs (ie. to DONE)",
+                        "uid": "7hSaUbc1W",
+                        "create-time": 1648521713186,
+                        "edit-time": 1648521852913,
                         ":create/user": {
                           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                         },
-                        "uid": "7hSaUbc1W",
-                        "edit-time": 1648521735083,
-                        "text-align": "left",
                         ":edit/user": {
                           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                         }
                       },
                       {
-                        "string": "bullet/numbering state of children",
-                        "create-time": 1648521768641,
-                        "heading": 0,
+                        "string": "bullet/numbering state of children (like this list)",
+                        "uid": "e8ZEfTzwD",
+                        "create-time": 1648521744505,
+                        "edit-time": 1648521852913,
                         ":create/user": {
                           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                         },
-                        "uid": "e8ZEfTzwD",
-                        "edit-time": 1648521768641,
-                        "text-align": "left",
                         ":edit/user": {
                           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                         }
