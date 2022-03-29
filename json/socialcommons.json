@@ -67310,6 +67310,32 @@
               },
               {
                 "edit-time": 1648521679636,
+                "children": [
+                  {
+                    "edit-time": 1648521336329,
+                    "text-align": "left",
+                    "refs": [
+                      {
+                        "uid": "JcQS0E6hZ"
+                      }
+                    ],
+                    "uid": "04nZc96i0",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "JcQS0E6hZ"
+                      }
+                    ],
+                    "string": "Chinarut:: sweet! it must be ID based as updating the page name propagates when resent! 👍",
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "create-time": 1648521336329,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "heading": 0
+                  }
+                ],
                 "text-align": "left",
                 "refs": [
                   {
@@ -67336,18 +67362,62 @@
                 "edit-time": 1648521679686,
                 "children": [
                   {
+                    "edit-time": 1648521679729,
+                    "children": [
+                      {
+                        "string": "reactions to blocks",
+                        "create-time": 1648521735049,
+                        "heading": 0,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "uid": "zdHQwGCOc",
+                        "edit-time": 1648521735049,
+                        "text-align": "left",
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "completed TODOs",
+                        "create-time": 1648521735083,
+                        "heading": 0,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "uid": "7hSaUbc1W",
+                        "edit-time": 1648521735083,
+                        "text-align": "left",
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "bullet/numbering state of children",
+                        "create-time": 1648521768641,
+                        "heading": 0,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        "uid": "e8ZEfTzwD",
+                        "edit-time": 1648521768641,
+                        "text-align": "left",
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      }
+                    ],
+                    "text-align": "left",
+                    "uid": "xXaASpksn",
                     "string": "this also means that reactions to existing blocks are not propagated until sync pages/blocks is available",
-                    "create-time": 1648521679729,
-                    "heading": 0,
                     ":create/user": {
                       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                     },
-                    "uid": "xXaASpksn",
-                    "edit-time": 1648521679729,
-                    "text-align": "left",
+                    "create-time": 1648521679729,
                     ":edit/user": {
                       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
+                    },
+                    "heading": 0
                   }
                 ],
                 "text-align": "left",
@@ -67787,30 +67857,6 @@
                         ":edit/user": {
                           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                         }
-                      },
-                      {
-                        "edit-time": 1648521336329,
-                        "text-align": "left",
-                        "refs": [
-                          {
-                            "uid": "JcQS0E6hZ"
-                          }
-                        ],
-                        "uid": "04nZc96i0",
-                        ":block/refs": [
-                          {
-                            ":block/uid": "JcQS0E6hZ"
-                          }
-                        ],
-                        "string": "Chinarut:: sweet! it must be ID based as updating the page name propagates when resent! 👍",
-                        ":create/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        "create-time": 1648521336329,
-                        ":edit/user": {
-                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                        },
-                        "heading": 0
                       }
                     ],
                     "text-align": "left",

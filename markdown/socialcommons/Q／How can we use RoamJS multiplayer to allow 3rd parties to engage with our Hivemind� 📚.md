@@ -12,8 +12,12 @@
         - {{[[DONE]]}} moving children underneath a new parent does not propagate parent-child relationship [[David Vargas]]
             - Chinarut:: I’ll record a Loom next I run into the situation again. I am quite certain it is an artifact of sending vs syncing a page.
         - {{[[DONE]]}} test what happens if page names change
+            - Chinarut:: sweet! it must be ID based as updating the page name propagates when resent! 👍
         - This is actually intended behavior. You are "sending" a block in its current state. What should be used instead:
             - this also means that reactions to existing blocks are not propagated until sync pages/blocks is available
+                1. reactions to blocks
+                2. completed TODOs
+                3. bullet/numbering state of children
     - [[March 27th, 2022]]
         - evaluating cross-graph conversation
             - Chinarut:: this is a comment in @RBC-homebase-prototype
@@ -36,7 +40,6 @@
             - {{[[DONE]]}} test what happens if page names change
                 - this happens when we add/remove emojis during beekeeping
                 - are pages just names or page IDs?
-                - Chinarut:: sweet! it must be ID based as updating the page name propagates when resent! 👍
         - Chinarut:: the first iteration of a commons graph will **not** be public initially - it’s primary purpose will be to invite others in our Roam community (eg. [[Shana Pote]] or [[Joel Chan]]) and other experts in the commons (eg. [[Natalie Pang]]), wellbeing (eg. Jim Harter or Tom Rath), or perhaps future elemental deep dive leaders to participate with us and fulfill on a vision its all connected!
     - [[March 24th, 2022]]
         - Chinarut:: goal is the possibility of cross-syncing [[🐝 Hivemind]] across graphs 
