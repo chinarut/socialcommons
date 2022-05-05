@@ -2,7 +2,7 @@
     - This method is built on the work of the [Business Model You](http://www.businessmodelyou.com) available in our Creative Commons
 - I picked this structure as I thought it would be a unique way to capture the various insights you have around the 5 elements over the next few weeks
     - It is a reusable tool to support you in exploring and designing the life narrative you want
-- Take a blank piece of paper (preferably 8.5x11“ or A4) and sketch the lines of the framework above with the 9 sections.  (for those of you who have something called a printer, you may print [this](https://drive.google.com/file/d/1arq4fd4s6bsI1H5sgA_0fZzCm_Qmxt4x/view?usp=sharing) out :)
+- Take a blank piece of paper (at least 8.5x11“ or A4) and sketch the lines of the framework above with the 9 sections.  (for those of you who have something called a printer, you may print [this](https://drive.google.com/file/d/1arq4fd4s6bsI1H5sgA_0fZzCm_Qmxt4x/view?usp=sharing) out :)
 - Start your model by jotting down, in each block, **a word or phrase **that first comes to mind as you visit each section - there are no right or wrong answers:
 - The suggested sequence
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRBC7-Wellbeing%2FgAIwY35d2r.png?alt=media&token=fc928a1d-a9b8-49e7-9a50-1407de56c62e)

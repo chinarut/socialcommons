@@ -56180,8 +56180,8 @@
   [4996 :version/id "0.9.4" 536878403]
   [4996
    :version/nonce
-   "uuidf892e533-0597-4626-b03f-612d2c81bc13"
-   536878784]
+   "uuid3044d1d3-7390-4583-98be-5f772e68630f"
+   536878785]
   [4997 :block/uid "03-13-2022" 536878404]
   [4997 :create/time 1647132684571 536878404]
   [4997 :create/user 1 536878404]
@@ -59973,12 +59973,12 @@
   [5279 :block/parents 5274 536878757]
   [5279
    :block/string
-   "Take a blank piece of paper (preferably 8.5x11“ or A4) and sketch the lines of the framework above with the 9 sections.  (for those of you who have something called a printer, you may print [this](https://drive.google.com/file/d/1arq4fd4s6bsI1H5sgA_0fZzCm_Qmxt4x/view?usp=sharing) out :)"
-   536878754]
+   "Take a blank piece of paper (at least 8.5x11“ or A4) and sketch the lines of the framework above with the 9 sections.  (for those of you who have something called a printer, you may print [this](https://drive.google.com/file/d/1arq4fd4s6bsI1H5sgA_0fZzCm_Qmxt4x/view?usp=sharing) out :)"
+   536878785]
   [5279 :block/uid "0CjdHal7K" 536878754]
   [5279 :create/time 1644173876510 536878754]
   [5279 :create/user 1 536878754]
-  [5279 :edit/time 1644173876510 536878754]
+  [5279 :edit/time 1651768137720 536878785]
   [5279 :edit/user 1 536878754]
   [5280 :block/open true 536878754]
   [5280 :block/order 3 536878754]
