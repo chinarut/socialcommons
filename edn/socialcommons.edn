@@ -56180,8 +56180,8 @@
   [4996 :version/id "0.9.4" 536878403]
   [4996
    :version/nonce
-   "uuid639cc138-0216-4c27-a91b-3d53274d1674"
-   536878790]
+   "uuidbaf62f65-e1ad-4905-b6d2-0ec6624abfc5"
+   536878791]
   [4997 :block/uid "03-13-2022" 536878404]
   [4997 :create/time 1647132684571 536878404]
   [4997 :create/user 1 536878404]
@@ -59911,6 +59911,7 @@
   [5274 :edit/time 1644173791029 536878754]
   [5274 :edit/user 1 536878754]
   [5274 :node/title "Creating Your Narrative Framework" 536878754]
+  [5274 :page/sidebar 5 536878791]
   [5275 :block/children 5276 536878754]
   [5275 :block/open true 536878760]
   [5275 :block/order 0 536878754]
