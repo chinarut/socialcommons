@@ -38880,7 +38880,6 @@
   [3281 :edit/time 1616363302939 536873180]
   [3281 :edit/user 1 536873180]
   [3282 :block/children 3300 536873338]
-  [3282 :block/children 3301 536873343]
   [3282 :block/open true 536873181]
   [3282 :block/order 1 536873361]
   [3282 :block/page 10 536873182]
@@ -39038,6 +39037,7 @@
   [3298 :create/user 1 536873325]
   [3298 :edit/time 1616369260224 536873448]
   [3298 :edit/user 1 536873325]
+  [3300 :block/children 3301 536878793]
   [3300 :block/open true 536873336]
   [3300 :block/order 0 536873338]
   [3300 :block/page 10 536873337]
@@ -39055,12 +39055,13 @@
   [3300 :edit/time 1616364773368 536873360]
   [3300 :edit/user 1 536873336]
   [3301 :block/open true 536873343]
-  [3301 :block/order 1 536873343]
+  [3301 :block/order 0 536878793]
   [3301 :block/page 10 536873344]
   [3301 :block/parents 10 536873344]
   [3301 :block/parents 3242 536873344]
   [3301 :block/parents 3250 536873344]
   [3301 :block/parents 3282 536873344]
+  [3301 :block/parents 3300 536878794]
   [3301
    :block/string
    "{{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsocialcommons%2FTTXSn49vBG.pdf?alt=media&token=b3627ea4-f84c-4c11-9658-30a19c63437a}}"
@@ -56180,8 +56181,8 @@
   [4996 :version/id "0.9.4" 536878403]
   [4996
    :version/nonce
-   "uuid2d71cdb7-166f-48fb-92fc-045987a2c234"
-   536878792]
+   "uuid2ab91814-97c1-456c-8eaf-9e3b3ac4ddf3"
+   536878794]
   [4997 :block/uid "03-13-2022" 536878404]
   [4997 :create/time 1647132684571 536878404]
   [4997 :create/user 1 536878404]

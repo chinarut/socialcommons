@@ -20,7 +20,7 @@
         - key concept: #aggregation
         - book clubs sprout as a result of book(s) pursued for each element
             - book map exercise developed in 2015 inviting members to choose 5 books to explore and synthesize
-            - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsocialcommons%2FTTXSn49vBG.pdf?alt=media&token=b3627ea4-f84c-4c11-9658-30a19c63437a}}
+                - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsocialcommons%2FTTXSn49vBG.pdf?alt=media&token=b3627ea4-f84c-4c11-9658-30a19c63437a}}
         - element book clubs surround each of the 5 elements with an intent to synthesize works together
         - all resultant conversations funnel back into parent book club to design next sprint for collective
             - at some point, the collective will choose to break out of the framework of the 5 elements (this is a [[key milestone]])

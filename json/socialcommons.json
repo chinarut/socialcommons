@@ -609,24 +609,26 @@
                 "children": [
                   {
                     "string": "book map exercise developed in 2015 inviting members to choose 5 books to explore and synthesize",
-                    "uid": "itjc9xBG9",
                     "create-time": 1616364478465,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "children": [
+                      {
+                        "string": "{{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsocialcommons%2FTTXSn49vBG.pdf?alt=media&token=b3627ea4-f84c-4c11-9658-30a19c63437a}}",
+                        "uid": "xShsGE3ak",
+                        "create-time": 1616364566974,
+                        "edit-time": 1616364640016,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      }
+                    ],
+                    "uid": "itjc9xBG9",
                     "edit-time": 1616364773368,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    }
-                  },
-                  {
-                    "string": "{{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsocialcommons%2FTTXSn49vBG.pdf?alt=media&token=b3627ea4-f84c-4c11-9658-30a19c63437a}}",
-                    "uid": "xShsGE3ak",
-                    "create-time": 1616364566974,
-                    "edit-time": 1616364640016,
-                    ":create/user": {
-                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-                    },
                     ":edit/user": {
                       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                     }
