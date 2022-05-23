@@ -56181,8 +56181,8 @@
   [4996 :version/id "0.9.4" 536878403]
   [4996
    :version/nonce
-   "uuidf18d0a39-4d7b-44ac-85b6-427853b5d343"
-   536878807]
+   "uuid9a2483da-a527-447c-8153-c35990426cbf"
+   536878820]
   [4997 :block/uid "03-13-2022" 536878404]
   [4997 :create/time 1647132684571 536878404]
   [4997 :create/user 1 536878404]
@@ -60287,7 +60287,8 @@
   [5299 :create/user 1 536878754]
   [5299 :edit/time 1644173388334 536878754]
   [5299 :edit/user 1 536878754]
-  [5300 :block/open true 536878754]
+  [5300 :block/children 5339 536878810]
+  [5300 :block/open false 536878820]
   [5300 :block/order 8 536878754]
   [5300 :block/page 5274 536878757]
   [5300 :block/parents 5274 536878757]
@@ -60574,4 +60575,18 @@
   [5338 :edit/time 1653268192078 536878807]
   [5338 :edit/user 1 536878807]
   [5338 :log/id 1653268192076 536878807]
-  [5338 :node/title "May 23rd, 2022" 536878807]]}
+  [5338 :node/title "May 23rd, 2022" 536878807]
+  [5339 :block/open true 536878808]
+  [5339 :block/order 0 536878810]
+  [5339 :block/page 5274 536878809]
+  [5339 :block/parents 5274 536878809]
+  [5339 :block/parents 5300 536878811]
+  [5339
+   :block/string
+   "and special thanks to the Roam Book Club crew and community for elevating this practice to a new level integrated w wellbeing!"
+   536878819]
+  [5339 :block/uid "2ry6uQAQe" 536878808]
+  [5339 :create/time 1653322111043 536878808]
+  [5339 :create/user 1 536878808]
+  [5339 :edit/time 1653322143429 536878819]
+  [5339 :edit/user 1 536878808]]}

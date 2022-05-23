@@ -71254,12 +71254,26 @@
       },
       {
         "string": "Thanks for taking time to stop and reflect upon what matters to you!",
-        "uid": "JVk14m3PV",
         "create-time": 1644173395670,
-        "edit-time": 1644173395670,
         ":create/user": {
           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
         },
+        "children": [
+          {
+            "string": "and special thanks to the Roam Book Club crew and community for elevating this practice to a new level integrated w wellbeing!",
+            "uid": "2ry6uQAQe",
+            "create-time": 1653322111043,
+            "edit-time": 1653322143429,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "JVk14m3PV",
+        "edit-time": 1644173395670,
         ":edit/user": {
           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
         }

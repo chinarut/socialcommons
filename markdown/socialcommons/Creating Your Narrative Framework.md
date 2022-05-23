@@ -24,3 +24,4 @@
     - #community - who you help, who helps you
 - In the event a hard focus on community does not land for you or you are interested in learning more about how the [Business Model You](http://www.businessmodelyou.com/) can transform your career, you’re invited to review the original [Business Model You Cheatsheet](http://is.gd/bmycheatsheet) in more detail.
 - Thanks for taking time to stop and reflect upon what matters to you!
+    - and special thanks to the Roam Book Club crew and community for elevating this practice to a new level integrated w wellbeing!
