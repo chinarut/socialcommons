@@ -481,7 +481,7 @@
             }
           },
           {
-            "edit-time": 1616362972960,
+            "edit-time": 1653461645967,
             "children": [
               {
                 "string": "grounded in science",
@@ -558,16 +558,16 @@
             ],
             "refs": [
               {
-                "uid": "SrFjZo28v"
+                "uid": "JPi1mcS0P"
               }
             ],
             "uid": "ZG2pmEbjD",
             ":block/refs": [
               {
-                ":block/uid": "SrFjZo28v"
+                ":block/uid": "JPi1mcS0P"
               }
             ],
-            "string": "use the book [[5 Essential Elements of Wellbeing]] as a starting point",
+            "string": "use the book [[S/Wellbeing: The Five Essential Elements✅]] as a starting point",
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
@@ -23436,18 +23436,6 @@
     }
   },
   {
-    "uid": "SrFjZo28v",
-    "create-time": 1616362942145,
-    "edit-time": 1616362942148,
-    "title": "5 Essential Elements of Wellbeing",
-    ":create/user": {
-      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-    },
-    ":edit/user": {
-      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-    }
-  },
-  {
     "uid": "GAS1DIi73",
     "create-time": 1616363419990,
     "edit-time": 1616363419991,
@@ -29545,23 +29533,23 @@
             "edit-time": 1619546803458,
             "children": [
               {
-                "string": "[[5 Essential Elements of Wellbeing]]",
+                "string": "[[S/Wellbeing: The Five Essential Elements✅]]",
                 "create-time": 1619546786872,
                 ":block/refs": [
                   {
-                    ":block/uid": "SrFjZo28v"
+                    ":block/uid": "JPi1mcS0P"
                   }
                 ],
                 "refs": [
                   {
-                    "uid": "SrFjZo28v"
+                    "uid": "JPi1mcS0P"
                   }
                 ],
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
                 "uid": "2AWuBBVZM",
-                "edit-time": 1619546790165,
+                "edit-time": 1653461645967,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }
@@ -33945,7 +33933,7 @@
         "edit-time": 1622673109430,
         "children": [
           {
-            "edit-time": 1622673274416,
+            "edit-time": 1653461595973,
             "children": [
               {
                 "string": "an alternative structure would be to focus on synthesizing these 2 books",
@@ -33955,23 +33943,23 @@
                 },
                 "children": [
                   {
-                    "string": "inner: [[The 5 Essential Elements of Wellbeing]]",
+                    "string": "inner: [[S/Wellbeing: The Five Essential Elements✅]]",
                     "create-time": 1622667185191,
                     ":block/refs": [
                       {
-                        ":block/uid": "UCgsl-NP_"
+                        ":block/uid": "JPi1mcS0P"
                       }
                     ],
                     "refs": [
                       {
-                        "uid": "UCgsl-NP_"
+                        "uid": "JPi1mcS0P"
                       }
                     ],
                     ":create/user": {
                       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                     },
                     "uid": "MPwS-pmyy",
-                    "edit-time": 1622675352150,
+                    "edit-time": 1653461595973,
                     ":edit/user": {
                       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                     }
@@ -34008,22 +33996,22 @@
             ],
             "refs": [
               {
-                "uid": "UCgsl-NP_"
+                "uid": "ETa0ps5ar"
               },
               {
-                "uid": "ETa0ps5ar"
+                "uid": "JPi1mcS0P"
               }
             ],
             "uid": "UI7AxLmko",
             ":block/refs": [
               {
-                ":block/uid": "UCgsl-NP_"
+                ":block/uid": "ETa0ps5ar"
               },
               {
-                ":block/uid": "ETa0ps5ar"
+                ":block/uid": "JPi1mcS0P"
               }
             ],
-            "string": "#backstory I've been wondering for quite some time how a book club might look like if everyone were to bring **five** books they feel would constitute how [[The 5 Essential Elements of Wellbeing]] looks like in their life.  this could easily be a year-long effort as there would be 6 books total (1 in common, 5 of your choosing) to take on. [*](((UGBQZpeIX)))",
+            "string": "#backstory I've been wondering for quite some time how a book club might look like if everyone were to bring **five** books they feel would constitute how [[S/Wellbeing: The Five Essential Elements✅]] looks like in their life.  this could easily be a year-long effort as there would be 6 books total (1 in common, 5 of your choosing) to take on. [*](((UGBQZpeIX)))",
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
@@ -34349,10 +34337,10 @@
         },
         "children": [
           {
-            "edit-time": 1622673172161,
+            "edit-time": 1653461595973,
             "children": [
               {
-                "edit-time": 1622686208625,
+                "edit-time": 1653461595973,
                 "children": [
                   {
                     "edit-time": 1622679040129,
@@ -34544,7 +34532,7 @@
                     "uid": "XqRDN324C"
                   },
                   {
-                    "uid": "UCgsl-NP_"
+                    "uid": "JPi1mcS0P"
                   }
                 ],
                 "uid": "2DIsC6oIj",
@@ -34553,10 +34541,10 @@
                     ":block/uid": "XqRDN324C"
                   },
                   {
-                    ":block/uid": "UCgsl-NP_"
+                    ":block/uid": "JPi1mcS0P"
                   }
                 ],
-                "string": "[[The 5 Essential Elements of Wellbeing]] is more “hands on” and accessible (ie. personal development) than [[The Zeitgeist Movement Defined]] (ie. systemic global transformation of society’s biggest challenges) - both are \"holistic\" in differing ways",
+                "string": "[[S/Wellbeing: The Five Essential Elements✅]] is more “hands on” and accessible (ie. personal development) than [[The Zeitgeist Movement Defined]] (ie. systemic global transformation of society’s biggest challenges) - both are \"holistic\" in differing ways",
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
@@ -34568,16 +34556,16 @@
             ],
             "refs": [
               {
-                "uid": "UCgsl-NP_"
+                "uid": "JPi1mcS0P"
               }
             ],
             "uid": "DcCN5gE1s",
             ":block/refs": [
               {
-                ":block/uid": "UCgsl-NP_"
+                ":block/uid": "JPi1mcS0P"
               }
             ],
-            "string": "it is a good idea to start with [[The 5 Essential Elements of Wellbeing]] as a unified framework",
+            "string": "it is a good idea to start with [[S/Wellbeing: The Five Essential Elements✅]] as a unified framework",
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
@@ -35593,14 +35581,6 @@
     }
   },
   {
-    "uid": "UCgsl-NP_",
-    "create-time": 1622667524956,
-    "title": "The 5 Essential Elements of Wellbeing",
-    ":create/user": {
-      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-    }
-  },
-  {
     "uid": "G4eOJ2p-5",
     "create-time": 1622667524960,
     "title": "wellbeing5",
@@ -35664,7 +35644,7 @@
     },
     "children": [
       {
-        "edit-time": 1622667824867,
+        "edit-time": 1653461595973,
         "children": [
           {
             "string": "#physical",
@@ -35831,16 +35811,16 @@
         ],
         "refs": [
           {
-            "uid": "UCgsl-NP_"
+            "uid": "JPi1mcS0P"
           }
         ],
         "uid": "Dtelkm6Pe",
         ":block/refs": [
           {
-            ":block/uid": "UCgsl-NP_"
+            ":block/uid": "JPi1mcS0P"
           }
         ],
-        "string": "Colored tags for [[The 5 Essential Elements of Wellbeing]]",
+        "string": "Colored tags for [[S/Wellbeing: The Five Essential Elements✅]]",
         ":create/user": {
           ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
         },
@@ -60286,23 +60266,23 @@
             },
             "children": [
               {
-                "string": "[[The 5 Essential Elements of Wellbeing]] - book focusing on grounding your relationship and experience of wellbeing in the context of 5 elements",
+                "string": "[[S/Wellbeing: The Five Essential Elements✅]] - book focusing on grounding your relationship and experience of wellbeing in the context of 5 elements",
                 "create-time": 1626205304056,
                 ":block/refs": [
                   {
-                    ":block/uid": "UCgsl-NP_"
+                    ":block/uid": "JPi1mcS0P"
                   }
                 ],
                 "refs": [
                   {
-                    "uid": "UCgsl-NP_"
+                    "uid": "JPi1mcS0P"
                   }
                 ],
                 ":create/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 },
                 "uid": "zb-6J22k2",
-                "edit-time": 1626208587613,
+                "edit-time": 1653461595973,
                 ":edit/user": {
                   ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
                 }
@@ -60451,7 +60431,7 @@
             }
           },
           {
-            "edit-time": 1626207150175,
+            "edit-time": 1653461595973,
             "children": [
               {
                 "string": "[Anchoring Your Wellbeing Advisory](https://www.notion.so/communitygarden/Anchoring-Your-Wellbeing-5-Advisory-b4cba9a9dc234fb2b2aabd0454cf19df)",
@@ -60540,22 +60520,22 @@
             ],
             "refs": [
               {
-                "uid": "UCgsl-NP_"
+                "uid": "JcQS0E6hZ"
               },
               {
-                "uid": "JcQS0E6hZ"
+                "uid": "JPi1mcS0P"
               }
             ],
             "uid": "DhbFqh_RV",
             ":block/refs": [
               {
-                ":block/uid": "UCgsl-NP_"
+                ":block/uid": "JcQS0E6hZ"
               },
               {
-                ":block/uid": "JcQS0E6hZ"
+                ":block/uid": "JPi1mcS0P"
               }
             ],
-            "string": "[[Chinarut]] has extensive experience experimenting with framing [[The 5 Essential Elements of Wellbeing]] into one’s life between 2014-2021",
+            "string": "[[Chinarut]] has extensive experience experimenting with framing [[S/Wellbeing: The Five Essential Elements✅]] into one’s life between 2014-2021",
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
@@ -65784,23 +65764,23 @@
             }
           },
           {
-            "string": "[[Q/What is Wellbeing?]]",
+            "string": "[[Q/What is wellbeing?📚]]",
             "create-time": 1642727071550,
             ":block/refs": [
               {
-                ":block/uid": "ZmUUJFq8z"
+                ":block/uid": "FvvAXTWWD"
               }
             ],
             "refs": [
               {
-                "uid": "ZmUUJFq8z"
+                "uid": "FvvAXTWWD"
               }
             ],
             ":create/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             },
             "uid": "0msoEsslk",
-            "edit-time": 1642727091766,
+            "edit-time": 1653461408906,
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             }
@@ -65906,18 +65886,6 @@
     ":log/id": 1642725700671,
     "uid": "01-21-2022",
     "edit-time": 1642725700673,
-    ":edit/user": {
-      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-    }
-  },
-  {
-    "uid": "ZmUUJFq8z",
-    "create-time": 1642727091776,
-    "edit-time": 1642727091778,
-    "title": "Q/What is Wellbeing?",
-    ":create/user": {
-      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-    },
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -68296,12 +68264,30 @@
             }
           },
           {
-            "string": "{{CLICK TO UPDATE INDEX:SmartBlock:question index:42RemoveButton=false}} (must have admins/smartblocks enabled)",
-            "create-time": 1640126290832,
-            ":create/user": {
-              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
-            },
+            "edit-time": 1653461350329,
             "children": [
+              {
+                "string": "[[Q/What is wellbeing?📚]]",
+                "create-time": 1653461354110,
+                ":block/refs": [
+                  {
+                    ":block/uid": "FvvAXTWWD"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "FvvAXTWWD"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "D_Ctp6Nw6",
+                "edit-time": 1653461354110,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
               {
                 "edit-time": 1648521079571,
                 "text-align": "left",
@@ -68326,8 +68312,22 @@
                 }
               }
             ],
+            "refs": [
+              {
+                "uid": "nfNbAnqWS"
+              }
+            ],
             "uid": "XTu4PI_6y",
-            "edit-time": 1648412793698,
+            ":block/refs": [
+              {
+                ":block/uid": "nfNbAnqWS"
+              }
+            ],
+            "string": "{{CLICK TO UPDATE INDEX:SmartBlock:question index:42RemoveButton=false}} (must have [[admins/smartblocks]] enabled)",
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "create-time": 1640126290832,
             ":edit/user": {
               ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
             }
@@ -71760,6 +71760,32 @@
         ],
         "string": "Import",
         "uid": "HqkSNetHB"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "string": "From: S-Wellbeing- The Five Essential Elements✅.json",
+                "uid": "nmmDdlHYP"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "JPi1mcS0P"
+              }
+            ],
+            "string": "[[S/Wellbeing: The Five Essential Elements✅]]",
+            "uid": "egGblyT7S",
+            ":block/refs": [
+              {
+                ":block/uid": "JPi1mcS0P"
+              }
+            ]
+          }
+        ],
+        "string": "Import",
+        "uid": "evLC8DqPP"
       }
     ],
     "uid": "05-24-2022",
@@ -73684,6 +73710,900 @@
     "create-time": 1653459273489,
     "title": "Kind",
     ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1653460691277,
+    "title": "T/Wellbeing",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    "children": [
+      {
+        "edit-time": 1653460792410,
+        "children": [
+          {
+            "string": "First added by:: [[Chinarut]]",
+            "create-time": 1646001306458,
+            ":block/refs": [
+              {
+                ":block/uid": "JcQS0E6hZ"
+              },
+              {
+                ":block/uid": "WsiyYs6J_"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "JcQS0E6hZ"
+              },
+              {
+                "uid": "WsiyYs6J_"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "Iyfz9CjWcGOJu8tiTuygrk189x22"
+            },
+            "uid": "TeqpuiJV5",
+            "edit-time": 1653460887928,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "First added on:: [[February 27th, 2022]]",
+            "create-time": 1646001306458,
+            ":block/refs": [
+              {
+                ":block/uid": "02-27-2022"
+              },
+              {
+                ":block/uid": "mxGIBf4Sq"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "02-27-2022"
+              },
+              {
+                "uid": "mxGIBf4Sq"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "Iyfz9CjWcGOJu8tiTuygrk189x22"
+            },
+            "uid": "urqfHBZjb",
+            "edit-time": 1653460792410,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "edit-time": 1653460792410,
+            "children": [
+              {
+                "edit-time": 1653460854416,
+                "children": [
+                  {
+                    "string": "> Wellbeing is about the combination of our love for what we do each day, the quality of our relationships, the security of our finances, the vibrancy of our physical health, and the pride we take in what we have contributed to our communities. Most importantly, it’s about how these five elements interact.",
+                    "uid": "KOCrOFCAi",
+                    "create-time": 1653460728966,
+                    "edit-time": 1653460734143,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "JPi1mcS0P"
+                  }
+                ],
+                "uid": "yAHdFbr8X",
+                ":block/refs": [
+                  {
+                    ":block/uid": "JPi1mcS0P"
+                  }
+                ],
+                "string": "[[S/Wellbeing: The Five Essential Elements✅]] (p. 8). Gallup Press. Kindle Edition. ",
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "create-time": 1653460728133,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "9j-Wehn6k"
+              }
+            ],
+            "uid": "1VbV_LS49",
+            ":block/refs": [
+              {
+                ":block/uid": "9j-Wehn6k"
+              }
+            ],
+            "string": "Definition::",
+            ":create/user": {
+              ":user/uid": "Iyfz9CjWcGOJu8tiTuygrk189x22"
+            },
+            "create-time": 1646001306458,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Source:: [[S/Wellbeing: The Five Essential Elements✅]]",
+            "create-time": 1646001306458,
+            ":block/refs": [
+              {
+                ":block/uid": "d0q_PZpmD"
+              },
+              {
+                ":block/uid": "JPi1mcS0P"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "d0q_PZpmD"
+              },
+              {
+                "uid": "JPi1mcS0P"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "Iyfz9CjWcGOJu8tiTuygrk189x22"
+            },
+            "uid": "DZGmqPJ2F",
+            "edit-time": 1653460938939,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Related:: [[Q/What is wellbeing?📚]]",
+            "create-time": 1646001306458,
+            ":block/refs": [
+              {
+                ":block/uid": "qZsn2NjWl"
+              },
+              {
+                ":block/uid": "FvvAXTWWD"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "qZsn2NjWl"
+              },
+              {
+                "uid": "FvvAXTWWD"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "Iyfz9CjWcGOJu8tiTuygrk189x22"
+            },
+            "uid": "0DYLhsETc",
+            "edit-time": 1653460792410,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "q8WJf-181"
+          },
+          {
+            "uid": "JmtQmbm8L"
+          }
+        ],
+        "uid": "a8eLzTQGG",
+        ":block/refs": [
+          {
+            ":block/uid": "q8WJf-181"
+          },
+          {
+            ":block/uid": "JmtQmbm8L"
+          }
+        ],
+        "string": "Tags:: #Terms",
+        ":create/user": {
+          ":user/uid": "Iyfz9CjWcGOJu8tiTuygrk189x22"
+        },
+        "create-time": 1646001304354,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "---",
+        "uid": "TBsV7r0ZV",
+        "create-time": 1646001306458,
+        "edit-time": 1653460792410,
+        ":create/user": {
+          ":user/uid": "Iyfz9CjWcGOJu8tiTuygrk189x22"
+        },
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "edit-time": 1653460792410,
+        "children": [
+          {
+            "string": "",
+            "uid": "bnzUYOIdu",
+            "create-time": 1653460843128,
+            "edit-time": 1653460843128,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "WpWtRk5qy"
+          }
+        ],
+        "uid": "hNWerlENL",
+        ":block/refs": [
+          {
+            ":block/uid": "WpWtRk5qy"
+          }
+        ],
+        "string": "Discussion:: (tag w/ date please!)",
+        ":create/user": {
+          ":user/uid": "Iyfz9CjWcGOJu8tiTuygrk189x22"
+        },
+        "create-time": 1646001306458,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "heading": 1
+      }
+    ],
+    "uid": "7DOzzLODU",
+    "edit-time": 1653460691278,
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "9j-Wehn6k",
+    "create-time": 1653460792507,
+    "edit-time": 1653460792507,
+    "title": "Definition",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "FvvAXTWWD",
+    "create-time": 1653460792557,
+    "edit-time": 1653460792558,
+    "title": "Q/What is wellbeing?📚",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "XJcmqPlaU",
+    "create-time": 1653460792594,
+    "edit-time": 1653460792596,
+    "title": "T/wellbeing ✅",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1653460854420,
+    "title": "S/Wellbeing: The Five Essential Elements✅",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    "children": [
+      {
+        "edit-time": 1653461207901,
+        "children": [
+          {
+            "string": "Author/Creator/Presenter:: Tom Rath and Jim Harter",
+            "create-time": 1646596331677,
+            ":block/refs": [
+              {
+                ":block/uid": "NIpOT3R_7"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "NIpOT3R_7"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            },
+            "uid": "bvjz9WrrV",
+            "edit-time": 1646596343372,
+            ":edit/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            }
+          },
+          {
+            "string": "Kind:: #book",
+            "create-time": 1646596331677,
+            ":block/refs": [
+              {
+                ":block/uid": "oz-GzBojV"
+              },
+              {
+                ":block/uid": "kyUCLs0me"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "oz-GzBojV"
+              },
+              {
+                "uid": "kyUCLs0me"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            },
+            "uid": "yXHIWrOXv",
+            "edit-time": 1646596348841,
+            ":edit/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            }
+          },
+          {
+            "string": "Year:: 2010, 2014",
+            "create-time": 1646596331677,
+            ":block/refs": [
+              {
+                ":block/uid": "T8pH3lK54"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "T8pH3lK54"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            },
+            "uid": "esPOXhLLx",
+            "edit-time": 1646596642213,
+            ":edit/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            }
+          },
+          {
+            "string": "Publisher:: Gallup Press",
+            "create-time": 1646596331677,
+            ":block/refs": [
+              {
+                ":block/uid": "poD5nerNd"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "poD5nerNd"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            },
+            "uid": "5ih9x-jp_",
+            "edit-time": 1646596358466,
+            ":edit/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            }
+          },
+          {
+            "string": "URL:: https://www.gallup.com/workplace/237020/five-essential-elements.aspx",
+            "create-time": 1646596331677,
+            ":block/refs": [
+              {
+                ":block/uid": "P_OsYgfTm"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "P_OsYgfTm"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            },
+            "uid": "BnlRjo7ux",
+            "edit-time": 1646596643977,
+            ":edit/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            }
+          },
+          {
+            "string": "Summary:: This book was the seed text for #RBC7-Wellbeing",
+            "create-time": 1646596569078,
+            ":block/refs": [
+              {
+                ":block/uid": "Kd7x0wV2K"
+              },
+              {
+                ":block/uid": "nQ7yzSVm2"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Kd7x0wV2K"
+              },
+              {
+                "uid": "nQ7yzSVm2"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            },
+            "uid": "csCSUeg3O",
+            "edit-time": 1646600035093,
+            ":edit/user": {
+              ":user/uid": "mjUVdH3zRlWLMLXyN9FMTznDo2V2"
+            }
+          },
+          {
+            "string": "First added by:: [[Chinarut]]",
+            "create-time": 1646596331677,
+            ":block/refs": [
+              {
+                ":block/uid": "JcQS0E6hZ"
+              },
+              {
+                ":block/uid": "WsiyYs6J_"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "JcQS0E6hZ"
+              },
+              {
+                "uid": "WsiyYs6J_"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            },
+            "uid": "xJivvuBOZ",
+            "edit-time": 1646596532855,
+            ":edit/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            }
+          },
+          {
+            "string": "First added on:: [[December 22nd, 2021]]",
+            "create-time": 1646596331677,
+            ":block/refs": [
+              {
+                ":block/uid": "12-22-2021"
+              },
+              {
+                ":block/uid": "mxGIBf4Sq"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "12-22-2021"
+              },
+              {
+                "uid": "mxGIBf4Sq"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            },
+            "uid": "asFHGJSxK",
+            "edit-time": 1646596539210,
+            ":edit/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            }
+          },
+          {
+            "edit-time": 1646596545544,
+            "children": [
+              {
+                "string": "[[T/wellbeing ✅]]",
+                "create-time": 1646596545537,
+                ":block/refs": [
+                  {
+                    ":block/uid": "XJcmqPlaU"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "XJcmqPlaU"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+                },
+                "uid": "Tj2biDmuJ",
+                "edit-time": 1646983872735,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "qZsn2NjWl"
+              }
+            ],
+            "uid": "3858StG1x",
+            ":block/refs": [
+              {
+                ":block/uid": "qZsn2NjWl"
+              }
+            ],
+            "string": "Related::",
+            ":create/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            },
+            "create-time": 1646596331677,
+            ":edit/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "q8WJf-181"
+          },
+          {
+            "uid": "a7e8sliT2"
+          }
+        ],
+        "uid": "AGKKNdQiz",
+        ":block/refs": [
+          {
+            ":block/uid": "q8WJf-181"
+          },
+          {
+            ":block/uid": "a7e8sliT2"
+          }
+        ],
+        "string": "Tags:: #Sources",
+        ":create/user": {
+          ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+        },
+        "create-time": 1646596329294,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "---",
+        "uid": "mA5DMF25e",
+        "create-time": 1646596331677,
+        "edit-time": 1646596331677,
+        ":create/user": {
+          ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+        },
+        ":edit/user": {
+          ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+        }
+      },
+      {
+        "edit-time": 1644775898559,
+        "children": [
+          {
+            "string": "Wellbeing 5",
+            "create-time": 1643448751357,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "#purpose “You like what you do every day”",
+                "create-time": 1633787775981,
+                ":block/refs": [
+                  {
+                    ":block/uid": "IVYyvJRQg"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "IVYyvJRQg"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "_yQ9Jo6VT",
+                "edit-time": 1643448751364,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "#social “You have meaningful friendships in your life”",
+                "create-time": 1633728833869,
+                ":block/refs": [
+                  {
+                    ":block/uid": "8YkkqLFH_"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "8YkkqLFH_"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "AwsqzpkQ5",
+                "edit-time": 1640134367330,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "#financial “You manage your money well”",
+                "create-time": 1633728833869,
+                ":block/refs": [
+                  {
+                    ":block/uid": "VDLLRhY8c"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "VDLLRhY8c"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "EeaCNjOzP",
+                "edit-time": 1640134367330,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "#physical “You have energy to get things done”",
+                "create-time": 1633728833869,
+                ":block/refs": [
+                  {
+                    ":block/uid": "ROFRKm8nO"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "ROFRKm8nO"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "WbyCjLqa0",
+                "edit-time": 1640134367330,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "#community “You like where you live”",
+                "create-time": 1633728833869,
+                ":block/refs": [
+                  {
+                    ":block/uid": "IsQfKNYKI"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "IsQfKNYKI"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "3b1RgHK1e",
+                "edit-time": 1644635603660,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "YRpayzNQJ",
+            "edit-time": 1643448830905,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "tFNCSB6VI",
+        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRBC7-Wellbeing%2FiB-NpXoG4T.jpeg?alt=media&token=6d65f92f-35ad-4aa1-adae-24f2f726abf4)",
+        ":block/props": {
+          ":image-size": {
+            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRBC7-Wellbeing%2FiB-NpXoG4T.jpeg?alt=media&token=6d65f92f-35ad-4aa1-adae-24f2f726abf4": {
+              ":width": 355,
+              ":height": null
+            }
+          }
+        },
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "create-time": 1644775884623,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "props": {
+          "image-size": {
+            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRBC7-Wellbeing%2FiB-NpXoG4T.jpeg?alt=media&token=6d65f92f-35ad-4aa1-adae-24f2f726abf4": {
+              "width": 355,
+              "height": null
+            }
+          }
+        }
+      },
+      {
+        "string": "---",
+        "uid": "VE5e25l4S",
+        "create-time": 1653461509893,
+        "edit-time": 1653461511866,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "edit-time": 1646596331677,
+        "children": [
+          {
+            "string": "",
+            "uid": "umXeZBogR",
+            "create-time": 1653461276111,
+            "edit-time": 1653461276111,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "WpWtRk5qy"
+          }
+        ],
+        "uid": "v49gl1K7F",
+        ":block/refs": [
+          {
+            ":block/uid": "WpWtRk5qy"
+          }
+        ],
+        "string": "Discussion:: (tag w/ date please!)",
+        ":create/user": {
+          ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+        },
+        "create-time": 1646596331677,
+        ":edit/user": {
+          ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+        },
+        "heading": 1
+      }
+    ],
+    "uid": "JPi1mcS0P",
+    "edit-time": 1653460854421,
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "nQ7yzSVm2",
+    "create-time": 1653461163371,
+    "title": "RBC7-Wellbeing",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1653461333992,
+    "title": "roam/js/smartblocks",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    "children": [
+      {
+        "string": "trigger",
+        "create-time": 1653461334002,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "jj",
+            "uid": "_oiXZFvUN",
+            "create-time": 1653461334017,
+            "edit-time": 1653461334017,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "--lumxSlA",
+        "edit-time": 1653461334002,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "publish",
+        "create-time": 1653461334031,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "display name",
+            "create-time": 1653461334046,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "Chinarut",
+                "uid": "ovhZHRHXs",
+                "create-time": 1653461334054,
+                "edit-time": 1653461334054,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "fcxm5-yMz",
+            "edit-time": 1653461334046,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "qn0e8NlTu",
+        "edit-time": 1653461334031,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      }
+    ],
+    "uid": "6IOQ6yQw9",
+    "edit-time": 1653461333992,
+    ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
   }

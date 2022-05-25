@@ -1,7 +1,7 @@
 - [[A wellbeing commons is an open digital garden where participants learn to creatively share and connect a vast array of personal experience and wisdom such that it results in collective breakthrough]]
-    - #backstory I've been wondering for quite some time how a book club might look like if everyone were to bring **five** books they feel would constitute how [[The 5 Essential Elements of Wellbeing]] looks like in their life.  this could easily be a year-long effort as there would be 6 books total (1 in common, 5 of your choosing) to take on. [*](((UGBQZpeIX)))
+    - #backstory I've been wondering for quite some time how a book club might look like if everyone were to bring **five** books they feel would constitute how [[S/Wellbeing: The Five Essential Elements✅]] looks like in their life.  this could easily be a year-long effort as there would be 6 books total (1 in common, 5 of your choosing) to take on. [*](((UGBQZpeIX)))
         - an alternative structure would be to focus on synthesizing these 2 books
-            - inner: [[The 5 Essential Elements of Wellbeing]]
+            - inner: [[S/Wellbeing: The Five Essential Elements✅]]
             - outer: [[The Zeitgeist Movement Defined]]
     - read more behind the context behind a [[Wellbeing Commons]]
 - key distinctions from past book clubs [*](((WQ8ZpOe-l)))
@@ -22,8 +22,8 @@
     - [[Wellbeing is inter-disciplinary in nature thus there exists many models and frameworks for wellbeing. Having a note-taking method capturing differing perspectives expands the richness of dialogue able to express wellbeing at multiple levels of abstraction]]
     - [[A collective slipbox is a network of individuals. Every individual has a unique blueprint for optimum wellbeing. Every time we add an individual to the slipbox, we expand the richness of interconnected concepts and abstractions elevating our collective wellbeing]]
 - assertions/assumptions
-    - it is a good idea to start with [[The 5 Essential Elements of Wellbeing]] as a unified framework
-        - [[The 5 Essential Elements of Wellbeing]] is more “hands on” and accessible (ie. personal development) than [[The Zeitgeist Movement Defined]] (ie. systemic global transformation of society’s biggest challenges) - both are "holistic" in differing ways
+    - it is a good idea to start with [[S/Wellbeing: The Five Essential Elements✅]] as a unified framework
+        - [[S/Wellbeing: The Five Essential Elements✅]] is more “hands on” and accessible (ie. personal development) than [[The Zeitgeist Movement Defined]] (ie. systemic global transformation of society’s biggest challenges) - both are "holistic" in differing ways
             - {{[[TODO]]}} counter case/goals for [[[[The Zeitgeist Movement Defined]]/[[book]]]]
                 - step into what it means to be responsible on this Earth [*](((8xMihLfeG)))
                 - expand one’s sense of wellbeing and sense of meaning and contribution [*](((pgK-kvOsd)))

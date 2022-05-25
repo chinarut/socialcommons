@@ -19,14 +19,14 @@
             - [[How a Wellbeing Commons Works]] (intent is to provide a POV, not to be attached to how or methods!)
 - Guidelines
     - start with 2 existing frameworks (and communities) around wellbeing (micro) and socio-economic transformation (macro)
-        1. [[The 5 Essential Elements of Wellbeing]] - book focusing on grounding your relationship and experience of wellbeing in the context of 5 elements
+        1. [[S/Wellbeing: The Five Essential Elements✅]] - book focusing on grounding your relationship and experience of wellbeing in the context of 5 elements
         2. [[The Zeitgeist Movement Defined]] - book in public domain centered around transforming [[public health]] and [[human rights]]
     - Best Practices
         - focus on [[technical efficiency]] over [[market efficiency]]
 - Resources
     - [[Chinarut]] is using 1 of his 3 graphs to host this effort under a Roam Scholar account
         - [[Chinarut]] agrees to contribute 25 years of experience in knowledge engineering and digital garden formation and development to this graph
-    - [[Chinarut]] has extensive experience experimenting with framing [[The 5 Essential Elements of Wellbeing]] into one’s life between 2014-2021
+    - [[Chinarut]] has extensive experience experimenting with framing [[S/Wellbeing: The Five Essential Elements✅]] into one’s life between 2014-2021
         - [Anchoring Your Wellbeing Advisory](https://www.notion.so/communitygarden/Anchoring-Your-Wellbeing-5-Advisory-b4cba9a9dc234fb2b2aabd0454cf19df)
         - [[Chinarut]] agrees to be the [[acting director]] of the [[Wellbeing 5 Advisory]] and this social commons
             1. establishing funding to sustain our efforts

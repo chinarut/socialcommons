@@ -108,7 +108,7 @@
             - {{[[TODO]]}} reword Catherine’s reflection in my own words
             - #roam-book-club [[the design for a book club for collective wellbeing]]
                 - #inquiry how do we track book references and synthesize bodies of knowledge together?
-                - use the book [[5 Essential Elements of Wellbeing]] as a starting point
+                - use the book [[S/Wellbeing: The Five Essential Elements✅]] as a starting point
                     - grounded in science
                     - data-driven platform
                         - grounded in the Gallup Poll (how people experience happiness in their everyday lives)
@@ -191,7 +191,7 @@
         - **(6) U of Washington & bioinformatics**
         - {{[[TODO]]}} provided it makes sense, will you support me in a game plan to refine my [[graduate school]] application by [[November 15th, 2021]]? 
     - pivot [[Dance Labs]] as a management consultancy guiding dance communities the strategic importance of holistic wellbeing  (#application)
-        - [[5 Essential Elements of Wellbeing]]
+        - [[S/Wellbeing: The Five Essential Elements✅]]
         - [[Wellbeing Commons]]
         - [[Business Model You]]
         - possible case for [[business school]]

@@ -1,0 +1,22 @@
+- Tags:: #Sources
+    - Author/Creator/Presenter:: Tom Rath and Jim Harter
+    - Kind:: #book
+    - Year:: 2010, 2014
+    - Publisher:: Gallup Press
+    - URL:: https://www.gallup.com/workplace/237020/five-essential-elements.aspx
+    - Summary:: This book was the seed text for #RBC7-Wellbeing
+    - First added by:: [[Chinarut]]
+    - First added on:: [[December 22nd, 2021]]
+    - Related::
+        - [[T/wellbeing ✅]]
+- ---
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRBC7-Wellbeing%2FiB-NpXoG4T.jpeg?alt=media&token=6d65f92f-35ad-4aa1-adae-24f2f726abf4)
+    - Wellbeing 5
+        - #purpose “You like what you do every day”
+        - #social “You have meaningful friendships in your life”
+        - #financial “You manage your money well”
+        - #physical “You have energy to get things done”
+        - #community “You like where you live”
+- ---
+- # Discussion:: (tag w/ date please!)
+    - 

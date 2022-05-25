@@ -1,4 +1,4 @@
-- Colored tags for [[The 5 Essential Elements of Wellbeing]]
+- Colored tags for [[S/Wellbeing: The Five Essential Elements✅]]
     - #physical
         - ```css
 span.rm-page-ref[data-tag="physical"] {

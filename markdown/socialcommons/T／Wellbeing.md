@@ -1,0 +1,11 @@
+- Tags:: #Terms
+    - First added by:: [[Chinarut]]
+    - First added on:: [[February 27th, 2022]]
+    - Definition::
+        - [[S/Wellbeing: The Five Essential Elements✅]] (p. 8). Gallup Press. Kindle Edition. 
+            - > Wellbeing is about the combination of our love for what we do each day, the quality of our relationships, the security of our finances, the vibrancy of our physical health, and the pride we take in what we have contributed to our communities. Most importantly, it’s about how these five elements interact.
+    - Source:: [[S/Wellbeing: The Five Essential Elements✅]]
+    - Related:: [[Q/What is wellbeing?📚]]
+- ---
+- # Discussion:: (tag w/ date please!)
+    - 

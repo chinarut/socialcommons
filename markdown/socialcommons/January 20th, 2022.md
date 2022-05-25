@@ -43,6 +43,6 @@
     - facilitator guide
         - what do we do?
     - type in chat, answer in the newsletter
-    - [[Q/What is Wellbeing?]]
+    - [[Q/What is wellbeing?📚]]
     - Survey of interaction >> for newsletter
     - {{[[TODO]]}} Calendar subscription

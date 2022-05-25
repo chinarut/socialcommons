@@ -10,7 +10,7 @@
 - #roam-book-club [[the design for a book club for collective wellbeing]]
     - #inquiry how do we track book references and synthesize bodies of knowledge together?
     - wellbeing is universal - there isn’t one human being that is not impacted by their wellbeing practice
-    - use the book [[5 Essential Elements of Wellbeing]] as a starting point
+    - use the book [[S/Wellbeing: The Five Essential Elements✅]] as a starting point
         - grounded in science
         - data-driven platform
             - grounded in the Gallup Poll (how people experience happiness in their everyday lives)

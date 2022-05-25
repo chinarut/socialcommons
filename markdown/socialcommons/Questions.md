@@ -6,5 +6,6 @@
 - # Index
 - # Updating the Index
     - The button below can be clicked to automatically collect `[[Q/]]` pages that are not referenced ANYWHERE on this page. You can use this to populate the index above. If an empty block shows up after you have waited a while, there are no questions to add.
-    - {{CLICK TO UPDATE INDEX:SmartBlock:question index:42RemoveButton=false}} (must have admins/smartblocks enabled)
+    - {{CLICK TO UPDATE INDEX:SmartBlock:question index:42RemoveButton=false}} (must have [[admins/smartblocks]] enabled)
+        - [[Q/What is wellbeing?📚]]
         - [[Q/Can we use RoamJS multiplayer to allow others to engage with pointed questions in our Hivemind? 📚]]
