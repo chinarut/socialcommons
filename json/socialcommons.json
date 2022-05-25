@@ -71734,6 +71734,34 @@
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
     ":log/id": 1653355238702,
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "string": "From: S-The Paradox of the Health Commons- The Benefits and Trouble About Participation and Co-Creation✅.json",
+                "uid": "9w4-EfjCe"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "oHIHy2GMh"
+              }
+            ],
+            "string": "[[S/The Paradox of the Health Commons: The Benefits and Trouble About Participation and Co-Creation✅]]",
+            "uid": "iV7BIkJ2I",
+            ":block/refs": [
+              {
+                ":block/uid": "oHIHy2GMh"
+              }
+            ]
+          }
+        ],
+        "string": "Import",
+        "uid": "HqkSNetHB"
+      }
+    ],
     "uid": "05-24-2022",
     "edit-time": 1653355238703,
     ":edit/user": {
@@ -71750,6 +71778,1912 @@
     "uid": "05-25-2022",
     "edit-time": 1653441434230,
     ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "create-time": 1605243207630,
+    "title": "S/The Paradox of the Health Commons: The Benefits and Trouble About Participation and Co-Creation✅",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    "children": [
+      {
+        "edit-time": 1646598785434,
+        "children": [
+          {
+            "edit-time": 1646598799215,
+            "children": [
+              {
+                "string": "at time of writing",
+                "create-time": 1642931910202,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "Nanyang Technological University, Singapore",
+                    "uid": "KV92KW8ke",
+                    "create-time": 1642931910202,
+                    "edit-time": 1642931910202,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "emojis": [
+                      {
+                        "emoji": {
+                          "native": "🍁"
+                        },
+                        "users": [
+                          {
+                            "time": 1645732205212,
+                            "uid": "HSIuu2JYFSghOSyglU2zMZnuFyu2"
+                          }
+                        ]
+                      }
+                    ],
+                    "edit-time": 1646001213443,
+                    "refs": [
+                      {
+                        "uid": "z0kS6NtJC"
+                      }
+                    ],
+                    "uid": "Imk_jfwu3",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "z0kS6NtJC"
+                      }
+                    ],
+                    "string": "Natalie Pang is an Assistant Professor in the Division of Information Studies at Wee Kim Wee School of Communication and Information, Nanyang Technological University. She obtained her Ph.D. in Information Management from Monash University in 2009, where her research was also awarded the Vice Chancellor’s Commendation for Doctoral thesis excellence and the Faculty of I seeT doctoral medal. Her research interests are: collective action theory in the contemporary media environment, the [[T/knowledge commons📖🤔]], participatory heritage, curation and archival, applications of structuration theory and the philosophy of information",
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "create-time": 1642931910202,
+                    ":edit/user": {
+                      ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+                    }
+                  }
+                ],
+                "uid": "7M8oh1DDF",
+                "edit-time": 1642931910202,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "[current (2020)](https://discovery.nus.edu.sg/11678-lee-san-natalie-pang/)",
+                "create-time": 1642931910202,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "children": [
+                  {
+                    "string": "National University of Singapore",
+                    "uid": "vnzJAXTj9",
+                    "create-time": 1642931910202,
+                    "edit-time": 1642931910202,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "[teaching interests](https://discovery.nus.edu.sg/11678-lee-san-natalie-pang/teaching)",
+                    "create-time": 1642931910202,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    "children": [
+                      {
+                        "string": "My teaching philosophy is centred on key principles of social constructivism, where learning for a student is internalised in the context of what is meaningful for him/her. In the classroom, knowledge is produced and synthesised through team-based peer interactions as well as through an individual student's interactions with his/her social environment via the core concepts taught. My teaching is also informed by my background and research training in socio-technical systems - in an increasingly complex society that we now live in, it provides a critical apparatus to encourage students to actively learn about the use and role of technology in a non-binary or unidirectional manner. Students in my classroom go through a process of self-discovery, reflexive learning, and connected competence. ",
+                        "uid": "25UPXc9H6",
+                        "create-time": 1642931910202,
+                        "edit-time": 1642931910202,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "**self-discovery**: When one is part of a module especially with a large cohort of students, it is easy to feel 'lost'. But every student is unique and has exceptional talents and experiences, and I believe that it is important to encourage them to internalise their learning with these unique talents and experiences. In the modules that I teach, students are hence asked to customise projects in a way that is meaningful to them. During lectures and tutorials, they are asked to work on problems that are relevant and current. They also reflect on their own learning styles while I ‘facilitate’ such discovery with different teaching methods and resources. ",
+                        "uid": "1F-wrcuva",
+                        "create-time": 1642931910202,
+                        "edit-time": 1643169051419,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "**reflexive learning**: Students are encouraged to engage with their social environment through new conceptual lenses that they learn. I believe that learning is most effective when students relate through concrete experiences and active experimentation. As such, concepts cannot simply be learned in the classroom; students must be given opportunities to follow up with applications. But that alone is inadequate, as for learning to be synthesised connections should also be made between the application experiences and reflective reasoning. My approach to teaching and research supervision is therefore a process that usually begins with a deep engagement with theoretical concepts that are intertwined with application scenarios and hands-on experiences, and finally followed up with reflections to allow them to internalise and make sense of what they experienced, revisit abstract theoretical concepts, reflect on their pre-conceived assumptions and biases, and develop their own knowledge.",
+                        "uid": "tM6KkVISA",
+                        "create-time": 1642931910202,
+                        "edit-time": 1643169078804,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      },
+                      {
+                        "string": "**connected competence**: In How philosophy can save your life (2009), Marietta McCarty began a chapter on possibility with a story of a young tennis player. “The astonished looks of beginning tennis players when they hit the ball over the net for the first time and realise in an instant that it is possible for them to do it again…” (ibid, p. 261). I think about the look on this young tennis player, and aim for my students to leave my class with this look. It is about going beyond learning how to code or acquiring conceptual clarity – it is helping students to realise how their acquired competencies can impact other people and issues that they care about. Students develop themselves as engaged citizens and competent scholars, while recognising their unique talents and creatively apply them. This is what connected competence means to me, and across the modules that I teach, I write assignments, tutorial activities and lectures that provides opportunities for students to make meaningful connections between the classroom and their social environments.",
+                        "uid": "SaGqrDGbK",
+                        "create-time": 1642931910202,
+                        "edit-time": 1643169087338,
+                        ":create/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                        }
+                      }
+                    ],
+                    "uid": "aJ3HUxwUg",
+                    "edit-time": 1642931910202,
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "uid": "sbgk2oXeC",
+                "edit-time": 1642931910202,
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "uWQlx_1xn"
+              },
+              {
+                "uid": "NIpOT3R_7"
+              }
+            ],
+            "uid": "W4OQ0oi5D",
+            ":block/refs": [
+              {
+                ":block/uid": "uWQlx_1xn"
+              },
+              {
+                ":block/uid": "NIpOT3R_7"
+              }
+            ],
+            "string": "Author/Creator/Presenter:: [[Natalie Pang]]",
+            ":create/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            },
+            "create-time": 1646598788263,
+            ":edit/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            }
+          },
+          {
+            "string": "Kind:: #article",
+            "create-time": 1646598788263,
+            ":block/refs": [
+              {
+                ":block/uid": "4XO8h0TpI"
+              },
+              {
+                ":block/uid": "kyUCLs0me"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "4XO8h0TpI"
+              },
+              {
+                "uid": "kyUCLs0me"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            },
+            "uid": "AGdRKE7bf",
+            "edit-time": 1646598916042,
+            ":edit/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            }
+          },
+          {
+            "string": "Year:: 2011",
+            "create-time": 1646598788263,
+            ":block/refs": [
+              {
+                ":block/uid": "T8pH3lK54"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "T8pH3lK54"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            },
+            "uid": "gyBprHmb3",
+            "edit-time": 1646598920984,
+            ":edit/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            }
+          },
+          {
+            "edit-time": 1646598928376,
+            "children": [
+              {
+                "string": "2(3), 1-10, July-September 2011",
+                "uid": "SGeOayimM",
+                "create-time": 1642931910202,
+                "edit-time": 1642931910202,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "poD5nerNd"
+              }
+            ],
+            "uid": "9j6fgw1eO",
+            ":block/refs": [
+              {
+                ":block/uid": "poD5nerNd"
+              }
+            ],
+            "string": "Publisher:: International Journal of Organizational and Collective Intelligence",
+            ":create/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            },
+            "create-time": 1646598788263,
+            ":edit/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            }
+          },
+          {
+            "string": "URL:: https://www.academia.edu/941470/The_Paradox_of_the_Health_Commons_The_Benefits_and_Trouble_about_Participation_and_Co_Creation",
+            "create-time": 1646598788263,
+            ":block/refs": [
+              {
+                ":block/uid": "P_OsYgfTm"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "P_OsYgfTm"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            },
+            "uid": "Qwh6sJ9ph",
+            "edit-time": 1646598933700,
+            ":edit/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            }
+          },
+          {
+            "edit-time": 1646598957988,
+            "children": [
+              {
+                "string": "Abstract:: Advances in participatory technologies have created both benefits and challenges for consumers of public health information. Health information is more available than before, as well as diverse in terms of sources and information providers. The playing field of information creation and use is level: both medical profes- sionals and the lay person can equally contribute and gain open access to health information via the Web.  However, this also creates significant challenges. Information can be used in inappropriate contexts, the user can wrongly diagnose his or her ailments, and reading about ailments can negatively impact hypochondriacs. Contemporary discourse has argued for the benefits of such co-created health information as a health commons,  yet more work is required to anticipate and elucidate its related challenges. The paper deepens understanding about the structural layers governing health information, as well as highlights the risks involved. **As people use health information at a greater frequency and depth, and use participatory technologies to contribute health information, the discourse on the challenges ahead is imminent.**",
+                "create-time": 1605831778166,
+                ":block/refs": [
+                  {
+                    ":block/uid": "f0Gj1YscS"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "f0Gj1YscS"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "Dv4cRGPLC",
+                "edit-time": 1645764875246,
+                ":edit/user": {
+                  ":user/uid": "HSIuu2JYFSghOSyglU2zMZnuFyu2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Kd7x0wV2K"
+              }
+            ],
+            "uid": "FSbb3grky",
+            ":block/refs": [
+              {
+                ":block/uid": "Kd7x0wV2K"
+              }
+            ],
+            "string": "Summary:: ",
+            ":create/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            },
+            "create-time": 1646598788263,
+            ":edit/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            }
+          },
+          {
+            "string": "First added by:: [[Chinarut]]",
+            "create-time": 1646598788263,
+            ":block/refs": [
+              {
+                ":block/uid": "JcQS0E6hZ"
+              },
+              {
+                ":block/uid": "WsiyYs6J_"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "JcQS0E6hZ"
+              },
+              {
+                "uid": "WsiyYs6J_"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            },
+            "uid": "sEJvYbRCS",
+            "edit-time": 1646599082481,
+            ":edit/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            }
+          },
+          {
+            "string": "First added on:: [[January 23rd, 2022]]",
+            "create-time": 1646598788263,
+            ":block/refs": [
+              {
+                ":block/uid": "01-23-2022"
+              },
+              {
+                ":block/uid": "mxGIBf4Sq"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "01-23-2022"
+              },
+              {
+                "uid": "mxGIBf4Sq"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            },
+            "uid": "5LuuGKWXN",
+            "edit-time": 1646599095176,
+            ":edit/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            }
+          },
+          {
+            "edit-time": 1646598832022,
+            "children": [
+              {
+                "string": "[[T/Wellbeing Commons ✅]]",
+                "create-time": 1646598832013,
+                ":block/refs": [
+                  {
+                    ":block/uid": "5zFj1BFRP"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "5zFj1BFRP"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+                },
+                "uid": "OO5omYoF3",
+                "edit-time": 1646598833460,
+                ":edit/user": {
+                  ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+                }
+              },
+              {
+                "string": "[[T/participatory technology📑]]",
+                "create-time": 1646598833450,
+                ":block/refs": [
+                  {
+                    ":block/uid": "qPNsyo3_u"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "qPNsyo3_u"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+                },
+                "uid": "HY6GSigzl",
+                "edit-time": 1646598842887,
+                ":edit/user": {
+                  ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+                }
+              },
+              {
+                "string": "[[T/health commons📑]] ",
+                "create-time": 1646598850013,
+                ":block/refs": [
+                  {
+                    ":block/uid": "5xSEAKYDd"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "5xSEAKYDd"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+                },
+                "uid": "u0z5EjcPQ",
+                "edit-time": 1646598850013,
+                ":edit/user": {
+                  ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+                }
+              },
+              {
+                "string": "[[T/knowledge commons📖🤔]] ",
+                "create-time": 1646598847668,
+                ":block/refs": [
+                  {
+                    ":block/uid": "z0kS6NtJC"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "z0kS6NtJC"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+                },
+                "uid": "M1_U75pGH",
+                "edit-time": 1646598850030,
+                ":edit/user": {
+                  ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "qZsn2NjWl"
+              }
+            ],
+            "uid": "dgn0kn830",
+            ":block/refs": [
+              {
+                ":block/uid": "qZsn2NjWl"
+              }
+            ],
+            "string": "Related::",
+            ":create/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            },
+            "create-time": 1646598788263,
+            ":edit/user": {
+              ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "q8WJf-181"
+          },
+          {
+            "uid": "a7e8sliT2"
+          }
+        ],
+        "uid": "mjmbDytFn",
+        ":block/refs": [
+          {
+            ":block/uid": "q8WJf-181"
+          },
+          {
+            ":block/uid": "a7e8sliT2"
+          }
+        ],
+        "string": "Tags:: #Sources",
+        ":create/user": {
+          ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+        },
+        "create-time": 1646598785434,
+        ":edit/user": {
+          ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+        }
+      },
+      {
+        "string": "---",
+        "uid": "I1QcrPTYV",
+        "create-time": 1646598788263,
+        "edit-time": 1646598788263,
+        ":create/user": {
+          ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+        },
+        ":edit/user": {
+          ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+        }
+      },
+      {
+        "string": "**INTRODUCTION**",
+        "create-time": 1605831778166,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "The contemporary media environment characterised by advances in the Internet and adoption of computing devices has contributed to the proliferation of health information freely available together with access to the World Wide Web. The obvious benefits are many: users have access to a richer array of sources from which they may gain useful and relevant information, and at the same time, contribute to existing knowledge. Yet there are many challenges: there may be conflicting information, and can lead to self-diagnoses which are wrong. More work is needed to understand the actual implications of creating and using health information. The paper seeks to address this gap by using the concept of the health commons.",
+            "uid": "IelEzSSRm",
+            "create-time": 1605831778166,
+            "edit-time": 1642932325988,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Since the advent of the World Wide Web, researchers have argued for it as a type of knowledge commons (Hess & Ostrom, 2007). Historically, the term ‘commons’ refers to land or other resources used in common by a community. The concept was however criticised in the famous essay by Garrett Hardin (1968, p. 1244) who argued that the commons was a tragedy in the making:",
+            "create-time": 1605833190444,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "every man is locked into a system that compels him to increase his herd without limit – in a world that is limited. Ruin is the destination toward which all men rush, each pursuing his own best interest in a society that believes in the freedom of the commons. Freedom in a commons brings ruin to all.",
+                "uid": "F7s0qoQTp",
+                "create-time": 1605831778166,
+                "edit-time": 1642932344306,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "DF24V451w",
+            "edit-time": 1653440057922,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "In other words, freedom in a commons encourages overuse of resources in the commons. With resource scarcity, such overuse can lead to depreciation of the quality of resources and pollution. This is already evident even in many examples today, such as the depreciation of water quality and the problem of overgrazing in farming communities.",
+            "uid": "YJbZF3Auw",
+            "create-time": 1605831778166,
+            "edit-time": 1642932436704,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "()",
+            "create-time": 1605832982241,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "The [[T/knowledge commons📖🤔]], in extending the traditional concept of the commons, are sites supporting the creation, use, and storage of public knowledge which are free from market or regulatory constraints, and aims to be equally accessible to everyone who desires to access such knowledge.",
+                "create-time": 1605832989533,
+                ":block/refs": [
+                  {
+                    ":block/uid": "z0kS6NtJC"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "z0kS6NtJC"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "uid": "p0MaVaMjr",
+                "edit-time": 1646001213443,
+                ":edit/user": {
+                  ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+                }
+              },
+              {
+                "string": "Public knowledge can refer to information resources, services, physical facilities in community institutions such as libraries and museums, and digital networks.",
+                "uid": "Z917s9vG7",
+                "create-time": 1605833000137,
+                "edit-time": 1642932393977,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "edit-time": 1646001213443,
+                "children": [
+                  {
+                    "string": "a) resources that are shared and freely available to a target community",
+                    "uid": "vN2B79veq",
+                    "create-time": 1605833031324,
+                    "edit-time": 1605833031324,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "b) tools supporting participation in the production and use of co-created knowledge",
+                    "uid": "lxnBmusf_",
+                    "create-time": 1605833038588,
+                    "edit-time": 1605833038588,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "c) shared spaces or facilities facilitating personal and public discussions",
+                    "uid": "WXezOqU99",
+                    "create-time": 1605833110221,
+                    "edit-time": 1605833110221,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  },
+                  {
+                    "string": "(Pang, 2011).",
+                    "uid": "duJ9SswNT",
+                    "create-time": 1605833047246,
+                    "edit-time": 1605833110224,
+                    ":create/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "z0kS6NtJC"
+                  }
+                ],
+                "uid": "hC3TVNeFk",
+                ":block/refs": [
+                  {
+                    ":block/uid": "z0kS6NtJC"
+                  }
+                ],
+                "string": "Regardless of their forms, three salient characteristics can usually be found with the [[T/knowledge commons📖🤔]]:",
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                "create-time": 1605833024018,
+                ":edit/user": {
+                  ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+                }
+              },
+              {
+                "string": "The consciousness of knowledge as a commons when it is being shared have also been explored by many other scholars in terms of its issues, sustainable structural frameworks, and protection from enclosures(Hess & Ostrom, 2007; Bollier, 2002; Levine, 2003).",
+                "uid": "QS8m7rOOA",
+                "create-time": 1605831778166,
+                "edit-time": 1642932462136,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "7YSqN1EoV",
+            "edit-time": 1605832982241,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Although the concept of the knowledge commons shares similar characteristics with the traditional commons, the tragedy as hypothesised by Hardin (1968) is not applicable. Whilst overuse depreciates the quality and value of resources in the traditional commons, overuse in the knowledge commons does not have the same effect, especially for digital resources which could be easily copied and shared. **This highlights two important characteristics of the knowledge commons.** Resource scarcity, a common problem in the traditional commons, has little relevance in the knowledge commons. Additionally, instead of depreciating the value and quality of resources in the knowledge commons, overuse actually has the effect of increasing its perceived value and quality. An article in Wikipedia, for example, is more highly regarded than others if it has been viewed and edited many times more than other pages (Wilkinson & Huberman, 2007).",
+            "uid": "XYylMXcrG",
+            "create-time": 1605831778166,
+            "edit-time": 1645764147869,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "HSIuu2JYFSghOSyglU2zMZnuFyu2"
+            }
+          },
+          {
+            "string": "The irrelevance of the traditional tragedy of the commons begs a next question: if the tragedy of the commons does not apply to the knowledge commons, is there another tragedy we should be looking for instead? Perhaps the tragedy, if any, is not as evident, but there are potential challenges or pitfalls that we should be aware of. The paper seeks to highlight these potential challenges in the context of health information as a type of knowledge commons.",
+            "uid": "aD4ww-d1z",
+            "create-time": 1605831778166,
+            "edit-time": 1642932475089,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "dTDEZvnmk",
+        "edit-time": 1605832386163,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "**Understanding Health Information As A Type of Knowledge Commons**",
+        "create-time": 1605831778166,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "Since the advent of the Internet and communication technologies making it relatively easy and affordable to publish, there has been a significant increase in the amounts of new information. Additionally, the increase in the number of channels to carry such information has also contributed to this trend. Other than pages on the World Wide Web, information can also be proliferated via emails, RSS feeds, or social networks such as Facebook. As a result, the sphere of information that is freely accessible and available to anyone with a computer and network connection is now much larger than before. This is especially evident in the domain of health information, with many information portals actively in use catering to the information needs of both general and specialised health concerns. Many of these portals began by offering information about various health or medical concerns but grew to offer value-added services such as tools to manage one’s health or provide access to a panel of experts on various health or medical issues of interest.",
+            "uid": "o7c1dGoe0",
+            "create-time": 1605831778166,
+            "edit-time": 1642932497199,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "These trends lead to a noticeable growth in the amount of information resources freely available to users of the World Wide Web with a health concern or issue. Participatory tools such as forums and social networks available on many health portals also facilitate their participation in turn, making them more than mere consumers of information as they also contribute to the body of knowledge on a health topic of interest. The same tools also facilitate dialogical, two-way discussions between participants within the information portal. These characteristics contribute to the shaping of health portals as a type of knowledge commons, wherepeople congregate and participate in the production and use of health information, relating to their topics of interest.",
+            "uid": "k4RE02n5r",
+            "create-time": 1605831778166,
+            "edit-time": 1642932512683,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "The idea of utilising the social network enabled by the Internet and use of information resources and tools for the betterment of human health is not new. Since 2005, a coalition of stakeholders from the Science Commons, CommerceNet, Public Library of Science, and CollabRx have been working to establish the health commons, intended for researchers to ‘share data, knowledge, materials and services under standardized terms and conditions by committing to a set of common technologies, digital information standards, research materials, contracts, workflows and software. These commitments ensure that knowledge, data, materials and tools can move seamlessly from partner to partner across the entire drug discovery chain. They enable participants to offer standardized services, ranging from simple molecular assays to complex drug synthesis solutions, that others can discover in directories and integrate into their own processes to expedite development – or assemble like LEGO blocks to create new services’ (Tenenbaum & Wilbanks, 2008, pp. 3-4).",
+            "uid": "npH4TVs5j",
+            "create-time": 1605831778166,
+            "edit-time": 1642932523197,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Whilst this vision of the health commons is similar to the one described in this paper in terms of its structural foundations, it differs in the target audience or participants. Unlike Tenenbaum and Wilbanks’ (2008) description of the health commons, the one conceptualised in this paper is much more complex in terms of the diversity of participants – and not limited to researchers. Researchers may contribute and use – but the resources could also be utilised by non-researchers for their own purpose. In this sense, whilst the context of potential contributions and use may be much more explicit and clear in the health commons described by Tenenbaum and Wilbanks (2008), they are not as evident in the one conceptualised in this paper. This is because with a larger and more public audience, the plurality of production and use may also increase.",
+            "uid": "DmzouYkyY",
+            "create-time": 1605831778166,
+            "edit-time": 1642932542991,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Benkler’s (2003) typology of the commons is also useful in conceptualising the types of health knowledge commons. According to Benkler, the commons can be divided into four types based on two parameters. The first parameter identified ‘is whether they are open to anyone or only to a defined group’ (Benkler, 2003, p. 6). With this parameter, two types of commons can thus be imagined:",
+            "create-time": 1605831778166,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "Commons type 1: If a commons is **open to anyone**, Benkler calls it an open commons.",
+                "uid": "-AWUoWi2S",
+                "create-time": 1605833888971,
+                "edit-time": 1605833939196,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Commons type 2: If a commons is **open only to a defined group** he calls it a limited access commons.",
+                "uid": "zJmwIjOBX",
+                "create-time": 1605831778166,
+                "edit-time": 1605833942769,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "vEyjlKZNe",
+            "edit-time": 1642932556419,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Much of the knowledge commons on the Internet belong to commons type 2. Even though access to them is free, users are limited by the availability of access to the technology or medium – in this case, someone who does not have access to a networked computer would thus be constrained.",
+            "uid": "Jwy_wBn9d",
+            "create-time": 1605831778166,
+            "edit-time": 1605831778244,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "The second parameter is ‘whether a commons system is regulated or unregulated’ (Benkler, 2003, p. 7). This parameter results in two other types of commons:",
+            "create-time": 1605831778166,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "Commons type 3: A commons **without rules** is an unregulated commons.",
+                "uid": "9gxnwyrMg",
+                "create-time": 1605831778166,
+                "edit-time": 1605833928501,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Commons type 4: A commons **ordered by rules** is a regulated commons.",
+                "uid": "sV1GCH61H",
+                "create-time": 1605831778166,
+                "edit-time": 1605833932352,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "tJdus0Zs6",
+            "edit-time": 1605833911455,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Many examples of health information portals belong to commons type 4, where the use of information and services within these portals are governed by pre-established terms and conditions of use. These terms lay down the regulations by which users should use the information and services provided, although the awareness of these regulations may not always be conscious amongst users.",
+            "uid": "3jQHHizv1",
+            "create-time": 1605831778166,
+            "edit-time": 1605831778244,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Benkler’s typology is useful in assisting to describe various manifestations of the knowledge commons, where commons types 1 or 2 may be paired with commons types 3 or 4 to describe the design of a particular commons. WebMD (www.webmd.com), for example, belongs to types 2 and 4, in that it is a limited access commons governed by rules. In WebMD, resources are shared by all who visit the site, yet in order to contribute to this commons one must adhere to the conditions of user submissions as laid down in the terms and conditions within WebMD. Many other research groups and sites take on this form as well, where there is limited membership or participation but unlimited access to resources created within the community.",
+            "uid": "7ynxNdJcY",
+            "create-time": 1605831778166,
+            "edit-time": 1605833993368,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "sHOKxXrpP",
+        "edit-time": 1605833383353,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "**Benefits**",
+        "create-time": 1605831778166,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "An evident observation is that this growth in the knowledge commons sphere of health information and services has and will change the way people acquire, process, and use information relating to their health or medical concerns (Eysenbach, 2003). The impacts of participation have also gained pace in many studies, which people found to gain greater ownership and belongingness through participation (Pang, 2009).",
+            "uid": "_OKaNkKQC",
+            "create-time": 1605831778166,
+            "edit-time": 1642932602105,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Ball and Lillis’s (2001) study found this to be true as people take greater ownership of their own health concerns and as a result, redefine their relationships with physicians. As they argued, the benefits of such a new relationship are many – communication between physicians and patients is improved, clinical decision-making is strengthened and deepened, and a greater level of efficiency in the delivery of healthcare is achieved on the overall.",
+            "uid": "qOY3ev5Gk",
+            "create-time": 1605831778166,
+            "edit-time": 1642932607095,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Livingston (2005) made further observations that other than an expanded sphere of health or medical information which is much more available to people, the quality of information is also increasing over time. Three examples are given to demonstrate this, patientINFORM, Mamahealth.com, and Answers.com.",
+            "uid": "Q-gCEn248",
+            "create-time": 1605831778166,
+            "edit-time": 1642932612744,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "A collaborative effort between the American Cancer Society, the American Diabetes Association, and the American Heart Association, PatientInForm.org attempts to provide users with health research that are otherwise inaccessible to the public in subscription-based journals. Leading publishers, such as Taylor and Francis, Sage Publishing, Springer, Oxford University Press, and Wiley-Blackwell – are just some of the many publishers participating in this project. In addition to providing links to many articles in full texts, the site also provides summaries to the articles that are selected by a panel of experts in the domain area of interest. Unlike many other examples of the health commons (Figure 1) in current existence, PatientInForm provides information that originates from scholarly sources and are interpreted by experts for use.",
+            "uid": "6WEFKH6MS",
+            "create-time": 1605831778166,
+            "edit-time": 1642932620573,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Along the same vein, MammaHealth.com is a spinoff of Mamma.com, a search engine. It functions like a specialised search engine, to search only credible medical sources for any health concern or issue of interest. MammaHealth.com searches the Deep Web, such as content in digital libraries or databases. Although this is unlike many other search engines commonly available and provides users to articles of better quality, ^users may still be constrained by the lack of access to full text articles, especially in limited-access sites.",
+            "uid": "PC3_f9R8Q",
+            "create-time": 1605831778166,
+            "edit-time": 1642932628022,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Answers.com is an example of a knowledge commons that is user-generated, facilitated by a suite of participatory tools. It is not limited to health or medical topics, as it addresses questions from many other domains as well. However, it attempts to provide answers from multiple contributors to questions using links",
+            "uid": "OGnkvY-uX",
+            "create-time": 1605831778166,
+            "edit-time": 1605831778244,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Figure 1. Examples of quality in the health commons",
+            "create-time": 1605831778166,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "to relevant articles. In addition, the profiles of contributors are also publicly displayed with ‘trust points’ generated within the community so as to provide users with more information on the sources providing answers to their questions.",
+                "uid": "rTZLakyuT",
+                "create-time": 1605831778166,
+                "edit-time": 1642932649929,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "XKPIQTGj6",
+            "edit-time": 1605831778244,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "lx93CUFBa",
+        "edit-time": 1605834006754,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "**Challenges**",
+        "create-time": 1605831778166,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "Yet such positive effects are not without risks. As the work of Glenton, Paulsen, and Oxman (2005) demonstrates, even with health portals containing collections of information that had been screened for its quality can lead to confusions about the effects of healthcare. This is also because even experts differ in their views or opinions traditionally.",
+            "uid": "Rf0zJxUHt",
+            "create-time": 1605831778166,
+            "edit-time": 1642932682625,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Additionally, the increase in the number of information sources and mass participation in the production of health information can also present situations where recipients of health and medical information have to deal with information originating from multiple sources. As Keen (2007) argued, the problem with mass participation in the creation of knowledge is ‘mass amateurisation’ – which could easily lead to misinformation. Although Keen’s(2007) views may be seen as overly pessimistic, he made an important contribution in the sense that with mass participation, there may be a potential growing increase in conflicting information. Eysenbach’s (2003) study highlighted this problem, pointing out that the search for medical or health information on the World Wide Web often lead to people having to encounter conflicting information. Such encounters comprise significant effects, as they may change the underlying epistemological beliefs of health information sources themselves (Kienhues, Stadtler, & Bromme, 2011).",
+            "uid": "GwHzMkQBx",
+            "create-time": 1605831778166,
+            "edit-time": 1642932704675,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Fox (2006) asserted that one of the most popular uses of the Web is to gain health or medical information. With mass participation in the production of information on the Web, it is up to the user to interpret the context of information acquired. Understanding information sources, for example, is of crucial importance and value judgments on the reliability of the information in use need to take into account such contexts.",
+            "uid": "n0o7V2nLj",
+            "create-time": 1605831778166,
+            "edit-time": 1605835020218,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Yet, in a study of 21 participants and their use of health information on the Web, Eysenbach and Kohler (2002) found that no participants actually clicked on the ‘about us’ section whilst retrieving health information. In addition, very few actually remembered where the information acquired came from. In other words, participants were synthesising information acquired almost at face value, without considering or weighting the retrieved information in terms of their relative reliability. Although mass participation on the Web – the enlargement of a health knowledge commons – has brought benefits in terms of increased availability and richness of health information, it has also brought about greater complexities in interpreting and using such information meaningfully. There are serious concerns to the user’s ability to handle such complexities.",
+            "uid": "DGQAJsWq7",
+            "create-time": 1605831778166,
+            "edit-time": 1642932721607,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Such concerns may lead to an increase in anxiety. Studies have shown that the use of the Web to acquire health or medical information could also lead to an increase in anxiety – where one sees an escalation of health concern. Such a phenomena has been termed as cyberchondria (White & Horvitz, 2009). With increased penetration of the Internet and use of the Web for health information, it is expected that cyberchondria may become a common issue in the near future.",
+            "uid": "eBxhIDTzB",
+            "create-time": 1605831778166,
+            "edit-time": 1642932737725,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "These risks present significant problems for users. The paper seeks to deepen an understanding of how these problems may be a result of the structural layers governing the knowledge commons.",
+            "uid": "sTeOpYDNS",
+            "create-time": 1605831778166,
+            "edit-time": 1605835310290,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "MJ9zllPoz",
+        "edit-time": 1605834532366,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "**Structural Layers of the Commons**",
+        "create-time": 1605831778166,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "It may be discerned that there are two types of resources within the knowledge commons. A commons exists because a community recognises its existence, and some level of rules – however informal and fragmentary – is implied by this recognition. The rules may be as minimal as an understanding of what falls within or outside the physical or virtual boundary of the knowledge commons. Giddens (1984, p. 33) refers to such rules ‘resources’, and distinguishes between ‘authoritative’ and ‘allocative’ resources. Anauthoritative resource consists in the community consensus that a particular social patterning (otherwise called a social institution) can and should exist – in other words the basic or enabling rule(s). allocative resources consist in the rules that social institutions follow in order to share finite goods amongst people. Giddens defined both authoritative and allocative resources as follows (Giddens, 1984, p. 373):",
+            "create-time": 1605831778166,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "Authoritative resources: **Non-material resources** involved in the generation of power, deriving from the capability of harnessing the activities of human beings; authoritative resources result from the domination of some actors over others.",
+                "uid": "iEG-H1xEb",
+                "create-time": 1605831778166,
+                "edit-time": 1642932766811,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              },
+              {
+                "string": "Allocative resources: **Material resources** involved in the generation of power, including the natural environment and physical artefacts; allocative resources derive from human dominion over nature.",
+                "uid": "9Za_OdYRp",
+                "create-time": 1605831778166,
+                "edit-time": 1642932776672,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "0UD5oTvob",
+            "edit-time": 1642932795776,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "The Internet itself is an authoritative resource in that it enables certain virtual interactions, and establishes fundamental protocols under which the development of allocative resources can proceed; for instance, the production of content in health portals.",
+            "uid": "V8-N9L2dM",
+            "create-time": 1605831778166,
+            "edit-time": 1605835591866,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "For instance, the Creative Commons is an open licensing framework seeking to offer a range of access possibilities between demand for full copyrighted-based payment for every use of information resources and totally unrestricted free use. The Creative Commons is a prominent example of the range of open licensing frameworks that now exist. It is available as a generic framework, and in localised versions for jurisdictions including India, China, Japan, Korea, Australia, Italy, Taiwan, Brazil, Netherlands, France, Austria, Spain, United Kingdom, Croatia, and others.",
+            "uid": "-qSlIkZGh",
+            "create-time": 1605831778166,
+            "edit-time": 1642932809037,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "The Creative Commons seeks to cater for varying forms of information resources offered both the through the knowledge commons and the market. The following self-description taken from the Creative Commons’ website best illustrates this:",
+            "create-time": 1605831778166,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "Share, reuse, and remix — legally. Creative Commons provides free tools that let authors, scientists, artists, and educators easily mark their creative work with the freedoms they want it to carry... Creative Commons defines the spectrum of possibilities between full copyright — all rights reserved — and the public domain — no rights reserved. We’re a non-profit organisation. Everything we do — including the software we create — is free (Creative Commons, n. d., para. 1).",
+                "uid": "ADFbf9GGa",
+                "create-time": 1605831778166,
+                "edit-time": 1642932821813,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "efLIdjcDe",
+            "edit-time": 1605831778244,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Thus the Creative Commons licensing framework is an excellent example of an authoritative resource, in that by this framework, allocative resources could be created and used. For example, the application of the Creative Commons framework by a site such as www.flickr.com – where anyone may lodge their photographs for others to share – is an example of an allocative resource.",
+            "uid": "KhNNhp1i3",
+            "create-time": 1605831778166,
+            "edit-time": 1605835714634,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Under the Creative Commons framework, work is differentiated in terms of their availability to be used for commercial purposes and for derivative works to be created. In other words, restrictions do apply to certain resources as stipulated by their creators. In this example, the works themselves, which may be music, photographs, videos, or information resources, are allocative resources utilising Creative Commons licenses as authoritative resources.",
+            "uid": "ZOStjw_ii",
+            "create-time": 1605831778166,
+            "edit-time": 1605835741558,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "The example also illustrates complexities between the commons and the market. While commercial works may draw upon the commons (such as the Creative Commons as authoritative resources in the knowledge commons), they do so by seeking to enclose. The origins of market enclosures go back to the early 18th century in England, when common land pastures were systematically transferred to private ownerships or ‘enclosed’.",
+            "uid": "E9fvo3fkk",
+            "create-time": 1605831778166,
+            "edit-time": 1642932848321,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "There are many cases that illustrate this point. In some parts of China, there are parks that built and maintained by a village over several generations. While access to this park is free, pockets of enclosures have been created within the park – such as the ‘pay-to-enter’ playgrounds for children, puppet shows that charge ‘viewing fees’, and dance classes. Without authoritative resources such as frameworks or rules governing how common properties (i.e. allocative resources) can or should be managed, market enclosures are likely to be created which may be contrary to the principles of a commons.",
+            "uid": "cLqz9-kC9",
+            "create-time": 1605831778166,
+            "edit-time": 1642932855872,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Market enclosures can be created within a commons that has been free. Wright’s (2000) work on the social centres in Italy provides further illustrations. These social centres, referred to as ‘self-managed, occupied social centres’ (Wright, 2000, p. 117), are characterised by all sorts of activities and spaces, such as ‘an exhibition gallery, practice rooms for bands, space for theatrical performances, a dark room, a gymnasium and ‘tea salon’’ (Wright, 2000, p. 118). Often ‘the product of illegal squatting’ (Wright, 2000) they occupy privately owned but unused buildings – but have been instrumental in nurturing ‘cultural innovation’ (Wright, 2000) such as Italian rap groups. The example showed how the enclosures of resources, such as spaces that are owned privately, can be contested. As a result, boundaries that are formed around such resources can shift towards the commons.",
+            "uid": "4yqwZrkRa",
+            "create-time": 1605831778166,
+            "edit-time": 1642932866424,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Similar principles can be observed in the health commons in the online environment. Information resources can be appropriately for personal gain, and likewise, be produced for private gains. For example, companies, in the pursuit to promote their products, can produce large volumes of information for the health commons whilst concealing the contexts in which they were produced or should be used. Users often retrieve information for use, as they are – without understanding such contexts especially if these contexts were not presented to them at the point of retrieval.",
+            "uid": "S6kqJu5Kf",
+            "create-time": 1605831778166,
+            "edit-time": 1642932875437,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "This highlights an important gap. Whilst allocative resources are apparent with the amount of health information resources available, the presence of authoritative resources is not as evident. Unlike the knowledge commons operating in certain areas in the online environment (such as flickr), the health commons do not possess a clear layer of authoritative resources to govern the production and use of allocative resources. This may one of the biggest challenges of the health commons that remains unseen.",
+            "uid": "yZfWzW9jq",
+            "create-time": 1605831778166,
+            "edit-time": 1642932889365,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "At this point, having understood the potential of market enclosures, it is also likely to consider that market enclosures have already formed within the health commons. However, unlike physical environments such as a park or the social centres of Italy, these enclosures in the online environment are much less evident to the unobservant user. For example, certain health portals may be created and maintained with an agenda to push certain products and this may influence the objectivity, quality, and packaging of information produced within these portals, to create certain biased impressions about the products these portals are trying to sell.",
+            "uid": "aKkYSiZqH",
+            "create-time": 1605831778166,
+            "edit-time": 1642932905822,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Such agendas may be very well hidden from unsuspecting users. The study of Eysenbach and Kohler (2002) illustrates the problem, with most participants found to acquire health or medical information as they are, without much investigation to their contexts such as their sources or commercial interests hidden within the information provided.",
+            "uid": "-rbqfwCN3",
+            "create-time": 1605831778166,
+            "edit-time": 1605836465823,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Comprehending the structural layers of the health commons is vital, as it helps to formulate possible recommendations on the next steps forward. Whilst the growth of the health commons in terms of its allocative resources is evident and continues to look promising, the paper argues that there is however, a lack of authoritative resources – frameworks, rules, or sanctions that could facilitate or govern the production and use of allocative resources in the health commons. Rules, as Wittgenstein (1969, p. 124), argued, tell people ‘how to go on’. In his words,",
+            "create-time": 1605831778166,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            "children": [
+              {
+                "string": "...to know a rule is not to be able to provide an abstract formulation of it, but to know how to apply it in novel circumstances, which includes knowing about the contexts of that application (Wittgenstein, 1969, p. 124).",
+                "uid": "FvDCQtxq0",
+                "create-time": 1605831778166,
+                "edit-time": 1605835962073,
+                ":create/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+                }
+              }
+            ],
+            "uid": "df2-IvCxr",
+            "edit-time": 1642932920995,
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "In other words, with a greater awareness and layer of authoritative resources, they could not only facilitate the production of context-friendly allocative resources i.e. information resources in the health commons – they could also govern how such resources may be interpreted and used. PatientInForm.org may be one example of how the structural layer of authoritative resources is distinct enough to govern the effective production and use of content within its portal. Publishers and experts providing full-text articles and summaries are bound to the operating framework of the portal. No dubious or commercial information gets included in this portal; therefore imposing certain boundaries as to who can and should participate in the portal. Furthermore, users of the portal are also provided with the context of the information – thereby heightening their abilities to know how to use the information they are acquiring. The portal, however, places much trust in knowledge generated by experts. With examples such as Wikipedia demonstrating the ability of mass participation to ‘police’ and generate knowledge of high-quality (Wilkinson & Huberman, 2007), there may be room to further develop the portal to design participation for users even in the cumulative production of information resources within the portal.",
+            "uid": "jRioeXhMq",
+            "create-time": 1605831778166,
+            "edit-time": 1642932942003,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "At this point, it is useful to further elucidate the concept of usage in the health commons. In the examples raised there are several forms of usage. One can produce resources in the health commons and use authoritative resources such as the Creative Commons licenses to govern how participants may further re-use or create derivative resources out of the original content. Such practices are not widely found in the health commons, unlike other types of commons such as with pictures or music.",
+            "uid": "_fLox31LA",
+            "create-time": 1605831778166,
+            "edit-time": 1642932954713,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "But usage in the health commons goes beyond content, and has far greater effects in terms of application, which is another form of usage. A user may be looking for an alternative remedy to a migraine for example, and may use the content found to apply to his condition – which may either be effective or disastrous. The health commons in particular poses greater complexity compared to other types of knowledge commons, which may be governed by pre-established terms and conditions of use. Because of the implications of usage in this form, there needs to be even greater clarity in terms of how the health commons is governed via the authoritative resources in place. Some work has already developed in this area, such as the Health Website Rating project (Health Improvement Institute, 2007). More work is still needed in this area, to evaluate the impacts of implementing such frameworks on various social groups, and the stakeholders that should be involved.",
+            "uid": "rC2Q2BFcn",
+            "create-time": 1605831778166,
+            "edit-time": 1605836800521,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "NdzDFyLQW",
+        "edit-time": 1605835303730,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "**CONCLUSION**",
+        "create-time": 1605831778166,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "Understanding the current plethora of health or medical information resources on the Web is crucial to anticipating its benefits and potential pitfalls. The paper has attempted to deepen this understanding by situating such resources within the concept of the health commons. A key characteristic of the health commons is the ease of participation in both the production and use of resources. Such participation can generate both benefits and potential challenges.",
+            "uid": "7hAWl8TZW",
+            "create-time": 1605831778166,
+            "edit-time": 1605831778245,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Expert knowledge may be made more available, and with mass participation the sphere of health or medical information available is also enlarged, even changing the ways users interact with physicians with greater knowledge. Additionally, such participation is also argued to instill a greater sense of ownership in their health conditions.",
+            "uid": "rjGgCJgI9",
+            "create-time": 1605831778166,
+            "edit-time": 1605836911459,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "However, such benefits also come with their associated risks. Users may also be faced with information that are disorganised or with hidden commercial interests, and such problems can lead to misinformation, or lead them to formulate inaccurate conclusions about their own health or medical symptoms. With mass participation, the problem of rising conflicting information is also more apparent, and users need to deal with greater complexities in acquiring information than ever before. Yet, Eysenbach and Kohler (2002) demonstrated, the alarming finding is that most users do not conduct deep investigations on the contexts of the information they are acquiring.",
+            "uid": "N8XzQ2-bN",
+            "create-time": 1605831778166,
+            "edit-time": 1642932975611,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "The paper has attempted to address these challenges by providing a further understanding of the structural layers of the health commons. Whilst allocative resources in the form of information resources or content are abundant, the paper asserts that there is still a current lack of authoritative resources such as frameworks or rules governing the production and use of health or medical information. Health portals such as PatientInForm.org addresses the gap by providing not just access to content, but also interpretations and expert advice on content using a consistent set of criteria and approach. However, it is restricted only to one portal and do not help to facilitate or govern the production and use of other health commons – unlike the Creative Commons licensing framework which can be widely applied to many other domains of the knowledge commons.",
+            "uid": "4zz6cEdgp",
+            "create-time": 1605831778166,
+            "edit-time": 1642932988349,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "5Q8jhrIJd",
+        "edit-time": 1605835931064,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "**REFERENCES**",
+        "create-time": 1605831778166,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        "children": [
+          {
+            "string": "Ball, M. J., & Lillis, J. (2001). E-health: Transforming the physician/patient relationship. Interna- tional Journal of Medical Informatics, 61(1), 1–10. doi:10.1016/S1386-5056(00)00130-1",
+            "uid": "xeuZO1VhE",
+            "create-time": 1605831778166,
+            "edit-time": 1605837164454,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Benkler, Y. (2003). The political economy of the commons. Upgrade, 4(3), 6–9.",
+            "uid": "e4qSyAmEv",
+            "create-time": 1605831778166,
+            "edit-time": 1605831778245,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Bollier, D. (2002). Silent theft: The private plunder of our common wealth. New York, NY: Routledge.",
+            "uid": "QDj3gYcuC",
+            "create-time": 1605831778166,
+            "edit-time": 1605831778245,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Eysenbach, G. (2003). The impact of the Internet on cancer outcomes. CA: a Cancer Journal for Clini- cians, 53, 356–371. doi:10.3322/canjclin.53.6.356",
+            "uid": "11jvwVNVk",
+            "create-time": 1605831778166,
+            "edit-time": 1605831778245,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Eysenbach, G., & Kohler, C. (2002). How do consumers search for and appraise health information on the World Wide Web? Qualitative study using focus groups, usability test, and in-depth interviews. BMJ (Clinical Research Ed.), 324, 573–577. doi:10.1136/ bmj.324.7337.573",
+            "uid": "MnU6MP-KT",
+            "create-time": 1605831778166,
+            "edit-time": 1605837174905,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Fox, S. (2006). Online health search 2006. Retrieved from http://www.pewinternet.org/~/media//Files/Reports/2006/PIP_Online_Health_2006.pdf.pdf",
+            "uid": "PBJtJvTvQ",
+            "create-time": 1605831778166,
+            "edit-time": 1605837182796,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Giddens, A. (1984). The constitution of society: Outline of the theory of structuration. Cambridge, UK: Polity Press.",
+            "uid": "gBCnJLQKh",
+            "create-time": 1605831778166,
+            "edit-time": 1605831778245,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Glenton, C., Paulsen, E. J., & Oxman, A. D. (2005). Portals to wonderland: Health portals lead to con- fusing information about the effects of healthcare. BioMed Central Medical Informatics and Decision Making, 5, 7–14. doi:10.1186/1472-6947-5-7",
+            "uid": "vRQYptFfP",
+            "create-time": 1605831778166,
+            "edit-time": 1605831778245,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Hardin, G. (1968). The tragedy of the commons. Science, 62, 1243–1248.",
+            "uid": "7UC5RnoIt",
+            "create-time": 1605831778166,
+            "edit-time": 1605831778245,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Health Improvement Institute. (2007). Quality of health information on the Internet: Health Website Rating (HWR) project. Retrieved from http://www. hii.org/750.htm",
+            "uid": "TGL31Fzuj",
+            "create-time": 1605831778166,
+            "edit-time": 1605831778245,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Hess, C., & Ostrom, E. (2007). Understanding knowledge as a commons: From theory to practice. Cambridge, MA: MIT Press.",
+            "uid": "syNqCw995",
+            "create-time": 1605831778166,
+            "edit-time": 1605831778245,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Keen, A. (2007). The cult of the amateur: How today’s Internet is killing our culture. New York, NY: Broadway Publishing.",
+            "uid": "FcT3cT26z",
+            "create-time": 1605831778166,
+            "edit-time": 1605837195893,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Kienhues, D., Stadtler, M., & Bromme, R. (2011). Dealing with conflicting or consistent informa- tion on the Web: When expert information breeds laypersons’ doubts about experts. Learning and Instruction, 21(2), 193–204. doi:10.1016/j.learnin- struc.2010.02.004",
+            "uid": "KfePoHFZd",
+            "create-time": 1605831778166,
+            "edit-time": 1605831778245,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Levine, P. (2003). A movement for the commons?",
+            "uid": "BkHyInlKw",
+            "create-time": 1605831778166,
+            "edit-time": 1605831778246,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "The Responsive Community: Rights and Responsibilities, 13(4), 28–39.",
+            "uid": "9_hglb9Ae",
+            "create-time": 1605831778166,
+            "edit-time": 1605837202196,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Livingston, B. (2005, June 21). Attack of the health portals. Retrieved from http://itmanagement.earthweb.com/columns/executive_tech/article.php/3514201/Attack-of-the-Health-Portals.htm",
+            "uid": "5q2qZpWEv",
+            "create-time": 1605837234802,
+            "edit-time": 1605837243969,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Pang, N. (2009). The role of participatory design in constructing the virtual knowledge commons. In Akoumianakis, D. (Ed.), Virtual communities of prac- tice and social interactive technologies: Lifecycle and workflow analysis (pp. 86–100). Hershey, PA: IGI Global. doi:10.4018/978-1-60566-340-1.ch005",
+            "uid": "sTI77KkNd",
+            "create-time": 1605831778166,
+            "edit-time": 1605831778246,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Pang, N. (2011). The knowledge commons: An exploration of community roles in the shaping of cultural institutions in Victoria and Singapore. Saarbrücken, Germany: Lambert Publishing.",
+            "uid": "P27ozshkm",
+            "create-time": 1605831778166,
+            "edit-time": 1605837250174,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Science Commons. (n. d.). The health commons. Retrieved from http://sciencecommons.org/projects/ healthcommons",
+            "uid": "DnIPXfR_9",
+            "create-time": 1605831778166,
+            "edit-time": 1605831778246,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "White, R., & Horvitz, E. (2009). Cyberchondria: Studies of the escalation of medical concerns in Web search. ACM Transactions on Information Systems, 27(4), 1–33. doi:10.1145/1629096.1629101",
+            "uid": "HGHlrAHGO",
+            "create-time": 1605831778166,
+            "edit-time": 1605831778246,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Wilkinson, D. M., & Huberman, B. A. (2007). Assessing the value of cooperation in Wikipedia. First Monday, 12(4).",
+            "uid": "m07p2aj6h",
+            "create-time": 1605831778166,
+            "edit-time": 1605837257875,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          },
+          {
+            "string": "Wright, S. (2000). ‘A love born of hate’: Autonomist rap in Italy. Theory, Culture & Society, 17(3), 117–135. doi:10.1177/02632760022051257",
+            "uid": "GCfijeAua",
+            "create-time": 1605831778166,
+            "edit-time": 1605837261787,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "uid": "jiZvnWD-w",
+        "edit-time": 1605835910340,
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "string": "---",
+        "uid": "ioTG5JxCl",
+        "create-time": 1646606740990,
+        "edit-time": 1646606746594,
+        ":create/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        },
+        ":edit/user": {
+          ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+        }
+      },
+      {
+        "edit-time": 1646598788263,
+        "children": [
+          {
+            "string": "",
+            "uid": "zJUFFnXtr",
+            "create-time": 1646606781225,
+            "edit-time": 1646606781225,
+            ":create/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            },
+            ":edit/user": {
+              ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "WpWtRk5qy"
+          }
+        ],
+        "uid": "atJRLAyGc",
+        ":block/refs": [
+          {
+            ":block/uid": "WpWtRk5qy"
+          }
+        ],
+        "string": "Discussion:: (tag w/ date please!)",
+        ":create/user": {
+          ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+        },
+        "create-time": 1646598788263,
+        ":edit/user": {
+          ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+        },
+        "heading": 1
+      }
+    ],
+    "uid": "oHIHy2GMh",
+    "edit-time": 1646599103544,
+    ":edit/user": {
+      ":user/uid": "i8rql65x8gWZjptfey9q92GdyRL2"
+    }
+  },
+  {
+    "uid": "z0kS6NtJC",
+    "create-time": 1653459273501,
+    "title": "T/knowledge commons📖🤔",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "5zFj1BFRP",
+    "create-time": 1653459273305,
+    "title": "T/Wellbeing Commons ✅",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "NIpOT3R_7",
+    "create-time": 1653459273348,
+    "title": "Author/Creator/Presenter",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "5xSEAKYDd",
+    "create-time": 1653459273366,
+    "title": "T/health commons📑",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "Kd7x0wV2K",
+    "create-time": 1653459273372,
+    "title": "Summary",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "f0Gj1YscS",
+    "create-time": 1653459273382,
+    "title": "Abstract",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "P_OsYgfTm",
+    "create-time": 1653459273429,
+    "title": "URL",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "T8pH3lK54",
+    "create-time": 1653459273438,
+    "title": "Year",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "poD5nerNd",
+    "create-time": 1653459273467,
+    "title": "Publisher",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "qPNsyo3_u",
+    "create-time": 1653459273479,
+    "title": "T/participatory technology📑",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "4XO8h0TpI",
+    "create-time": 1653459273489,
+    "title": "article",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "kyUCLs0me",
+    "create-time": 1653459273489,
+    "title": "Kind",
+    ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
   }
