@@ -59895,6 +59895,7 @@
   [5274 :block/uid "ECwHdHfgr" 536878754]
   [5274 :create/time 1644172570838 536878754]
   [5274 :create/user 1 536878754]
+  [5274 :edit/seen-by 4760 536879009]
   [5274 :edit/time 1644173791029 536878754]
   [5274 :edit/user 1 536878754]
   [5274 :node/title "Creating Your Narrative Framework" 536878754]
@@ -59911,6 +59912,7 @@
   [5275 :block/uid "ltzJeh0I3" 536878754]
   [5275 :create/time 1644173190953 536878754]
   [5275 :create/user 1 536878754]
+  [5275 :edit/seen-by 4760 536879009]
   [5275 :edit/time 1644173190953 536878754]
   [5275 :edit/user 1 536878754]
   [5276 :block/open true 536878754]
@@ -59939,6 +59941,7 @@
   [5277 :block/uid "4_D4x_rwP" 536878754]
   [5277 :create/time 1643160530545 536878754]
   [5277 :create/user 1 536878754]
+  [5277 :edit/seen-by 4760 536879010]
   [5277 :edit/time 1643510897331 536878754]
   [5277 :edit/user 1 536878754]
   [5278 :block/open true 536878754]
@@ -60588,8 +60591,8 @@
   [5341 :version/id "0.9.5" 536878821]
   [5341
    :version/nonce
-   "uuidd0a4b487-f597-4a62-ae66-be551b3b9403"
-   536879008]
+   "uuid59eba72d-017d-44c0-9f83-fc24fb9579de"
+   536879010]
   [5342 :block/uid "05-25-2022" 536878822]
   [5342 :create/time 1653441434230 536878822]
   [5342 :create/user 1 536878822]
