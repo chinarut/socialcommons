@@ -51328,6 +51328,7 @@
   [4447 :block/uid "2aXzadfr6" 536876844]
   [4447 :create/time 1626204515561 536876844]
   [4447 :create/user 1 536876844]
+  [4447 :edit/seen-by 5642 536879048]
   [4447 :edit/time 1626204515561 536876844]
   [4447 :edit/user 1 536876844]
   [4447 :node/title "Start Here" 536876844]
@@ -51548,6 +51549,7 @@
   [4471 :create/user 1 536876983]
   [4471 :edit/time 1626205001065 536876987]
   [4471 :edit/user 1 536876983]
+  [4472 :block/children 5644 536879050]
   [4472 :block/uid "mirmzNSMx" 536876991]
   [4472 :create/time 1626205053289 536876991]
   [4472 :create/user 1 536876991]
@@ -51695,6 +51697,7 @@
   [4492 :block/uid "mhiMZYUlp" 536877119]
   [4492 :create/time 1626206017986 536877119]
   [4492 :create/user 1 536877119]
+  [4492 :edit/seen-by 5642 536879048]
   [4492 :edit/time 1626206021108 536877121]
   [4492 :edit/user 1 536877119]
   [4493 :block/children 4523 536877443]
@@ -51785,6 +51788,7 @@
   [4499 :block/uid "DhbFqh_RV" 536877193]
   [4499 :create/time 1626206470915 536877193]
   [4499 :create/user 1 536877193]
+  [4499 :edit/seen-by 5642 536879048]
   [4499 :edit/time 1653461595973 536878997]
   [4499 :edit/user 1 536877193]
   [4500 :block/open true 536877202]
@@ -63471,8 +63475,8 @@
   [5618 :version/id "0.9.6" 536879022]
   [5618
    :version/nonce
-   "uuid2ba84d39-4118-4bd2-81cd-4f2d6764342f"
-   536879045]
+   "uuidecf739bb-3c2c-4122-a31d-b81c19b61d1a"
+   536879051]
   [5619 :block/uid "06-08-2022" 536879023]
   [5619 :create/time 1654650703025 536879023]
   [5619 :create/user 1 536879023]
@@ -63633,4 +63637,33 @@
   [5641 :edit/time 1656551843398 536879045]
   [5641 :edit/user 1 536879045]
   [5641 :log/id 1656551843397 536879045]
-  [5641 :node/title "June 30th, 2022" 536879045]]}
+  [5641 :node/title "June 30th, 2022" 536879045]
+  [5642 :block/uid "q9TEDly2G" 536879046]
+  [5642 :user/display-name "Jethro Lai" 536879046]
+  [5642 :user/display-page 5643 536879046]
+  [5642
+   :user/photo-url
+   "https://lh3.googleusercontent.com/a/AATXAJznRGmqq5gqLwAp9wcNzvAbMN8a4h_PbJhUxwB4=s96-c"
+   536879046]
+  [5642
+   :user/settings
+   {:namespace-options [:none :partial :full],
+    :right-sidebar-pinned {}}
+   536879049]
+  [5642 :user/uid "9Lq1d6LgheTvUMaJuABXOJKr7oD3" 536879046]
+  [5643 :block/uid "78ZSjJ9wi" 536879046]
+  [5643 :create/time 1656606469200 536879047]
+  [5643 :create/user 5642 536879047]
+  [5643 :edit/time 1656606469200 536879047]
+  [5643 :edit/user 5642 536879047]
+  [5643 :node/title "Jethro Lai" 536879047]
+  [5644 :block/open true 536879050]
+  [5644 :block/order 0 536879050]
+  [5644 :block/page 4472 536879051]
+  [5644 :block/parents 4472 536879051]
+  [5644 :block/string "" 536879050]
+  [5644 :block/uid "WuGYbMwJH" 536879050]
+  [5644 :create/time 1656606522517 536879050]
+  [5644 :create/user 5642 536879050]
+  [5644 :edit/time 1656606522517 536879050]
+  [5644 :edit/user 5642 536879050]]}

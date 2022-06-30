@@ -60850,13 +60850,27 @@
     }
   },
   {
-    "uid": "mirmzNSMx",
     "create-time": 1626205053289,
-    "edit-time": 1626205053291,
     "title": "socio-economic transformation",
     ":create/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
+    "children": [
+      {
+        "string": "",
+        "uid": "WuGYbMwJH",
+        "create-time": 1656606522517,
+        "edit-time": 1656606522517,
+        ":create/user": {
+          ":user/uid": "9Lq1d6LgheTvUMaJuABXOJKr7oD3"
+        },
+        ":edit/user": {
+          ":user/uid": "9Lq1d6LgheTvUMaJuABXOJKr7oD3"
+        }
+      }
+    ],
+    "uid": "mirmzNSMx",
+    "edit-time": 1626205053291,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
@@ -75073,6 +75087,18 @@
     "edit-time": 1656551843398,
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
+  },
+  {
+    "uid": "78ZSjJ9wi",
+    "create-time": 1656606469200,
+    "edit-time": 1656606469200,
+    "title": "Jethro Lai",
+    ":create/user": {
+      ":user/uid": "9Lq1d6LgheTvUMaJuABXOJKr7oD3"
+    },
+    ":edit/user": {
+      ":user/uid": "9Lq1d6LgheTvUMaJuABXOJKr7oD3"
     }
   }
 ]
