@@ -51721,6 +51721,7 @@
   [4494 :block/uid "kEQUjTzIV" 536877125]
   [4494 :create/time 1626206025342 536877125]
   [4494 :create/user 1 536877125]
+  [4494 :edit/seen-by 5642 536879053]
   [4494 :edit/time 1626206028527 536877127]
   [4494 :edit/user 1 536877125]
   [4495 :block/children 4500 536877204]
@@ -51770,6 +51771,7 @@
   [4498 :block/uid "zwlmDBpcq" 536877161]
   [4498 :create/time 1626206343924 536877161]
   [4498 :create/user 1 536877161]
+  [4498 :edit/seen-by 5642 536879053]
   [4498 :edit/time 1626207338940 536877347]
   [4498 :edit/user 1 536877161]
   [4499 :block/children 4506 536877280]
@@ -51967,6 +51969,7 @@
   [4514 :children/view-type :numbered 536877343]
   [4514 :create/time 1626207312577 536877338]
   [4514 :create/user 1 536877338]
+  [4514 :edit/seen-by 5642 536879053]
   [4514 :edit/time 1626207312577 536877338]
   [4514 :edit/user 1 536877338]
   [4515 :block/open true 536877348]
@@ -63475,8 +63478,8 @@
   [5618 :version/id "0.9.6" 536879022]
   [5618
    :version/nonce
-   "uuiddf58f6e7-1d1d-479a-aedb-f59785a34d1a"
-   536879052]
+   "uuid132ed55b-ff02-4bb7-9da9-066c2103e7f4"
+   536879053]
   [5619 :block/uid "06-08-2022" 536879023]
   [5619 :create/time 1654650703025 536879023]
   [5619 :create/user 1 536879023]
