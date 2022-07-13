@@ -75256,5 +75256,18 @@
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
+  },
+  {
+    "create-time": 1657675280123,
+    "title": "July 13th, 2022",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":log/id": 1657675280122,
+    "uid": "07-13-2022",
+    "edit-time": 1657675280123,
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
   }
 ]
