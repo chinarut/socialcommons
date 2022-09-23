@@ -76238,6 +76238,14 @@
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     },
     ":log/id": 1663897779488,
+    "children": [
+      {
+        "string": "",
+        "uid": "yX8RPOlzy",
+        "create-time": 1663952556432,
+        "edit-time": 1663952556432
+      }
+    ],
     "uid": "09-23-2022",
     "edit-time": 1663897779489,
     ":edit/user": {
