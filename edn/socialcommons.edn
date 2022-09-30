@@ -62904,6 +62904,7 @@
   [5528 :create/time 1653460854420 536878924]
   [5528 :create/user 1 536878924]
   [5528 :edit/seen-by 1 536878939]
+  [5528 :edit/seen-by 5744 536879157]
   [5528 :edit/time 1653460854421 536878924]
   [5528 :edit/user 1 536878924]
   [5528
@@ -63142,6 +63143,7 @@
   [5545 :block/uid "tFNCSB6VI" 536878935]
   [5545 :create/time 1644775884623 536878935]
   [5545 :create/user 1 536878935]
+  [5545 :edit/seen-by 5744 536879157]
   [5545 :edit/time 1644775898559 536878935]
   [5545 :edit/user 1 536878935]
   [5546 :block/children 5547 536878935]
@@ -63158,6 +63160,7 @@
   [5546 :block/uid "YRpayzNQJ" 536878935]
   [5546 :create/time 1643448751357 536878935]
   [5546 :create/user 1 536878935]
+  [5546 :edit/seen-by 5744 536879157]
   [5546 :edit/time 1643448830905 536878935]
   [5546 :edit/user 1 536878935]
   [5547 :block/open true 536878935]
@@ -63190,6 +63193,7 @@
   [5548 :block/uid "AwsqzpkQ5" 536878935]
   [5548 :create/time 1633728833869 536878935]
   [5548 :create/user 1 536878935]
+  [5548 :edit/seen-by 5744 536879157]
   [5548 :edit/time 1640134367330 536878935]
   [5548 :edit/user 1 536878935]
   [5549 :block/open true 536878935]
@@ -63382,6 +63386,7 @@
   [5604 :block/uid "VE5e25l4S" 536878989]
   [5604 :create/time 1653461509893 536878989]
   [5604 :create/user 1 536878989]
+  [5604 :edit/seen-by 5744 536879158]
   [5604 :edit/time 1653461511866 536878995]
   [5604 :edit/user 1 536878989]
   [5605 :block/uid "05-26-2022" 536879008]
@@ -64215,8 +64220,8 @@
   [5722 :version/id "0.9.7" 536879131]
   [5722
    :version/nonce
-   "uuidcff2d07f-ee12-4035-944f-243ccdb31f5a"
-   536879153]
+   "uuidca978c77-442c-46f5-9b4a-3664d6f49fe4"
+   536879158]
   [5723 :block/uid "09-12-2022" 536879132]
   [5723 :create/time 1662947734810 536879132]
   [5723 :create/user 1 536879132]
@@ -64365,4 +64370,21 @@
   [5743 :edit/time 1664416215930 536879153]
   [5743 :edit/user 1 536879153]
   [5743 :log/id 1664416215929 536879153]
-  [5743 :node/title "September 29th, 2022" 536879153]]}
+  [5743 :node/title "September 29th, 2022" 536879153]
+  [5744 :block/uid "fdskqr2Hp" 536879154]
+  [5744 :user/display-name "Milan Novakovic" 536879154]
+  [5744 :user/display-page 5745 536879154]
+  [5744 :user/uid "s378rv4wBMOMI4c1dvJaLLxU6W73" 536879154]
+  [5745 :block/uid "WCi7WAIVV" 536879154]
+  [5745 :create/time 1664496762832 536879155]
+  [5745 :create/user 5744 536879155]
+  [5745 :edit/time 1664496762832 536879155]
+  [5745 :edit/user 5744 536879155]
+  [5745 :node/title "Milan Novakovic" 536879155]
+  [5746 :block/uid "09-30-2022" 536879156]
+  [5746 :create/time 1664496762839 536879156]
+  [5746 :create/user 5744 536879156]
+  [5746 :edit/time 1664496762839 536879156]
+  [5746 :edit/user 5744 536879156]
+  [5746 :log/id 1664496762837 536879156]
+  [5746 :node/title "September 30th, 2022" 536879156]]}

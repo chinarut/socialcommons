@@ -76341,5 +76341,30 @@
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
+  },
+  {
+    "uid": "WCi7WAIVV",
+    "create-time": 1664496762832,
+    "edit-time": 1664496762832,
+    "title": "Milan Novakovic",
+    ":create/user": {
+      ":user/uid": "s378rv4wBMOMI4c1dvJaLLxU6W73"
+    },
+    ":edit/user": {
+      ":user/uid": "s378rv4wBMOMI4c1dvJaLLxU6W73"
+    }
+  },
+  {
+    "create-time": 1664496762839,
+    "title": "September 30th, 2022",
+    ":create/user": {
+      ":user/uid": "s378rv4wBMOMI4c1dvJaLLxU6W73"
+    },
+    ":log/id": 1664496762837,
+    "uid": "09-30-2022",
+    "edit-time": 1664496762839,
+    ":edit/user": {
+      ":user/uid": "s378rv4wBMOMI4c1dvJaLLxU6W73"
+    }
   }
 ]
