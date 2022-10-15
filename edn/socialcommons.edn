@@ -64220,8 +64220,8 @@
   [5722 :version/id "0.9.7" 536879131]
   [5722
    :version/nonce
-   "uuid6d02327b-913b-4dd9-b758-7e5faf138b5b"
-   536879173]
+   "uuid6fe1b545-54bb-4a6e-b0b5-30f70d898cc6"
+   536879175]
   [5723 :block/uid "09-12-2022" 536879132]
   [5723 :create/time 1662947734810 536879132]
   [5723 :create/user 1 536879132]
@@ -64485,4 +64485,20 @@
   [5760 :edit/time 1665712666208 536879172]
   [5760 :edit/user 1 536879172]
   [5760 :log/id 1665712666207 536879172]
-  [5760 :node/title "October 14th, 2022" 536879172]]}
+  [5760 :node/title "October 14th, 2022" 536879172]
+  [5761 :block/uid "wC4bLSb-u" 536879174]
+  [5761 :user/display-name "Wm. Jef Pratt" 536879174]
+  [5761 :user/display-page 5762 536879174]
+  [5761
+   :user/photo-url
+   "https://lh3.googleusercontent.com/a/ALm5wu07ayR53C6h7VMePfLlzjxcCCTusebFN2GAXNIc=s96-c"
+   536879174]
+  [5761 :user/uid "tcnKdpLslYWc7S39Er5QoBKO7GF2" 536879174]
+  [5762 :block/uid "F-vnOqukS" 536879174]
+  [5763 :block/uid "10-15-2022" 536879175]
+  [5763 :create/time 1665798505544 536879175]
+  [5763 :create/user 1 536879175]
+  [5763 :edit/time 1665798505545 536879175]
+  [5763 :edit/user 1 536879175]
+  [5763 :log/id 1665798505543 536879175]
+  [5763 :node/title "October 15th, 2022" 536879175]]}
