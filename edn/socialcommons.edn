@@ -64220,8 +64220,8 @@
   [5722 :version/id "0.9.7" 536879131]
   [5722
    :version/nonce
-   "uuid86f905b3-561e-4101-b63e-25236f1a3dce"
-   536879189]
+   "uuiddead35c0-0494-4e4c-bd89-c4ac26ef2bab"
+   536879190]
   [5723 :block/uid "09-12-2022" 536879132]
   [5723 :create/time 1662947734810 536879132]
   [5723 :create/user 1 536879132]
@@ -67074,4 +67074,13 @@
   [5946 :edit/time 1666576670893 536879189]
   [5946 :edit/user 1 536879189]
   [5946 :log/id 1666576670891 536879189]
-  [5946 :node/title "October 24th, 2022" 536879189]]}
+  [5946 :node/title "October 24th, 2022" 536879189]
+  [5947 :block/uid "u52YIfyi8" 536879190]
+  [5947 :user/display-name "Taewook Kang" 536879190]
+  [5947 :user/display-page 5948 536879190]
+  [5947
+   :user/photo-url
+   "https://lh3.googleusercontent.com/a-/AOh14GhjNuEsCuR5mBEXldyqWyQm1AY24Cx7lHr5jsTAlw=s96-c"
+   536879190]
+  [5947 :user/uid "luJOvMEqGjbKyyphyV6XZND0ftq2" 536879190]
+  [5948 :block/uid "aPjlfEqDJ" 536879190]]}
