@@ -64220,8 +64220,8 @@
   [5722 :version/id "0.9.7" 536879131]
   [5722
    :version/nonce
-   "uuidbe8ba30d-e65d-4bcc-90ad-f8ccbf4e8f44"
-   536879227]
+   "uuid85e3eac6-0f47-4cdd-938d-2f885da642a8"
+   536879230]
   [5723 :block/uid "09-12-2022" 536879132]
   [5723 :create/time 1662947734810 536879132]
   [5723 :create/user 1 536879132]
@@ -67335,4 +67335,18 @@
   [5984 :edit/time 1669684345919 536879227]
   [5984 :edit/user 1 536879227]
   [5984 :log/id 1669684345917 536879227]
-  [5984 :node/title "November 29th, 2022" 536879227]]}
+  [5984 :node/title "November 29th, 2022" 536879227]
+  [5985 :block/uid "dGdgV21He" 536879228]
+  [5985 :user/display-name "Lyman Briggs" 536879228]
+  [5985 :user/display-page 5986 536879230]
+  [5985
+   :user/photo-url
+   "https://lh4.googleusercontent.com/-2ssA5UWpDYc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnqeYEOqF1JLbvehCIHtjAw4r4IJw/photo.jpg"
+   536879228]
+  [5985 :user/uid "EkpGgbKWWdSdh86dyxJjZ96Rz1Z2" 536879228]
+  [5986 :block/uid "yCBQ603ly" 536879229]
+  [5986 :create/time 1669692629585 536879229]
+  [5986 :create/user 5985 536879229]
+  [5986 :edit/time 1669692629585 536879229]
+  [5986 :edit/user 5985 536879229]
+  [5986 :node/title "Lyman Briggs" 536879229]]}

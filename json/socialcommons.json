@@ -79514,5 +79514,17 @@
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
+  },
+  {
+    "uid": "yCBQ603ly",
+    "create-time": 1669692629585,
+    "edit-time": 1669692629585,
+    "title": "Lyman Briggs",
+    ":create/user": {
+      ":user/uid": "EkpGgbKWWdSdh86dyxJjZ96Rz1Z2"
+    },
+    ":edit/user": {
+      ":user/uid": "EkpGgbKWWdSdh86dyxJjZ96Rz1Z2"
+    }
   }
 ]
