@@ -81021,5 +81021,18 @@
     ":edit/user": {
       ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
     }
+  },
+  {
+    "create-time": 1679706217159,
+    "title": "March 25th, 2023",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":log/id": 1679706217158,
+    "uid": "03-25-2023",
+    "edit-time": 1679706217159,
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
   }
 ]
