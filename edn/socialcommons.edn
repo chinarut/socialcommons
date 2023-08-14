@@ -55941,6 +55941,10 @@
    :version/nonce
    "uuidd45ada24-a15e-44c4-83f0-3356db436730"
    536878402]
+  [4961
+   :version/upgraded-nonce
+   "uuidd45ada24-a15e-44c4-83f0-3356db436730"
+   536879491]
   [4962 :block/uid "02-13-2022" 536878368]
   [4962 :create/time 1644713337026 536878368]
   [4962 :create/user 1 536878368]
@@ -56174,6 +56178,10 @@
    :version/nonce
    "uuid9a2483da-a527-447c-8153-c35990426cbf"
    536878820]
+  [4996
+   :version/upgraded-nonce
+   "uuid9a2483da-a527-447c-8153-c35990426cbf"
+   536879491]
   [4997 :block/uid "03-13-2022" 536878404]
   [4997 :create/time 1647132684571 536878404]
   [4997 :create/user 1 536878404]
@@ -60600,6 +60608,10 @@
    :version/nonce
    "uuidf7fc59f0-f1db-4f2f-a587-9829fb19b1de"
    536879021]
+  [5341
+   :version/upgraded-nonce
+   "uuidf7fc59f0-f1db-4f2f-a587-9829fb19b1de"
+   536879491]
   [5342 :block/uid "05-25-2022" 536878822]
   [5342 :create/time 1653441434230 536878822]
   [5342 :create/user 1 536878822]
@@ -63485,6 +63497,10 @@
    :version/nonce
    "uuid19d20c40-9134-4828-88f5-406e1e4c3673"
    536879130]
+  [5618
+   :version/upgraded-nonce
+   "uuid19d20c40-9134-4828-88f5-406e1e4c3673"
+   536879491]
   [5619 :block/uid "06-08-2022" 536879023]
   [5619 :create/time 1654650703025 536879023]
   [5619 :create/user 1 536879023]
@@ -64222,6 +64238,10 @@
    :version/nonce
    "uuidf762daf5-714c-4aa6-a838-9103151e5d79"
    536879309]
+  [5722
+   :version/upgraded-nonce
+   "uuidf762daf5-714c-4aa6-a838-9103151e5d79"
+   536879491]
   [5723 :block/uid "09-12-2022" 536879132]
   [5723 :create/time 1662947734810 536879132]
   [5723 :create/user 1 536879132]
@@ -67908,6 +67928,10 @@
    :version/nonce
    "uuid880dc56e-cd23-4925-9596-79d01c48a61e"
    536879353]
+  [6066
+   :version/upgraded-nonce
+   "uuid880dc56e-cd23-4925-9596-79d01c48a61e"
+   536879491]
   [6067 :block/uid "02-17-2023" 536879311]
   [6067 :create/time 1676596429631 536879311]
   [6067 :create/user 1 536879311]
@@ -68221,6 +68245,10 @@
    :version/nonce
    "uuid776bb89b-72c2-4876-9188-ad38ebb5b8c2"
    536879363]
+  [6111
+   :version/upgraded-nonce
+   "uuid776bb89b-72c2-4876-9188-ad38ebb5b8c2"
+   536879491]
   [6112 :block/uid "04-02-2023" 536879355]
   [6112 :create/time 1680397626591 536879355]
   [6112 :create/user 1 536879355]
@@ -68296,6 +68324,10 @@
    :version/nonce
    "uuid9c4182ee-02e2-4de9-8cdf-924a5c0774b6"
    536879393]
+  [6122
+   :version/upgraded-nonce
+   "uuid9c4182ee-02e2-4de9-8cdf-924a5c0774b6"
+   536879491]
   [6123 :block/uid "04-12-2023" 536879365]
   [6123 :create/time 1681261412687 536879365]
   [6123 :create/user 1 536879365]
@@ -68511,6 +68543,10 @@
    :version/nonce
    "uuidf9633977-74e8-4665-b294-760301f5c15e"
    536879427]
+  [6153
+   :version/upgraded-nonce
+   "uuidf9633977-74e8-4665-b294-760301f5c15e"
+   536879491]
   [6154 :block/uid "05-12-2023" 536879395]
   [6154 :create/time 1683853475710 536879395]
   [6154 :create/user 1 536879395]
@@ -68754,6 +68790,10 @@
    :version/nonce
    "uuide9429393-68ab-4c83-ac4e-fe9f9060dc80"
    536879429]
+  [6188
+   :version/upgraded-nonce
+   "uuide9429393-68ab-4c83-ac4e-fe9f9060dc80"
+   536879491]
   [6189 :block/uid "06-15-2023" 536879429]
   [6189 :create/time 1686791462340 536879429]
   [6189 :create/user 1 536879429]
@@ -68773,6 +68813,10 @@
    :version/nonce
    "uuid924edad3-a068-463b-80bd-73ab89f6f4c7"
    536879490]
+  [6191
+   :version/upgraded-nonce
+   "uuid924edad3-a068-463b-80bd-73ab89f6f4c7"
+   536879491]
   [6192 :block/uid "06-17-2023" 536879431]
   [6192 :create/time 1686964040363 536879431]
   [6192 :create/user 1 536879431]
@@ -69185,4 +69229,9 @@
   [6250 :edit/time 1691974533619 536879490]
   [6250 :edit/user 1 536879490]
   [6250 :log/id 1691974533617 536879490]
-  [6250 :node/title "August 14th, 2023" 536879490]]}
+  [6250 :node/title "August 14th, 2023" 536879490]
+  [6251 :version/id "0.10.2" 536879491]
+  [6251
+   :version/nonce
+   "uuid9450448c-afac-46bb-9215-bcede39cf746" 
+   536879491]]}
