@@ -56,6 +56,7 @@
   :block/parents
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
   :graph/name {:db/unique :db.unique/identity},
+  :append-api/fb-push-key {:db/unique :db.unique/value},
   :block/page
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
   :version/id {:db/unique :db.unique/identity}},
