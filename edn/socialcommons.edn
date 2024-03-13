@@ -1,6 +1,8 @@
 #datascript/DB {:schema
  {:create/user
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
+  :diagram.edge/target
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
   :plugin/id {:db/unique :db.unique/identity},
   :node/subpages
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
@@ -11,12 +13,20 @@
   :window/id {:db/unique :db.unique/identity},
   :attrs/lookup
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
+  :diagram.node/block
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
+  :diagram.node/parent-node
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
   :node/windows
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
   :d/v
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
   :block/clone
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
+  :diagram/nodes
+  {:db/valueType :db.type/ref,
+   :db/cardinality :db.cardinality/many,
+   :db/isComponent true},
   :node/sections
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
   :harc/v
@@ -39,11 +49,17 @@
   :block/uid {:db/unique :db.unique/identity},
   :d/e
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
+  :diagram/edges
+  {:db/valueType :db.type/ref,
+   :db/cardinality :db.cardinality/many,
+   :db/isComponent true},
   :d/a
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
   :user/uid {:db/unique :db.unique/identity},
   :node/links
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
+  :diagram.edge/source
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
   :link/to
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
   :user/email {:db/unique :db.unique/identity},
