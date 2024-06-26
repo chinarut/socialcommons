@@ -87000,5 +87000,18 @@
     ":edit/user": {
       ":user/uid": "tcLVYzrk4nYpTmgUjbi4WicVcuY2"
     }
+  },
+  {
+    "create-time": 1719363842880,
+    "title": "June 26th, 2024",
+    ":create/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    },
+    ":log/id": 1719363842879,
+    "uid": "06-26-2024",
+    "edit-time": 1719363842880,
+    ":edit/user": {
+      ":user/uid": "SqzDwyhdnDbh073KhswfNyOzgVm1"
+    }
   }
 ]
